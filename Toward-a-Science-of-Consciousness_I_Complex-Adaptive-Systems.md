@@ -6,7 +6,7 @@
 > 
 > Following an overview, fifty-five chapters are divided into ten sections: philosophy, cognitive science, medicine/pathology, neurology, neural networks, subneural biology, quantum theory, non-locality in space and time, hierarchical organization, and phenomenology.
 > 
-> In addition to the editors, who are, respectively, an anesthesiologist, a psychologist, and an applied mathematician, contributors include such luminaries as David Chalmers, Michael Conrad, Avshalom Elitzur, Owen Flanagan, David Galin, John Kihlstrom, Christof Koch, Benjamin Libet, Roger Penrose, Karl Pribram, Gary Schwartz, Petra Stoerig, John Taylor, Andrew Weil, Fred Wolf, and many others. - [Toward a Science of Consciousness](https://www.amazon.com/Toward-Science-Consciousness-Discussions-Adaptive/dp/0262527650/?&tag=cognitivetech-20)
+> In addition to the editors, who are, respectively, an anesthesiologist, a psychologist, and an applied mathematician, contributors include such luminaries as David Chalmers, Michael Conrad, Avshalom Elitzur, Owen Flanagan, David Galin, John Kihlstrom, Christof Koch, Benjamin Libet, Roger Penrose, Karl Pribram, Gary Schwartz, Petra Stoerig, John Taylor, Andrew Weil, Fred Wolf, and many others. - [Toward a Science of Consciousness (Amazon)](https://www.amazon.com/Toward-Science-Consciousness-Discussions-Adaptive/dp/0262527650/?&tag=cognitivetech-20)
 
 ## Contents
 - [Summary](#summary)
