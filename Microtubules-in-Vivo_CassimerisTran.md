@@ -19,24 +19,24 @@
   - High-resolution approaches like electron microscopy tomography and single molecule analyses
 
 ## Contents
-- [CHAPTER 1: Determination of Microtubule Dynamic Instability in Living Cells](#chapter-1-determination-of-microtubule-dynamic-instability-in-living-cells)
+- [Chapter 1: Determination of Microtubule Dynamic Instability in Living Cells](#chapter-1-determination-of-microtubule-dynamic-instability-in-living-cells)
 - [Chapter 2: Analysis of Microtubule Polymerization Dynamics in Live Cells](#chapter-2-analysis-of-microtubule-polymerization-dynamics-in-live-cells)
 - [Chapter 3: The Use of Fluorescence Redistribution After Photobleaching for Analysis of Cellular Microtubule Dynamics](#chapter-3-the-use-of-fluorescence-redistribution-after-photobleaching-for-analysis-of-cellular-microtubule-dynamics)
 - [Chapter 4: Kinetochore Microtubule Dynamics and Attachment Stability](#chapter-4-kinetochore-microtubule-dynamics-and-attachment-stability)
-- [CHAPTER 5: Photoactivatable Green Fluorescent Protein Tubulin](#chapter-5-photoactivatable-green-fluorescent-protein-tubulin)
-- [CHAPTER 6: Microtubule Dynamics at the Cell Cortex Probed by TIRF Microscopy](#chapter-6-microtubule-dynamics-at-the-cell-cortex-probed-by-tirf-microscopy)
-- [CHAPTER 7: Microtubule Dynamics in Dendritic Spines](#chapter-7-microtubule-dynamics-in-dendritic-spines)
+- [Chapter 5: Photoactivatable Green Fluorescent Protein Tubulin](#chapter-5-photoactivatable-green-fluorescent-protein-tubulin)
+- [Chapter 6: Microtubule Dynamics at the Cell Cortex Probed by TIRF Microscopy](#chapter-6-microtubule-dynamics-at-the-cell-cortex-probed-by-tirf-microscopy)
+- [Chapter 7: Microtubule Dynamics in Dendritic Spines](#chapter-7-microtubule-dynamics-in-dendritic-spines)
 - [Chapter 8: Protein Micropatterns using Deep UVs](#chapter-8-protein-micropatterns-using-deep-uvs)
 - [Chapter 9: New and Old Reagents for Fluorescent Protein Tagging of Microtubules in Fission Yeast: Experimental and Critical Evaluation](#chapter-9-new-and-old-reagents-for-fluorescent-protein-tagging-of-microtubules-in-fission-yeast-experimental-and-critical-evaluation)
 - [Chapter 10: Optical Trapping and Laser Ablation in Fission Yeast](#chapter-10-optical-trapping-and-laser-ablation-in-fission-yeast)
 - [Chapter 11: Microfluidic Temperature Control Device for Studying Microtubule Dynamics in Fission Yeast](#chapter-11-microfluidic-temperature-control-device-for-studying-microtubule-dynamics-in-fission-yeast)
-- [CHAPTER 12: Microtubule-Dependent Spatial Organization of Mitochondria in Fission Yeast](#chapter-12-Microtubule-Dependent-spatial-organization-of-mitochondria-in-fission-yeast)
+- [Chapter 12: Microtubule-Dependent Spatial Organization of Mitochondria in Fission Yeast](#chapter-12-Microtubule-Dependent-spatial-organization-of-mitochondria-in-fission-yeast)
 - [Chapter 13: Microscopy Methods for the Study of Centriole Biogenesis and Function in Drosophila](#chapter-13-microscopy-methods-for-the-study-of-centriole-biogenesis-and-function-in-drosophila)
 - [Chapter 14: Drosophila S2 Cells as a Model System to Investigate Mitotic Spindle Dynamics, Architecture, and Function\_243](#chapter-14-drosophila-s2-cells-as-a-model-system-to-investigate-mitotic-spindle-dynamics-architecture-and-function_243)
-- [CHAPTER 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells](#chapter-15-assessment-of-mitotic-spindle-phenotypes-in-drosophila-s2-cells)
+- [Chapter 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells](#chapter-15-assessment-of-mitotic-spindle-phenotypes-in-drosophila-s2-cells)
 
 ## Summary
-### CHAPTER 1: Determination of Microtubule Dynamic Instability in Living Cells
+### Chapter 1: Determination of Microtubule Dynamic Instability in Living Cells
 
 **I. Introduction**
 - Microtubules are dynamic filamentous polymers assembled from tubulin, a heterodimer composed of an a and b subunit
@@ -1010,7 +1010,7 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Cassimeris, L., Rieder, C. L., Rupp, G., & Salmon, E. D. (1990). Stability of microtubule attachment to metaphase kinetochores in PtK1 cells. J. Cell Sci., 96(3), 915922.
 - Cimini, D. (2008). Merotelic kinetochore orientation, aneuploidy, and cancer. Biochem. Biophys. Acta, 1786(3), 13151334.
 
-### CHAPTER 5: Photoactivatable Green Fluorescent Protein Tubulin
+### Chapter 5: Photoactivatable Green Fluorescent Protein Tubulin
 
 **I. Introduction**
 - Rationale: Understanding cellular and molecular behaviors through live imaging
@@ -1106,7 +1106,7 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Suitable for diverse cell types and stages of the cell cycle
 - Experimentally straightforward with standard laboratory equipment.
 
-### CHAPTER 6: Microtubule Dynamics at the Cell Cortex Probed by TIRF Microscopy
+### Chapter 6: Microtubule Dynamics at the Cell Cortex Probed by TIRF Microscopy
 
 **I. Introduction**
 - Discusses the application of TIRF microscopy in studying cortical microtubules
@@ -1303,7 +1303,7 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Akhmanova, A., Stehbens, S.J., and Yap, A.S. (2009). Touch, grasp, deliver and control: Functional cross talk between microtubules and cell adhesions. Traffic 10, 2682-274.
 - Akhmanova, A., and Steinmetz, M.O. (2008). Tracking the ends: A dynamic protein network controls the fate of microtubule tips. Nat Rev Mol Cell Biol 9, 309-322.
 
-### CHAPTER 7: Microtubule Dynamics in Dendritic Spines
+### Chapter 7: Microtubule Dynamics in Dendritic Spines
 
 - **Introduction:** Neurons are complex cells with various processes including axon and dendrites. Signal transmission occurs at synapses between neurons. Understanding neuronal structure and function requires studying microtubules, which play essential roles in neuronal differentiation and mature functioning. Primary culture techniques allow for the development of specialized subdomains such as growth cones, axon initial segments, dendritic spines, and inhibitory and excitatory synapses.
 - **Methods:** This chapter provides methods for live imaging of dynamic microtubules in mature hippocampal neurons using total internal reflection fluorescence microscopy (TIRFM) and spinning disk confocal microscopy. It covers protocols for culturing and transfecting mature hippocampal neurons, visualizing microtubules and microtubule plus-end binding proteins.
@@ -2409,7 +2409,7 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 5. Unger, M.A., Chou, H.P., Thorsen, T., Scherer, A., and Quake, S.R. (2000) Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 288, 1131-1136.
 6. Velve-Casquillas, G., Le Berre, M., Piel, M., Tran, P.T. (2010) Microfluidic tools for cell biological research. Nano Today 5, 847.
 
-### CHAPTER 12: Microtubule-Dependent Spatial Organization of Mitochondria in Fission Yeast
+### Chapter 12: Microtubule-Dependent Spatial Organization of Mitochondria in Fission Yeast
 
 **I. Introduction:**
 - Cytoskeleton controls mitochondrial distribution, dynamics, and inheritance in eukaryotic cells
@@ -2976,7 +2976,7 @@ C) **Immunoelectron Microscopy of Testes:**
 - Sara Moutinho-Pereira, Irina Matos: Postdoctoral and doctoral fellowships from FCT
 - Laboratory work supported by grants from FCT, Gulbenkian Programme, and Human Frontier Science Program.
 
-### CHAPTER 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells
+### Chapter 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells
 
 **I. Introduction**
 - Discussing identification of bona fide mitotic phenotypes associated with RNAi in Drosophila S2 cells
