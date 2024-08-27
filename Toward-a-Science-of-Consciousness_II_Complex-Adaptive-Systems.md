@@ -1,43 +1,10 @@
 # Toward a Science of Consciousness II: The Second Tucson Discussions and Debates
 
-**Overview of Consciousness Studies**
-- Emerging field with interdisciplinary contributions
-- Sparked by William James' work and recent conferences
-- Explores the relationship between neural activity and conscious experience
-
-**Key Questions and Debates**
-- Can neural activity fully explain consciousness?
-- Is consciousness a fundamental property of the universe?
-- Disagreement on whether current scientific paradigms can explain consciousness
-
-**Conference Highlights**
-- Growing interest: from 350 to 2200 attendees
-- Five main categories: Philosophy, Cognitive Science, Neuroscience, Mathematics/Physics, Phenomenology/Culture
-- Plenary sessions on various topics including the "Hard Problem" of consciousness
-
-**Neural Correlates of Consciousness**
-- Discussions on brain areas and mechanisms potentially linked to conscious experience
-- Debates on global vs. specific neural correlates
-
-**Machine Consciousness and AI**
-- Skepticism about current AI models achieving consciousness
-- Concerns about AI's impact on human self-perception and culture
-
-**Language and Interspecies Communication**
-- Evidence of language acquisition and self-awareness in non-human animals
-- Debates on the role of language in consciousness and concept formation
-
-**Quantum Theory and Consciousness**
-- Proposed connections between quantum processes and consciousness
-- Skepticism about the relevance of quantum theory to consciousness
-
-**Phenomenology and Experiential Approaches**
-- Emphasis on studying subjective experiences
-- Discussion of meditation and pure consciousness events
-
-**Parapsychology and Consciousness**
-- Debates on the validity of psi effects and psychokinesis experiments
-- Potential links to quantum effects
+> This book's fifteen sections demonstrate the broad range of fields now focusing on consciousness. The sections include philosophy, cognitive science, medicine, neurobiology, neural correlates, vision, sleep and dreaming, anesthesia, molecular biology and evolution, quantum theory,spacetime, hierarchical organization, and experiential approaches.
+> 
+> What is consciousness? Recent attempts to answer this question have motivated two interdisciplinary conferences sponsored by the University of Arizona in Tucson. The first volume of Toward a Science of Consciousness is now considered a resource book for the emerging field. This volume presents a selection of invited papers from the second conference, held in April 1996. The book's fifteen sections demonstrate the broad range of fields now focusing on consciousness. The sections include philosophy, cognitive science, medicine, neurobiology, neural correlates, vision, sleep and dreaming, anesthesia, molecular biology and evolution, quantum theory, spacetime, hierarchial organization, and experiential approaches. Each section is preceded by an overview and commentary.
+> 
+> The participants include Bernard Baars, Ned Block, David J. Chalmers, Patricia S. Churchland, Daniel C. Dennett, Jeffrey Gray, Daniel Hillis, J. Allan Hobson, Stephen LaBerge, Jaron Lanier, Daniel S. Levine, Nikos K. Logothetis, Gary E. Schwartz, John R. Searle, Roger N. Shepard, Henry P. Stapp, Petra Stoerig, Charles T. Tart, John Taylor, Francisco J. Varela, Max Velmans, Roger Walsh, and Lawrence Weiskantz. - [Toward a Science of Consciousness II - Amazon](https://www.amazon.com/Toward-Science-Consciousness-II-Discussions/dp/0262082624/?&tag=cognitivetech-20)
 
 ## Contents
 - [Summary](#summary)
