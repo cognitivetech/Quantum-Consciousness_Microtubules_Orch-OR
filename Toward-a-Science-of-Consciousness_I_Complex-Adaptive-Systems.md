@@ -1,29 +1,12 @@
 # Toward a Science of Consciousness: The First Tucson Discussions and Debates (Complex Adaptive Systems)
 
-**Evolution of Consciousness in Science**
-- Once central in psychology, then dismissed by behaviorists
-- Resurgence with cognitive science and neuroscience (1960s-70s)
-- Now a key scientific goal across multiple disciplines
-
-**1994 Tucson Conference**
-- Landmark event with 300+ diverse participants
-- Highlighted interdisciplinary nature of consciousness studies
-
-**Key Unresolved Questions**
-1. Ontological basis of consciousness
-2. Explaining subjective experiences (qualia)
-3. Neural correlates of consciousness
-4. Relationship to cognitive functions and time perception
-
-**Quantum Theory and Consciousness**
-- Exploring potential links between quantum effects and mental processes
-
-**Tucson Conference Proceedings**
-- Covered wide range of topics from philosophy to neuroscience
-- Emphasized experimental investigations over speculative theories
-- Highlighted progress and remaining challenges in consciousness research
-
-This field continues to evolve, combining diverse perspectives to unravel the mystery of consciousness.
+> Scientists and philosophers are focusing more intensely than ever on the nature of our human experience, resulting in a newly coalescing field of Consciousness Studies that has become a worldwide and highly interdisciplinary phenomenon.
+> 
+> Toward a Science of Consciousness marks the first major gathering -- a landmark event -- devoted entirely to unlocking the mysteries of consciousness. It explores the whole spectrum of approaches from philosophy of mind and dream research, to neuropsychology, pharmacology, and molecular dynamics, to neural networks, phenomenological accounts, and even the physics of reality. The aim is to lay a sound scientific foundation for future research while also reaching consensus on many scattered areas of inquiry.
+> 
+> Following an overview, fifty-five chapters are divided into ten sections: philosophy, cognitive science, medicine/pathology, neurology, neural networks, subneural biology, quantum theory, non-locality in space and time, hierarchical organization, and phenomenology.
+> 
+> In addition to the editors, who are, respectively, an anesthesiologist, a psychologist, and an applied mathematician, contributors include such luminaries as David Chalmers, Michael Conrad, Avshalom Elitzur, Owen Flanagan, David Galin, John Kihlstrom, Christof Koch, Benjamin Libet, Roger Penrose, Karl Pribram, Gary Schwartz, Petra Stoerig, John Taylor, Andrew Weil, Fred Wolf, and many others. - [Toward a Science of Consciousness](https://www.amazon.com/Toward-Science-Consciousness-Discussions-Adaptive/dp/0262527650/?&tag=cognitivetech-20)
 
 ## Contents
 - [Summary](#summary)
