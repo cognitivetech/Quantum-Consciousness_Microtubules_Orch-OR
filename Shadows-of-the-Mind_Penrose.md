@@ -1,18 +1,11 @@
 # Shadows of the Mind -- Roger Penrose -- 2020 -- OXFORD UNIVERSITY PRESS
 
-The main idea of "Shadows of the Mind" by Roger Penrose appears to be an exploration of consciousness and human understanding, arguing that these phenomena cannot be fully explained by computational models alone. The book presents two key strands:
+> A New York Times bestseller when it appeared in 1989, Roger Penrose's The Emperor's New Mind was universally hailed as a marvelous survey of modern physics as well as a brilliant reflection on the human mind, offering a new perspective on the scientific landscape and a visionary glimpse of the possible future of science. Now, in Shadows of the Mind, Penrose offers another exhilarating look at modern science as he mounts an even more powerful attack on artificial intelligence. But perhaps more important, in this volume he points the way to a new science, one that may eventually explain the physical basis of the human mind.
+> 
+> Penrose contends that some aspects of the human mind lie beyond computation. This is not a religious argument (that the mind is something other than physical) nor is it based on the brain's vast complexity (the weather is immensely complex, says Penrose, but it is still a computable thing, at least in theory). Instead, he provides powerful arguments to support his conclusion that there is something in the conscious activity of the brain that transcends computation--and will find no explanation in terms of present-day science. To illuminate what he believes this "something" might be, and to suggest where a new physics must proceed so that we may understand it, Penrose cuts a wide swathe through modern science, providing penetrating looks at everything from Turing machines (computers programmed from artificial intelligence) to the implications of Godel's theorem maintaining that conscious thinking must indeed involve ingredients that cannot adequately be stimulated by mere computation. Of particular interest is Penrose's extensive examination of quantum mechanics, which introduces some new ideas that differ markedly from those advanced in The Emperor's New Mind, especially concerning the mysterious interface where classical and quantum physics meet. But perhaps the most interesting wrinkle in Shadows of the Mind is Penrose's excursion into microbiology, where he examines cytoskeletons and microtubules, minute substructures lying deep within the brain's neurons. (He argues that microtubules--not neurons--may indeed be the basic units of the brain, which, if nothing else, would dramatically increase the brain's computational power.) Furthermore, he contends that in consciousness some kind of global quantum state must take place across large areas of the brain, and that it within microtubules that these collective quantum effects are most likely to reside.
+> 
+> For physics to accommodate something that is as foreign to our current physical picture as is the phenomenon of consciousness, we must expect a profound change--one that alters the very underpinnings of our philosophical viewpoint as to the nature of reality. Shadows of the Mind provides an illuminating look at where these profound changes may take place and what our future understanding of the world may be. - [Shadows of the Mind (Amazon)](https://www.amazon.com/Shadows-Mind-Missing-Science-Consciousness/dp/0195106466/?&tag=cognitivetech-20)
 
-1. A negative argument against the view that consciousness and mental processes can be fully understood through computational models.
-
-2. A positive search for scientific explanations of how the brain might utilize non-computational physical processes to achieve consciousness and understanding.
-
-The book is divided into two parts:
-
-1. Part I provides a detailed discussion supporting the thesis that human understanding involves processes that go beyond mere computation, using Gödel's theorem as a central argument.
-
-2. Part II explores physics and biology, attempting to understand how non-computational actions might arise within scientifically comprehensible physical laws, with a focus on quantum mechanics.
-
-Penrose argues for the need for a fundamental change in our current quantum-mechanical worldview to explain consciousness and understanding. The book aims to present a more rigorous case than his previous work, "The Emperor's New Mind," while still being accessible to readers without prior knowledge of the subject.
 
 ## Contents
 - [Preface](#preface)
