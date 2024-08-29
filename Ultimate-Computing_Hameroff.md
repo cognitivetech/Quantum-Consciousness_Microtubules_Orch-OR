@@ -16,6 +16,7 @@ The possibility of direct interfacing between biological and technological infor
 - [11 The Future of Consciousness](#11-the-future-of-consciousness)
 
 ## Summary
+
 ### 1 Toward Ultimate Computing
 
 **Mind/Tech Merger in the Nanoscale**
@@ -37,6 +38,8 @@ The possibility of direct interfacing between biological and technological infor
 - Early calculators like Pascal's and Leibniz's used binary numbers and sequential mathematical steps
 - Boolean algebra, developed by George Boole in the early 1800s, is essential for designing computer circuits
 - Charles Babbage and Ada Lovelace designed an "analytical engine" using punched cards in the mid-1800s
+
+---
 
 #### Evolution of Computers from Serial Processing to Cellular Automata.
 
@@ -74,6 +77,8 @@ The possibility of direct interfacing between biological and technological infor
 - Brain/mind can perform cognitive functions like pattern recognition and making assumptions through subcognitive processes
 - Collective effect of simpler processes is consciousness.
 
+---
+
 #### Collective Phenomena in Neurons and Cytoskeleton Networks
 
 **Collective Intelligence**
@@ -101,6 +106,8 @@ The possibility of direct interfacing between biological and technological infor
 - Overlooked by AI researchers as a potential contributor to collective effects
 - Cytoskeleton is a parallel connected network within cells that can utilize its own collective phenomena to organize and process information
 - Properties of networks, such as parallelism, connectionism, and coherent cooperativity, allow for collective effects among both neurons and cytoskeletal subunits.
+
+---
 
 #### Parallel Computing: A Comparison Between Brain and Computer Architecture
 
@@ -132,6 +139,8 @@ The possibility of direct interfacing between biological and technological infor
 - Carl Hewitt described open systems in computing that can provide continuous input/output and adapt to new situations.
 - Brain neurons are interconnected by synaptic connections, which could serve as "arbiters" in parallel processing.
 
+---
+
 #### Neural Networks and Cytoskeleton: Parallel Information Processing in Brain and Computers
 
 **Connectionism and Parallel Systems in Information Processing**
@@ -161,6 +170,8 @@ The possibility of direct interfacing between biological and technological infor
 - Synaptic plasticity, cornerstone for brain learning and memory
   - Cytoskeleton responsible for all cytoplasmic rearrangements including formation and regulation of dendritic spines and synapses.
 
+---
+
 #### Coherence and Long-Range Organizations in Biomolecular Structures
 
 **Collective Effects and Coherence**
@@ -180,6 +191,8 @@ The possibility of direct interfacing between biological and technological infor
 - **Proteins and their components**: oscillate among specific conformational states, ranging from femtoseconds to minutes
 - **Fröhlich's cooperativity model**: biochemical energy supplied to biomolecular assemblies can result in coherent elastic vibrations in the sub-nanosecond time range
 - **Davydov's soliton model**: almost lossless energy transfer in biomolecular chains or lattices as wave-like propagations of coupled conformational and electronic disturbances
+
+---
 
 #### Molecular Computing: Exploring Protein-Based Non-Silicon Alternatives for Beyond Silicon Computation
 
@@ -221,6 +234,8 @@ The possibility of direct interfacing between biological and technological infor
 - Molecular electronics may contribute to digital computer design with molecular conformational changes, solitons, charge flow and other approaches; redundancy and parallelism may be necessary
 - Biochemical systems inspire technological imitations for the purpose of computer design, with microtubules offering the most possibilities (Yates)
 
+---
+
 #### Dynamic Chemical Patterns as Biological Information Representation in Reaction-Diffusion Systems
 
 **Dynamic Pattern Representation**
@@ -246,6 +261,8 @@ The possibility of direct interfacing between biological and technological infor
 - The origin of the waves is defined as a phase singularity whose immediate neighborhood is a rotating pattern of chemical activities, the pivot of the rotating spiral wave from which it radiates.
 - The ostensibly flat spirals are actually cross sections of three dimensional waves shaped like scrolls that emerge from a filament of singularity in 3 dimensions.
 
+---
+
 #### Exploration of Holographic and Macron Patterns in Biological Systems for Information Storage and Consciousness
 
 **Ultimate Computing and Holographic Memory**
@@ -267,6 +284,8 @@ The possibility of direct interfacing between biological and technological infor
 - Examples include Chladni nodal lines on vibrating plates, Benard cells in isotropic liquids, and smoke rings
 - Abraham proposes thoughts are "macrons of the brain bioplasma", with spatial patterns in EEG or within nerve cells
 
+---
+
 #### Cellular Automata: Simple Rules Leading to Complex Patterns in Computation
 
 **Cellular Automata and Their Complex Behavior:**
@@ -285,6 +304,8 @@ The possibility of direct interfacing between biological and technological infor
 * **Historical Significance**: Studied by Von Neumann as a potential computing machine; several universally constructing automata have been devised in simulation.
 * **Relation to Lattice Models**: Similar to lattice models like Ising generators, which evolve to stable patterns with opposing and similar spin states aligned horizontally and diagonally (Figure 1.11).
 
+---
+
 #### Exploring Cellular Automata: Simulation and Potential in Physics, Computer Science, and Biology
 
 **Game of Life:**
@@ -301,6 +322,8 @@ The possibility of direct interfacing between biological and technological infor
 - Sensitive to initial conditions with marked changes under perturbations
 - Could represent the universe as a cellular automaton according to Edward Fredkin
 - Cellular automata may be involved in biological information processing and future computing.
+
+---
 
 ### 2 Brain Mind Computer
 
@@ -327,6 +350,8 @@ The possibility of direct interfacing between biological and technological infor
 - It appears to be ideally suited for information processing and is involved in virtually all cell functions
 - Appreciation of the "cytoskeletal dimension" may be the key to understanding the relationship between brain/mind/computer
 
+---
+
 #### Consciousness: History and Physics Connections - Understanding Mind through Quantum Theory and Molecular Biology.
 
 **Historical Perspectives on Consciousness**
@@ -344,6 +369,8 @@ The possibility of direct interfacing between biological and technological infor
   - Life's basic processes equated with those of atoms and subatomic particles
   - Information represented as dynamic electron patterns within computers
   - Questions remain about how, where, and at what level of organization consciousness relates to fundamental particle activities.
+
+---
 
 #### Evolution of Consciousness: From Protoplasm to Learning and Beyond
 
@@ -371,6 +398,8 @@ The possibility of direct interfacing between biological and technological infor
 - Materialistic view suggesting consciousness is an epiphenomenon, a helpless spectator of biological activities
 - Rejected by William James, who found inconceivable the notion that consciousness should have no role in attending to business
 
+---
+
 #### Emergent Evolution and Behaviorism: New Perspectives on Consciousness
 
 **Emergent Evolution Theory**
@@ -389,6 +418,8 @@ The possibility of direct interfacing between biological and technological infor
 - Behaviorism lent itself to experimentation, increasing credibility for neuroscience research
 - Behaviorist laboratories flourished in universities, dominating the field for a time
 - However, it was more of a method than a theory and ignored consciousness.
+
+---
 
 #### Neural Net Theory and the Reticular Activating System in Brain Function
 
@@ -419,6 +450,8 @@ The possibility of direct interfacing between biological and technological infor
 - Based on hypothetical neurons with huge assumptions about neural function
 - In their most elegant form, recent models incorporate axonal impulses, synaptic delays, dendritic analog functions, and spatial coherence
 - Suggestions for consciousness: "temporally stable cooperative coupling" among sets of neurons forming thoughts and images. Changeux defines it as a global regulatory system dealing with mental objects and computation using those objects. Neural net models and associative memories have significantly advanced understanding of collective neural capabilities.
+
+---
 
 #### Holographic Models of Consciousness and Brain Function
 
@@ -451,6 +484,8 @@ The possibility of direct interfacing between biological and technological infor
 - The reality of the universe may be mathematically similar to a hologram (the "implicate" domain), dealing with frequency domain and fluctuating waveform properties as opposed to Euclidean-Newtonian impressions
 - Experiences reported by mystics, schizophrenics, and hallucinogenic drug experimenters describe loss of spatial and temporal boundaries and a holographic ("fractal") characteristic of the whole being represented in every part
 
+---
+
 #### Exploration of Cytoskeletal Basis for Consciousness and Information Processing in Neurons
 
 **Cytoskeletal Basis of Consciousness**
@@ -476,6 +511,8 @@ The possibility of direct interfacing between biological and technological infor
 - Ingredients for synapses are synthesized in cell bodies and transported to synapses by axoplasmic transport
 - Nanoscalar activities in cytoskeletal lattices may offer a bridge between consciousness and emerging nanotechnology
 
+---
+
 ### 3 Origin and Evolution of Life
 
 **Origins and Evolution of Life**
@@ -495,6 +532,8 @@ The possibility of direct interfacing between biological and technological infor
 - Primordial soup or clay crystals: Two main theories on life's origin with different implications for understanding the origins of genetic information in living organisms.
 - Thermal vents, intrastellar dust, comets, meteorites, and space as potential sites where organic precursors to life may have been generated or transported to Earth.
 - The possibility of alternative carriers of genetic information beyond DNA and RNA.
+
+---
 
 #### The Evolution of Life from Chemical Compounds in the Primordial Soup
 
@@ -517,6 +556,8 @@ The possibility of direct interfacing between biological and technological infor
 8. **Scenario for the Development of Life on Earth:** RNA formation led to double-stranded DNA, prokaryotic bacterial cell with membranes and regulatory voltages.
 
 **Key Players:** Cyril Ponnamperuma, Fox and Dose, Leslie Orgel, Manfred Eigen, Lynn Margulis, Dorion Sagan.
+
+---
 
 #### Symbiosis Theory: Ancestors of Modern Cells Evolved Through Symbiotic Partnerships
 
@@ -549,6 +590,8 @@ The possibility of direct interfacing between biological and technological infor
 - Question about the pedigree of basal bodies and centrioles
 - Cytoplasmic information transfer mechanisms may be independent of genetic involvement
 - Dynamic cytoskeletal proteins may manifest biological intelligence
+
+---
 
 #### Evolution and Functions of Centrioles as Cellular Organizers
 
@@ -584,6 +627,8 @@ The possibility of direct interfacing between biological and technological infor
   - Propulsion for single-celled organisms
   - Sensory functions in humans, transducing mechanical sound into nervous system.
 
+---
+
 #### Biotech Evolution: Merging of Technology with Biology for Survival and Evolution
 
 **Biotech Evolution: The Next Symbiosis**
@@ -606,6 +651,8 @@ The possibility of direct interfacing between biological and technological infor
 **Potential Challenges:**
 - Understanding the mechanism of consciousness is currently not available
 - Nanosensors may interact dynamically with cytoskeletal protein lattices leading to next symbiosis.
+
+---
 
 ### 4 From Brain to Cytoskeleton  
 
@@ -635,6 +682,8 @@ The possibility of direct interfacing between biological and technological infor
   - Gated potentials spread only one to two millimeters and are essential for integration at sensory nerve endings, neuronal synaptic junctions, and as slow waves in dendrites.
 - Action potentials occur on an "all or none" basis, allowing effective communication within large nervous systems.
 
+---
+
 #### Neuronal Synapses: Electrical and Chemical Signaling at Brain Connections
 
 **Interneuronal Synapses**
@@ -659,6 +708,8 @@ The possibility of direct interfacing between biological and technological infor
 - **Neurotransmitter vesicles** (50 nm diameter) contain neurotransmitter molecules
 - Excitatory and inhibitory neurotransmitters identified: acetylcholine, norepinephrine, serotonin, dopamine, GABA, various peptides and amines.
 - **Action potential impulse** triggers the release of neurotransmitter vesicles by calcium-mediated mechanisms involving cytoskeletal proteins.
+
+---
 
 #### Understanding Brain Information Processing and Integration in Neurons
 
@@ -687,6 +738,8 @@ The possibility of direct interfacing between biological and technological infor
 - Integration occurs at all levels of nervous systems and among various types of organisms
 - Neural masses or reflex centers correlate with anatomically identifiable nuclei, containing high density of neuronal cell bodies and synapses
 - Nucleus is purely structural while center is functional; they do not always coincide.
+
+---
 
 #### Evolution of Neural Information Processing from Pulse Logic to Connectionism
 
@@ -727,6 +780,8 @@ The possibility of direct interfacing between biological and technological infor
 - Frequency coding of stimulus intensity limited, meaning attributed to origins and destinations (connectionism)
 - Closed pathways with logical feedback and reverberation evolved pulse logic into connectionism and neural networks
 
+---
+
 #### Neural Network Development and Synaptic Plasticity.
 
 **Connectionism and Neural Networks**
@@ -756,6 +811,8 @@ The possibility of direct interfacing between biological and technological infor
   - Demonstration of specific connections among neurons
 - Consensus shift towards connectionism due to limited neural pulse coding
 - Emphasis on orderliness and precision in forming neural connections during development.
+
+---
 
 #### Learning and Neural Networks: Connectionist and Selectionist Views
 
@@ -796,6 +853,8 @@ The possibility of direct interfacing between biological and technological infor
 - Loosely based on neurobiology, adapted for integrated circuits
 - Provided content addressable memory, capacity for generalization, familiarity recognition, categorization, error correction, time sequence retention, and insensitivity to failure of individual components
 
+---
+
 #### Spin Glass Model of Neural Network Learning: Selection by Energy Landscapes and Hierarchical Information Sorting
 
 **Hopfield Nets and Connectionist Models:**
@@ -819,6 +878,8 @@ The possibility of direct interfacing between biological and technological infor
 * Form an associative memory as they operate on unchanging connectionist network
 * Similar recognition automata may exist in dynamic cytoskeletal networks within neurons.
 
+---
+
 #### Lashley's Search for the Engram: Distributed Memory Storage in Brain
 
 **Distributedness in Neural Networks and Memory Storage:**
@@ -831,6 +892,8 @@ The possibility of direct interfacing between biological and technological infor
 * Filters can extract individual traces from complex patterns, making distributed memory system an effective storage and retrieval device
 * Memory not independent of one another; previously stored information can evoke original pattern even with input differences
 * Lashley suggested open, parallel, distributed network covering wide regions of the brain instead of Hebb's closed loop of neurons firing in a confined region.
+
+---
 
 #### Learning and Memory: Synaptic Changes and Habituation in Neural Networks
 
@@ -857,6 +920,8 @@ The possibility of direct interfacing between biological and technological infor
 - Different from other decreased responses like synaptic fatigue or desensitization
 - Involves decreased output of excitatory neurotransmitter at presynaptic axon terminals mediating the withdrawal reflex
 - Known through studies on the gill withdrawal reflex in sea slugs, a marine organism
+
+---
 
 #### Neuronal Plasticity and Cytoskeleton in Learning and Memory
 
@@ -886,6 +951,8 @@ The possibility of direct interfacing between biological and technological infor
 - Short term memory link: dynamic spine plasticity orchestrated by dendritic MT and cytoskeleton
 - Axoplasmic transport maintains and supplies form and functions of dendritic spines and all neuronal synapses.
 
+---
+
 #### Parallel Processing in Brain: Modular Mind Organization
 
 **Axoplasmic Transport in Neurons**
@@ -899,6 +966,8 @@ The possibility of direct interfacing between biological and technological infor
 **Retrograde Axoplasmic Flow**: Simultaneous transport in the opposite direction (retrograde) brings feedback information to regulate transmitter enzyme production and other materials. This creates dynamic neurons capable of changing shape and function through experience.
 
 **Parallelism, Collective Cooperativity, and the Grain of the Engram**: Neuron-to-neuron synapses operate on millisecond timescales, while modern computers take nanoseconds. The brain's parallel processing capabilities enable it to perform tasks impossible for computers.
+
+---
 
 #### Exploring the Neurophysiological Basis of Consciousness: Waves, Proteins, and the Cytoskeleton
 
@@ -933,6 +1002,8 @@ The possibility of direct interfacing between biological and technological infor
   - Transduction of electromagnetic energy into protein conformations represents dynamic information
 - Common thread: biological intelligence is based on cooperative dynamics of molecular network (cytoskeleton)
 
+---
+
 ### 5 Cytoskeleton Cytocomputer
 
 **The Cytoskeleton: Organizational Network in Living Cells**
@@ -956,6 +1027,8 @@ The possibility of direct interfacing between biological and technological infor
 - Microtubules correspond to birefringent fibers seen in living cells and are generally accepted as "household organelles."
 - Subsequent characterization of actin, intermediate filaments, the microtrabecular lattice, and centrioles led to recognition that cells are comprised of dynamic networks of connecting filaments.
 
+---
+
 #### Microtubules: Structure and Function in Cell Organization
 
 **Microtubules (MT)**
@@ -974,6 +1047,8 @@ The possibility of direct interfacing between biological and technological infor
 - Tubulins from among different species including mammals and plants bind to common antibodies and can coassemble into hybrid MT
 - Diversity of tubulin gene expression has proved far greater than initially imagined, with multiple, different alpha and beta tubulins existing concurrently, with the greatest diversity shown by beta tubulin.
 
+---
+
 #### Microtubules and Their Functions in Cellular Structure and Communication
 
 **Microtubules and Their Functions:**
@@ -990,6 +1065,8 @@ The possibility of direct interfacing between biological and technological infor
 - **Sensory perception and transduction:** Involved in sensory perception of external environments through mechanoreceptors and cilia.
 - **Pattern formation mechanisms**: Temporal and spatial control achieved by directed assembly from MTOCs and self-assembly of multitubular arrays using intertubule linkers.
 
+---
+
 #### Microtubule Assembly: Creation and Disassembly in Cell Division
 
 **Microtubule Assembly and Generation of Form**
@@ -1003,6 +1080,8 @@ The possibility of direct interfacing between biological and technological infor
 - MT assembly complex, involving critical concentration (Cc) and various cofactors: calcium ion, temperature, microtubule inhibitors/stabilizers, MAPs, presence of MTOC, availability of GTP.
 - Spontaneous assembly depends on physiological conditions and cofactors
 - Energy input from phosphate bond hydrolysis used in cytoskeleton, possibly for generating lattice vibrations or "solitons"
+
+---
 
 #### Microtubules and their Regulation in Cell Structure and Function
 
@@ -1045,6 +1124,8 @@ The possibility of direct interfacing between biological and technological infor
 - Selective retention through stabilizing a particular subset of microtubules for functional roles
 - Dynamic structural rearrangement requires intelligence.
 
+---
+
 #### Microtubule Organizing Centers & Cell Division Mechanisms
 
 **Microtubule Organizing Centers (MTOC) and Centrioles**
@@ -1082,6 +1163,8 @@ The possibility of direct interfacing between biological and technological infor
   * Detect signals propagating linearly throughout the cytoplasm (Albrecht-Buehler)
     * Potential technological applications
 
+---
+
 #### Microtubule-Associated Proteins and Their Functions in Cellular Structure and Movement
 
 **Microtubule Associated Proteins (MAPs)**
@@ -1111,6 +1194,8 @@ The possibility of direct interfacing between biological and technological infor
 - Phosphorylated by cyclic AMP-dependent protein kinases, regulating intracellular calcium levels
 - Mediate diverse inputs into the cytoskeleton as "synapses" in a parallel network
 - Tau heterogeneity varies during brain development, resulting in different polypeptides in mature cerebral cortex and cerebellum.
+
+---
 
 #### Intermediate Filaments in Cytoskeleton Structure and Cell Types
 
@@ -1143,6 +1228,8 @@ The possibility of direct interfacing between biological and technological infor
 * Calcium ion exposure leads to degradation and conversion of gel into a sol state
 * Phosphorylated, but function unknown
 * Involved in mechanically integrating cytoplasmic components.
+
+---
 
 #### Discovery of Microtrabecular Lattice in Cytoplasm.
 
@@ -1178,6 +1265,8 @@ The possibility of direct interfacing between biological and technological infor
 5. Transducing chemical or mechanical work for intracellular transport and processes
 6. Regulating the rest of the cytoskeleton and the cell at large
 
+---
+
 #### Cytomatrix: Protein Network and Water Structures in Cytoplasm
 
 **The Cytomatrix and Cytoplasmic Solid State**
@@ -1205,6 +1294,8 @@ The possibility of direct interfacing between biological and technological infor
 5. Water surrounding solid state structures plays a role: ordered water aligned with polar bonds on protein surfaces, inhibits thermal dissipation, shields calcium ions from random interactions
 6. Additional layers of less ordered water ("vicinal water") limit true "aqueous" water within cells to narrow cellular "sewage channels."
 
+---
+
 #### "Exploring Cellular Movement and Cytoskeleton/Cytocomputer Complexities"
 
 **Cytoskeletal Motility**
@@ -1229,6 +1320,8 @@ The possibility of direct interfacing between biological and technological infor
 - Filopodia can change from a fluid to a rigid state in less than a second by assembling actin filaments
 - They serve a sensory function by detecting substrate surface contacts
 
+---
+
 #### Cell Migration and Cytoplasmic Intelligence: A Study by Albrecht-Buehler
 
 **Cytoplasmic Organization and Migration of Cells:**
@@ -1250,6 +1343,8 @@ The possibility of direct interfacing between biological and technological infor
 - Small fragments demonstrate filopodia, ruffles, and blebs
 - Intelligence controlled by superior stratum of organization for coherent locomotion
 - Not located in genes as cells with removed nuclei still exhibit migration behavior.
+
+---
 
 #### Microtubule-Powered Cellular Movement Mechanisms and Conveying Systems
 
@@ -1282,6 +1377,8 @@ The possibility of direct interfacing between biological and technological infor
 **MT Communication:**
 - Collective communication among MT lattice subunits (solitons, coherent excitations, lattice vibrations) could explain the orchestration of contractile activities.
 
+---
+
 #### Cilia and Flagella Motion: Bending Microtubules by Contractile Proteins
 
 **Ciliary and Collective Movement:**
@@ -1304,6 +1401,8 @@ The possibility of direct interfacing between biological and technological infor
 - Tensegrity provides self-supporting property through balance between compressive and tensile forces in cytoplasm
 - Contractile actin may wind and unwind microtubules by a "torque drive," causing rotational oscillations
 - Dynamic compression/tension important for regulating membrane receptors' mobility.
+
+---
 
 #### Cell Differentiation and Embryological Neuron Growth: Epigenesis Theory
 
@@ -1334,6 +1433,8 @@ The possibility of direct interfacing between biological and technological infor
 **Neuronal Development and Formation:**
 - Cells appear to take on the role of their environment due to morphological "trophic" influence conveyed by cytoskeletal axoplasmic transport within nerve cells.
 - Neuronal processes know where and when to send their processes and establish connections through growth, pathfinding, and trophic capabilities.
+
+---
 
 #### Neurite Growth and Cytoskeleton Development in Brain Differentiation
 
@@ -1377,6 +1478,8 @@ The possibility of direct interfacing between biological and technological infor
 **Importance of Temporal Relationships Between Changes in Neuronal MT Proteins and Differentiation**
 - The temporal relationships between changes in neuronal MT proteins and differentiation are essential to the final product: the brain/mind
 
+---
+
 #### Microtubules and Disease Connections in Cells
 
 **Cytoskeleton and Medicine**
@@ -1413,6 +1516,8 @@ The possibility of direct interfacing between biological and technological infor
 - Anesthetics inhibit "protoplasmic streaming" in slim molds, a function of the cytoskeleton (Claude Bernard, 19th century).
 - Sufficient concentrations of the general anesthetic halothane reversibly depolymerizes MT.
 - Sleep-producing barbiturates, local anesthetics, and major tranquilizers such as thorazine bind to brain MT.
+
+---
 
 #### Intelligence in Cytoskeleton: Cytoplasm as a Data-Processing System
 
@@ -1451,6 +1556,8 @@ The possibility of direct interfacing between biological and technological infor
 - The "genetic code" decrypted by Nirenberg and colleagues equated DNA base pair patterns with specific amino acid sequences in synthesized proteins
 - Real time information codes in the cytoskeleton may be understood as nanoscale events just beyond current capabilities
 
+---
+
 ### 6 Protein Conformational Dynamics  
 
 **Protein Conformational Dynamics**
@@ -1470,6 +1577,8 @@ The possibility of direct interfacing between biological and technological infor
 - Commonest is the **right-handed coil**, an **alpha helix**, which has hydrogen bonds between oxygen and hydrogen atoms
 - **Tertiary structure**: Determines protein functions, globular regions defined by hydrophobic forces, charge distribution, disulfide bridges, and secondary structures
 - **Quaternary structure**: Assembly of tertiary domains into larger structures like multisubunit enzymes
+
+---
 
 #### Protein Conformation and Dynamics: Allostery and Signal Integration in Biological Processes
 
@@ -1507,6 +1616,8 @@ The possibility of direct interfacing between biological and technological infor
 - Protein conformational changes in the nanosecond range can be coupled to a stimulus
 - Three features control these functional states: hydrophobic interactions, charge redistribution, and hydrogen bonding
 
+---
+
 #### Energy and Conformational Changes in Proteins: ATP Utilization
 
 **Proteins and Energy**
@@ -1532,6 +1643,8 @@ The possibility of direct interfacing between biological and technological infor
 - Utilization of dynamic biological and protein conformational energy remained enigmatic through the 1950s and 1960s
 - A focal point in understanding protein conformational dynamics was the 1973 New York Academy of Sciences meeting, which addressed the mysteries of how to utilize ATP energy for protein events and transfer energy/information in proteins/organelles.
 
+---
+
 #### Discussion of Biological Energy Transfer Mechanisms and Ordered Water in Cells
 
 **Crisis in Bioenergetics and Resonant Dipole Coupling**
@@ -1555,6 +1668,8 @@ The possibility of direct interfacing between biological and technological infor
   * Ordered water advocates assume about half is ordered and the other half is "living" or ordered
 - Importance of ordered water to cellular structure and function (Clegg, 1981)
   * Intracellular water exists in three phases: bound, vicinal, and bulk.
+
+---
 
 #### Water Structure and Biomolecular Interactions in Cells
 
@@ -1586,6 +1701,8 @@ The possibility of direct interfacing between biological and technological infor
 - Promoted by hydrophobic interactions and exclusion of water from hydrophobic regions
 - Crystallization of tobacco mosaic virus: increase in entropy (exclusion of water) at surface promotes assembly
 
+---
+
 #### Van der Waals Forces and Electrets in Biomolecules: Interactions and Properties
 
 **The Distinct Nature of Hydrophobic Van der Waals Forces:**
@@ -1616,6 +1733,8 @@ The possibility of direct interfacing between biological and technological infor
 * Dipolar elementary subunits arranged in such a way that positive and negative dipole ends point in opposite directions
 * Found in various nonbiological materials, including biological tissues like bone, blood vessel walls, keratin, cellulose, collagen, gelatin, artificial polypeptides, DNA, cellulose, and microtubules
 * Accounts for specific properties such as anti-blood clotting in biomaterials and the non-stickiness of teflon.
+
+---
 
 #### Solitons in Biology: Energy Propagation in Protein Molecules via Nonlinear Waves
 
@@ -1656,6 +1775,8 @@ The possibility of direct interfacing between biological and technological infor
 - Solitons could be responsible for molecular level filamentous contractions driving every move we make
 - Propagating solitons in the cytoskeleton may serve as dynamic medium of biological information processing.
 
+---
+
 #### Exploring Protein Conformational Dynamics and Coherent Excitations in Biology
 
 **Protein Conformational Dynamics and Coherent Excitations**
@@ -1680,6 +1801,8 @@ The possibility of direct interfacing between biological and technological infor
 - High electric fields of 107 volts per meter in biological membranes require extraordinary dielectric properties from lipids, proteins, or cytoskeletal components.
 - Fröhlich suggests that the evolution of this dielectric strength on a molecular scale has significant implications for understanding biological organisms' sensitivity to electromagnetic radiation.
 
+---
+
 #### Biological Coherent Oscillations and Superconductivity Effects
 
 **Biological Functions and Quantum Mechanics**
@@ -1700,6 +1823,8 @@ The possibility of direct interfacing between biological and technological infor
 
 **Evidence for Long-Range Effects**
 - Observed behavior of red blood cells: discoids of eight microns in diameter (8 thousand nanometers) exhibit long-range effects.
+
+---
 
 #### Protein Conformational Dynamics and Self-Focusing in Cytoskeletal Filaments
 
@@ -1745,6 +1870,8 @@ The possibility of direct interfacing between biological and technological infor
 - Davydov's soliton propagation model originally applied to contractile coupling between actin and myosin
 - The cytoskeleton appears uniquely suited to take advantage of cooperative dynamics related to information processing
 
+---
+
 ### 7 Anesthesia Another Side of Consciousness
 
 **Anesthesia: Another Side of Consciousness**
@@ -1772,6 +1899,8 @@ The possibility of direct interfacing between biological and technological infor
 - Cardiovascular, pulmonary, neuromuscular functions, kidney, blood clotting, and other factors closely monitored during anesthesia and surgery
 - Technological advances: nanoscale conformational dynamics of neural proteins via biosensors or implants for more sensitive observation and potentially manipulation of consciousness.
 
+---
+
 #### Understanding Anesthesia: Memory Consolidation and Awareness
 
 **Anesthesia, Memory, and Consciousness:**
@@ -1793,6 +1922,8 @@ The possibility of direct interfacing between biological and technological infor
 * Consolidation depends on initial impact of information input
 * Emotional significance and anesthetic drugs influence memory consolidation.
 
+---
+
 #### Mechanisms of Anesthesia: Protein Conformational Changes by Anesthetic Binding
 
 **Mechanisms of Anesthesia**
@@ -1812,6 +1943,8 @@ The possibility of direct interfacing between biological and technological infor
 **Anesthetic potency and solubility**: Correlations between anesthetic potency and solubility in "lipid-like" solvents are consistent with effects occurring in lipids or hydrophobic pockets within proteins.
 
 **Protein conformational changes**: Research has demonstrated that anesthetics can cause conformational changes in functional proteins, but at concentrations higher than required for reversible clinical anesthesia. A logical inference is that anesthetics prevent necessary protein conformational changes rather than causing them directly.
+
+---
 
 #### Protein Conformational Changes and Anesthesia: Electron Mobility Interactions
 
@@ -1838,6 +1971,8 @@ The possibility of direct interfacing between biological and technological infor
 - Inhibition of a subset of protein conformational dynamics related to consciousness
 - Psychoactive drugs such as amphetamines and LSD affect collective effects of protein conformational dynamics, potentially enhancing or altering consciousness through membrane receptors.
 
+---
+
 ### 8 Models of Cytoskeletal Computing
 
 **Cytoskeletal Computing Models: Cytoskeleton as a Substrate for Biological Intelligence**
@@ -1859,6 +1994,8 @@ The possibility of direct interfacing between biological and technological infor
 3. Dynamic cooperative automaton effects models: examine cooperative oscillations between centrioles and the cytoskeleton
 4. Cytoplasmic/cytoskeletal sol-gel field models: explore holographic imagery in explaining dynamic organization and information representation within biological systems.
 5. Overlapping and complementary proposals: these theories may not be mutually exclusive, but rather provide different perspectives on cytoskeletal computing.
+
+---
 
 #### Cilia-based Proprioception: Microtubules in Sensory Transduction
 
@@ -1883,6 +2020,8 @@ The possibility of direct interfacing between biological and technological infor
 - Compression or bending of MT can release bound ions from subunits, resulting in an ion flux capable of generating membrane depolarization and regulating membranes.
 - Each tubulin dimer reversibly binds calcium ions, allowing significant currents to flow during active assembly of parallel MT.
 
+---
+
 #### Exploring Cytoskeletal Signal Processing in Molecular Computing
 
 **Michael Conrad and E. A. Liberman's Proposed Biomolecular Computing Model (Cytoskeleton and Cyclic Nucleotide System)**
@@ -1903,6 +2042,8 @@ The possibility of direct interfacing between biological and technological infor
 - Developed double labeling technique for tubulin subunits: large circles (10 nanometers) identify glutamated tubulin, small particles (5 nanometers) bind to tyrosinated tubulin
   - Patterns of tyrosinated/glutamated tubulin suggest potential coding mechanism and function in signal processing
 - MT detyrosination patterns determined by real time cytoplasmic factors, suggesting modifiable patterns and capability for signal processing.
+
+---
 
 #### Cytoskeletal String Processors and Gradions in Microtubules for Biological Information Processing
 
@@ -1943,12 +2084,16 @@ The possibility of direct interfacing between biological and technological infor
 - Inter-microtubule bridges: Indicate two different conformational states of the tubulin dimers to which they attach
 - Precise linkage sites reflect a coded pattern, or "gradion" in microtubules.
 
+---
+
 #### Microtubule-Based Information Processing in Cells: Centrioles, Gradions, and Oscillations
 
 **Cytoskeletal Computing: Models and Theories**
 * **Gradion Fields**: Roth and Pihlaja's theory (1977) proposes that microtubules have "gradions," or conformational fields, governed by attachment of inter-MT linkages. This allows for various dimer conformations and patterns, though cooperativity reduces the number of possible gradions to a substantial yet lessened amount.
 * **Gyroscopic Centrioles/Bornes**: Bornens' model (1979) suggests that centrioles rotate rapidly about their longitudinal axis, creating dynamic stability through inertia analogous to a spinning top or gyroscope. Peripheral movements are interconnected by the cytoskeleton with the gyroscopic centrioles as the origin for cellular coordinates.
 * **Centriole Signaling/Albrecht-Buehler**: Albrecht-Buehler considers two models of cytoskeletal information processing: centriole signal detection and propagation of MT impulses. Centrioles, composed of nine MT triplets or doublets, have walls arranged at an angle that advances a blade, leading to rhythmic signals throughout the cytoskeleton.
+
+---
 
 #### Centrioles and Microtubules as Signal Detectors in Cellular Navigation
 
@@ -1967,6 +2112,8 @@ The possibility of direct interfacing between biological and technological infor
 - Albrecht-Buehler's model: centrioles as perfectly designed nonscanning angular detectors using microtubules for resonance communication among protein conformational states within MT assemblies
 - Bornens' model: gyroscopic oscillations of centrioles leading to dynamic cell center function
 - Combination of both models results in a cell center capable of piloting cytoplasmic activities.
+
+---
 
 #### Exploring Cytoplasmic Tensegrity, Microtubule Probing, and Sphere Packing Symmetry in Cell Structure
 
@@ -1999,6 +2146,8 @@ The possibility of direct interfacing between biological and technological infor
 - Koruga used hexagonal and face-centered cubic packing to explain microtubule organization
 - Microtubule symmetry suggests optimal number of protofilaments for binary error correcting codes
 
+---
+
 #### Microtubules as Quantum Computing Elements in Biological Systems.
 
 **Cytoskeletal Self-Focusing/Del Giudice (1982, 1985)**
@@ -2019,6 +2168,8 @@ The possibility of direct interfacing between biological and technological infor
 * Coupling calcium concentrations to cytoplasmic sol-gel states can "hardwire" holographic patterns into microtrabecular lattice
 * Parallel arrays of MT within nerve fibers generate traveling screens for imaging based on action potentials and tubulin conformations
 * Tubulin subunits in the MT lattice wall are transiently occupied by charge/energy/conformation quants, with MAPs serving as "left switches" or "sinks"/ "sources" for conveying pulse trains of charge/conformation among MT.
+
+---
 
 #### Microtubule Automata Model for Cytoskeletal Computing.
 
@@ -2052,6 +2203,8 @@ The possibility of direct interfacing between biological and technological infor
 - MT automata may be the information substrate for biological activities ranging from ciliary bending to human consciousness
 - Coherent resonance and collective effects in distributed cytoskeletal arrays in the brain could lead to emergent properties like superconductivity
 
+---
+
 #### Exploring Cytoskeletal Computation and Energy Propagation in Biological Systems.
 
 **Microtubules, Centrioles, and Cytoskeleton**
@@ -2084,6 +2237,8 @@ The possibility of direct interfacing between biological and technological infor
 **Microtubules, Centrioles, and Cytoskeleton's Role in Evolutionary History**
 - Solved problems, organized cells and organs, and acted as intelligence circuits.
 
+---
+
 ### 9 VirusesAmbiguous Life Forms 
 
 **Essence of Living Matter**
@@ -2106,6 +2261,8 @@ The possibility of direct interfacing between biological and technological infor
 - **Retroviruses**
   - Contain RNA without DNA, bring reverse transcriptase enzyme for genetic manipulation
   * Human retroviruses include HTLV-III/HIV causing AIDS.
+
+---
 
 #### Viral Protein Structures and Collective Oscillations: A Study of their Function and Origins in Life Forms
 
@@ -2142,6 +2299,8 @@ The possibility of direct interfacing between biological and technological infor
   - Vaccines to amplify the immune system
   - Treating drug-resistant bacterial infections with bacteriophages
   - Mass producing natural proteins using genetically engineered viruses
+
+---
 
 ### 10 NanoTechnology 
 
@@ -2182,6 +2341,8 @@ The possibility of direct interfacing between biological and technological infor
 **Conclusion:**
 Nanotechnology is a promising field that may lead to significant advancements in various applications if the challenges of atomic level manipulation are overcome. Early nanotechnologists like Feynman and others laid the groundwork for future developments, which may include vastly improved technologies and materials with potential benefits outweighing any concerns regarding their implementation. Despite obstacles, researchers continue to pursue nanotechnology as a means to unlock new possibilities and push the boundaries of science and technology.
 
+---
+
 #### Scanning Tunneling Microscope Technology: Ultraprecise Surface Probing and Molecular Dynamics Insight
 
 **Scanning Tunneling Microscopy (STM)**
@@ -2215,6 +2376,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 - "Molecular 'tasting and smelling'" using thermocouples sensitive to extremely low heat changes
 - "Touch and feel" in atomic force microscopy by measuring forces with a nanoscale lever (Binnig et al., 1986)
 
+---
+
 #### Nanotechnology Workstations: Integrating STM Tips and Optical Microscopy for Atomic-Scale Manipulation and Imaging.
 
 **Formation of Near-Field Optical Nano-Apertures**
@@ -2247,6 +2410,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 - Imaged single atoms, probed atomic forces, manipulated atoms (Figure 10.8)
 - Won Nobel Prize in 1986 for pioneering work on scanning probe microscopy.
 
+---
+
 #### Atomic-Level Fabrication with STM Machines
 
 **STMs/Feynman Machines (FMs)**
@@ -2273,6 +2438,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 - Executing complex mechanical motions for driving nanomechanisms (e.g., turning a 2 nm diameter crank at thousands of revolutions per minute)
 - Applications in various disciplines as this versatile technology becomes more widely known.
 
+---
+
 #### Feynman Challenges: Miniature STMs for Molecular Engineering and Quantum Computing
 
 **Feynman's Proposal for Nanoscale Machines**
@@ -2297,6 +2464,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 - Schneiker suggests optical electronics technology might be useful in controlling, powering, and communicating with nanoscale devices
   - Intense localized high frequency electric fields from laser radiation can control and power arrays of STM/FMs
   - Same idea could be used to control, power, and communicate with swarms of mobile nanorobots.
+
+---
 
 #### Exploring STM/FMs Applications in Biomedicine: From Imaging to Nanorobots
 
@@ -2329,6 +2498,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 - Creating programmable cell repair machines using genetic information
 - Nanorobots for monitoring physiological functions, nanofabrication, and intracellular house calls
 
+---
+
 #### Self-Replicating Automata: Potential of Superconductivity in Nanotech and Artificial Life.
 
 **Self-Replicating Automata: A Historical Perspective**
@@ -2359,6 +2530,8 @@ Nanotechnology is a promising field that may lead to significant advancements in
 
 **Impact of Technology:**
 - Capability to create new life forms in silico and in vitro will present significant technical, theoretical, and ethical challenges for humanity.
+
+---
 
 ### 11 The Future of Consciousness
 

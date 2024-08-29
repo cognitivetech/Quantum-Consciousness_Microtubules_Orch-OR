@@ -36,6 +36,7 @@
 - [Chapter 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells](#chapter-15-assessment-of-mitotic-spindle-phenotypes-in-drosophila-s2-cells)
 
 ## Summary
+
 ### Chapter 1: Determination of Microtubule Dynamic Instability in Living Cells
 
 **I. Introduction**
@@ -76,6 +77,8 @@
 - Regulation of microtubules through various proteins (MAPs, MIPs) and drugs
 - Significance of studying microtubule dynamic instability in living cells using fluorescent tubulin and time-lapse microscopy.
 
+---
+
 #### Microtubule Dynamics in Living Cells Selection and Preparation
 
 **Plasmids**
@@ -105,6 +108,8 @@
 - Cells grown on poly-L-lysine-treated coverslips may adhere and spread adequately
 - If not, substrates like laminin, collagen, or fibronectin can promote cell adherence and spreading
 - Optimal substrate and concentration vary with the cell type
+
+---
 
 #### Optimizing Rhodamine-Labeled Tubulin Microinjection in Living Cells for Visualization of Microtubule Dynamics
 
@@ -142,6 +147,8 @@
 9. **Preventing Tubulin Polymerization/Clogging**:
    - Clogs can occur from tubulin polymerization/aggregation or debris
    - Inspect the microneedle with a 40 objective to distinguish between clog types
+
+---
 
 #### Microtubule Dynamics in Living Cells - Lab Protocol for Time-Lapse Fluorescence Imaging of Microtubules in Cancer Cells
 
@@ -185,6 +192,8 @@
 - Rinse precoated coverslip containing attached cells in warm recording media and seal in Rose chamber
 - Assemble chamber: place three Parafilm or silicone rings between sandwich surfaces and metal plates, and on interior surfaces of plates. Use a single internal spacer between the 25 mm diameter coverslips and ensure cells face interior of sandwich. Avoid air bubbles.
 
+---
+
 #### Microtubule Dynamics Tracking in Living Cells Methods and Data Analysis
 
 **Microtubule Dynamics in Living Cells**
@@ -219,6 +228,8 @@
 - Changes less than 0.5m are considered a pause, unless occurring within growth/attenuation
 - Catastrophe occurs when a microtubule switches from pause/growth to shortening, rescue is when it switches back to growth/pause
 
+---
+
 #### Mechanisms of Drug Action and Microtubule Dynamics in Cellular Processes
 
 **Frequency of Rescue**
@@ -242,6 +253,8 @@
 - Balasubramani et al., 2010: Characterization and detection of cellular and proteomic alterations in stable stathmin-overexpressing and taxol-resistant BT549 cells using offgel IEF/PAGE difference gel electrophoresis. Mutation Research, In press
 - Ballestrem et al., 2000: Actin-dependent lamellipodia formation and Microtubule Dependent tail retraction control directed cell migration. Mol Biol Cell 11, 2999-3012
 - Brust-Mascher and Scholey, 2002: Microtubule flux and sliding in mitotic spindles of Drosophila embryos. Mol Biol Cell 13, 3967-3983
+
+---
 
 ### Chapter 2: Analysis of Microtubule Polymerization Dynamics in Live Cells
 
@@ -271,6 +284,8 @@
 - Long pauses during which MT ends do not grow or shorten within resolution limit of light microscope
 - Intracellular MTs subject to pulling and pushing forces, resulting in buckling, breakage, and movements not due to polymerization dynamics.
 
+---
+
 #### Visualizing Dynamic Microtubules with Fluorescent Probes
 
 **Dynamic Imaging of Microtubules (MTs)**
@@ -299,6 +314,8 @@
 - Carefully transfer the virus band to a clean ultracentrifuge tube and dialyze against ARCA buffer using Econo-Pac columns.
 - Repeat ultracentrifugation in a fixed-angle rotor (JA 17 XE or JA 20) to further purify the virus particles.
 - Lyophilize the purified virus particles and resuspend them in sterile PBS or 0.9% saline solution for use.
+
+---
 
 #### Large-Scale Adenovirus Production and Purification Methods
 
@@ -341,6 +358,8 @@
 - Use fluorescence microscopy modalities like wide-field, confocal, or TIRF
 - Wide-field has limitations in thicker cell regions and only works well in flat areas
 
+---
+
 #### Analysis and Imaging of Microtubule Polymerization Dynamics in Live Cells
 
 **Microtubule Polymerization Dynamics in Live Cells**
@@ -366,6 +385,8 @@
 
 **End of Text Summary:**
 The provided text discusses the semi-manual analysis of continuously labeled microtubules (MTs) using time-lapse sequences and computer-assisted hand-clicking for tracking changes. This method allows demonstrating the high variability in intracellular MT polymerization dynamics at slower frame rates by analyzing images with a simulated frame rate of 0.4 frames per second. The authors recommend using spinning disk confocal microscopy as a versatile and effective method to image dynamic MTs due to its combination of thin optical sectioning, better sample penetration, and ability to achieve high spatial resolution. They also emphasize the importance of optimizing imaging conditions for accurate analysis of MT polymerization dynamics in live cells.
+
+---
 
 #### Analysis and Limitations of Microtubule Dynamics Tracking in Live Cells
 
@@ -398,6 +419,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Semi-manual analysis is best performed on time-lapse sequences acquired every 25 seconds at high spatial resolution
 - It is important to only compare quantifications obtained from time-lapse sequences acquired at identical magnification and frame rate.
 
+---
+
 #### Visualizing MT Ends with TIP Proteins Fluorescent Labeling of Growing Microtubules
 
 **Analysis of Microtubule Polymerization Dynamics in Live Cells**
@@ -419,6 +442,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Concerns about disruption of endogenous localization of other TIPs when using EB-EGFP constructs, but low-level expression appears relatively benign
 - Alternative TIPs, such as CLIP-170 or CLASPs, can be used to validate experimental results and eliminate potential artifacts
 - Minimal EB-binding motif identified for plus end localization, which should allow for the engineering of artificial TIPs with minimal interference in intracellular MT dynamics.
+
+---
 
 #### Quantitative Analysis of Microtubule Dynamics in Live Cells Methods and Challenges
 
@@ -448,6 +473,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **Conclusion:**
 - Spatiotemporal regulation of intracellular MT dynamics is important in many aspects of cell biology, leading to high interest in methods for quantitative analysis of MT dynamics.
 - Absolute MT dynamics parameters are limited by imaging conditions and analysis methods, making comparisons between experimental conditions more valuable.
+
+---
 
 #### Analyzing Microtubule Polymerization Dynamics in Live Cells with Computational Clustering of TIPs
 
@@ -482,6 +509,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 * Kerssemakers et al. (2006): Assembly dynamics of microtubules at molecular resolution
 * Komarova et al. (2009): Mammalian end binding proteins control persistent microtubule growth
 
+---
+
 ### Chapter 3: The Use of Fluorescence Redistribution After Photobleaching for Analysis of Cellular Microtubule Dynamics
 
 **Microtubules and Fluorescence Redistribution After Photobleaching (FRAP)**
@@ -508,6 +537,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 
 **V. Summary and Conclusions**
 - FRAP is a valuable tool for studying MT dynamics in living cells, although it does not yet provide information on individual MT dynamics parameters.
+
+---
 
 #### FRAP Experimentation of Microtubules in PtK-2 Cells
 
@@ -547,6 +578,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 8. Keep the chamber clean by wetting a kimwipe or lens paper with ddH2O and gently drawing it across the coverslip and slide before mounting on the microscope stage
 9. Record the time of imaging and discard/replace the chamber after a certain duration to maintain cell health and prevent photodamage.
 
+---
+
 #### Live Cell FRAP Imaging Protocol for Microtubules
 
 **FRAP Experiment for Cellular Microtubules Analysis**
@@ -573,6 +606,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Determine exposure time for photo-bleaching laser empirically without killing the cell
 - Not critical to bleach 100% of fluorescence but easier to determine recovery properties with more extensive bleaching.
 
+---
+
 #### FRAP Experiment and Analysis in Cellular Microtubules Measuring Fluorescence Recovery
 
 **FRAP Experiment Procedure**
@@ -594,6 +629,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 * Export data to spreadsheet, scientific graphing software, or command line-driven data analysis software (e.g., MATLAB) for further processing
 * Quantifiable properties from FRAP experiments: extent, modal property (mono or multiphase), halftime(s) of fluorescence recovery
 * Define regions for data collection: background (bg), bleached region (bl), and unbleached region (ub). Subtract background value to obtain background-corrected data (bl0 and ub0).
+
+---
 
 #### Data Analysis and Photobleaching Correction in Fluorescence Recovery After Photobleaching FRAP
 
@@ -624,6 +661,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
    - Add photodissipation estimate to ub0 data or divide bl0 by ub0
 5. Reporting:
    - Explicitly state methods and measurement used for photobleach correction in any manuscript reporting these measurements.
+
+---
 
 #### FRAP Analysis and Data Fitting of Cellular Microtubules
 
@@ -665,6 +704,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Divide all values by prebleach intensity to estimate percent of total recovery, modal nature of curve, and approximate half-time
 - Be clear if the fitting routine assumes the model goes from 0 to 1 (100% recovery) or not
 
+---
+
 #### FRAP Data Analysis and Interpretation in Microtubule Studies
 
 **FRAP Analysis of Cellular Microtubules**
@@ -691,6 +732,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 
 **Compiling Data from Multiple FRAP Experiments**:
 - Calculate t1/2 and % fluorescence recovery averages, standard deviations, and SEM for each experimental condition
+
+---
 
 #### Quantitative Analysis of Microtubule Dynamics in Living Cells
 
@@ -719,6 +762,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Axelrod et al., (1976) Mobility measurement by analysis of fluorescence photobleaching recovery kinetics. Biophysical Journal 16:10551069.
 - Buster et al., (2007) Poleward tubulin flux in spindles: Regulation and function in mitotic cells. Molecular Biology and Cell 18:30943104.
 
+---
+
 ### Chapter 4: Kinetochore Microtubule Dynamics and Attachment Stability
 
 **I. Introduction**
@@ -746,6 +791,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Kinetochore MT turnover dynamics
 - Kinetochore MT polymerization/depolymerization dynamics correction
 
+---
+
 #### RNA Interference Protein Depletion in Kinetochore Microtubule Dynamics
 
 **Kinetochore Microtubule Dynamics and Attachment Stability**
@@ -767,6 +814,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **RNA Interference**:
 - **Protein Depletion by siRNAs**: RNAi-based protein depletion using siRNAs and the transfection agent Fugene 6, as described for HeLa cells above.
 - **Rescue Experiments**: Express wild-type or mutant versions of a protein of interest after depleting endogenous levels to determine their contribution to kinetochore MT attachment stability and dynamics.
+
+---
 
 #### Microtubule Dynamics in Cell Division Immunofluorescence Methods
 
@@ -796,6 +845,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
    - Stain DNA with DAPI diluted to 2 ng/ml in PHEM for 1 minute
    - Mount the slides using mounting media and antifade solution, then store them in the dark at 4C.
 5. **Optimizing New Antibodies**: When characterizing a new antibody, optimize the immunofluorescence protocol by trying both protocols with PHEM buffer and methanol as the fixative. Adjust steps accordingly to achieve desired results.
+
+---
 
 #### Cold-Induced Microtubule Depolymerization Assay in HeLa Cells
 
@@ -828,6 +879,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Determine integrated fluorescence intensity within both circles using Region Measurements function
 - Subtract background from total fluorescence to calculate portion due to kinetochore MTs.
 
+---
+
 #### Measuring Inter-Kinetochore Distance in Mitotic Cells for Analyzing Kinetochore Microtubule Dynamics and Attachment Stability
 
 **Tubulin Fluorescence Measurement**
@@ -859,6 +912,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 + Depending on experimental condition, some cells may have uniform population of kinetochore pairs or discrete subpopulations with different inter-kinetochore distances.
 + In case of a subset of stranded kinetochore pairs at the spindle poles, it is helpful to keep distinct populations segregated when analyzing and interpreting datasets.
 
+---
+
 #### Kinetochore Microtubule Dynamics and Turnover in Mitosis through Photoactivation
 
 **Kinetochore Microtubule Dynamics and Attachment Stability**
@@ -874,6 +929,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Late in mitosis, kinetochore MTs are stabilized to generate forces for chromosome congression and silence the spindle assembly checkpoint
 - Kinetochore MT turnover rate can be measured using a photoactivation assay with fluorescence photoactivation
 - Fluorescent marks on tubulin fade quickly in free dimeric tubulin and non-kinetochore MTs, while they persist in kinetochore fibers due to their selective stability
+
+---
 
 #### Photoactivated Microtubule Dynamics Analysis in PtK1 Cells
 
@@ -900,6 +957,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 4. Calculate percent loss of fluorescence at each time point relative to initial postactivation time point (photobleaching correction value)
 5. Average the percent loss at each time point from data collected in at least 10 cells
 6. For experimental data sets, determine fluorescence dissipation as described above.
+
+---
 
 #### Monitoring Kinetochore MT Attachment and Error Correction in Live Cells
 
@@ -929,6 +988,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 4. Wash off monastrol and incubate in MG132-containing media for 1 hour, removing coverslips for immunofluorescence at intervals: 20, 40, and 60 minutes after washout initiation.
 5. Fix, permeabilize, and immunostain cells using anti--tubulin antibody and either anti-centromere or kinetochore antibody; counterstain with DAPI.
 
+---
+
 #### Characterizing Kinetochore Dynamics in Live Cells Using Fluorescence Microscopy
 
 **Image Acquisition Using Fluorescence Microscope:**
@@ -953,6 +1014,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Use the Kymograph Function or Montage function in MetaMorph to analyze kinetochore oscillations
 - Choose well-separated sister kinetochore pairs with minimal movement during imaging for accurate results.
 
+---
+
 #### Kinetochore Movement and Poleward Flux Analysis in Mitosis
 
 **Tracking Kinetochore Oscillations:**
@@ -972,6 +1035,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 3. Average excursion length: Subtract regression line values from original position data; calculate deviation from average position using SigmaPlot or other software
 4. Deviation from average position sensitive to oscillation curve shape, especially time spent in pause at switching point
 5. **Points to Consider:** Choose appropriate kinetochore protein for fluorescent tagging, ensure exogenous protein does not alter wild-type oscillations; consider poleward flux effect on mitotic chromosome segregation by measuring velocity of photoactivated tubulin marks or fluorescent speckles using fluorescent speckle microscopy.
+
+---
 
 #### Measuring Kinetochore MT Stability and Dynamics during Mitosis
 
@@ -1010,6 +1075,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Cassimeris, L., Rieder, C. L., Rupp, G., & Salmon, E. D. (1990). Stability of microtubule attachment to metaphase kinetochores in PtK1 cells. J. Cell Sci., 96(3), 915922.
 - Cimini, D. (2008). Merotelic kinetochore orientation, aneuploidy, and cancer. Biochem. Biophys. Acta, 1786(3), 13151334.
 
+---
+
 ### Chapter 5: Photoactivatable Green Fluorescent Protein Tubulin
 
 **I. Introduction**
@@ -1045,6 +1112,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Replacing EGFP sequence with PA-GFP using either a pCMV or IRES vector
 - Improved selection when using IRES vectors due to the tagged gene and selection marker being expressed from a single promoter.
 
+---
+
 #### Cell Line Generation and Characterization for Live Microtubule Imaging
 
 **Advantages of Clonal Cell Lines**
@@ -1061,6 +1130,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 5. Repeat procedures if multiple cell types are detected in the stable line
 6. Use Western blotting to identify useful clones and determine expression level of tagged protein relative to endogenous protein
 7. Characterize PA-GFP-tubulin cell line: Fig. 1 shows that 99% of total tubulin is tagged with GFP or PA-GFP (A) before and after photoactivation (B), and no detectable abnormalities in mitotic microtubules are observed during the mitotic process (C).
+
+---
 
 #### Photoactivation of PA-GFP-Tubulin in Live Cells
 
@@ -1079,6 +1150,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 * Microtubules transported inward toward forming spindle in prometaphase cells in dynein-dependent manner
 * Release of microtubules from centrosome documented using pinhole activation in anaphase cells
 * Study of interphase cell microtubule turnover facilitated by PA-GFP-tubulin expression.
+
+---
 
 #### Microtubule Dynamics Analysis Using Photoactivatable Green Fluorescent Protein
 
@@ -1105,6 +1178,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Photoactivation of PA-GFP-tubulin is a valuable method to examine microtubule dynamics in live cells
 - Suitable for diverse cell types and stages of the cell cycle
 - Experimentally straightforward with standard laboratory equipment.
+
+---
 
 ### Chapter 6: Microtubule Dynamics at the Cell Cortex Probed by TIRF Microscopy
 
@@ -1156,6 +1231,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 
 **VII. Acknowledgments and References**
 
+---
+
 #### TIRF Microscopy and its Objective-Type Setup in Cell Biology Investigations
 
 **Rationale: TIRF Microscopy**
@@ -1171,6 +1248,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Constructed as an inverted microscope, convenient for cell manipulation
 - The numeric aperture of the objective is critical, as it determines the laser beam deflection angle
 - High-numeric aperture objectives allow for smaller penetration depths
+
+---
 
 #### TIRF Microscopy Setup and Procedure for Cortical Microtubules Investigation
 
@@ -1197,6 +1276,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Green fluorophores: Chroma ET-GFP (49002) filter set and Chroma ET-mCherry/GFP double dichroic (59022)
 - Red fluorophores: Chroma ET-mCherry (49008) filter set and Chroma ET-mCherry/GFP double dichroic (59022)
 - Beam splitter equipped with a dichroic 565dcxr (Chroma) and HQ530/30m emission filter (Chroma) to minimize bleed-through between channels.
+
+---
 
 #### Cell Line Development and Marker Expression
 
@@ -1227,6 +1308,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Split cells into 6-well plate to achieve 40% confluence by next day
 - Prepare DNA: Linearize fluorescent protein and selective marker expression cassettes without disruption; purify using phenol extraction, ethanol precipitation, or DNA purification kit.
 
+---
+
 #### TIRF Microscopy Linear DNA Transfection and Cortical Microtubule Imaging
 
 **Linearized DNA for Transfection:**
@@ -1256,6 +1339,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 1. Count number or measure length of visible microtubule segments by TIRF microscopy as sufficient analysis
 2. Perform direct tracking of microtubule ends using kymograph analysis to determine dynamic parameters if required.
 
+---
+
 #### Exploring Microtubules in Cortex with TIRF Microscopy Dynamics and Interactions
 
 **TIRF Microscopy in Studies of Cortical Microtubules**
@@ -1277,6 +1362,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Strong enrichment of TIRF-visible microtubule segments at peripheral cortex
 - Improved signal-to-noise ratio due to very thin optical section
 - Suitable for single molecule in vitro experiments, widely used in the microtubule field.
+
+---
 
 #### Total Internal Reflection Fluorescence Microscopy for Probing Cortical Events and Dynamics in Cells
 
@@ -1303,6 +1390,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Akhmanova, A., Stehbens, S.J., and Yap, A.S. (2009). Touch, grasp, deliver and control: Functional cross talk between microtubules and cell adhesions. Traffic 10, 2682-274.
 - Akhmanova, A., and Steinmetz, M.O. (2008). Tracking the ends: A dynamic protein network controls the fate of microtubule tips. Nat Rev Mol Cell Biol 9, 309-322.
 
+---
+
 ### Chapter 7: Microtubule Dynamics in Dendritic Spines
 
 - **Introduction:** Neurons are complex cells with various processes including axon and dendrites. Signal transmission occurs at synapses between neurons. Understanding neuronal structure and function requires studying microtubules, which play essential roles in neuronal differentiation and mature functioning. Primary culture techniques allow for the development of specialized subdomains such as growth cones, axon initial segments, dendritic spines, and inhibitory and excitatory synapses.
@@ -1319,6 +1408,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **Data Analysis:** Methods for data analysis are discussed.
 - **Conclusion:** Summary of the importance of dynamic microtubules in dendritic spines and their potential role in adaptive processes, learning, and memory formation.
 - **Acknowledgments and References.**
+
+---
 
 #### Culturing Mature Hippocampal Neurons for Spine Morphology Analysis
 
@@ -1349,6 +1440,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 8. Add Neurobasal medium supplemented with B27 (2%) and penicillin/streptomycin (50 U/ml) to cover the entire coverslip/plate, leaving a small air gap at the top for gas exchange.
 9. Maintain cultures in an incubator at 37C, 5% CO2, and 80% humidity. Replace half of the medium every 3 days.
 10. After 23 weeks (or longer), mature hippocampal neurons are ready for further analysis.
+
+---
 
 #### Materials and Procedures for Neuronal Culturing
 
@@ -1381,6 +1474,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Water washing: Carefully transfer racks into 1 l beakers containing tap water and allow to sit undisturbed for 1 h at room temperature; repeat at least three times for a total of 4 h.
 - Dry and bake coverslips overnight at 200C.
 - Transfer cooled coverslips to sterile plates (12-well or 6-well) in a laminar flow hood. Coat with PLL and laminin solution overnight, then wash with autoclaved MilliQ water and add Neurobasal/B27 medium; place in incubator until needed.
+
+---
 
 #### Isolation and Expression of Hippocampal Neurons in Culture
 
@@ -1424,6 +1519,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
    - Incubate at 37C for 23 weeks before performing DNA transfection or virus infection procedures
 6. Optional: After one week in culture, exchange half the medium with fresh Neurobasal/B27 media. Do not replace all media.
 
+---
+
 #### Neuron Transfection using Lipofectamine and SFV Viruses for Microtubule Dynamics Research
 
 **Microtubule Dynamics in Dendritic Spines Using Lipofectamine and SFV**
@@ -1454,6 +1551,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **Fetal bovine serum (FBS)**: 5% FBS in G-MEM
 - **10 cm TC dishes**: Treated tissue culture dishes with a diameter of 20 mm
 - **Transfection reagents**: Opti-MEM I reduced serum medium, DMRIE-C reagent, aprotinin, and -chymotrypsin
+
+---
 
 #### Live Neuron Imaging with Spinning Disk Microscopy and Controlled Incubation Environment
 
@@ -1499,6 +1598,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
   - Use full, conditioned medium as standard medium to promote neuron survival
 - Using a small incubator system with temperature, humidity, and CO2 control to maintain cells in controlled environment.
 
+---
+
 #### TIRF Microscopy Setup for Cell Imaging and Analysis
 
 **Environmental Control in Microscopy**
@@ -1526,6 +1627,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 * Evanescent wave excitation achieved through commercial TIRF arm
 * Lasers: 113 mW 488 nm argon laser line and 11 mW 561 nm diode-pumped solid-state laser coupled into the TIRF arm using an optical fiber
 * Precise focusing of laser in objective back focal plane critical for achieving total internal reflection on interface between cover glass and medium.
+
+---
 
 #### Live Cell Dendritic Spine Microtubule Dynamics Analysis Using TIRF and Confocal Microscopy
 
@@ -1564,6 +1667,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Speeds and directionality of microtubule growth can be analyzed by manual or automatic tracking of comet trajectories
 - Potential spine-entering events can be rapidly identified by creating maximum or average projections of entire time-lapse recordings, which approximate the distribution of non-microtubule bound EB3-GFP
 
+---
+
 #### Microtubule Dynamics in Dendritic Spines EB3-GFP Imaging Techniques for Study of Neuronal Cytoskeleton
 
 **Neuron Morphology Imaging Using EB3-GFP**
@@ -1600,6 +1705,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 10. Dotti, C. G., et al. (1988). The establishment of polarity by hippocampal neurons in culture. J. Neurosci., 8(4), 1454-1468
 11. Ehlers, M. D. (2003). Activity level controls postsynaptic composition and signaling via the ubiquitin proteasome system. Nat. Neurosci., 6(1), 231-242.
 
+---
+
 ### Chapter 8: Protein Micropatterns using Deep UVs
 
 **I. Introduction**
@@ -1619,6 +1726,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Photomask: Fused silica or synthetic quartz material for deep UV irradiation, transparent below 200 nm; fewer defects and better transparency than natural quartz but more expensive; specify this when ordering from a photomask producer. Examples of companies that provide fused silica photomasks: Delta Mask (The Netherlands), Toppan Photomasks (present in many countries), Microtronics Photomasks (USA).
 - Resolution: Check the resolution provided by the company.
 
+---
+
 #### Designing and Fabricating Protein Micropatterns for Cell Culture Studies
 
 **Micropattern Design and Fabrication**
@@ -1636,6 +1745,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 * Use of deep UVs for protein micropatterns: Fig. 1 illustrates the basic geometric parameters for proper cell spreading and absence of cell spreading between adjacent patterns
 * Materials: glass coverslip, MilliQ water, PBS, 10mM HEPES buffer (pH7.4), 100mM NaHCO3 buffer (pH8.5), ethanol 96%, PLL-g-PEG stock solution (1mg/ml in 10mM HEPES buffer, pH7.4), fibronectin or other proteins to be patterned, fluorescently labeled protein (optional)
 * Note: Make new buffers if issues arise with the protocol; PLL-g-PEG coating on glass coverslips can improve results when using cell culture polystyrene substrates.
+
+---
 
 #### Deep UV Micropattern Fabrication for Protein Substrates
 
@@ -1675,6 +1786,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
   - Place the photomask under deep UV for 5 minutes to make it more hydrophilic.
   - Place the pegylated side of the coverslip in contact with the chrome-coated side of the photomask using a drop of water (the volume has to be adapted to the substrate size to allow complete coverage by water while keeping close contact).
 
+---
+
 #### Direct Printing of Protein Micropatterns using Deep UV Light
 
 **UV Patterned Substrates: Preparation and Use**
@@ -1701,6 +1814,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Protocol is simple and robust for directly patterning glass substrates with fibronectin
 - Success rate is high, with a limited number of steps and chemicals involved
 - Can be adapted for specific applications: cells, patterned proteins, timescale.
+
+---
 
 #### Micropatterning Cellular Adhesion with Deep UV Irradiation on Various Substrates
 
@@ -1735,6 +1850,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 2. Activate the PDMS with deep UVs for 5 minutes
 3. Prepare fresh EDC/sulfo-NHS solution
 4. Follow specific protocol for protein binding or backfilling with passivation molecule (PLL-g-PEG)
+
+---
 
 #### Micropatterned Cell Adhesion Protocol and Literature Review
 
@@ -1780,6 +1897,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Thry et al. (2005): the extracellular matrix guides the orientation of the cell division axis
 - Whitesides et al. (2001): soft lithography in biology and biochemistry.
 
+---
+
 ### Chapter 9: New and Old Reagents for Fluorescent Protein Tagging of Microtubules in Fission Yeast: Experimental and Critical Evaluation
 
 **I. Introduction**
@@ -1803,6 +1922,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **VI. Successful Fluorescent Imaging of Fission Yeast Microtubules and Associated Proteins**
 - Acknowledgments
 - References
+
+---
 
 #### Comparison of GFP-Tubulin Expression Methods in Fission Yeast
 
@@ -1829,6 +1950,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
     - Levels increased fourfold when grown at 36C, demonstrating temperature-dependent activity of the SV40 promoter
   - nmt81:GFP-Atb2 and nmt41:GFP-Atb2 at the atb2 locus were approximately 20% and 64% of total a-tubulin, respectively
 - Amount of GFP/RFP-Atb2 relative to Atb2 and Nda2 in EMM2 medium is shown in the table below.
+
+---
 
 #### Fluorescent Microtubules Comparison in Fission Yeast Strains
 
@@ -1861,6 +1984,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - The retention of untagged Atb2 is important, as it may have unique biological functions not shared by Nda2
 - The ratio of GFP-Atb2 to total untagged -tubulin or a combination of the two may also contribute to these effects.
 
+---
+
 #### Evaluation of Red Fluorescent Proteins for Fission Yeast Microtubule Imaging
 
 **GFP and RFPs for Microtubule Imaging in Fission Yeast**
@@ -1885,6 +2010,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 5. Comparison with SV40 :GFP-Atb2 expression at leu1 locus is important for validation in some cases.
 6. nmt81 :GFP-Atb2 expression at ars1 locus leaves endogenous untagged Atb2 undisturbed and produces higher levels of GFP-Atb2 than SV40 :GFP-Atb2 but may not be suitable for all applications due to genetic markers.
 
+---
+
 #### Protein Stability and Function Analysis of RFP Fusions in Fission Yeast
 
 **Plasmid Availability and Protein Functionality with RFPs in Fission Yeast**
@@ -1904,6 +2031,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **mOrange2** and **TagRFP-T** had the least negative effect on protein stability, with levels varying between 47 and 176% of the wild type
 - Both **tdTomato** and **mCherry** had variable effects on protein stability (30-152% of the wild type)
 - Function of fusions was assessed and varied depending on the protein to which they were tagged
+
+---
 
 #### Photostability Comparison of Red Fluorescent Proteins in Fission Yeast Cells
 
@@ -1925,6 +2054,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **Importance of Testing RFP Properties**:
 - No single RFP has all positive attributes, as some can affect protein function and have poorer fluorescence properties
 - It may be necessary to evaluate several different RFP-fusions to determine the optimal tag for a protein of interest
+
+---
 
 #### Fluorescent Protein Fusion for Tubulin Study in Fission Yeast
 
@@ -1965,6 +2096,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 | pDUAL-HFmK 41cd |  | 6xHis-FLAG-mKate | N | nmt41 | Medium |
 | pDUAL-HFmK 81cd |  | 6xHis-FLAG-mKate | N | nmt81 | Weak |
 
+---
+
 #### Fission Yeast Microtubule Expression Analysis in Various Constructs
 
 **Study Findings and Comparison of Microtubules in Fission Yeast:**
@@ -1974,6 +2107,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **nmt81:tdTomato-Atb2**, **nmt41:tdTomato-Atb2**, and **nmt41:mKate-Atb2** at the leu1 locus allowed unperturbed expression of endogenous untagged Atb2 at the atb2 locus, resulting in wild-type microtubules (Fig. 6EG).
 - The level of tagged tubulin in the strain expressing nmt41: mKate-Atb2 was lower than that with mKate-Atb2 expressed under SV40 promoter at nmt81 locus.
 - **nmt81:GFP-Atb2**, **nmt81:mCherry-Atb2**, and **nmt41:mCherry-Atb2** displayed similar expression levels when using different promoters and integration sites (Fig. 6I & J).
+
+---
 
 #### Imaging Fission Yeast Microtubules and Associated Proteins
 
@@ -1999,6 +2134,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **Emission filters**: Matched to fluorophores to collect maximum signal
 - **Linker sequences**: Added between the C-terminus of the tagged protein and the downstream GFP or RFP tag can affect behavior of the fusion protein
 - **Media choice**: Rich media has autofluorescence that can mask specific fluorescence
+
+---
 
 #### Preparation of Microtubule Imaging in Fission Yeast
 
@@ -2049,6 +2186,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - K.E.S. is a Wellcome Trust Senior Research Fellow in Basic Biomedical Sciences
 - This work was supported by a grant from the Wellcome Trust
 
+---
+
 ### Chapter 10: Optical Trapping and Laser Ablation in Fission Yeast
 
 **I. Introduction:**
@@ -2086,6 +2225,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **V. Methods:**
 - Cell culture and sample preparation not covered in provided text.
 
+---
+
 #### Optical Tweezing and Manipulation of Fission Yeast Nuclei
 
 **Optical Tweezers and Laser Ablation in Microscopy Setups**
@@ -2119,6 +2260,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 3. Enables changing position of nucleus without affecting other organelles or molecular gradients
 * Care taken to avoid inducing damage during lipid granule trapping using CW, near-infrared laser at 970 nm; results suggest minimal damage to sample.
 
+---
+
 #### Laser Ablation of Microtubules in Fission Yeast
 
 **Optical Trapping and Laser Ablation of Microtubules**
@@ -2141,6 +2284,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 2. **Ablation of Mitotic Spindle**:
    - Ablation near one pole induces asymmetric division and nuclear inheritance
    - Abnormal mitosis occurs as the ablated spindle continues to elongate, displacing the nucleus asymmetrically during cell division
+
+---
 
 #### Laser Ablation of Microtubules in Fission Yeast Mechanisms of Nuclear Movement During Meiosis
 
@@ -2177,6 +2322,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 8. Heisterkamp et al. (2005) Pulse energy dependence of subcellular dissection by femtosecond laser pulses. Optical Express
 9. Khodjakov et al. (2004) Laser microsurgery in fission yeast: role of the mitotic spindle midzone in anaphase B. Current Biology
 10. Ashkin and Dziedzic (1987) Optical trapping and manipulation of single cells using infrared laser beams. Nature.
+
+---
 
 ### Chapter 11: Microfluidic Temperature Control Device for Studying Microtubule Dynamics in Fission Yeast
 
@@ -2241,6 +2388,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **References**:
 - Provided at the end of the text for further reading.
 
+---
+
 #### Microfluidic Device Fabrication Using PDMS
 
 **Microfluidic Device Fabrication using PDMS**
@@ -2269,6 +2418,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
    - Release the PDMS parts from molds and drill inlets
    - Bond the bilayer assembly to a glass coverslip using plasma treatment
 7. **Fabrication Process Diagram**: (Figure 2)
+
+---
 
 #### Fabrication and Assembly of Microfluidic Device for Studying Cell Microtubules
 
@@ -2301,6 +2452,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Long waiting time after plasma treatment decreases bond efficiency
 - Position bottom cell channels under center of top temperature control channels for optimal temperature uniformity.
 
+---
+
 #### Microfluidic Device Setup and Connection for Studying Microtubule Dynamics in Fission Yeast
 
 **Experimental Setup and Procedure for Using Peltier Modules in Microfluidic Devices**
@@ -2324,6 +2477,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Plug the PDMS device inlet with cells and inject gently, avoiding air bubbles
 - For experiments longer than 23 hours, fill outlet tubing with media and renew as needed to prevent nutrient depletion
 - Visualize air bubbles on a black background for easier detection.
+
+---
 
 #### Device Temperature Control and Characterization for Microtubule Studies
 
@@ -2351,6 +2506,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **B-C) Device temperature versus syringe pump flow rate (cold and hot Peltier settings)**.
 - **D) Calculation of device temperature as a function of Peltier module temperature with ambient temperature of 25C**: Tdevice = Tpeltier  (ATambient/300) + (1 - ATambient/300)  Tpeltier when objective is in contact, or Tdevice = Tpeltier  (2.21  ATambient/300) + (1 - 2.21  ATambient/300)  Tpeltier when not in contact.
 - **E) Time lapse montage of microtubule dynamics in fission yeast responding to temperature changes**: at 6C, microtubules depolymerized; at ambient room temperature (23C), microtubules repolymerized.
+
+---
 
 #### Fabrication and Use of Micro-Fluidic Temperature Control Device for Studying Fission Yeast Microtubule Dynamics
 
@@ -2409,6 +2566,8 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 5. Unger, M.A., Chou, H.P., Thorsen, T., Scherer, A., and Quake, S.R. (2000) Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 288, 1131-1136.
 6. Velve-Casquillas, G., Le Berre, M., Piel, M., Tran, P.T. (2010) Microfluidic tools for cell biological research. Nano Today 5, 847.
 
+---
+
 ### Chapter 12: Microtubule-Dependent Spatial Organization of Mitochondria in Fission Yeast
 
 **I. Introduction:**
@@ -2432,6 +2591,8 @@ A. Growth of fission yeast cells
 B. Isolation of mitochondria
 C. Mitochondrial compartments and protein localization
 
+---
+
 #### Visualization Techniques in Fission Yeast Mitochondria  Microtubules
 
 **Mitochondrial Positioning in Fission Yeast**
@@ -2450,6 +2611,8 @@ C. Mitochondrial compartments and protein localization
 - Mitochondria can be visualized using immunostaining, vital dyes, or fluorescent proteins targeted to mitochondria
 - MTs can be visualized using immunostaining and ectopic expression of fluorescent alpha tubulin fusion protein
 - Electron tomography can be used for fine ultrastructural details and 3D reconstruction
+
+---
 
 #### Visualization of Mitochondria and Microtubules in Fission Yeast using Dyes Protein Fusions and Immunostaining
 
@@ -2489,6 +2652,8 @@ C. Mitochondrial compartments and protein localization
    - PEMS: PEM with 1.2 M sorbitol and 1% BSA
    - Other: SDS, Zymolyase T20, Novozyme, triton X-100, lysine hydrochloride
 
+---
+
 #### Mitochondria and Microtubule Interaction Analysis
 
 **Microscopic Analysis of MT and Mitochondrial Dynamics**
@@ -2522,6 +2687,8 @@ C. Mitochondrial compartments and protein localization
 7. **Imaging Technologies**:
    An Axiovert 200M microscope with a spinning disk confocal head and argon/krypton laser can be used to visualize mitochondrial distribution regulated by CLASP.
 
+---
+
 #### Purification and Subfractionation of Fission Yeast Mitochondria for Protein Analysis
 
 **Mitochondrial Distribution in Fission Yeast: Techniques and Approaches**
@@ -2539,6 +2706,8 @@ C. Mitochondrial compartments and protein localization
 **Purification and Subfractionation of Fission Yeast Mitochondria:**
 - Useful for assaying mitochondrial localization of proteins involved in MT-mitochondrial interaction and testing their association with inner membrane or matrix.
 - Extensive description of respiratory physiology, mitochondrial genome structure, and methods for mitochondrial purification and subfractionation published previously (Chiron et al., 2007; Gouget et al., 2008).
+
+---
 
 #### Isolating and Localizing Mitochondrial Proteins
 
@@ -2564,6 +2733,8 @@ C. Mitochondrial compartments and protein localization
 3. **Western Blot Analysis**: Perform western blot analysis with antibodies against subunit b of the membrane-associated F1 portion of the F1F0 ATPase, Tom70, and the protein or tagged fusion protein under study.
 4. **Protein Localization**: Proteins localized inside mitochondria (e.g., F1-ATPase) are not digested by proteinase K in the absence of sonication, while proteins localized on the outer membrane (e.g., Tom70) are digested even without sonication. If the mitochondrial membrane is disrupted during isolation, the F1-ATPase will also disappear in fraction 2 treated with proteinase K in the absence of sonication. Note that matrix soluble proteins remain in the supernatant after centrifugation and will not be detected without proteinase K treatment.
 
+---
+
 #### Microtubule and Mitochondria Studies in Fission Yeast Acknowledgements and References
 
 **Acknowledgments:**
@@ -2580,6 +2751,8 @@ C. Mitochondrial compartments and protein localization
 - Chiron et al. (2008): Regulation of mitochondrial distribution in Schizosaccharomyces pombe by CLASP
 - Chiron et al. (2007): Studying mitochondria in an attractive model: Schizosaccharomyces pombe, Methods Mol Biol 372, 91105
 - Deshpande et al. (2009): Screening a genome-wide deletion library in S. Pombe identifies novel genes and pathways involved in genome stability maintenance
+
+---
 
 ### Chapter 13: Microscopy Methods for the Study of Centriole Biogenesis and Function in Drosophila
 
@@ -2615,6 +2788,8 @@ B) **Transmission Electron Microscopy of Testes:**
 C) **Immunoelectron Microscopy of Testes:**
 - Study specific proteins involved in centriole biogenesis or function
 
+---
+
 #### Drosophila Early Embryogenesis Centriole Biogenesis and Function
 
 **Drosophila Melanogaster Life Cycle and Centrioles:**
@@ -2635,6 +2810,8 @@ C) **Immunoelectron Microscopy of Testes:**
 **Centriole Characteristics and Separation:**
 - Drosophila centrioles are shorter than mammalian counterparts (approximately 200 nm vs. 500 nm)
 - Centrioles lose orthogonal arrangement in metaphase to anaphase transition, move apart during anaphase, and become widely separated at telophase.
+
+---
 
 #### Centriole Formation and Immunofluorescence Analysis in Drosophila Embryos
 
@@ -2664,6 +2841,8 @@ C) **Immunoelectron Microscopy of Testes:**
    - Finally, wash with PBS before transferring to glass slides containing Vectashield mounting media for fluorescence.
 
 **Table I:** Commonly used centrosomal-related primary antibodies and their working dilutions.
+
+---
 
 #### Immunofluorescence and Electron Microscopy Protocols for Drosophila Centrioles Analysis
 
@@ -2698,6 +2877,8 @@ C) **Immunoelectron Microscopy of Testes:**
 **Immunoelectron Microscopy of Embryos**:
 - Useful to understand the ultrastructural aspects of centrioles, but does not provide spatial localization of proteins.
 
+---
+
 #### Immunoelectron Microscopy of Drosophila Embryos Pre- and Postembedding Methods for Antigen Localization in Centrioles
 
 **Immunoelectron Microscopy for Antigen Localization**
@@ -2730,6 +2911,8 @@ C) **Immunoelectron Microscopy of Testes:**
 3. Sectioning: collect thin sections on nickel or gold grids due to challenges with hydrophilic resins
 4. Immunostaining and post-processing: same as preembedding method
 5. Detection: same as preembedding method. Centrioles in Drosophila Spermatogenesis: a variety of cell divisions characterize spermatogenesis; centrioles become basal bodies and elongate from 0.5 to 2.3 meters during this process.
+
+---
 
 #### Drosophila Spermatogenesis and Microtubule Formation in Testes
 
@@ -2768,6 +2951,8 @@ C) **Immunoelectron Microscopy of Testes:**
   * Carefully dissect testes from lower part of abdomen, attached to hub where stem cells remain
 - Testes contain a spatial-temporal array of spermatogenic stages from apical to basal localization.
 
+---
+
 #### Drosophila Spermatogenesis Imaging via Phase Contrast and Immunofluorescence Microscopy
 
 **Drosophila Spermatogenesis Imaging: Microscopy Methods for Centrioles**
@@ -2802,6 +2987,8 @@ C) **Immunoelectron Microscopy of Testes:**
 - Postfix in 1% aqueous osmium tetroxide for 1 h at 4C on a wheel rotator (longer exposures may result in extraction of nucleus and cytoplasm)
 - Wash in distilled water three times, 10 min each
 - Dehydrate in a graded series of alcohol (70%, 90%, absolute) to properly infiltrate embedding media
+
+---
 
 #### Electron Microscopy of Drosophila Testes Centrioles Pre- and Post-Embedding Immuno-Electron Microscopy Methods
 
@@ -2843,6 +3030,8 @@ C) **Immunoelectron Microscopy of Testes:**
 - Wash in five drops of water and let it dry at room temperature
 - Grids can be stored at room temperature in gelatin capsules or inside grid boxes.
 
+---
+
 ### Chapter 14: Drosophila S2 Cells as a Model System to Investigate Mitotic Spindle Dynamics, Architecture, and Function_243
 
 **Mitotic Spindle Dynamics in Drosophila S2 Cells**
@@ -2876,6 +3065,8 @@ C) **Immunoelectron Microscopy of Testes:**
 **Conclusion:**
 - Both centrosomes and kinetochores contribute to spindle assembly; acentrosomal mechanisms may be present even in those systems relying on centrosomes.
 
+---
+
 #### Live Imaging of Mitotic Spindle Assembly in Drosophila S2 Cells with Fluorescently Tagged Components
 
 **Methodologies for Studying Mitotic Spindle Dynamics in Live Drosophila Culture Cells**
@@ -2898,6 +3089,8 @@ C) **Immunoelectron Microscopy of Testes:**
 4. Generate stable cell lines using Gateway Cloning System or Cellfectin reagent and optimized protocols
 5. Use copper-inducible metallothionein promoter for desired expression levels.
 
+---
+
 #### Live Cell Imaging of Mitotic Spindle Assembly in Drosophila S2 Cells
 
 **Mitotic Spindle Assembly in Drosophila S2 Cells:**
@@ -2914,6 +3107,8 @@ C) **Immunoelectron Microscopy of Testes:**
 * Taxol causes hyperstabilization, forming large asters while blocking cells in mitosis or allowing entry/exit with lower doses
 * Roscovitine inhibits CDK1, leading to mitotic spindle disassembly and late mitotic events
 * CLASP and KLP10A RNAi affect microtubule dynamics during mitosis.
+
+---
 
 #### Investigating Spindle Microtubule Poleward Flux in Drosophila S2 Cells via FSM
 
@@ -2934,6 +3129,8 @@ C) **Immunoelectron Microscopy of Testes:**
   - Tracking a fiducial mark within a fluorescent-labeled spindle (photo-bleaching or photoactivation)
   - FSM, which uses low levels of fluorescently labeled tubulin to track individual speckles along spindle microtubules
 - The use of FSM has allowed for many important discoveries, especially with the help of computational tools for automatic speckle analysis
+
+---
 
 #### High-Resolution Imaging and Laser Microsurgery in Drosophila S2 Cells Investigating Mitosis Mechanisms
 
@@ -2975,6 +3172,8 @@ C) **Immunoelectron Microscopy of Testes:**
 - Gohta Goshima and Monica Bettencourt-Dias for cell lines and constructs
 - Sara Moutinho-Pereira, Irina Matos: Postdoctoral and doctoral fellowships from FCT
 - Laboratory work supported by grants from FCT, Gulbenkian Programme, and Human Frontier Science Program.
+
+---
 
 ### Chapter 15: Assessment of Mitotic Spindle Phenotypes in Drosophila S2 Cells
 
@@ -3048,6 +3247,8 @@ C) **Immunoelectron Microscopy of Testes:**
 **References:**
 - N/A (Text does not include references)
 
+---
+
 #### Identifying Mitosis in Drosophila S2 Cells Quality Control for RNAi Studies
 
 **Mitosis in Drosophila S2 Cells: Correctly Identifying Mitotic Phenotypes**
@@ -3068,6 +3269,8 @@ C) **Immunoelectron Microscopy of Testes:**
 - Occasionally, RNAi treatment can lead to complete cell death regardless of target genes
 - The combination of dsRNA, medium, and cell lines plays a critical role in this toxicity
 - Increasing cell density during RNAi treatment may help reduce cell death
+
+---
 
 #### RNAi and Cell Imaging Protocol and Considerations for Drosophila S2 Cells
 
@@ -3102,6 +3305,8 @@ C) **Immunoelectron Microscopy of Testes:**
 - However, Con-A inhibits cytokinesis completion and increases multinucleated cells over time
 - Cell density affects spreading efficiency; spreading is not robust when too many or too few cells are plated
 
+---
+
 #### Microtubule Staining and Spindle Phenotypes in Drosophila S2 Cells
 
 **Spindle Phenotypes in S2 Cells**
@@ -3124,6 +3329,8 @@ C) **Immunoelectron Microscopy of Testes:**
 2. **Multipolar Spindle**: More than two centrosomes, locations random relative to spindle center
    - Caused by failure in centrosome clustering/fusion, involved factors include Ncd and actin-related proteins
 3. **Anastral Spindle**: No centrosomes, unique to genes required for centriole duplication or maturation (e.g., Sak, Sas-4, Cnn)
+
+---
 
 #### Mitosis Phenotypes and False Positives in Drosophila S2 Cells
 
@@ -3167,6 +3374,8 @@ C) **Immunoelectron Microscopy of Testes:**
 
 **Chromosome Condensation**:
 - Chromosome structure defect seen after knockdown of condensin and topoisomerase II
+
+---
 
 #### Mitotic Variation and Experimental Approaches in Drosophila S2 Cells
 

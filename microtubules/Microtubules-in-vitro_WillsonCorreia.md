@@ -25,6 +25,7 @@
 - [Chapter 15: Analysis of Tubulin Oligomers by Analytical Ultracentrifugation](#chapter-15-analysis-of-tubulin-oligomers-by-analytical-ultracentrifugation)
 
 ## Summary
+
 ### Chapter 1: Preparation of Microtubule Protein and Purified Tubulin from Bovine Brain by Cycles of Assembly and Disassembly and Phosphocellulose Chromatography
 
 **Preparation of Microtubule Protein and Purified Tubulin from Bovine Brain**
@@ -61,6 +62,8 @@
 **IV. Concluding Comments**:
 - Discuss any limitations or considerations related to the purification methods
 
+---
+
 #### Purification of Microtubule Protein from Bovine Brains
 
 **Factors Influencing Microtubule Protein (MTP) Yield in Brain Extracts:**
@@ -84,6 +87,8 @@
 - Procedure modifies Asnes and Wilson's method (1979) to isolate MTP from any brain source
 - Flowchart illustrates the purification protocol, which involves several centrifugation steps
 - Preparing crude brain extract (CBE), homogenizing, and removing impurities before obtaining soluble or pelleted MTP
+
+---
 
 #### Phosphocellulose-Purified Tubulin Purification Procedure
 
@@ -112,6 +117,8 @@
    - Centrifuge at 45,000  g for 60 minutes at 30C to obtain H2P pellets (microtubule pellets)
    - Prepare phosphocellulose column using Whatman P-11 cellulose phosphate and NaOH
    - Load C2S supernatant onto the column, elute with gradient of 0.5 M sodium phosphate buffer (pH 6.8) to obtain purified tubulin (PC-Tubulin).
+
+---
 
 #### Purification and Characterization of Microtubule Proteins
 
@@ -144,6 +151,8 @@
 - Microtubule protein (MTP) self-assembles into microtubules with quick nucleation and rapid elongation
 - PC-Tu requires addition of nucleating seeds for efficient polymerization.
 
+---
+
 #### Purification of Mammalian Microtubule Protein
 
 **Preparation of Microtubule Protein and Purified Tubulin from Bovine Brain**
@@ -169,6 +178,8 @@
 3. Importance of optimizing yields and purity through fine-tuning steps and buffer conditions
 4. Variation in tubulin content among mammalian tissues and eukaryotic organisms, requiring potential modifications to the protocols for different tissues or species
 5. Contributions from various researchers including Clara Asnes, Kevin Sullivan, Kevin Farrell, Aileen Morse, J.M. Andreu (2007), C.F. Asnes and Wilson (1979), J.R. Bamburg et al. (1973), Bellocq et al. (2005), Borisy et al. (1975), H.W. Detrich III and Wilson (1983), K.W. Farrell (1982), J.C. Lee and Timasheff (1975), D.B. Murphy (1982) acknowledged for refining the protocols described here.
+
+---
 
 ### Chapter 2: Isolating Tubulin from Nonneural Sources
 
@@ -204,6 +215,8 @@ VII. Summary
 - Discuss protocols for purifying tubulin from various nonneural sources using anion exchange chromatography and induced polymerization
 - Outline essential steps: homogenize cells/tissues, clarify extract, isolate tubulin, concentrate tubulin eluted from anion exchange material, polymerize tubulin, adjust concentration and store.
 
+---
+
 #### Non-Neural Tubulin Sources and Purification Methods
 
 **Obtaining Tubulin from Non-Neural Sources**
@@ -233,6 +246,8 @@ VII. Summary
 **Saccharomyces cerevisiae**:
 - Tubulin purification first accomplished in 1981 using DEAE-Sephadex for isolation and ammonium sulfate concentration
 - Optimized by Barnes, Louie, and Botstein to purify tubulin with microtubule associated proteins
+
+---
 
 #### Purification and Genetic Manipulation of Tubulin from Yeast
 
@@ -264,6 +279,8 @@ VII. Summary
 - TUB1, TUB2 are essential, while TUB3 can be deleted without loss of viability
 - Well-established methods for deleting genes by supplying a copy on a nonintegrating plasmid
 - Perform plasmid shuffling to test effects of mutant forms in the absence of wild-type gene
+
+---
 
 #### Genetic Manipulation and Tubulin Isolation in Tetrahymena
 
@@ -300,6 +317,8 @@ VII. Summary
 * Tetrain, a secreted cysteine protease in T. thermophila: Benzamidine (1 mM), 4-(2-aminoethyl) benzenesulfonyl fluoride hydrochloride (1 mM), aprotinin (800 nM), bestatin (50 M), E64 (15 M), pepstatin (10 M), and leupeptin (25 g/ml)
 * S. cerevisiae: Phenylmethylsulfonyl fluoride (PMSF, 2 mM)
 * Leishmania major: In the absence of cysteine protease inhibitors, include leupeptin (25 g/ml) during lysis, clarification, and chromatography phases.
+
+---
 
 #### Extraction and Purification of Non-Neural Tubulin from Various Sources
 
@@ -360,6 +379,8 @@ VII. Summary
 - Must be above critical concentration to assemble after elution
 - Concentrate by ammonium sulfate precipitation or using dialysis and centrifugation devices.
 
+---
+
 #### Isolating Tubulin from Non-Neural Sources Protocol and Notes
 
 **Microtubule Assembly from Eluted Tubulin**
@@ -383,6 +404,8 @@ VII. Summary
 6. **Acknowledgments**: Thanks to Mohan Gupta, Richard Cyr, and Sally Lyons-Abbott for information, comments, and corrections. This work was supported by NIH grants (DLS, AI067981).
 7. **References**: Andreu JM (2007), Aoki et al. (2009), Banerjee (2002), Barahona et al. (1988), Barnes et al. (1992), Boeke et al. (1987), Borisy et al. (1974), Callahan et al. (1984).
 
+---
+
 ### Chapter 3: Characterization of Anti  tubulin Antibodies
 
 **Characterization of Anti-b-Tubulin Antibodies**
@@ -402,6 +425,8 @@ VII. Summary
 - **Isotype-specific b-tubulin antibodies**: Used for biochemical analyses and immunocytochemistry
 - In high demand to determine tubulin isotype abundance, distribution, and changes during development, oncogenesis, drug therapy
 - Examples: Determining the correlation between aberrant expression of neuronal b-tubulin isotype (bIII) and tumorigenesis/resistance to chemotherapy.
+
+---
 
 #### Characterization of Glutamylated Tubulin Antibodies
 
@@ -428,6 +453,8 @@ VII. Summary
 - The number of glutamate residues can vary from 1 to many, with the initial one added through a -carboxyl link
 - Glutamylation is catalyzed by amino acid ligases belonging to the ATP-grasp superfamily of enzymes
 
+---
+
 #### Characterization of Anti-bIII Tubulin Antibodies Specificity and Competitive ELISA Testing
 
 **Glutamylation of Tubulins in Brain**
@@ -448,6 +475,8 @@ VII. Summary
 - Competitive ELISAs confirm specificity: reaction with purified brain tubulin and monoglutamated peptide, not unmodified fusion protein or other peptides (Fig. 5)
 
 **Table II**: Immunogens used for generating anti-g-glutamyl antibodies.
+
+---
 
 #### Characterization of Anti-b-tubulin Antibodies through Immunoaffinity Chromatography
 
@@ -472,6 +501,8 @@ VII. Summary
     2. Fractionation of tubulin-depleted supernatant by arginine-Sepharose chromatography
     3. Elution of polypeptides from 7D2 column with 1.2 M NaCl and analysis by gel electrophoresis and/or mass spectrometry
 - Demonstrated the presence of glutamylated NAPs in each of three silver-stained fractions
+
+---
 
 #### Characterization of Anti-b-tubulin Antibodies Methods and Reagents
 
@@ -501,6 +532,8 @@ VII. Summary
 * Binder et al., (1985) The distribution of tau in the mammalian central nervous system. J. Cell Biol. 101, 13711378.
 * Blose et al., (1984) 10-nm filaments are induced to collapse in living cells microinjected with monoclonal and polyclonal antibodies against tubulin. J. Cell Biol. 98, 847858.
 * Caceres et al., (1984) Differential subcellular localization of tubulin and the microtubule-associated protein MAP2 in brain tissue as revealed by immunocytochemistry with monoclonal hybridoma antibodies. J. Neurosci. 4, 394410.
+
+---
 
 ### Chapter 4: Expression Profiling of Tubulin Isotypes and Microtubule Interacting Proteins Using Real Time Polymerase Chain Reaction
 
@@ -562,6 +595,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Real-time PCR is a valuable tool for studying tubulin isotype and MIP mRNA levels under varying experimental conditions
 - Quantitative or comparative approaches provide insights into drug effects, tissue expression patterns, and potential biomarkers/prognostic applications
 
+---
+
 #### Optimizing cDNA Amplification for qRT-PCR
 
 **Tubulin Isotypes and Microtubule-Interacting Proteins Expression Profiling Protocol**
@@ -586,6 +621,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 * Primer preparation and optimization of PCR conditions:
   - Minimal purification adequate for most applications
   - Optimize reaction conditions to minimize nonspecific products or primer dimers and maximize desired amplicon yield. Use commercially available premixes to simplify the process.
+
+---
 
 #### Quantitative Real-Time RT-PCR Methodology
 
@@ -613,6 +650,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 9. Load quality control samples on several PCR plates to validate standard curve consistency
 10. Use preferably two housekeeping genes for normalization in comparative RT-PCR studies (e.g., GAPDH and HPRT1)
 
+---
+
 #### Expression Profiling of Tubulin Isotypes and Microtubule-Interacting Proteins in Human Tissues
 
 **b-Tubulin Isotypes and Microtubule-Interacting Proteins (MIPs)**
@@ -639,6 +678,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 **B.b-Tubulin Isotypes and MIP Levels Change in Response to Drug Treatment**:
 - Studied changes in MIP mRNA levels in cell culture in response to paclitaxel treatment
 - Found that MAP4 and stathmin 1 mRNA levels decreased within 4 hours of drug treatment, agreeing with reported studies
+
+---
 
 #### Quantitative PCR Methods and Applications in Drug Treatment and Resistance Studies
 
@@ -668,6 +709,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 **Drug Sensitivity and p53 Dependence**
 - Zhang, Yang, Bash-Babula, White, Murphy, Levine and Hait (1999) - DNA damage increases sensitivity to vinca alkaloids and decreases sensitivity to taxanes through p53-dependent repression of microtubule-associated protein 4
 - Cancer Res. 59, 3663-3670.
+
+---
 
 ### Chapter 5: Nondenaturing Electrophoresis as a Tool to Investigate Tubulin Complexes
 
@@ -699,6 +742,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Preparation of subtilisin-treated dimers can also be analyzed using nondenaturing gel electrophoresis.
 - Versatile technique with potential applications beyond tubulin research.
 
+---
+
 #### Purification of Tubulin through Gel Filtration
 
 **Native Electrophoresis: Methods A. Native Gels and Western Blotting**
@@ -728,6 +773,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Tubulin is usually stored at 80C after purification through phosphocellulose column
 - About 500 g of purified tubulin (12 g/l) is injected into the gel filtration column equilibrated with buffer A
 
+---
+
 #### Temperature and Freezing Effects on Tubulin Stability
 
 **Tubulin Stability and Denaturation: Effects of Freezing, Thawing, Temperature, and Solvents**
@@ -751,6 +798,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - After lag period, synthesis stopped by adding cold methionine and RNAse A
 - Tubulin polypeptides analyzed using nondenaturing gels at various time points (panels IVI in Fig. 5)
 - Different complexes appear during in vitro translation: II (unfolded/denatured tubulin), IV (intermediate), and III, V, VI (folded heterodimers)
+
+---
 
 #### Tubulin Complex Analysis via Native Electrophoresis and Antibody Assays
 
@@ -780,6 +829,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Allows separation of complexes under native conditions, studying composition
 - Example study analyzing tubulin polypeptides synthesized in vitro
 
+---
+
 #### Investigating Tubulin Complexes via Nondenaturing Electrophoresis Techniques
 
 **Nondenaturing Electrophoresis as a Tool to Investigate Tubulin Complexes**
@@ -803,6 +854,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Fresh soluble fraction vs. extract stored at 4C for 48 or 96 hours
 - Western blotting using rabbit polyclonal antiserum against TBCA showed that the complex was present in fresh extract but absent after storage, indicating instability under these conditions.
 
+---
+
 #### Nondenaturing Electrophoresis Investigating Tubulin Complexes
 
 **Materials and Equipment:**
@@ -819,6 +872,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - 1 M GTP (stored at 70C immediately after preparation)
 - Purified TBCA, free TBCA, tubulin fresh extracts
 - Reagents for Western blotting: rabbit reticulocyte lysates from Promega, 35S-methionine, antibodies against protein of interest.
+
+---
 
 ### Chapter 6: Mass Spectrometry Analysis of C Terminal Posttranslational Modifications of Tubulins
 
@@ -853,6 +908,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 
 **Conclusion**:
 - The PMF method allows for the comparison of tubulin isoform compositions and documenting changes in PTMs between samples with different tubulin assembly properties or consecutively to modification site mutations or enzyme inactivation.
+
+---
 
 #### Identification of Tubulin Post-Translational Modifications via Mass Spectrometry
 
@@ -892,6 +949,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Increase tubulin heterogeneity by addition of glutamate or glycine residues onto specific glutamates
 - Abundant in neurons, centrioles, basal bodies, axonemes of cilia and flagella, and mitotic spindle
 
+---
+
 #### Tubulin C-Terminal Peptide Mass Fingerprinting for Identifying and Characterizing Tubulin Isoforms and PTMs
 
 **Tubulin Isoform Analysis using Peptide Mass Fingerprinting (PMF)**
@@ -913,6 +972,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 3. **Peptide Mass Fingerprinting (PMF):**
    - Analysis of tubulin isotype composition and multiple PTMs
    - Sequence information necessary for validation when unknown tubulin sequences are involved.
+
+---
 
 #### Purification and Mass Spectrometry Analysis of Tubulin C-Terminal Peptides
 
@@ -943,6 +1004,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
   * Position of modified residues identified by absence of phenylthiohydroxylation (PTH) derivatives in sequencing cycle
 2. Other methods: not covered in provided text.
 
+---
+
 #### Tubulin C-Terminal Peptide Mass Fingerprinting Method Isolation and Characterization
 
 **Tubulin Isoforms MS Profiling Methods**
@@ -969,6 +1032,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
    - Exact mass measurement or MS/MS or Edman degradation methods used for identifying the amino acid sequence of peptides
 4. **Detection of PTMs**: series of ions separated by specific mass differences: 57 Da (glycylation), 129 Da (glutamylation), 163 Da (tyrosylation), and 80 Da (phosphorylation).
 
+---
+
 #### Paramecium Axonemal Tubulin Polyglycylation Analysis via MALDI-TOF MS
 
 **Characterization of Tubulin Isotypes using PMF Method**
@@ -994,6 +1059,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Longer polyglycine chains may regulate protein-protein interactions by altering steric hindrance
 - Modification sites identified using MS/MS to understand functional role of polyglycylation
 
+---
+
 #### Tubulin Polyglycylation Structural Characterization in Paramecium
 
 **Structural Characterization of Polyglycylation in Tubulin Isotypes**
@@ -1012,6 +1079,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Tubulin isotype expression changes between neonatal and adult rat brain:
   - a1A/B-, bI-, bII-, and bIII-tubulins expressed in neonates, while a4A and bIV are expressed later and only detected in adults
 - High levels of glutamylation on predominantly nontyrosinated a4A-tubulin observed in adult brains
+
+---
 
 #### Microtubule Tubulin Polyglutamylation Changes During Neuronal Development
 
@@ -1035,6 +1104,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - Fragmentation of polyglutamylated peptides can be improved using N-terminal derivatization with TMPP or techniques like electron transfer dissociation (ETD) and electron captured dissociation (ECD)
 - Characterizing the lateral glutamate chains remains a challenging question
   - Optimized reversed-phase separation and synthetic peptides mimicking all possible structures of lateral chains for bi- and triglutamylated peptides have been used to study this further
+
+---
 
 #### Tubulin Glutamylation Analysis of Fish Brain Microtubules
 
@@ -1073,6 +1144,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 - **Changes in PTMs of Mutants**:
     - bEAAA 440 variant exhibits significant loss of polymodifications, with predominant b-tubulin isoform being monoglycylated instead of tetraglycylated in WT
 
+---
+
 #### C-Terminal Peptide Mass Fingerprinting of Tubulin Isoforms in WT and Mutant Tetrahymena
 
 **Tubulin Polymerization and Modifications: Characterization Using Mass Spectrometry**
@@ -1096,6 +1169,8 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
 **Importance of Tubulin PTMs:**
 - Polyglycylation and polyglutamylation may stabilize the B-subfiber of outer doublets and regulate intraflagellar transport
 - Suggests an important role in axonemal microtubule assembly and axonemal motility.
+
+---
 
 ### Chapter 7: Methods in Tubulin Proteomics
 
@@ -1140,6 +1215,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 
 **References.**
 
+---
+
 #### Taxol-Based Tubulin Isolation from Non-Neuronal Sources
 
 **Tubulin Isolation from Non-Neuronal Sources using Taxol**
@@ -1177,6 +1254,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 6. Resuspend pellet in MES/glutamate buffer containing NaCl and Taxol, incubate for 10 minutes at 37C
 7. Centrifuge again and freeze on dry ice before storing at -70C until use
 
+---
+
 #### Taxol-stabilized Tubulin Purification Method
 
 **Microtubules Purification using Taxol-Based Methods:**
@@ -1202,6 +1281,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 | II TUBB | NP_821133 | 4.78 | 49,670.8 |
 | III TUBB3 | NP_006077 | 4.83 | 50,432.7 |
 | ... | ... | ... | ... |
+
+---
 
 #### IEF-MALDI MS Analysis of Tubulin Isotypes and PTMs
 
@@ -1245,6 +1326,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 4. Evaporate solvent and dry bands using a SpeedVac concentrator
 5. Rehydrate gel pieces in 100 l CNBr cleavage solution (100 mg/ml CNBr in 70% formic acid) overnight at room temperature in the dark (or use TFA to avoid formylation adducts).
 
+---
+
 #### Tubulin Peptide Identification via Enzymatic Digestion and MALDI-TOF MS
 
 **Tubulin Proteomics Protocols: Cleavage and Digestion Techniques**
@@ -1280,6 +1363,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 3. Generate theoretical tubulin peptide list, including PTMs like detyrosination, glutamylation, glycylation manually to assign obtained peptides.
 4. Perform MS/MS on tandem TOF instruments for sequence information and PTM localization if necessary.
 
+---
+
 #### Hydrogen Deuterium Exchange Probing Drug and MAP Interactions with Microtubules
 
 **Tubulin Analysis by Electrospray Ionization Mass Spectrometry**
@@ -1314,6 +1399,8 @@ F. Microtubule Interactions with Drugs and MAPs:
   - Map contact sites between proteins
   - Investigate effects of single-point mutations or amino acid substitutions on regional and global dynamics
 
+---
+
 #### Tubulin Isolation and Stabilization Techniques for HDX Analysis
 
 **Protocols for Studying Tubulin using Hydrogen Deuterium Exchange (HDX) Technique:**
@@ -1334,6 +1421,8 @@ F. Microtubule Interactions with Drugs and MAPs:
   * This unique characteristic makes it ideal for studying using MS and eliminates ambiguity in mass assignments
   * Visualizing average conformation changes rather than specific tubulin heterodimer changes is also important
   * GMPCPP produces more stable microtubules than GTP, allowing accurate assessment of drug effects against this control.
+
+---
 
 #### Photoaffinity Labeling and Purification of Radiolabeled Beta-Tubulin
 
@@ -1364,6 +1453,8 @@ F. Microtubule Interactions with Drugs and MAPs:
    b. Samples are denatured with guanidine hydrochloride and cysteine residues are reduced and carboxymethylated.
    c. A-a1 and db-tubulin subunits are separated by reverse-phase HPLC using an Aquapore BU-300 column and a linear acetonitrile gradient (25%-55% over 60 min). Fractions containing radiolabeled protein are collected based on Western blot detection.
 
+---
+
 #### Tubulin Isotype Composition Analysis via MS Methods
 
 **Methods for Studying Microtubules: Peptide Sequencing Using Mass Spectrometry**
@@ -1390,6 +1481,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - MS/MS may not provide sufficient sequence information for large peptides
 - Combination of various enzymatic digestions yields better results
 - Molecular pharmacology studies often performed with brain tubulin due to practical reasons but nonneuronal sources are more physiologically and pharmacologically representative.
+
+---
 
 ### Chapter 8: Cryo EM Studies of Microtubule Structural Intermediates and KinetochoreMicrotubule Interactions
 
@@ -1421,6 +1514,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Crediting individuals involved in the research discussed in this chapter
 
 **VII. References**
+
+---
 
 #### Cryo-EM Studies of Microtubule Intermediates and Kinetochore Interactions
 
@@ -1461,6 +1556,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Hyman et al. showed that GTP-bound tubulin is less curved than its GDP-bound counterpart, suggesting exchange of GDP for GTP results in a change from more kinked to smoothly curved conformation
 - Nogales and Wang proposed two-step straightening model: GTP exchange results in smooth curvature that allows association of protofilaments into assembly intermediates with lateral contacts, leading to final straightening.
 
+---
+
 #### Structural Studies of Microtubule Interactions and Kinetochore Formation in Budding Yeast
 
 **Microtubules: Kinetochore Interactions and Dam1 Complex**
@@ -1494,6 +1591,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - High concentrations of divalent cations form stable tubular assemblies without need for depolymerizers (Fig. 3, left)
 - Recapitulates shape of horn-like protofilament structures at depolymerizing microtubule ends.
 
+---
+
 #### GDP-Bound Tubulin Cryo-EM Structure and Its Interdimer Interactions
 
 **Cryo-EM Studies of Microtubule Structural Intermediates and Kinetochore Microtubule Interactions**
@@ -1522,6 +1621,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Two assembly forms have been observed: a closed ring structure and a double spiral with each turn corresponding to a slightly opened ring.
 - The physiological oligomeric form is likely the closed ring based on the number of Dam1 copies estimated from in vivo fluorescence studies.
 
+---
+
 #### Cryo-EM Analysis of GDP Tubulin Helical Tubes and Reconstruction
 
 **Cryo-EM Studies of Microtubule Structural Intermediates and Kinetochore Microtubule Interactions**
@@ -1547,6 +1648,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 4. Digitize on a Nikon Super Coolscan 8000 ED scanner, transfer to processing computer and convert to optical density using EMAN image-processing package
 5. Screen tubes based on number of layers, diameters of each layer, and parallel/antiparallel relationship among protofilaments
 6. Focus on most abundant double-layered tube family with 32/24 subunits in antiparallel protofilaments for further analysis.
+
+---
 
 #### Fourier Bessel Alignment of Double-Layered Tubes for Structural Analysis
 
@@ -1578,6 +1681,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Manually fitted atomic models converted to density maps, low-pass filtered to 23 nm, and threshold filtered to masks
 - Densities compared by Fourier shell correlation, indicating they are practically indistinguishable within a resolution of 15 nm
 - Helical symmetries applied to docked atomic models to generate longer protofilament model using HLXBUILD program in Situs
+
+---
 
 #### Cryo-EM Analysis of GMPCPP Tubulin Helical Structures
 
@@ -1622,6 +1727,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - After the formation of GMPCPP tubulin ribbons at 15C, increasing the temperature to 37C resulted in the conversion of the tubes to microtubules
 - Fluorescence microscopy was used to prove that this conversion was direct, without involving a depolymerization step
 
+---
+
 #### Cryo-EM Reconstruction of Dam1 Complex around Microtubules
 
 **Three-Dimensional Cryo-Electron Microscopy Reconstruction**
@@ -1658,6 +1765,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Out of hundreds of segments, two showed clear helical diffraction to resolution better than 40 
 - The axial repeats of the microtubule and the Dam1 complex spirals were not a multiple of each other, requiring parallel, independent reconstructions
 
+---
+
 #### Cryo-EM Analysis of Dam1 Complex Structures Around Microtubules
 
 **Analysis of Two Dam1 Ring Segments Using SUPRIM and Home-Modified MRC Software**
@@ -1675,6 +1784,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 * New approach (Ramey et al., 2009) uses single-particle analysis, removing microtubules from short segments, then applies image alignment and classification techniques to determine helical parameters.
 * Yielded a 30 nm reconstruction of Dam1 complex in good agreement with previous traditional Fourier Bessel method results.
 * Method has general applicability for studying other microtubule-associated proteins that assemble around microtubules.
+
+---
 
 #### Microtubule Depolymerization and Dam1 Complex Interactions
 
@@ -1701,6 +1812,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Experiments using Dam1-coated beads showed that complex can follow both growing and shrinking microtubule ends, forming a ring that interacts with peels at end of depolymerizing microtubules.
     - Ring transmits tension to peels, stabilizing microtubule against depolymerization direction (Asbury et al., 2006)
 
+---
+
 #### Characterizing Dam1 Oligomerization and Microtubule Interactions in Yeast Kinetochore Complexes
 
 **Dam1 Microtubule Affinity and Oligomerization State**
@@ -1718,6 +1831,8 @@ F. Microtubule Interactions with Drugs and MAPs:
   - Without soluble Dam1: beads bind only to GMPCPP section and increase depolymerization rate with increasing Dam1 decoration, track ends by rolling rather than sliding
   - With soluble Dam1: beads bind along microtubule length and reduce depolymerization rate, form complexes with soluble Dam1
 - Phosphomimetic mutants impaired for ring formation but able to track depolymerizing ends in vitro are deleterious in vivo, suggesting smaller oligomers are deficient in a cellular context.
+
+---
 
 ### Chapter 9: High Resolution Imaging of Microtubules and Cytoskeleton Structures by Atomic Force Microscopy
 
@@ -1758,6 +1873,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - **Detection of interaction between tubulin or microtubules with protein**: possible using AFM imaging in air
 - **Binding of mRNA to microtubules mediated by YB-1**: observed through AFM imaging in air
 
+---
+
 #### Atomic Force Microscopy Principles and Biomolecule Imaging
 
 **AFM Imaging Technique**
@@ -1786,6 +1903,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 2. Incubation for few minutes to allow diffusion and spreading
 3. Rinsing with purified water to remove buffer components and avoid salt crystallization
 4. Fixation of biomolecules using fixation buffer like 0.02% w/v uranyl acetate to prevent release during rinsing.
+
+---
 
 #### Microtubule Assembly and AFM Imaging on Mica Surface
 
@@ -1820,6 +1939,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Scan rate of tip varies between 1.5 and 2 Hz per line depending on scan area
 - High concentration of biological material can preclude high-resolution imaging, but microtubules require a high concentration of building blocks to assemble above the critical concentration (Cc). Possible solutions: dilution after assembly or decreasing incubation time. However, these methods may not represent native conformation or composition of sample. Therefore, preferred method is to deposit sample without any dilution during a sufficiently long time to allow adsorption of majority of microtubules.
 
+---
+
 #### Imaging Microtubules in Liquid with AFM
 
 **High-Resolution Imaging of Microtubules and Cytoskeleton Structures**
@@ -1836,6 +1957,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 **Imaging Conditions**:
 - AFM imaging in liquid can have faster scan rates (6-10 Hz per line) due to the lower quality factor of the vibrating cantilever in liquid compared to air
 - 30 seconds to 2 minutes per frame is sufficient for image acquisition of a 10/11. L 10. L 10. M 10. M 10. M Fig. 2 The collapse of microtubules on the mica surface due to drying, even when stabilized with taxol or glutaraldehyde, is problematic for functional studies as it prevents observation of dynamic behavior.
+
+---
 
 #### High-Resolution AFM Imaging of Microtubule Assembly and Interactions
 
@@ -1861,6 +1984,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Free tubulin and microtubules interact with various proteins (microtubule-associated proteins, molecular motor proteins) and drugs (taxol, vinblastine, colchicine)
 - High-resolution AFM images can provide information on the localization of these partners along the microtubule wall and their impact on the microtubule structure
 
+---
+
 #### High-resolution AFM imaging of microtubuleprotein interactions and RNP binding
 
 **AFM Imaging of Microtubule Interactions**
@@ -1884,6 +2009,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - AFM is a powerful tool for studying biomolecules or microtubules' interactions with partners
 - Allows visualization at single microtubule level using only few micrograms of tubulin per sample
 - Provides insights into macromolecular assemblies on microtubules when various partners can be distinguished.
+
+---
 
 ### Chapter 10: Using Computational Modeling to Understand Microtubule Dynamics A Primer for Cell Biologists
 
@@ -1923,6 +2050,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Mathematical and computational modeling are essential for making quantitative predictions and testing conceptual models
 - The chapter provides an introduction to modeling types and their applications, with a focus on microtubule dynamics.
 
+---
+
 #### Stochastic Modeling for Complex Systems Analysis
 
 **Mathematical Models in Science**
@@ -1949,6 +2078,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 **Applications in Microtubule Dynamics**:
 - Deterministic modeling can be ideal when sufficient understanding exists
 - Stochastic modeling may be required for complex, noisy, sensitive systems
+
+---
 
 #### Modeling Biological Systems Understanding Teaching and Prediction
 
@@ -1980,6 +2111,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Two basic classes: quantitative replication and prediction (simulates reality) and proof of principle models
   * Complete description rarely exists for biological systems more complex than protein ligand interactions
     * Incomplete models can still have practical utility as long as researchers are mindful of assumptions and limitations.
+
+---
 
 #### Stochastic Modeling of Microtubule Dynamics
 
@@ -2013,6 +2146,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Continuous improvement through iterative simulation and experimentation
 - Advancements in understanding microtubule dynamics can lead to new therapeutic applications.
 
+---
+
 #### Exploring Microtubule Dynamics with Stochastic Modeling
 
 **Computational Modeling of Microtubule Dynamics**
@@ -2036,6 +2171,8 @@ F. Microtubule Interactions with Drugs and MAPs:
   - Some models assume 5-start helix or linear protofilament structure, others assume GTP hydrolysis is stochastic or tightly coupled to assembly.
 
 **Conclusion**: Proof-of-principle models show that given mechanisms could lead to dynamic instability behavior. Experimentalists must decide which model best reflects reality based on available evidence and research needs.
+
+---
 
 #### Exploring Microtubule Dynamics Class 2 vs Class 3 Models and their Implications
 
@@ -2067,6 +2204,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 
 **Challenges in Class 3 Models:**
 - Computationally intensive due to simulation of many detailed microtubules in parallel.
+
+---
 
 #### Understanding Microtubule Dynamics through Computational Modeling
 
@@ -2120,6 +2259,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 17. Howard (2001)
 18. Johnson & Borisy (1975, 1977, 1979)
 
+---
+
 ### Chapter 11: Analysis of Dynamic Instability of Steady State Microtubules In Vitro by Video Enhanced Differential Interference Contrast Microscopy with an Appendix by Emin Oro
 
 **Chapter 11: Analysis of Dynamic Instability of Steady-State Microtubules In Vitro by Video-Enhanced Differential Interference Contrast Microscopy**
@@ -2152,6 +2293,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 
 **IV. Acknowledgments and References.**
 
+---
+
 #### In Vitro Microtubule Dynamic Instability Analysis Methodology
 
 **Dynamic Instability Analysis of Microtubules**
@@ -2180,6 +2323,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - A slide chamber is prepared using a standard glass microscope slide, cover slip, and tubulin polymerization mixture
 - Number 1 coverslips are used to provide more working distance for oil-immersion objectives
 
+---
+
 #### In Vitro Microtubule Dynamics Analysis Using DIC Microscopy
 
 **Microtubule Dynamics: Preparation of Slide Chambers and Observations**
@@ -2207,6 +2352,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Cannot see microtubules directly due to size (25 nm)
 - Enhanced by video camera (VE-DIC) and real-time image processor
 - Principle: interference between two coherent beams of light with gradients in optical path, producing clear optical sections and 3D shadowed images.
+
+---
 
 #### Inverted DIC Microscopy for Studying Microtubule Dynamics
 
@@ -2240,6 +2387,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - RTM II: in-house software used for tip tracking of microtubules over time
 - MT-LHAP: in-house software developed by Dr. Emin Oroudjev to analyze microtubule length changes and generate life-history plots.
 
+---
+
 #### Microtubule Dynamic Instability Analysis in Vitro
 
 **Analysis of Microtubules using MT-LHAP Program and VE-DIC Microscopy**
@@ -2269,6 +2418,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Analyzing microtubule dynamic instability in vitro is crucial for understanding mechanisms of action of MAPs or new therapeutics acting on microtubules directly or indirectly through MAPs.
 - VE-DIC microscopy has been successfully used to analyze microtubule dynamics in vitro, with potential improvements in resolution and real-time imaging, as well as the development of automated tracking methods for future research advancements.
 
+---
+
 ### Microtubule Life History Analysis Procedures (MT-LHAP) in Igor Pro Software to Analyze Dynamic Instability of Microtubules In Vitro
 
 **MT-LHAP Procedures for Analyzing Microtubule Dynamic Instability in Igor Pro**
@@ -2293,6 +2444,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 2. Importing microtubule tracking data into MT-LHAP:
    - Load a Microsoft Excel 2003 compatible file (*.xls) conforming to certain conventions for correct processing by MT-LHAP
    - Alternatively, use the "Load New File" procedure with a compatible data file generated manually or provided in the bundle.
+
+---
 
 #### Automated Microtubule Life-History Analysis in MT-LHAP Software
 
@@ -2325,6 +2478,8 @@ F. Microtubule Interactions with Drugs and MAPs:
 **Additional Features**:
 - Potential for further development: incorporating semi-automated or fully automated tracking
 
+---
+
 ### Chapter 12: Nanometer Resolution Microtubule Polymerization Assays Using Optical Tweezers and Microfabricated Barriers
 
 **Microtubule (MT) Polymerization Assays Using Optical Tweezers and Microfabricated Barriers**
@@ -2350,6 +2505,8 @@ E. Preparation of NeutrAvidin-coated beads: procedures for preparing neutravidin
 IV. Discussion: advantages and limitations of force clamping during MT polymerization studies using optical tweezers and microfabricated barriers.
 V. Summary: overview of the assay methods, including experimental setup, materials preparation, data analysis techniques, detection limits, and potential sources of artifacts.
 
+---
+
 #### High-Resolution Microtubule Polymerization Assay Methodology
 
 **Experimental Chamber Assay**
@@ -2372,6 +2529,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Microfabricate barriers on glass coverslips using LOR and SU-8 photoresist layers (Figs. 1 and 2)
 - Thin spacing between coverglass and slide to maintain trapping laser beam profile
 - Adjust laser trap along x-axis to maintain constant force on bead when measuring microtubule length changes.
+
+---
 
 #### High-Resolution Microtubule Polymerization Assay Setup and Preparation Procedures
 
@@ -2406,6 +2565,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Rinse and resuspend beads three additional times in BRB-80
 - Mix frequently when making aliquots to ensure consistent concentration.
 
+---
+
 #### High-Resolution Microtubule Polymerization Assay Analysis Methods and Detection Limits
 
 **Force Clamping Advantages and Discussion**
@@ -2435,6 +2596,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Theoretical spatial resolution improves with decreasing compliance, drag coefficient, and filter cutoff frequency
 - Resolution may also improve with smaller beads or higher applied force (assuming strain hardening in bead MT linkage)
 
+---
+
 #### High-resolution microtubule polymerization assay with potential sources of artifacts
 
 **Assay for Studying MT Polymerization Dynamics with High Spatiotemporal Resolution**
@@ -2452,6 +2615,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - **MT ends**: Other MT ends not under investigation can cause artifacts, such as the opposing end striking a different wall or an out-of-plane MT hitting the barrier. Data should be inspected for signs of these events.
 - **Drift**: Barrier movement due to stage drift may result in underestimation or overestimation of MT growth rates. Depending on the tweezers design, drift in the z-direction may affect trap stiffness and sensitivity. It can also change the bead detection system zero position and introduce error.
 - **Barrier shape**: Small details in the barrier shape may cause artifacts. These can be addressed or avoided through proper barrier design.
+
+---
 
 ### Chapter 13: Microtubule Dynamics Reconstituted In Vitro and Imaged by Single Molecule Fluorescence Microscopy
 
@@ -2506,6 +2671,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Considerations regarding the reaction solution, including pH, temperature, and ionic strength
 - Analyzing dynamic microtubule assay data to study microtubule behavior
 
+---
+
 #### TIRF Microscopy for Dynamic Microtubule Assays Single-Molecule Analysis
 
 **Microtubule Dynamics: TIRF Microscopy in Studying Microtubules**
@@ -2524,6 +2691,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Achieved in a through-the-objective-based configuration (Axelrod et al., 1984; Conibear and Bagshaw, 2000; Gell et al., 2006)
 - Laser beam focused onto the back focal plane of a high numerical aperture microscope objective
 - Narrow collimated beam impinges on the coverglass/solution surface at an adjustable angle to create evanescent field for TIRF illumination.
+
+---
 
 #### Dual-Color TIRF Microscopy Setup and Reagents for Studying Microtubules
 
@@ -2556,6 +2725,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - b-Mercaptoethanol (BME, Sigma, M3148), stored in 25 mL aliquots at 4C
 - BRB80 buffer: 80 mM PIPES/KOH pH 6.9, 1 mM EGTA, 1 mM MgCl2; commonly used for efficient tubulin polymerization
 
+---
+
 #### Fluorescent Labeling Strategies for Dynamic Microtubule Assays
 
 **Microtubule Assays: Fluorophore/Protein Labeling**
@@ -2574,6 +2745,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 * Commonly used dyes in literature include TAMRA (Helenius et al., 2006; Varga et al., 2006).
 * Problems encountered with some dyes, such as Atto 425, when labeling microtubules; control experiments necessary to check functionality.
 * Fluorescent labeled tubulin commercially available (Cytoskeleton Inc.).
+
+---
 
 #### Anti-bleaching and Oxygen Scavenging Cocktails for Single-Molecule TIRF Microscopy
 
@@ -2604,6 +2777,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Known to cause slow blinking with some fluorescent dyes
 - Maintain BME present to maintain a reducing environment while using Trolox.
 
+---
+
 #### GMPCPP-Stabilized Microtubule Preparation and Cycling
 
 **Preparation of GMPCPP-Stabilized Microtubules for Microtubule Depolymerization and Nucleation Assays**
@@ -2628,6 +2803,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - **Cycle 1**: Follow the steps for single-cycled microtubules above, then repeat with fresh GMPCPP solution
 - **Centrifugation**: Spin to remove unpolymerized tubulin and resuspend in required buffer
 - **Freeze-Thaw Processing**: Microtubules can be stored for months by snap freezing after resuspension. Thaw by incubating at 37C, best to store in aliquots of /C24100 l or less.
+
+---
 
 #### Glass Surface Preparation and Treatment for TIRF Microscopy
 
@@ -2654,6 +2831,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - **Precleaning**: Sonicate, rinse, and soak coverglasses in various solvents to remove organic matter
 - **Piranha solution cleaning**: Removes organic matter and activates OH groups on glass surface for silanization
 - **Silanization**: Activated glass surfaces are treated with a silane solution to render them hydrophobic, making them unattractive for dirt adsorption
+
+---
 
 #### Microtubule Attachment Methods for Dynamic Assays
 
@@ -2682,6 +2861,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 2. Double-sided scotch tape or Nescofilm: strong attachment, no contact with microtubule lattice; disadvantages include requiring labeled tubulin for some assays and potential channel blocking by large molecules.
 3. Antifluorophore binding to labeled tubulin: advantageous when using fluorescent labels but dependent on labeling density of microtubules.
 4. Neutravidin binding to biotinylated tubulin: strong binding, free tubulin does not compete for attachment; requires inclusion of biotinylated tubulin in microtubules.
+
+---
 
 #### Dynamic Microtubule Assays with TIRF Imaging
 
@@ -2732,6 +2913,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 4. Inject prewarmed reaction solution containing tubulin, GTP, MAPs (if included), and other components as needed into the channel
 5. Record a movie using TIRF illumination to visualize microtubule extensions and/or behavior of fluorescently labeled MAPs (see tips for dynamic microtubule studies)
 
+---
+
 #### Measuring Microtubule Growth Rates Tips and Techniques
 
 **Tips for Reproducible Growth Rates in Microtubule Experiments:**
@@ -2764,6 +2947,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Akhmanova & Steinmetz, 2008: Tracking the ends: A dynamic protein network controls the fate of microtubule tips (Nat. Rev. Mol. Cell Biol.)
 - Brouhard et al., 2008: Measuring microtubule growth rates with XMAP215 MAPs (Biophysical Journal)
 
+---
+
 ### Chapter 14: Studying Kinesin Motors by Optical 3D Nanometry in Gliding Motility Assays
 
 **Gliding Motility Assays in Nanoscopy:** *Bert Nitzsche et al.*
@@ -2788,6 +2973,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 2. Nanometer tracking in two dimensions B. Resolving Distances:
 1. Techniques to measure nanometer distances in the third dimension IV. Future Directions, Acknowledgments, Reagents, and References.
 
+---
+
 #### Gradient Surface Preparation for Combinatorial Protein Studies
 
 **Optical 3D-Nanometry and Kinesin Motors: Studying with Gliding Motility Assay**
@@ -2798,6 +2985,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 * **Protein Repelling Surfaces (PEG):** Coverslips/chips treated with ethanol, piranha cleaning solution, and nanopure water; incubated in toluene with PEG-silane and HCl; rinsed in toluene, ethanol, and nanopure water. Protein repellant surfaces prevent protein interaction for imaging purposes.
 * **Hydrophobic Surfaces (Dichlorodimethylsilane):** Clean silicon wafer chips using ultrasonic bath with chloroform; place in piranha cleaning solution and nanopure water; spin-coat thin layers of polyglycidylmethacrylate (PGMA) and polyethyleneimine (PEI); anneal at 100C for 1 hour. Hydrophobic surfaces strongly adsorb antibodies as adapter proteins but block nonspecific protein binding using casein or Pluronics.
 * **Gradient Surfaces (PEG):** Clean silicon wafer chips in ultrasonic bath with chloroform; place in piranha cleaning solution and nanopure water; spin-coat thin layers of polyglycidylmethacrylate (PGMA) and polyethyleneimine (PEI); anneal at 100C for 1 hour. Remove ungrafted polymer using Soxhlet extraction in chloroform. Gradient surfaces with varying protein-repelling properties can be used for combinatorial and high-throughput investigations.
+
+---
 
 #### Kinesin Motor Immobilization Techniques in Flow Chambers
 
@@ -2819,6 +3008,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 **C. Surface Immobilization of Motor Proteins: Immunoaffinity Purification and Labeling**
 1. **Immobilization Using Penta-His Antibodies**: Attach antibodies to the surface, block other areas with space filling proteins, then allow motor protein binding in a directed manner.
 2. **Surface Coating**: Prepare flow chamber by coating it with casein or other proteins for non-specific binding or specific binding using immunoaffinity purification and labeling techniques.
+
+---
 
 #### Labeling Microtubules for Motor Behavior Analysis
 
@@ -2842,6 +3033,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 4. QDs offer superior optical properties for high-precision nanometer tracking in multicolor applications but have blinking issues
 5. Labeling of microtubules with QDs can be performed by incubating flow chamber with motility solution containing streptavidin-conjugated QDs, washing them out and observing gliding velocities without significant influence on the microtubule's movement.
 
+---
+
 #### Optical Microscopy Techniques for Studying Kinesin Motors
 
 **Imaging of Microtubule Motility**
@@ -2864,6 +3057,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Use Peltier element connected to heat sink for precise temperature control during imaging.
 - Power the Peltier element with a remotely controllable, automated laboratory power supply and switch polarity for heating or cooling.
 - Measure temperature on Peltier element using thermometer with analog readout capability and tissue implantable thermocouple microprobe.
+
+---
 
 #### Maximum Intensity Projections and Kymographs for Quick Motility Analysis
 
@@ -2890,6 +3085,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 **Quick Motility Evaluation in Two Dimensions**
 - Maximum intensity projections and kymographs available in standard image acquisition and processing software (e.g., ImageJ, Metamorph) for quick evaluation of key motility parameters like gliding velocities
 - Maximum projections depict trajectories of multiple moving objects within a field of view, while kymographs analyze single object trajectories along a given path in a time-resolved manner.
+
+---
 
 #### Measuring Microtubule Motility Using Quantum Dots and Gaussian Fitting
 
@@ -2924,6 +3121,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - QDs attached to microtubules resolve 8 nm steps in kinesin-1 motors' lattice movements and even 4 nm steps with two active motors
 - Gliding assays allow counting number of processive motors based on distinct GFP-labeled motor molecules and low microtubule density.
 
+---
+
 #### 3D Microtubule Tracking for Kinesin Motor Study using FLIC Microscopy
 
 **2D Tracking of Microtubules:**
@@ -2953,6 +3152,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - Complement 2D microscopic results with data from third dimension
 - Approaches based on dual-focus imaging or split-image methods technically demanding and require sophisticated setup
 - Alternative approach using FLIC microscopy relies on interference effects of excitation and emission light within a distance of about 1m from reflecting surface.
+
+---
 
 #### Quantitative FLIC Microscopy for Measuring Heights of Gliding Microtubules
 
@@ -2990,6 +3191,8 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 - DTT, 1,4-Dithio-DL-threitol (Sigma-Aldrich)
 - EGTA, ethyleneglycoltetraacetic acid (Sigma-Aldrich)
 
+---
+
 ### Chapter 15: Analysis of Tubulin Oligomers by Analytical Ultracentrifugation
 
 **Tubulin Oligomers Analysis by Analytical Ultracentrifugation (AUC)**
@@ -3026,6 +3229,8 @@ B. Vinca Alkaloid-Induced Spirals
 **Summary:**
 - AUC has been a central technique in understanding cytoskeletal components through studying tubulin self-association, MAP interactions, molecular motors' interaction with microtubules.
 
+---
+
 #### Preparation and Analysis of Tubulin Samples for Analytical Ultracentrifugation AUC
 
 **Tubulin Preparation using PC-tubulin Beads**
@@ -3044,6 +3249,8 @@ B. Vinca Alkaloid-Induced Spirals
 **Troubleshooting:**
 - Older clinical centrifuges have rheostat designs; adjust speed accordingly to ensure complete recovery without drying out the resin in the process.
 - For proteins smaller than stathmin, use G-10 for adequate recovery.
+
+---
 
 #### Analysis of Tubulin Oligomers by Analytical Ultracentrifugation and DCDT2 Software
 
@@ -3066,6 +3273,8 @@ B. Vinca Alkaloid-Induced Spirals
 - Stafford's tutorial on DCDT2 analysis (http://www.bbri.org/faculty/stafford/dcdt/dcdt.html)
 - Sedfit Web site for c(s) distribution and Sw analysis (http://www.analyticalultracentrifugation.com/)
 - Sedanal Manual (available at http://rasmb.bbri.org/rasmb/.sedanal/)
+
+---
 
 #### Tubulin Oligomer Analysis Using AUC Sedimentation Velocity
 
@@ -3105,6 +3314,8 @@ B. Vinca Alkaloid-Induced Spirals
 - Increased microtubule disassembly rates at higher Mg concentrations (OBrien et al., 1990)
 - Oligomer stabilization related to mechanism of action of microtubule destabilizing motors like MCAK (Desai et al., 1999)
 - Recent study using nm-resolution optical tweezers concluded only heterodimers involved in assembly/disassembly excursions (Chapter 12 by Charlebois et al.)
+
+---
 
 #### Alkaloid-Induced Spirals Analysis Methods and Data Fitting in AUC
 

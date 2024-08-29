@@ -80,6 +80,8 @@
 - Adam raised his hand and was the rst to ask a question
 - He was curious about what it might be like to "be a computer" since he had grown up with computers
 
+---
+
 ### 1 Can A Computer Have A Mind?
 
 **Computers and Minds: Understanding the Relation Between Physical Laws, Mathematics, Conscious Thinking, and the Nature of Minds**
@@ -128,6 +130,8 @@
 - To present a viewpoint that has not been widely expressed before
 - To attempt to stimulate future research and make specific suggestions about the potential role of mind within physics development.
 
+---
+
 #### Turing Test Operationalizing Consciousness and Intelligence
 
 **The Turing Test and Artificial Intelligence**
@@ -150,6 +154,8 @@
   * If roles reversed, human could outperform with complex calculations.
 * However, making a computer appear stupider might not be a serious problem for its programmers.
 
+---
+
 #### Artificial Intelligence and the Turing Test Ethical Implications
 
 **Challenges in Assessing Computer Understanding:**
@@ -161,6 +167,8 @@
   * Perceptive interrogator's role in deciding computer's consciousness.
   * Original Turing test's advantages for objectivity despite biases against computers.
 - **Future Expectations**: Supporters believe computers will pass the test by 2010 or sooner.
+
+---
 
 #### Artificial Intelligence Imitating Human Mental Capacities
 
@@ -188,6 +196,8 @@
 - Difficulty in designing control systems for simple tasks (e.g., robot arm)
 - Impressive early successes but genuine intelligence still elusive
 
+---
+
 #### AI Simulation of Pleasure and Pain in Machines Tortoise Example
 
 **AI and Human-Like Behavior: Chess and Pleasure/Pain**
@@ -207,6 +217,8 @@
 - Device has means to register its own pp-score (pleasure-pain)
 - Behavior geared towards maximizing the pp-score
 - Factors influencing pp-score: battery charge, solar panels, moving towards light.
+
+---
 
 #### AIs Approach to Mimicking Human Emotions and Desires
 
@@ -231,6 +243,8 @@
 - Improvements in technology, design, and programming techniques will lead to better results
 - Potential for creating truly intelligent devices or new principles needed
 
+---
+
 #### Chinese Room Argument and Strong AI Controversy
 
 **Strong AI and Searle's Chinese Room Argument**
@@ -247,6 +261,8 @@
   - Searle's example: a computer program designed by Roger Schank can correctly answer questions about simple stories in Chinese without actually understanding them. The program is just manipulating symbols according to its instructions (algorithm) given in English.
 - **Critique**:
   - A successful algorithm does not necessarily imply genuine understanding or consciousness.
+
+---
 
 #### Searles Chinese Room Argument and Objections against Strong AI
 
@@ -272,6 +288,8 @@
 **Arguments Against Strong AI:**
 - No evidence provided that algorithms alone can embody genuine understanding or consciousness.
 - Dualism raises questions about how mind and matter interact if they are separate substances.
+
+---
 
 #### The Philosophical Dilemma of Strong AI
 
@@ -305,6 +323,8 @@
 - Reasons for this distinction not well explained by Searle
 - Suspicion that this assertion is dogmatic and lacks scientific theory of mind.
 
+---
+
 #### Computers Identity and Quantum Physics Material Replacement and Unique Arrangement
 
 **Background**
@@ -329,6 +349,8 @@
 **Pattern of Arrangement vs Individuality of Constituents**
 - Person's identity depends on pattern of how constituents are arranged, not individuality itself
 - Analogy with everyday technology and electronic word processor.
+
+---
 
 #### Quantum Identity and Strong AI A Discussion on Individuality and Consciousness
 
@@ -361,6 +383,8 @@
 - Teleportation machine in science fiction: intended for transportation from one planet to another
 - Questions raised about its distinction from creating a duplicate and destroying the original copy
 - Discussion on reliability, preparation, and ethical considerations if shown to be completely reliable.
+
+---
 
 #### Exploring Quantum Consciousness in Teleportation
 
@@ -397,6 +421,8 @@
 10. Searle's criticism of strong AI and the distinction between human and machine intelligence
 11. Rotating one electron completely through 360 degrees when making interchange eliminates this signi cant difference for strong AI proponents.
 
+---
+
 ### 2 Algorithms And Turing Machines
 
 **Algorithm Concept Background**
@@ -431,6 +457,8 @@
 - Euclid's algorithm is an example of a clear cut procedure with finite steps that can be presented in finite terms
 - The text also discusses the concept of subroutines, which are algorithms called upon as part of another algorithm's operation.
 
+---
+
 #### Turing Machines Idealized Calculation Devices
 
 **The Concept of a Mechanical Procedure**
@@ -458,6 +486,8 @@
 - Can call upon unlimited external storage space and produce outputs of unlimited size
 - Must examine only the relevant parts of the data or previous calculations, noting down the results and proceeding to the next stage
 
+---
+
 #### Turing Machine Design and Operation for Computation
 
 **Turing Machines and Computation**
@@ -482,6 +512,8 @@
 - Labelled using binary numbers based on powers of 2 (0, 1, 2^1, 2^2, ...)
 - Alternative notation: succession of 0s and Is.
 
+---
+
 #### Binary Coding and Turing Machine Operations
 
 **Turing Machines and Numbering Systems:**
@@ -504,6 +536,8 @@
 **Binary Coding of Numerical Data**:
 - Unary system is inefficient for large numbers
 - Binary number system used instead with a terminator to denote end of number representation.
+
+---
 
 #### Expanded Binary Notation for Sequences of Natural Numbers
 
@@ -535,6 +569,8 @@
 - Can be implemented using a Turing machine that operates on pairs of numbers written in expanded binary notation
 - More eficient than unary numbering system, which would show up in device efficiency and external paper usage.
 
+---
+
 #### Expanded Binary Operations and the Church-Turing Thesis
 
 **Turing Machines and their Operations**
@@ -559,6 +595,8 @@
 **Parallelism in Turing Machines**:
 - Having multiple separate devices doesn't gain anything in principle, as they can be treated as a single device if necessary.
 
+---
+
 #### Turing Machines and Computability Exploration
 
 **Turing Machines and Computability**
@@ -580,6 +618,8 @@
 **Computability in Mathematics**:
 - Turing machines can operate on mathematical formulae and formal calculus manipulations with proper coding
 - Important concept in mathematics, not just limited to numbers.
+
+---
 
 #### Universal Turing Machine Coding for Numbering Turing Machines
 
@@ -614,6 +654,8 @@
 - **T 7**: gets stuck when it finds its rst 1 on the tape due to a sequence of five consecutive 1s
 - **T 5**, **T 6**, and **T 12**: encounter similar problems as T 0, T 1, and T 2 (never stop)
 
+---
+
 #### Universal Turing Machines Construction and Implications
 
 **Turing Machines**
@@ -646,6 +688,8 @@
 **Comparison with Modern Computers**:
 - Modern general-purpose computers are essentially universal Turing machines, despite not resembling the U machine design
 
+---
+
 #### Turing Machine Halting Problem and Mathematical Undecidability
 
 **Turing Machines and the Halting Problem**
@@ -665,6 +709,8 @@
   - Assumes existence of algorithm `H` that decides whether a given Turing machine halts or not when applied to `m`
   - The universal Turing machine (U) can be constructed to simulate `H` and hence solve the halting problem for any Turing machine
 - **Conclusion**: There is no algorithmic procedure to decide the halting problem of all possible Turing machines.
+
+---
 
 #### Diagonalization Argument Proving Non-Existence of Turing Machine Halting Problem Solver
 
@@ -694,6 +740,8 @@
 - For some Turing machines and inputs, the question of whether it stops can be decided by intuition or common sense
 - But there is no single algorithm that works for all mathematical questions or Turing machines
 
+---
+
 #### The Limits of Algorithms Churchs Lambda Calculus
 
 **The Undecidability of Algorithms and Computability**
@@ -718,6 +766,8 @@
 - It is interesting because some well-defined operations are non-computable, which challenges mathematicians
 - The general solution to determining computability is also non-computable, making it an intriguing puzzle
 
+---
+
 #### Abstract Mathematics Lambda Calculus for Computability
 
 **Computability as a Mathematical Concept**
@@ -739,6 +789,8 @@
 - Church's scheme can express arithmetical operations like addition and multiplication using elementary functional operations
 - For example, **S** is the function that adds a given number to another number
 - Other basic arithmetical operations (subtraction, division) are more difficult to define in this framework
+
+---
 
 #### Universal Turing Machine Coding and Algorithm Improvements
 
@@ -767,6 +819,8 @@
 **Universal Turing Machines:**
 - Concept remains constant despite various approaches
 - Can be defeated by applying the same procedure iteratively, leading into complex considerations discussed in connection with Gdel's theorem.
+
+---
 
 ### 3 Mathematics And Reality
 
@@ -797,6 +851,8 @@
 - Complex number system including real and imaginary parts
 - Generated by simple rule yet displays infinite complexity.
 
+---
+
 #### Real Numbers and Their Extensions Infinite Decimal Expansions
 
 **Complex Numbers and Real Numbers**
@@ -818,6 +874,8 @@
 - In Cartesian form: a + bi, where a is the real part and b is the imaginary part
 - Magnitude (modulus): |a + bi| = sqrt(a^2 + b^2)
 - Argument (phase): arg(a + bi) = atan2(b, a)
+
+---
 
 #### Uncountable Real Numbers Cantors Diagonal Argument
 
@@ -841,6 +899,8 @@
 **The Continuum Hypothesis**:
 - The symbol **C** stands for the system of real numbers, also called the continuum
 - It is an unsolved problem whether C = 1 (the next infinite number) is true or not
+
+---
 
 #### Complex Number System A Mathematical Extension of Real Numbers
 
@@ -866,6 +926,8 @@
 - Complex numbers are formed by combining real and imaginary parts (a + ib)
 - Rules for adding and multiplying complex numbers follow ordinary algebraic rules with the added condition i^2 = 1
 
+---
+
 #### Geometrical Representation of Complex Numbers and the Mandelbrot Set
 
 **Understanding Complex Numbers and the Argand Plane**
@@ -887,6 +949,8 @@
 **The Mandelbrot Set**
 - Complex numbers can be visualized using the Argand plane
 - The Mandelbrot set is a deformation of the complex number plane that has been used to generate intricate patterns through iterations.
+
+---
 
 #### Iterated Function Systems and the Realness of Mathematical Structures
 
@@ -919,6 +983,8 @@
   - Seem arbitrary mental idealizations but may reveal some external truth with its own reality.
 - The Mandelbrot set as an example: complex structure not invented by a particular person, revealed partially to individuals through computation.
 
+---
+
 #### The Eternal Nature of Mathematics and Complex Numbers Invention or Discovery
 
 **The Mandelbrot Set and Complex Numbers**
@@ -933,6 +999,8 @@
   - Discoveries are more compelling and universal than inventions
   - Inventions are works of man with limited scope compared to discoveries
 - Plato's philosophical views on mathematics support the idea that mathematical concepts have a timeless, ethereal existence.
+
+---
 
 #### Exploring Non-Algorithmic Mathematics Beyond Mandelbrot Sets
 
@@ -957,6 +1025,8 @@
 1. Mandelbrot (1986) and Peitgen & Richter (1986) provided further information on the Mandelbrot set, including coloured illustrations. For more striking illustrations, see Peitgen & Saupe (1988).
 2. Debate over who first discovered the Mandelbrot set; supporters of discovery viewpoint believe it was a natural finding rather than an invention within a formal system.
 3. Consistent point of view: there should always be some rule determining digits in arbitrary real numbers, even if not effective or definable within a preassigned formal system.
+
+---
 
 ### 4 Truth, Proof, And Insight
 
@@ -984,6 +1054,8 @@
 - Mathematical truth is an essential question with significant implications
 - Past developments provided insights but also challenges, as seen through Russell's paradox.
 
+---
+
 #### Formalization of Mathematical Systems Hilberts Program and Gdels Theorem
 
 **Formal Mathematical Systems**
@@ -1003,6 +1075,8 @@
 **Building Up Theorems:**
 - Starting with axioms and applying rules of procedure to build up long list of propositions called theorems
 - Prove specific proposition P by finding a correctly assembled list terminating in P.
+
+---
 
 #### Godels Incompleteness Theorem and Formal Systems
 
@@ -1025,6 +1099,8 @@
 - Showing that such statements can be coded into arithmetic is the major effort in Godel's argument
 - Complicated part: coding individual rules of procedure and axioms into arithmetical operations
 - No proof of Pw(w) if Pw(w) is not syntactically correct, but statement remains true.
+
+---
 
 #### Incompleteness of Formal Systems The Self-Referential Proof
 
@@ -1051,6 +1127,8 @@
 2. Adjoin it to the system as an additional axiom
 3. Repeat process with resulting system and its Gdel proposition
 4. Continue indefinitely, forming a list of unlimited axioms.
+
+---
 
 #### The Limits of Formal Systems and Mathematical Intuition
 
@@ -1082,6 +1160,8 @@
 - Deciding on axioms and rules requires intuitive understanding of self-evident truths
 - Concepts like self-consistency are not adequate for this purpose
 
+---
+
 #### Mathematical Platonism and Intuitionism Philosophical Perspectives on Set Existence
 
 **Gdel's Theorem and Platonism in Mathematics**
@@ -1110,6 +1190,8 @@
 - Rejects non-constructive proofs by contradiction, as they don't provide a means to actually construct the object in question
 - Sees this kind of existence as "meaningless" and refuses to accept it as true
 
+---
+
 #### Turing-Inspired Proofs of Gdels Incompleteness Theorems
 
 **Brouwer's Ideas (1924)**
@@ -1135,6 +1217,8 @@
 - Turing derived key aspects of Gdel's result through his own argument to establish insolubility of the halting problem
   * A formal system must have an algorithm for checking proofs, but not necessarily finding them.
   * An algorithm exists to find a proof when one does exist within any formal system.
+
+---
 
 #### Recursively Enumerable Sets and Gdels Incompleteness Theorems Set-theoretic Interpretation of Turing Machines and Formal Systems
 
@@ -1164,6 +1248,8 @@
 - The chosen formal system is consistent and broad enough to include all actions of all Turing machines
 - Its axioms and rules of procedure are self-evidently true
 
+---
+
 #### Undecidable Propositions and Incomplete Formals Systems
 
 **Properties of Recursively Enumerable Sets:**
@@ -1186,6 +1272,8 @@
 - The false S(n) are not recursively enumerable, so the complement of set P cannot be recursively enumerated either.
 - This establishes that the set P is not recursive and demonstrates that the formal system cannot be complete, as there must be undecidable propositions neither provable nor disprovable within it.
 
+---
+
 #### Algorithmic Boundaries of Complicated Sets Mandelbrot Set and Gdels Theorem
 
 **Gdel's Theorem: Recursive vs. Recursively Enumerable Sets**
@@ -1201,6 +1289,8 @@
 - Computer generates the Mandelbrot set by applying a simple map repeatedly to a complex number c
 - Determining if a point in the Argand plane belongs to the Mandelbrot set involves knowing what happens after an infinite number of terms
 - The complement of the Mandelbrot set (white region) is recursively enumerable, but whether the Mandelbrot set itself (black region) has an algorithm for belonging is unknown.
+
+---
 
 #### Complicated Set Theory in Mandelbrot Set Discussion Recursive Enumerability and Local Connectedness
 
@@ -1226,6 +1316,8 @@
 - When applied to the Mandelbrot set, ignoring boundaries may miss its complexity, particularly the tendrils which do not lie in the interior of the set.
 - The Mandelbrot set's recursive enumerability depends on whether it is locally connected, a term whose relevance and meaning need clarification.
 
+---
+
 #### Non-Algorithms in Mathematics Diophantine Equations and Word Problems
 
 **Non-Recursive Mathematics**
@@ -1250,6 +1342,8 @@
 - Derive further equalities by making substitutions
 - Determine if two words can be derived from each other using these rules
 - Examples: Caterpillar to Man, Carpet to Meat
+
+---
 
 #### Non-recursive Mathematics Word Problem and Tiling of Plane
 
@@ -1288,6 +1382,8 @@
 - Hao Wang addressed the question of whether there is a decision procedure for the tiling problem.
 - If every finite set of distinct tiles that tile the plane also tiles it periodically, then there would be an algorithm to decide whether a given set tiles the plane or not (decision procedure).
 
+---
+
 #### Non-Recursive Geometry Exploring the Mandelbrot Sets Complexity
 
 **Non-Periodic Tiling Problem**
@@ -1315,6 +1411,8 @@
 - If complete set is non-recursive, hidden delicate regions would be hard to find and improve algorithms to reach them
 - Process similar to how mathematics progresses in di cult, non-recursive areas.
 
+---
+
 #### Complexity of Algorithms Polynomial Time Classification
 
 **Complexity Theory**
@@ -1338,6 +1436,8 @@
   - Greater n, greater N
 - P category includes all rates that are at most fixed multiples of **n**, **n2**, **n3**, etc.
 - Algorithms can be developed and improved to handle specific cases better.
+
+---
 
 #### Polynomial Time Algorithms and Intractable Problems in Graph Theory
 
@@ -1363,6 +1463,8 @@
 - NP-complete problems have polynomial time solutions that can be used to solve any other NP problem.
 - Examples of NP-complete problems: Hamiltonian circuit problem and traveling salesman problem.
 
+---
+
 #### Complexity and Quantum Computing in Physical Things Potential Quantum Advancements for Problem Solving
 
 **Complexity Theory and Computability**
@@ -1376,6 +1478,8 @@
 - Human brain may use quantum effects in problem solving and judgment formation
 - May need to go beyond present-day quantum theory for potential benefits
 - Difficulty understanding how actual physical devices could improve upon complexity theory for Turing machines.
+
+---
 
 #### Exploring Undecidable Problems in Set Theory and Computability
 
@@ -1392,6 +1496,8 @@
 **Notes:**
 - Brouwer's concerns about non-constructiveness in his proofs led him to develop new methods for solving problems (Brouwer, undated).
 - Knuth (1981) provides further information on efficient algorithms for addressing these types of mathematical problems.
+
+---
 
 ### 5 The Classical World
 
@@ -1424,12 +1530,16 @@
     * Impact on technology minimal so far except nuclear physics
     * May have significance for understanding quantum theory and perceived flow of time.
 
+---
+
 #### Comparison of Physics Theories Superb Useful Tentative
 
 **Categories of Basic Physical Theories**
 1. **SUPERB**: This category includes theories that apply without refutation to a phenomenal range and accuracy of phenomena in the physical world. Examples: Euclidean geometry, Archimedes' theory of statics, Pappos and Stevin's development of this theory (now subsumed by Newtonian mechanics), Galileo's dynamics, Newtonian mechanics, Maxwell's electromagnetism, Einstein's special relativity, and general relativity. Quantum mechanics is also considered SUPERB due to its accurate predictions and explanation of various inexplicable phenomena like chemical laws, atomic stability, sharpness of spectral lines, superconductivity, and laser behavior.
 2. **USEFUL**: This category includes theories that have a significant impact on technology or provide new insights into certain areas. Examples: Some quantum physics theories such as those related to chemistry and metallurgy.
 3. **TENTATIVE**: This category includes relatively new physical theories that are not yet proven or lack enough evidence for widespread acceptance. Examples: Quarks, GUT (Grand Unified Theories), the inflationary scenario, supersymmetry, string theory, etc.
+
+---
 
 #### Classification of Modern Physics Theories
 
@@ -1467,6 +1577,8 @@
 - Did not provide predictive schemes of phenomenal character on their own
 - Later became correct deductions within SUPERB theories (Newtonian dynamics, quantum theory)
 
+---
+
 #### Euclidean Geometry as Physical Theory and Platos Ideal World
 
 **Euclidean Geometry**
@@ -1484,6 +1596,8 @@
 
 **Eudoxos of Cnidus (mathematician and astronomer)**
 - A member of Plato's Academy, considered a great thinker in antiquity.
+
+---
 
 #### Real Numbers and Geometry A Historical Perspective on their Influence on Mathematics and Physics
 
@@ -1528,6 +1642,8 @@
 - Essential ingredient in modern physical theories since Euclid's work
   * Remains unchanged from Eudoxos to Einstein.
 
+---
+
 #### Galileos Dynamics and Relativity in Motion
 
 **The Dynamics of Galileo and Newton**
@@ -1553,6 +1669,8 @@
 - Before Galilean relativity, the earth's motion around the sun was a puzzle because it wasn't directly observable
 - With Galilean relativity, there is no local physical meaning to the concept of "at rest"
 - This has implications for how space and time should be viewed
+
+---
 
 #### Newtons Laws and Celestial Mechanics
 
@@ -1592,6 +1710,8 @@
   *Newton showed that Keplers laws follow from his own scheme of things*
 - Detailed corrections to elliptical orbits and other effects obtained using mathematical techniques.
 
+---
+
 #### Newtonian Determinism in Billiard-Ball Model of Reality
 
 **Newtonian Dynamics**
@@ -1618,6 +1738,8 @@
 - Magnetic forces: inverse square law, different dependence on distance than electric forces
 - Nuclear forces: bind particles together, extremely large at close separations but negligible at greater distances.
 
+---
+
 #### Computability in Physics Determinism vs Algorithmic Predictability
 
 **Issue of Determinism vs Computability**
@@ -1643,6 +1765,8 @@
 7. Problem persists even with rational initial data
 8. Assertion: Newtonian billiard ball world may not be computable is not straightforward.
 
+---
+
 #### Hamiltonian Mechanics A Precursor to Quantum Theory
 
 **Possible Bulleted Notes:**
@@ -1665,6 +1789,8 @@
 - William Rowan Hamilton's contribution to Hamiltonian theory
   * Emphasized analogy between waves and particles in the Hamilton equations
   * Important for later development of quantum mechanics.
+
+---
 
 #### Visualizing Classical Systems with Phase Space
 
@@ -1695,6 +1821,8 @@
 - Six dimensions for n unconstrained particles (three position coordinates and three momentum coordinates per particle)
 - Complexity can't be pictured accurately but understanding the concept is essential.
 
+---
+
 #### Hamiltonian Systems and Computational Limitations
 
 **Physics and Phase Space**
@@ -1719,6 +1847,8 @@
 **Hamiltonian Systems**:
 - If Hamiltonian systems behave like this, they would require stability of behavior for clear determination of discrete states.
 
+---
+
 #### Liouvilles Theorem and Spreading Phase-Space Regions in Classical Dynamics
 
 **The Problem of Stability in Classical Mechanics**
@@ -1735,6 +1865,8 @@
 
 **Implications**: Classical mechanics is essentially unpredictable due to the tendency for regions in phase space to spread outwards with time. However, despite this, Newtonian dynamics has been successful because initial states still provide some level of predictability within reasonable limits.
 
+---
+
 #### Maxwells Electromagnetic Field Theory Unifying Forces and Light
 
 **Newtonian Mechanics vs Celestial Mechanics**
@@ -1749,6 +1881,8 @@
 - Electricity and magnetism act like gravitational forces with strength depending on electric charge/magnetic pole strength
 - Light can be accommodated within Newtonian framework through particle or wave concepts, but complications arise from moving electric charges giving rise to magnetic forces.
 - Challenge to Newtonian picture: Michael Faraday's research on physical fields (magnetic and electric) introduced the concept of vector elds in space.
+
+---
 
 #### Maxwells Electromagnetic Waves The New Physical Reality
 
@@ -1776,6 +1910,8 @@
 - The existence of electromagnetic waves was experimentally confirmed by Heinrich Hertz in 1888
 - This provided firm basis for Faraday's inspired hopes
 
+---
+
 #### Lorentz Equations and Runaway Particles Resolving Singularities in Electromagnetic Fields
 
 **Computability and Wave Equation**
@@ -1791,6 +1927,8 @@
 * Lorentz equations describe how a charged particle's velocity changes due to electric and magnetic fields
 * When combined with Maxwell's equations, they form rules for time-evolution of both particles and electromagnetic fields
 * Issues arise when determining the eld at a particle's location due to its own field and potential problems with rotations or distortions.
+
+---
 
 #### Special Relativity and Light Contraction Lorentz-Einstein Theory
 
@@ -1811,6 +1949,8 @@
 - Einstein and Poincar independently found that Maxwell's equations satisfy a relativity principle, preserving their form under changes in reference frames
 - This required modifying the laws of Galileo and Newton to be compatible with this relativistic principle
 - Lorentz had partially addressed these questions, suggesting matter contracts slightly when moving at speeds comparable to the speed of light
+
+---
 
 #### Minkowskis Four-Dimensional Space-Time Concept and Light Cones
 
@@ -1839,6 +1979,8 @@
 - Material particles cannot travel faster than light; their world-lines lie inside the light cone at each point
 - Convenient to describe photons as "classical" for better understanding, but they always travel in straight lines with fundamental speed c.
 
+---
+
 #### Minkowskian Distance in Special Relativity Time Measured by Moving Clocks
 
 **Minkowskian Geometry and Special Relativity:**
@@ -1853,6 +1995,8 @@
 * World-line representing time measured by a clock moving uniformly from one point to another.
 * Twin paradox explanation using Minkowskian geometry: AC represents time experienced by stay-at-home twin, AB and BC represent traveller's time experiences during journey.
 * Inequality AC > AB + BC holds true for Minkowskian triangle inequality due to different sign conventions in distance calculation compared to Euclidean geometry.
+
+---
 
 #### Time Dilation and Relative Simultaneity
 
@@ -1870,6 +2014,8 @@
 **Minkowski Spacetime and Relativity Principle (Continued)**
 - Significant differences in time ordering for events at great distances even with slow relative velocities (example: people walking past each other)
 - The event that seems simultaneous to one observer may not be so for another, leading to di erent perceptions of reality depending on their motion.
+
+---
 
 #### Equivalence Principle and Gravity Distortion
 
@@ -1905,6 +2051,8 @@
 **Non-Uniformity of the Newtonian Gravitational Field**
 - Particles nearer to the Earth's surface accelerate downwards faster, distorting the spherical shape of an initially stationary arrangement into an ellipsoid.
 
+---
+
 #### Gravitational Tidal Effects in Spacetime Curvature
 
 **Gravity: Tidal Effect and General Relativity**
@@ -1928,6 +2076,8 @@
 **Newtonian Theory vs General Relativity:**
 - Reformulation of Newtonian theory without requiring new physics (yet)
 - Combining this picture with Minkowski's description of special relativity results in Einstein's general relativity.
+
+---
 
 #### Gravitational Tidal Forces in General Relativity
 
@@ -1965,6 +2115,8 @@
 - Tidal effect experienced in empty space is entirely due to WEYL.
 - Weyl tensor measures gravitational field, analogous to electromagnetic eld in Maxwell's theory.
 
+---
+
 #### Relativistic Causality Constraints and Implications of Superluminary Signals
 
 **Relativistic Causality and Determinism**
@@ -1981,6 +2133,8 @@
 **Conclusion**:
 - The rules of special relativity hold locally in general relativity, implying that all signals must be constrained by the light cones.
 
+---
+
 #### Computability in Classical Physics Determinism and Chaos
 
 **Determinism and Computability in Classical Physics**
@@ -1995,6 +2149,8 @@
 - Lack of determinism in extreme situations may lead to global indeterminacy and loss of determinism.
 - Computability issues may be as important as determinism when considering free will and mental phenomena.
 - Classical theories like special and general relativity do not seem to have significant non-computable elements, apart from the type encountered with Pour-El and Richards for the wave equation which does not occur for smoothly varying data.
+
+---
 
 #### Mass Matter and Reality Quantifying Substance in Classical Physics
 
@@ -2021,6 +2177,8 @@
 * Mass as the measure of total substance, conserved but interchangeable with energy due to E = mc
 * Viewpoint change: mass is an entire object called the energy-momentum four-vector.
 
+---
+
 #### Gravitational Energy and Mass in General Relativity Non-Locality and Empty Space Paradox
 
 **Mass and Energy Conservation**
@@ -2036,6 +2194,8 @@
 **Classical Theories and Reality**
 - Established departures from Newtonian picture linked to behavior of light: electromagnetic fields, special relativity, general relativity, wave-particle duality, quantum electrodynamics.
 - Thermodynamics not considered a superb theory by author; may be reluctant to classify it as a physical theory due to applying to averages and being derived from other theories.
+
+---
 
 #### Quantum Field Theory Challenges and Solutions in Classification
 
@@ -2061,6 +2221,8 @@
 - Maxwell's equations presented in specific units, factors of c distributed differently with other choices
 - Charged particles can act as clocks due to oscillation frequency proportional to mass
 - Quantum particles behave like clocks on their own, accurate modern clocks based on this fact.
+
+---
 
 #### Einsteins General Relativity and Spacetime Geometry
 
@@ -2090,6 +2252,8 @@
 - Einstein's physical ideas solely due to him, but Hilbert found the correct form of equations in November 1915.
 - The term "hypersurface" is more appropriate than surface for a three-dimensional object.
 
+---
+
 ### 6 Quantum Magic And Quantum Mystery
 
 **Classical Physics vs Quantum Theory**
@@ -2110,6 +2274,8 @@
 * Objective view: quantum state has deterministic time-evolution but odd relation to physical world behavior
 * Problem of deciding when a measurement is taken, as measuring apparatus is also made of quantum constituents.
 
+---
+
 #### Quantum Mechanics Resolving Classical Theorys Dilemmas
 
 **Classical vs. Quantum Theory**
@@ -2129,6 +2295,8 @@
 - This allowed for agreement with observed radiation law (Planck radiation law)
 - Einstein proposed that the electromagnetic field can exist only in discrete units
 - Light can exhibit particle and wave properties at the same time
+
+---
 
 #### Quantum Interference Light as Wave and Particle
 
@@ -2151,6 +2319,8 @@
 
 **Problem for Particle Picture:**
 - Opening the second slit: Intensity pattern is completely different from single slit, with points of zero intensity where photon could not reach before despite having an alternative route.
+
+---
 
 #### Quantum Interference Single Particles Acting as Waves
 
@@ -2178,6 +2348,8 @@
 **Complex Number Combinations**:
 - Quantum mechanics insists that alternatives can combine in complex number ways, such as: **A + iB**, where **i** = 1 (Chapter 3)
 - These combinations force themselves on physicists through surprising experimental results
+
+---
 
 #### Quantum Superposition and Probability Amplitudes
 
@@ -2211,6 +2383,8 @@
 - Unclear until we know how to interpret them at the classical level.
 - Need an actual probability for a click or observable event in order to make sense of the quantum amplitudes.
 
+---
+
 #### Quantum Amplitude Squared Modulus and Probability Transition
 
 **Passing from Quantum to Classical Level**
@@ -2238,6 +2412,8 @@
 - Intermediate points: w = iz or z = iw, cos = 0, |w + z| = 2|w| twice the intensity if a large number of photons.
 
 **Important Note**: The squared modulus of an amplitude cannot be interpreted as the probability that the particle passed through a specific slit to reach p.
+
+---
 
 #### Visualizing Quantum State and Momentum in One-Dimensional Space
 
@@ -2268,6 +2444,8 @@
 - Each pure tone corresponds to a different possible momentum value
 - Size of each pure-tone contribution provides the amplitude for that momentum value.
 
+---
+
 #### Momentum and Wave-Particle Duality in Quantum Mechanics
 
 **The Uncertainty Principle**
@@ -2293,6 +2471,8 @@
   - Position space: measures particle position, uses position wavefunction (x)
   - Momentum space: measures particle momentum, uses momentum wavefunction (p)
 
+---
+
 #### Quantum Wave Packet Evolution and Measurement Procedures
 
 **Heisenberg's Uncertainty Principle**
@@ -2310,6 +2490,8 @@
   - Intermediate case: small region of appreciable distance from axis in both position and momentum space
 - Schrdinger's equation describes time development of wave packet as a deterministic process (U)
 - When measuring quantum eects at the classical level, we adopt a different procedure (R) to form squared moduli of quantum amplitudes to obtain probabilities. This introduces uncertainties and probabilities into quantum theory.
+
+---
 
 #### Quantum Spread and Particle Cohesion Two-Peaked Wavefunctions
 
@@ -2335,6 +2517,8 @@
   * Sum of wavefunctions t and b, peaked at top and bottom slits respectively
   * Particle in both places at once if accepting the reality of its state as represented by the wavefunction
   * Standard objection: measurement reveals only one place, but various measurements can distinguish two-peaked states from others.
+
+---
 
 #### Quantum Superposition and Interference in Photons
 
@@ -2373,6 +2557,8 @@
 - Linear superposition allows us to compose various quantum states by adding them using complex number weightings.
 - This feature is essential for understanding the reality of particles in multiple places at once.
 
+---
+
 #### Quantum State Vectors in Hilbert Space
 
 **Quantum Linear Superposition and Hilbert Space**
@@ -2396,6 +2582,8 @@
 - Multiplication of a single state by a complex number is equivalent to multiplying the length by the number while keeping the direction unchanged
 - Each dimension in a Hilbert space corresponds to an independent physical state of a quantum system
 
+---
+
 #### Orthogonal Complementation and Projections in Hilbert Space
 
 **Concepts in Quantum Mechanics: Hilbert Space**
@@ -2409,6 +2597,8 @@
   - After measurement, system jumps to selected axis based on probability amplitudes and their squared moduli.
 - Complete measurement: idealized measurement requiring infinite precision in locating or measuring properties (e.g., position) anywhere in the universe
 - Yes/no measurements: most fundamental type of measurement, can be used to narrow down other properties.
+
+---
 
 #### Quantum Spin Intrinsic Rotation of Particles
 
@@ -2424,6 +2614,8 @@
 - Fermions: Particles with odd-numbered spin (/2, 3/2, 5/2) that rotate differently under complete rotation
 - Bosons: Particles with even-numbered spin (0, 1, 2, etc.) whose state-vector returns to itself upon complete rotation
 - Electrons as an example of a spin-half particle with two-dimensional state space for up and down spins.
+
+---
 
 #### Geometrical Representation of Quantum States on Riemann Sphere
 
@@ -2444,6 +2636,8 @@
 - Despite probabilities for outcomes, there's an objective aspect to quantum states represented by state vectors or wave functions
 - Some argue that state vectors describe a single system or provide probability information about an ensemble of similarly prepared systems.
 
+---
+
 #### Quantum State Objectivity and Impossibility of Copying
 
 **Quantum Mechanics and Physical Reality**
@@ -2458,6 +2652,8 @@
 - Photon spin and polarization:
   - Photons possess spin but cannot have a fixed point due to traveling at light speed
   - Polarization is the phenomenon that determines how much light passes through a polarizing filter
+
+---
 
 #### Geometric Representation of Spin States in Quantum Physics
 
@@ -2485,6 +2681,8 @@
 - Massive particles or atoms have larger spin than half, resulting in more complex quantum systems with n + 1 possible outcomes
 - The quantum descriptions do not go over to classical Newtonian ones as previously believed for large and complicated systems.
 
+---
+
 #### Quantum Many-Particle States Non-Product Superpositions
 
 **Quantum Mechanics and Many-Particle Systems**
@@ -2508,6 +2706,8 @@
 - For two particles, it requires 100 complex numbers (one for each pair of positions)
 - The general two-particle state is a linear superposition, not a simple product of individual states
 
+---
+
 #### Identical Particles Fermions and Bosons in Quantum Mechanics
 
 **Quantum Mechanics and Distinction Between Meanings of 'And' and 'Plus'**
@@ -2526,6 +2726,8 @@
 **Identity of Particles According to Modern Theory:**
 - No reference to individual electrons or photons as they cannot be specified uniquely due to fermion's Pauli exclusion principle. Instead, we can refer to pairs or conglomerate of particles.
 - Approximation allowed for individual electrons, protons, and photons based on total picture of all particles in a system.
+
+---
 
 #### Paradox of EPR and Non-locality in Quantum Mechanics
 
@@ -2556,6 +2758,8 @@
 - Physical objectivity can be achieved without determinism but with some uncertainty or indeterminacy
 - Standard quantum theory provides a reality that usually evolves deterministically, but occasionally jumps due to measurements.
 
+---
+
 #### Quantum Entanglement Instantaneous Spin State Correlation
 
 **Non-Local Probabilities in Quantum Theory vs Classical Viewpoint**
@@ -2581,6 +2785,8 @@
 
 **Bell's Theorem**:
 - Proves that no local realistic (hidden variable) description can give the correct quantum probabilities.
+
+---
 
 #### Quantum Non-Locality and Experiments with Photons
 
@@ -2611,6 +2817,8 @@
 - The realistic view of the state-vector applies to this EPR-type experiment:
   - Photon pair acts as a single unit until one is measured, then individual polarizations have definite states
 
+---
+
 #### Quantum-Mechanical Paradoxes and Field Theory
 
 **Non-Relativistic vs. Relativistic Quantum Mechanics**
@@ -2631,6 +2839,8 @@
 - Quantum electrodynamics (QED) is the most successful quantum field theory, describing the behavior of electrons and photons
 - QED allows for particle-antiparticle annihilation and creation from energy, with a varying number of particles
 
+---
+
 #### Quantum Superpositions and Schrdingers Cat Paradox
 
 **Quantum Electro-Magnetism (QED)**
@@ -2647,6 +2857,8 @@
 * Quantum event triggers device that either kills or saves the cat
 * Inside observer sees R (probabilistic uncertainties), outside observer expects U (linear superposition)
 * Problem lies in maintaining linear superposition at large scales, which is not observed for classical objects like cats.
+
+---
 
 #### Quantum State Interference and the Observers Dilemma Challenges in Quantum Measurement
 
@@ -2667,6 +2879,8 @@
 **Density Matrices**:
 - Some argue that complicated systems should be described by density matrices, but this doesn't fully resolve the issues around quantum measurement.
 - Classical probabilities and quantum amplitudes are involved in density matrices.
+
+---
 
 #### Quantum Superpositions Consciousness and Reality Dilemmas
 
@@ -2702,6 +2916,8 @@
 - Puzzling issues persist regarding consciousness and measurement
 - Further ingredients needed to make many-worlds view work effectively.
 
+---
+
 #### Quantum Mechanics and the Quest for a More Comprehensive Theory
 
 **Quantum Mechanics and Classical Physics**
@@ -2724,6 +2940,8 @@
 - The linearity of U may not extend into the macroscopic world
 - Some type of hidden variable viewpoint could potentially be acceptable but faces challenges due to non-locality from EPR experiments
 - A more radical change, possibly involving a new law, may be needed for quantum theory to merge with classical physics and explain the mind
+
+---
 
 #### Exploring Quantum Mechanics Probability Amplitudes and Fermion Exclusion Principle
 
@@ -2751,6 +2969,8 @@
 * Developed by Enrico Fermi and Paul Dirac in 1926
 * Distinguished from classical statistics (Boltzmann)
 
+---
+
 #### Experimental Indication of Quantum Nonlocality EPR Paradox
 
 **Experiment Results:**
@@ -2767,6 +2987,8 @@
 - Contradiction: Over 85% expected probability vs. actual under 15%.
 - Argument point: Possible non-computability in quantum field theory (cf. Komar 1964).
 
+---
+
 ### 7 Cosmology And The Arrow Of Time
 
 **Cosmology and The Arrow of Time**
@@ -2782,6 +3004,8 @@
 - The past and future seem physically on equal footing, contradicting our perception of time's arrow
 - Relativity challenges the concept of "now" with observer relativity
 - Discrepancies between conscious perception and physical theory suggest a time-asymmetrical ingredient is needed to reconcile the two
+
+---
 
 #### Time-Symmetry and Entropy Unraveling the Past vs Future Mystery
 
@@ -2813,6 +3037,8 @@
 6. Deterministic equations have no preference for future or past direction, but the interpretation of cause and eect can differ depending on which direction is considered.
 7. In a hypothetical universe where same symmetric classical equations apply but behavior is reversed: familiar kind of behavior but different interpretation of cause and eect (future as cause and past as ect or vice versa).
 
+---
+
 #### Time Reversal and Entropy A Counterfactual Scenario
 
 **The Coexistence of Perverse and Normal Experiences**
@@ -2827,6 +3053,8 @@
 - Low entropy refers to special order or arrangement that is not manifest, such as precise coordination of individual particle motions
 - High entropy reflects manifest disorder and randomness in systems, like shattered glass and spilled water
 - The second law of thermodynamics states that the entropy of an isolated system increases over time or remains constant for a reversible system.
+
+---
 
 #### Coarse-Graining Phase Space for Entropy Measurement
 
@@ -2844,6 +3072,8 @@
 **Maxwellian Distribution and Thermal Equilibrium:**
 - Most phase space corresponds to uniformly distributed gases in thermal equilibrium with characteristic random motion
 - Enormous volume of points representing these states occupies almost the entire phase space.
+
+---
 
 #### Entropy Discrepancies in Phase Space Gas Distribution Model
 
@@ -2877,6 +3107,8 @@
 - Gas starts in very special situation, then spreads and occupies larger volumes
 - Eventually settles into thermal equilibrium.
 
+---
+
 #### Time-Reversal Symmetry Breaking in Phase Space Dynamics
 
 **Second Law of Thermodynamics in Phase Space**
@@ -2894,6 +3126,8 @@
 5. **Time asymmetry**: The argument deduces that entropy must decrease when moving backwards in time, but this is not consistent with actual behavior (entropy increases)
 6. **Alternative scenarios**: If gas was previously in a small volume, more likely alternative scenarios involve removing a partition or heating to create space rather than starting from thermal equilibrium
 7. **Correcting the argument**: The most likely way for the system to reach its current state might not be through reaching thermal equilibrium first and then collapsing into the corner; other scenarios could occur where entropy decreases before increasing.
+
+---
 
 #### Origins of Low Entropy in the Universe The Role of Photosynthesis and Sunlight
 
@@ -2914,6 +3148,8 @@
 - Energy is conserved, but we must replace the heat lost as a high-entropy form to maintain internal organization
 - Plants play a crucial role in reducing entropy through photosynthesis, which uses sunlight to separate oxygen and carbon
 - The sunlight brings energy to earth in a low-entropy form, while re-radiated heat is in a high-entropy infra-red form
+
+---
 
 #### Entropy and Energy Flow in the Universe Sun-Earth Interactions
 
@@ -2941,6 +3177,8 @@
 - The material was thrown back into space during the supernova explosion, with a huge gain in entropy due to gravitational contraction
 - Gravity was ultimately responsible for the condensation of diffuse gas into a neutron star, which held the uranium-235 nucleus' low entropy store of energy
 
+---
+
 #### Cosmology and Expansion of the Universe Big Bang Theory and Friedmann-Robertson-Walker Models
 
 **Cosmology and The Big Bang**
@@ -2964,6 +3202,8 @@
 - Euclidean planes for each moment of time, stacked together
 - Galaxy world-lines move away from each other into the future direction
 - No particular galaxy preferred in the description.
+
+---
 
 #### Origin of the Universe and the Big Bang Theory
 
@@ -2989,6 +3229,8 @@
 - Universe moments after creation was in an extremely hot thermal state (primordial fireball)
 - Detailed calculations have been performed to understand the initial constituents and their changes during expansion and cooling
 - These calculations are based on non-controversial physics theories, though the events before 10^(-42) seconds remain uncertain.
+
+---
 
 #### Evolution of Stars and Black Holes Formation and Entropy
 
@@ -3017,6 +3259,8 @@
 - Expanding to become red giants, eventually collapse into a black hole
 - Theories predict black holes have no entropy or temperature, challenging the second law.
 
+---
+
 #### Core Collapse and Formation of Compact Stars
 
 **White Dwarfs: Fate of Stars**
@@ -3041,6 +3285,8 @@
 - Result of core collapse in extremely massive stars (greater than Landau-Oppenheimer-Volkov limit)
 - Region of space where gravitational field is so strong that not even light can escape
 - Escape velocity exceeding the speed of light, impossible for objects to leave.
+
+---
 
 #### Space-Time Geometry of Black Holes and White Holes
 
@@ -3073,6 +3319,8 @@
 - Critical point where tips become vertical: singularity
   - Extreme gravitational pull
 - Not expected to violate second law of thermodynamics inside a black hole.
+
+---
 
 #### Tidal Forces in Black Holes and Big Bang High and Low Entropy Singularities
 
@@ -3115,6 +3363,8 @@
   - The distorting tidal eect of "WEYL" is entirely absent
   - The symmetric inward acceleration of "RICCI" dominates near the initial singularity
 
+---
+
 #### Black Hole Formation and Entropy in Closed Universes
 
 **Reversal of Gravity's Effect on Clumping**
@@ -3145,6 +3395,8 @@
 - Associated temperature with a black hole, not all mass-energy can be contained in the maximum entropy state
 - Hawking temperature is tiny for reasonable sized black holes and would become significant if mini-black holes or large numbers existed.
 
+---
+
 #### Quantum Gravity and the Origin of Entropy
 
 **Black Hole Entropy vs. Universe's Entropy**
@@ -3166,6 +3418,8 @@
 **Singularities and the Second Law**
 - Understanding the origin of the second law requires understanding the structure of space-time singularities
 - The "Weyl Curvature Hypothesis" suggests a time-asymmetric constraint at initial singularities that the Creator follows to create our universe
+
+---
 
 #### Exploring the Directionality and Flow of Time Insights from Relativity and Quantum Mechanics
 
@@ -3192,6 +3446,8 @@
   9. Difficulty of ascertaining exact location of horizon in general non-stationary black holes.
   10. Possible identification of gravitational contribution to entropy as Weyl curvature but no appropriate measure yet found.
   11. Inflationary scenario and its limitations compared to the Weyl curvature hypothesis for explaining universe's uniformity on a large scale.
+
+---
 
 ### 8 In Search Of Quantum Gravity
 
@@ -3221,6 +3477,8 @@
 - However, we are far from such an understanding
 - Putative quantum gravity theory would be remote from phenomena governing brain activity
 
+---
+
 #### Exploring Quantum Gravity Implications Weyl Curvature Hypothesis and Initial Singularities
 
 **The Weyl Curvature Hypothesis and Quantum Gravity**
@@ -3237,6 +3495,8 @@
 
 **Implications:**
 - Initial singularities have constraints based on CQG laws (WEYL = 0) if they exist, not just for big bang.
+
+---
 
 #### Time Asymmetry in Quantum State Reduction Probability Jump and Observation
 
@@ -3262,6 +3522,8 @@
 - The state-vector reduction procedure is time-asymmetrical as it involves a sudden jump to another state
 - This suggests that the R part of quantum mechanics may be inherently time-asymmetric, unlike the U part
 
+---
+
 #### Quantum Mechanics and Time Reversal A Simple Experiment
 
 **Reversed Quantum Mechanics Description**
@@ -3286,6 +3548,8 @@
 4. Quantum mechanical calculation: Given L registers, probability of P registering = 1/2 (squared amplitudes for each path)
 5. Experimentally observed result: One would obtain a 50% success rate in detecting the photon at both ends of the experiment.
 
+---
+
 #### Quantum Mechanics Time Reversal Limitations and Hawkings Box Thought Experiment
 
 **Quantum Mechanics and Time Symmetry: The Procedure R**
@@ -3304,6 +3568,8 @@
 - According to second law of thermodynamics, entropy should increase and reach maximum value
 - When thermal equilibrium is attained, most material collapses into a black hole with some remaining matter and radiation
 - Technological difficulties ignored for thought experiment purposes.
+
+---
 
 #### Evolution of Black Hole Formation and Disappearance in Hawkings Box Phase Space
 
@@ -3331,6 +3597,8 @@
 - Occasionally, a large fluctuation can occur, causing the system to move into smaller, less thermally equilibrated compartments with lower entropy
 - This allows for transitions between regions and , representing Hawking evaporation or gravitational collapse events.
 
+---
+
 #### Quantum State Reduction Compensates for Black Hole-Induced Information Loss
 
 **Black Holes vs Hawking Radiation**
@@ -3354,6 +3622,8 @@
 
 **Conclusion:**
 Black holes and white holes have different implications in the context of quantum mechanics and general relativity. While Hawking suggested that they might be physically identical due to time symmetry, this idea is not widely accepted. The Weyl curvature hypothesis introduces a time asymmetry into the discussion and offers an alternative explanation for the behavior of ow lines in relation to black holes. R, a quantum mechanical process, may play a role in compensating for the merging of ow lines caused by WCH.
+
+---
 
 #### Gravitational State-Vector Reduction Quantum-Gravity Interplay
 
@@ -3385,6 +3655,8 @@ Black holes and white holes have different implications in the context of quantu
   - Acceptance of state-vector reduction as gravitational phenomenon leads to the question of when collapse should take place.
   - Connection to significant amount of curvature: when this level is reached, rules of linear superposition fail and non-linear instability sets in.
 
+---
+
 #### Quantum Gravity in Cloud Chambers and Gas Boxes
 
 **One-Graviton Level and Reality Transition**
@@ -3413,6 +3685,8 @@ Black holes and white holes have different implications in the context of quantu
 **Implications**:
 - Procedure R can occur even without a manifest magnification of quantum eects
 - The difference between two dierent spacetime geometries reaches the one-graviton level when it is unclear which geometry will be realized.
+
+---
 
 #### Quantum Gravity and State-Vector Reduction in Physics and Consciousness
 
@@ -3444,6 +3718,8 @@ Black holes and white holes have different implications in the context of quantu
 8. Other attempts at objective theory of state vector reduction include Krolyhzy (1974), Krolyhzy, Frenkel, and Lukcs (1986), Komar (1969), Pearle (1985, 1989), Ghirardi, Rimini, and Weber (1986).
 9. Penrose has been involved in developing a non-local theory of space-time called twistor theory but it lacks essential ingredients for discussion here.
 
+---
+
 ### 9 Real Brains And Model Brains
 
 **Anatomy and Structure of Brain**
@@ -3466,6 +3742,8 @@ Black holes and white holes have different implications in the context of quantu
 * Secondary regions process sensory information in a subtle way and create more complex plans.
 * Tertiary or association cortex is where abstract and sophisticated brain activity occurs.
 
+---
+
 #### Cerebrums Role and Connected Brain Regions
 
 **The Motor Homunculus and Cerebrum's Role in Movement:**
@@ -3486,6 +3764,8 @@ Black holes and white holes have different implications in the context of quantu
 7. **Cerebellum's Role**: Responsible for precise coordination and control of body movements; timing, balance, delicate actions
 8. **Learning New Skills**: Initially controlled by cerebrum when learning, but once mastered, cerebellum takes over
 9. **Other Brain Regions**: Hippocampus (stores long-term memories), corpus callosum (connects right and left hemispheres), hypothalamus (seat of emotions), thalamus (processing center).
+
+---
 
 #### Brain Structure and Consciousness Reticular Formation and Upper Brain-stem
 
@@ -3513,6 +3793,8 @@ Black holes and white holes have different implications in the context of quantu
 **Upper Brainstem and Consciousness:**
 - Penfield's argument: Upper brainstem, including thalamus and midbrain (especially reticular formation), is involved in consciousness due to its role in communication with the appropriate cerebral cortex region for specific sensations, thoughts, memories or actions being consciously perceived or evoked at that moment.
 - Conscious awareness arises when this region is active and in direct communication with the cerebral cortex.
+
+---
 
 #### Duality of Consciousness in Split-Brain Subjects
 
@@ -3542,6 +3824,8 @@ Black holes and white holes have different implications in the context of quantu
 - Communication between sides is primitive, primarily through emotional feelings
 - Controversy over whether each side should be considered a separate conscious individual.
 
+---
+
 #### Visual Cortex and Conscious Perception
 
 **Split Brain Research Findings:**
@@ -3566,6 +3850,8 @@ Black holes and white holes have different implications in the context of quantu
 - Best understood region in the brain regarding visual information processing
 - Some processing occurs in retina before reaching visual cortex
 - Hubel and Wiesel's experiment: certain cells responsive to lines with specific angles in cat's visual cortex.
+
+---
 
 #### Understanding Neurons Signal Propagation in the Nervous System
 
@@ -3594,6 +3880,8 @@ Black holes and white holes have different implications in the context of quantu
 - Involves movement of ions across cell membrane
 - Net negative charge inside and positive outside maintained by pumps.
 
+---
+
 #### Neurons as Digital Signal Processing Elements
 
 **Nerve Signal Transmission Mechanism**
@@ -3618,6 +3906,8 @@ Black holes and white holes have different implications in the context of quantu
 **Building Logic Gates from Neuron Connections (in Principle)**
 - Possible to create logic gates using neuron connections based on the principles discussed above.
 
+---
+
 #### Neural Gate Construction and Brain Plasticity
 
 **Neuron Logic Gates**
@@ -3633,6 +3923,8 @@ Black holes and white holes have different implications in the context of quantu
   - Neurons have huge numbers of synapses compared to few input/output wires in logic gates
   - Brain has much larger total number of neurons (10^11) compared to even the largest computer (10^9)
 - **Brain Plasticity**: Interconnections between neurons are not fixed as in computers, but change all the time. Locations of axons and dendrites do not change, but synaptic connections can be modified
+
+---
 
 #### Neuroplasticity and Memory Formation in the Brain
 
@@ -3665,6 +3957,8 @@ Black holes and white holes have different implications in the context of quantu
 - Motivated by imitating nervous system operation
 - Two points: parallel computation is not inherently different from serial, just e ciency; conscious thought is unified, not multiple
 
+---
+
 #### Quantum Computation and Brain Activity Single-Photon Neurons and Retinal Superposition
 
 **Relationship Between Consciousness and Quantum Mechanics in Brain Activity**
@@ -3693,6 +3987,8 @@ Black holes and white holes have different implications in the context of quantu
 - The concept of a **quantum computer** has been proposed to harness quantum parallelism for performing large-scale calculations
 - If single quantum sensitive neurons were playing an important role in the brain, they could have interesting effects
 
+---
+
 #### Beyond Quantum Theory Exploring the Limits of Classical Computation
 
 **Quantum Computing in Brain Functioning**
@@ -3715,6 +4011,8 @@ Black holes and white holes have different implications in the context of quantu
 **Beyond Quantum Theory**:
 - Questioning the adequacy of current classical and quantum theories to describe brains and minds
 - Complex problems arising from applying these theories to understanding brain function.
+
+---
 
 #### Non-Algorithmic Thought Processes in Brain Function
 
@@ -3747,6 +4045,8 @@ Black holes and white holes have different implications in the context of quantu
 5. **Deutsch's Comments**:
    - Deutsch prefers the many-worlds viewpoint in quantum theory
    - This is not essential, as the quantum-computer concept is applicable regardless of one's perspective on standard quantum mechanics
+
+---
 
 ### 10 Where Lies The Physics Of Mind?
 
@@ -3784,6 +4084,8 @@ Black holes and white holes have different implications in the context of quantu
 - Consciousness as a matter of degree vs. absolute presence
 - Complexity in defining consciousness and its relationship with mind and soul.
 
+---
+
 #### The Active Role and Purpose of Consciousness
 
 **Turing's Paper and Intelligence vs. Consciousness**
@@ -3800,6 +4102,8 @@ Black holes and white holes have different implications in the context of quantu
 - Humans can perceive the presence of consciousness through common sense
 - Natural selection favored the evolution of conscious beings instead of unconscious automatons
 - Conscious beings exhibit behaviors that are different from non-conscious ones, indicating an active effect on behavior.
+
+---
 
 #### The Advantages and Nature of Consciousness A Debate on Its Role in Predation
 
@@ -3823,6 +4127,8 @@ Black holes and white holes have different implications in the context of quantu
 - Traditional view: conscious mind behaves rationally while unconscious is mysterious.
 - Author's line of reasoning reverses this; unconscious processes could be algorithmic but complicated, conscious thought is different but rationalizable as logical at a higher level.
 
+---
+
 #### Consciousness and Non-Algorithmic Judgement in Mathematics
 
 **Gardner's Claim about Consciousness and Judgement Forming**
@@ -3845,6 +4151,8 @@ Black holes and white holes have different implications in the context of quantu
 **The Evolution of Effective Algorithms**:
 - If we suppose that the human brain operates based on algorithms, natural selection could have driven their evolution and improvement
 - However, natural selection alone cannot evolve the kind of conscious judgements about algorithm validity that we possess
+
+---
 
 #### The Non-Algorithmic Nature of Mathematical Insight
 
@@ -3875,6 +4183,8 @@ Black holes and white holes have different implications in the context of quantu
 - Gdels theorem shows that mathematical truths cannot be fully captured by algorithms
 - This suggests a non-algorithmic role for consciousness in forming mathematical judgments
 
+---
+
 #### Inspiration in Mathematics A Conscious Process
 
 **Gdel's Theorem and Computability**
@@ -3895,6 +4205,8 @@ Black holes and white holes have different implications in the context of quantu
 - Occasional flashes of new insights can be referred to as inspirational experiences
 - These moments may involve thoughts and images that come mysteriously from the unconscious mind or originate in consciousness itself
 - The nature of inspiration is a topic for further investigation.
+
+---
 
 #### Insightful Moments Inspiration in Mathematics and Science
 
@@ -3922,6 +4234,8 @@ Black holes and white holes have different implications in the context of quantu
 - Poincar's sudden insight came unexpectedly during a moment of relaxation, not in intense concentration
 - The author's own insights often come after some deliberate effort, but in a relaxed state
 - Both Poincar and the author felt a strong sense of conviction about the ideas they had.
+
+---
 
 #### Aesthetics and Inspiration in Mathematics and the Arts
 
@@ -3952,6 +4266,8 @@ Black holes and white holes have different implications in the context of quantu
 - Poincar's anecdote illustrates how inspirational ideas can encompass a wide area of thought
 - Artists may keep the totality of their creations in mind all at once (e.g., Mozart)
 
+---
+
 #### Exploring Non-Verbal Thought in Mathematics and Creativity
 
 **Mozart's Creative Process**
@@ -3968,6 +4284,8 @@ Black holes and white holes have different implications in the context of quantu
 
 **The Role of Both Sides of the Brain**
 - Conscious mathematical thought requires a high level of consciousness and is not limited to the left hemisphere, as some may assume.
+
+---
 
 #### Animal Consciousness and Contact with Platos World Diverse Modes of Mathematical Thinking
 
@@ -3989,6 +4307,8 @@ Black holes and white holes have different implications in the context of quantu
 - Puzzle of how communication is possible through this procedure.
 - Venturing an explanation: potential relevance to consciousness issues.
 
+---
+
 #### Algorithmic Consciousness and the Mind-Body Problem
 
 **The Communication of Mathematical Truths:**
@@ -4004,6 +4324,8 @@ Black holes and white holes have different implications in the context of quantu
 * This requires a pre-existing mind to interpret languages and decoding arrangements as algorithms
 * The strong AI perspective raises questions about how the physical world and Plato's world relate to one another (mind-body problem)
 * My own viewpoint is different, believing that minds are not algorithmic entities.
+
+---
 
 #### Determinism and the Role of Consciousness in Quantum Mechanics
 
@@ -4033,6 +4355,8 @@ Black holes and white holes have different implications in the context of quantu
 - Future behavior not computable but still determined by past from the big bang.
 - Openness to possibility that CQG might be deterministic but non-computable.
 
+---
+
 #### The Anthropic Principle Implications for Consciousness and Physics
 
 **Determinism and the Universe**
@@ -4051,6 +4375,8 @@ Black holes and white holes have different implications in the context of quantu
         - Argued that we would not exist in other universes with different conditions
   - Controversial and often invoked when theorists lack good explanation
 - Turning away from abstract speculation to a more scientific issue: Tilings and Quasicrystals.
+
+---
 
 #### Non-Local Quantum Growth of Quasicrystals
 
@@ -4083,6 +4409,8 @@ Black holes and white holes have different implications in the context of quantu
 - Some arrangements grow into larger conglomerations, and at a certain point, one or a reduced superposition may be singled out as the actual arrangement (R)
 - Selection of appropriate solution occurs when physical conditions are met and the one-graviton criterion is reached.
 
+---
+
 #### Speculation on Brain Plasticity and Consciousness Time Delays Quantum-Like Superposition and Non-Algorithmic Action
 
 **Brain Plasticity and Quantum Physics Speculations**
@@ -4106,6 +4434,8 @@ Black holes and white holes have different implications in the context of quantu
 **Implications:**
 - Longer decision-making processes may be non-algorithmic in nature if quantum gravity theory involves non-algorithmic elements.
 
+---
+
 #### Delayed Perception in Consciousness Time Lags in Action and Awareness
 
 **Key Findings from Experiments on Consciousness and Perception:**
@@ -4120,6 +4450,8 @@ Black holes and white holes have different implications in the context of quantu
 - Longer responses require more time for conscious processing (second part of Libet's experiment).
 - Some events might not allow consciousness to play a role if the response needs to take place within a couple of seconds or less.
 - Questions remain about the true nature of consciousness and its role in perception versus automatic responses.
+
+---
 
 #### Perception of Time and Consciousness in Music Composition
 
@@ -4147,6 +4479,8 @@ Black holes and white holes have different implications in the context of quantu
 - Bach's unfinished "Art of Fugue" composition
   - Essentials held in composer's head without normal performance pace
   - Conceived in entirety to maintain intricate complexity and artistry.
+
+---
 
 #### The Nature of Consciousness and Quantum Gravity
 
@@ -4181,6 +4515,8 @@ Black holes and white holes have different implications in the context of quantu
 - Strong AI proponents equate thinking with computation.
 - Objections to strong AI: computers cannot evoke conscious awareness, cannot perceive beauty or emotions, and cannot have genuine autonomous purposes.
 - Science drives us to accept that the world is governed by precise mathematical laws, but consciousness remains a subjective experience that doesn't fit within this framework.
+
+---
 
 #### Puzzles of Consciousness Exploring the Mysteries Beyond Computation
 

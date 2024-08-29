@@ -6,10 +6,10 @@
 > 
 > Along the way to this remarkable cosmological picture, Penrose sheds new light on basic principles that underlie the behavior of our universe, describing various standard and nonstandard cosmological models, the fundamental role of the cosmic microwave background, and the key status of black holes. Ideal for both the amateur astronomer and the advanced physicist - with plenty of exciting insights for each - Cycles of Time is certain to provoke and challenge.
 > 
-> Intellectually thrilling and accessible, this is another essential guide to the universe from one of our preeminent thinkers. - [Cycles of Time (Amazon)](https://www.amazon.com/Cycles-of-Time-Roger-Penrose-audiobook/dp/B004YZ4J4U//?&tag=cognitivetech-20)
+> Intellectually thrilling and accessible, this is another essential guide to the universe from one of our preeminent thinkers. - [Cycles of Time (Amazon)](https://www.amazon.com/Cycles-of-Time-Roger-Penrose-audiobook/dp/B004YZ4J4U/?&tag=cognitivetech-20)
+
 
 ## Contents
-- [Prologue](#prologue)
 - [Part 1. The Second Law and Its Underlying Mystery](#part-1-the-second-law-and-its-underlying-mystery)
   - [1.2 Entropy, as state counting](#12-entropy-as-state-counting)
   - [1.3 Phase space, and Boltzmanns definition of entropy](#13-phase-space-and-boltzmanns-definition-of-entropy)
@@ -50,6 +50,8 @@
 * Priscilla explains this idea is not feasible due to the Second Law of Thermodynamics, which states that energy cannot be retrieved from random motions without becoming more disorganized
 * She advises against pursuing such an idea, as it would be unlikely to work
 
+---
+
 #### Origin of Organized Energy in the Universe Cosmological Perspectives
 
 **Second Law of Thermodynamics Discussion between Tom and Aunt Priscilla**
@@ -84,6 +86,8 @@
 - The Earth doesn't gain overall energy from the Sun as all gained energy eventually goes back into space.
 - Organization in the universe remains a mystery despite various cosmological theories attempting to explain it.
 
+---
+
 ## Part 1. The Second Law and Its Underlying Mystery
 
 **The Second Law and its underlying mystery**
@@ -117,6 +121,8 @@
 - This raises an important question: why is the entropy of a system lower in the past than it is in the future for open (non-isolated) systems?
 - Some theories, such as the Big Bang singularity or quantum cosmology, suggest that entropy might have been infinitely low at some point in time and has been increasing ever since.
 
+---
+
 #### Newtonian Dynamics and Entropy Increase The Second Laws Inconsistency with Reversibility
 
 **Second Law of Thermodynamics**
@@ -138,6 +144,8 @@
 - This increase in randomness is observed as things evolving into more complex systems and eventually breaking down into simpler ones. It's a natural feature of the world around us.
 - While the second law doesn't seem like a mystery at first glance, it does present some challenges when trying to understand how life emerges from seemingly chaotic processes, which will be explored in later sections.
 - The Second Law is separate from dynamical laws (Newton's laws) and cannot be derived from them alone because they are symmetrical regarding time direction. Instead, the Second Law must be added as an additional principle to explain why entropy always increases under certain conditions.
+
+---
 
 ### 1.2 Entropy, as state counting
 
@@ -162,6 +170,8 @@
 - Randomness increases over time, as entropy tends to increase in closed systems
 - The Second Law guarantees that certain processes are improbable and tend towards less order (more entropy)
 
+---
+
 #### Coarse-Grained Entropy in High-Dimensional Configuration Space
 
 **Entropy as a Measure of Probabilities**
@@ -182,6 +192,8 @@
 - Volume measurement used instead of counting discrete things
   - Region in configuration space representing indistinguishable states by macroscopic measurements (coarse graining)
   - Robustness of entropy due to large volume ratios between coarse-graining regions.
+
+---
 
 ### 1.3 Phase space, and Boltzmanns definition of entropy
 
@@ -213,6 +225,8 @@
 - Quantum mechanics provides measures of phase-space volumes as just numbers
   - Extremely small values in standard units
 - Granularity and discreteness of quanta in quantum mechanics
+
+---
 
 #### Coarse-graining and Entropy Calculation in Phase Space for Classical Dynamical Systems
 
@@ -248,6 +262,8 @@
   - Including more degrees of freedom (e.g., entire Milky Way galaxy) expands the phase space and coarse-graining region
   - Entropy now applies to the larger system as a whole, not just the local experiment
 
+---
+
 #### Product Space and Entropy in Physical Systems
 
 **Phase Space in Physics:**
@@ -261,6 +277,8 @@
 - Boltzmann entropy: sum of entropies within and external to the laboratory
   - Entropies of independent systems add together (product-to-sum property)
 - Ignoring external degrees for experiment analysis, but crucial for universe entropy balance.
+
+---
 
 ### 1.4 The robustness of the entropy concept
 
@@ -286,6 +304,8 @@
 - Coarse-graining regions have vastly different volumes, so detailed changes make little difference to entropy
 - Example: Model of red/blue paint mixture shows that increased precision has negligible effect on assigned entropy
 
+---
+
 #### Entropy and Reversible Processes Spin Echo and Rotating Dye Experiment
 
 **The Entropy Increase in a Bath**
@@ -302,6 +322,8 @@
   - Nuclear spins lose order but then regain original state
   - Seems to violate Second Law, but hidden order revealed with sophisticated measurements
 - Similar issue occurs with stored information on CD/DVD or a viscous fluid experiment.
+
+---
 
 #### Perplexities in Understanding Physical Entropys Role
 
@@ -326,6 +348,8 @@
 - No fundamental need for a well-defined and objective physical notion of entropy that never decreases as time progresses.
 - Entropy is useful due to large differences in macroscopic quantities, revealing a remarkable fact about our universe.
 
+---
+
 ### 1.5 The inexorable increase of entropy into the future
 
 **Inevitable Increase of Entropy into the Future**
@@ -348,6 +372,8 @@
 - Finding the most probable past history requires examining coarse-graining regions adjoining the starting point
 - Most probable path involves entering larger and larger regions as time goes back
 
+---
+
 #### Gross Violations of the Second Law in Evolutionary Implausibility
 
 **Second Law of Thermodynamics: Evolution Curves and Reasoning**
@@ -365,6 +391,8 @@
 **Problem with Retroactive Application**:
 - When applied in past time-direction, argument gives completely wrong answer
 
+---
+
 ### 1.6 Why is the past different?
 
 **Why is the Past Different from the Future?**
@@ -375,6 +403,8 @@
 - Key issue: extraordinary specialness of Big Bang state
 - Points of clarification regarding arguments for Second Law based on time perception
   - Argument from experience of time progression irrelevant to explaining the need for tiny coarse-graining region in our universe.
+
+---
 
 #### Possible Reversal of the Second Law A Speculative Scenario
 
@@ -396,6 +426,8 @@
 - Observationally, the Second Law holds true in our universe and no reversal effects are seen
 - However, we cannot rule out the possibility of a reverse Second Law eventually holding in the very remote future
 - Such an eventuality is not intrinsically absurd but not plausible based on current knowledge.
+
+---
 
 ## Part 2. The Oddly Special Nature of the Big Bang
 
@@ -430,6 +462,8 @@
 - Space itself was very tiny at that point, including all of physical space
 - General relativity is a well-tested theory, especially in modelling binary pulsar systems with high precision.
 
+---
+
 #### Cosmological Models and their Expansion Rates Friedmann to Dark Energy
 
 **The Original Cosmological Models**
@@ -455,6 +489,8 @@
 - Figure 2.3(c) illustrates a point that will be significant later: the conformal representation of hyperbolic plane, discovered by Eugenio Beltrami in 1868 and Henri Poincar around 1882
 - This representation is based on the smooth finite boundary representing "infinity" in this geometry
 - The ideas from conformal geometry will be addressed in more detail later, particularly in Sections 2.3, 2.5, and 3.2
+
+---
 
 ### 2.2 The ubiquitous microwave background
 
@@ -483,6 +519,8 @@
 
 **Modern Cosmology**:
 - Focuses on subtle deviations from uniformity in CMB, rather than its uniformity
+
+---
 
 #### Maximum Entropy and Cosmic Expansion Entropy Increase in an Expanding Universe
 
@@ -513,6 +551,8 @@
 - Einstein's general theory of relativity accurately describes gravity, but it may not fully explain thermodynamics
 - A difference arises when comparing a gas confined in a box vs. stars moving in a "galactic-sized" box under gravitational attraction
 
+---
+
 #### Entropy and Cosmological Uniformity
 
 **Newtonian vs Einstein's Theory:**
@@ -533,6 +573,8 @@
   * Explained by human intervention or other highly organized systems
 - Highly organized structure of the egg is part of life's grand scheme, which keeps entropy low.
 
+---
+
 #### Solar Energy and Gravitational Clumping Keys to Lifes Emergence
 
 **The Fabric of Life on Earth**
@@ -551,6 +593,8 @@
 - The Sun's existence is due to gravitational clumping that produced it, allowing for thermonuclear reactions to occur
 - These reactions are crucial for life on Earth as they provide a source of heat and water vapor
 - Potential for stars to form comes from the Big Bang's initial low-entropy state, which allowed for gravitational degrees of freedom not to be activated
+
+---
 
 ### 2.3 Space-time, null cones, metrics, conformal geometry
 
@@ -582,6 +626,8 @@
 - Massless particles (e.g., photons) must lie along the null cone at each event
 - Null cones determine causality by indicating which events can influence others
 
+---
+
 #### Rubber-sheet Deformations in General Relativity and Geometry
 
 **Relativity Theory and Null Cones:**
@@ -600,6 +646,8 @@
 - Hyperbolic geometry example: Escher's picture represents straight lines as circular arcs meeting the boundary at right angles (Fig. 2.16)
 - Distance between points p and q in hyperbolic space calculated using g, pseudo-radius (2.30)
 - Length units can differ from Euclidean geometry.
+
+---
 
 #### Spacetime Metric and Chronometry in Lorentzian Geometry
 
@@ -635,6 +683,8 @@
 - Precise clocks exist at a fundamental level, central to General Relativity theory
 - Individual massive particles play a role as virtually perfect clocks.
 
+---
+
 #### Quantum Clocks and Geodesics in Relativity Theory
 
 **Matter and Energy: Mass, Rest Energy, and Quantum Theory**
@@ -664,6 +714,8 @@
 - Timelike geodesics: longest curve from one point to another on the same line
 - For null geodesics (length is zero), only the null-cone structure of space-time determines them
 
+---
+
 ### 2.4 Black holes and space-time singularities
 
 **Black Holes and Space-Time Singularities**
@@ -691,6 +743,8 @@
 - Concerns with assumptions like spherical symmetry and pressureless material
 - The author notes these issues, as they stimulated their thinking on gravitational collapse in 1964.
 
+---
+
 #### Gravitational Collapse and Singularity Theorems
 
 **Wheeler's Insights on Gravitational Collapse and Singularities**
@@ -711,6 +765,8 @@
 3. Trapped surface as a criterion for unstoppable gravitational collapse.
 4. Established theorem: When a trapped surface forms, singularities cannot be avoided provided certain conditions are met.
 5. No assumption of symmetry or simplifying conditions required; only the weak energy condition is assumed (energy flux across any light ray must never be negative).
+
+---
 
 #### Formation and Observation of Black Holes
 
@@ -737,6 +793,8 @@
 - The existence of a trapped surface does not necessarily imply a black hole, depending on "cosmic censorship" conjecture
 - Observational evidence favors the presence of black holes in certain binary star systems and at galactic centers
 
+---
+
 ### 2.5 Conformal diagrams and conformal boundaries
 
 **Conformal Diagrams and Conformal Boundaries**
@@ -752,6 +810,8 @@
 
 **Schematic Conformal Diagrams:**
 - Used to represent general space-times without exact spherical symmetry or when there is no exact symmetry axis.
+
+---
 
 #### Conformal Diagrams of Cosmological Models
 
@@ -782,6 +842,8 @@
 - Strict conformal diagram constructed from gluing together parts of Friedmann model (Fig. 2.38a) and EddingtonFinkelstein extension of Schwarzschild solution (Fig. 2.38b,c)
 - Fig. 2.39: Strict conformal diagrams for spherically symmetrical vacuum: original Schwarzschild solution, extension to EddingtonFinkelstein collapse metric, and full extension to Kruskal/Synge/Szekeres/Fronsdal form.
 
+---
+
 #### Cosmological Event and Particle Horizons in Conformal Diagrams
 
 **Black Holes: Schwarzschild Solution and Hawking Radiation**
@@ -802,6 +864,8 @@
 
 **Particle Horizon**
 - Arises when past boundary is spacelike instead of singularity, related to strong cosmic censorship issue (touched upon in the next section).
+
+---
 
 ### 2.6 Understanding the way the Big Bang was special
 
@@ -826,6 +890,8 @@
 - In a collapsing universe, deviations from FLRW symmetry would become more exaggerated, making inflation irrelevant
 - Collapse would lead to a highly complicated, enormously high-entropy singularity, unlike the closely FLRW-form singularity in our actual Big Bang
 
+---
+
 #### High-Entropy Singularities and Initial Conditions of the Universe
 
 **Collapsing Universe and Singularities**
@@ -849,6 +915,8 @@
 **Geometrical Criterion for Singularities:**
 - Important question: What distinguishes smooth singularity of low-entropy Big Bang from general high-entropy type?
 
+---
+
 #### Gravitational Lensing Distortions in Starlight due to Massive Bodies
 
 **Gravitational Degrees of Freedom vs. Electromagnetic Field**
@@ -868,6 +936,8 @@
 - First clear evidence for general relativity through observations during solar eclipse (1919)
   - Stars appear displaced due to Sun's gravitational field
   - Distortion observed in star images outside the Sun's limb (elliptical pattern) measures amount of Weyl curvature C intercepted by line of sight.
+
+---
 
 #### Gravitational Lensing and the Weyl Curvature Hypothesis
 
@@ -891,6 +961,8 @@
 **Schematic Diagram:**
 - Fig. 2.49 represents Paul Tod's proposal for WCH
 - Assertion that space-time can be continued smoothly prior to the hypersurface before Big Bang is just a mathematical trick with no physical meaning.
+
+---
 
 ## Part 3. Conformal Cyclic Cosmology
 
@@ -920,6 +992,8 @@
 **Observational Implications**
 - [To be discussed in 3.6]
 
+---
+
 #### Ultimate Fate of the Universe Boring Expansion
 
 **Pre-Big-Bang Phase**
@@ -948,6 +1022,8 @@
 **Philosophical Change**:
 - Subtle change of philosophy required for understanding the ultimate picture presented.
 
+---
+
 #### Conformal Cyclic Cosmology A Universe of Multiple Expanding Phases
 
 **Conformal Cyclic Cosmology (CCC)**
@@ -965,6 +1041,8 @@
 - Universe composed of a possibly infinite succession of aeons, each expanding into the next seamlessly
 - Conformal stretching at Big Bang brings infinite temperature and density to finite values, while conformal squashing at infinity brings zero density and temperature up to finite levels
 - Phase space describing physical activity has a conformally invariant volume measure due to rescaling of distance and momentum measures.
+
+---
 
 ### 3.2 The structure of CCC
 
@@ -995,6 +1073,8 @@
 **Implications**:
 - Theoretical backing for the conventional ideas is less substantial than in the case of charge conservation.
 
+---
+
 #### Conformal Invariance in Electromagnetism and Gravity
 
 **Rest-Mass vs. Absolute Constants in Particle Physics**
@@ -1016,6 +1096,8 @@
 - Maxwell's equations are preserved under conformal rescaling, but this does not hold for gravity
 - The free gravitational field has a conformal invariance, but the coupling to sources is not conformally invariant
 - Conformal invariance is more straightforward in electromagnetism compared to gravity
+
+---
 
 #### Mathematical Treatment of Cosmological Transitions in Conformal Cyclic Cosmology
 
@@ -1047,6 +1129,8 @@
 - Dominant form of matter, accounting for 70% of ordinary matter (excluding cosmological constant)
 - Does not fit neatly into standard model of particle physics, only interacts through gravitational effect
 
+---
+
 #### Origins of Dark Matter and Energy in the Universe
 
 **The Phantom Field in Cosmology:**
@@ -1069,6 +1153,8 @@
 - Useful for expressing other physical constants as pure numbers using Planck units
 - Original idea was that N would increase with time or G decrease; however, more accurate measurements show it's not constant.
 - Dicke and Carter's argument: a creature living in the middle of an ordinary star's active existence would find a universe around N^3 age, explaining apparent coincidence of cosmological constant coming into play now.
+
+---
 
 ### 3.3 Earlier pre-Big-Bang proposals
 
@@ -1096,6 +1182,8 @@
 - Radius function replaced by semicircle for closed radiation-filled universe
 - Analytical continuation doesn't make sense for Tolman's radiation model prior to the big bang.
 
+---
+
 #### Wheelers Proposal and Anthropic Principle in Cosmology
 
 **CCC and Conformal Factors Behavior:**
@@ -1113,6 +1201,8 @@
 - Dimensionless constants could change in cyclic models like CCC
 - Lee Smolin suggested black holes collapse to form new expanding universes with modified dimensionless constants (Fig. 3.12)
 - Collapse-expansion process in Smolin's model unlike CCC, relationship to Second Law unclear.
+
+---
 
 #### Quantum Cosmology Models Addressing Second Law Concerns
 
@@ -1139,6 +1229,8 @@
 - Classical or quantum bounce may not be sufficient for geometrical matching between one aeon and the next
 - Cyclic process consistent with Second Law remains a challenge that must be confronted seriously.
 
+---
+
 ### 3.4 Squaring the Second Law
 
 **Understanding the Second Law of Thermodynamics: The Entropy Conundrum**
@@ -1151,6 +1243,8 @@
 * Major contributors to entropy increase: black holes in galaxies (10^21 entropy per baryon) vs. CMB (10^9 entropy per baryon)
 * Current entropy per baryon in the universe is much larger than that of CMB, primarily due to black holes
 * Black hole entropy will continue growing in the future, making this number insignificant compared to far-future values.
+
+---
 
 #### Black Hole Evaporation and Entropy Reduction
 
@@ -1178,6 +1272,8 @@
 - Classical description of black holes may be insufficient at extremely small scales
 - Singularity in classical space-time is hard to believe, but may be a consequence of classical general relativity
 
+---
+
 #### Quantum Information and Black Hole Singularity
 
 **Role of Singularity in Classical Picture**
@@ -1199,6 +1295,8 @@
 **Personal Opinion**
 - Information is likely lost in black holes
 - Hawking's revised opinion, more conventional among quantum field theorists, may not be closer to the truth.
+
+---
 
 #### Quantum Mechanics and Black Hole Information Loss
 
@@ -1224,6 +1322,8 @@
 - Information loss can be described as a loss of degrees of freedom, shrinking the phase space
 - This is a new phenomenon in dynamical evolution where the phase space actually decreases during evolution.
 
+---
+
 #### Black Hole Information Loss and Phase Space Reduction
 
 **Evolution of Phase Space Following Black-Hole Information Loss**
@@ -1247,6 +1347,8 @@
 - Reduction in phase-space volume needed for resolving the conundrum posed at the beginning of this section
 - Reasonableness of overall entropy increase through black hole formation and evaporation
 - Need for more detailed study to calculate effective entropy reduction due to information loss
+
+---
 
 ### 3.5 CCC and quantum gravity
 
@@ -1277,6 +1379,8 @@
 - By the time o+ is reached, universe should contain about 10 times more material than present particle horizon
 - Possible black hole with an entropy around 10^(12) could violate Second Law if attainable in a universe with observed value of
 
+---
+
 #### Dark Energy and Cosmological Entropy Objections
 
 **Black Hole Temperature and Entropy: Irreversible Processes**
@@ -1303,6 +1407,8 @@
 - Lack of clear physical arguments to justify cosmological entropy S
 - Cosmological temperature has an observer-dependent aspect, unlike black hole Hawking temperature
   * Unruh effect: accelerating observer feels temperature, not one in free fall.
+
+---
 
 #### Quantum Vacuum Energy and Cosmological Constant Mystery
 
@@ -1334,6 +1440,8 @@
 - Favored interpretation: non-zero value for instead of 0 since observational evidence supports it (2.1)
 - Calculation issues may indicate problem with interpretation or calculation techniques.
 
+---
+
 #### Quantum Gravity and Singularities in CCC A Conservative Big Bang vs Exotic Black Hole Endpoints
 
 **CCC's Perspective on Singularities and Quantum Gravity:**
@@ -1358,6 +1466,8 @@
 * Anticipated that true quantum gravity would require modifications to standard present-day rules of quantum mechanics in accordance with aspirations towards the end of 3.4.
 * Unexpectedly found CCC treating the Big Bang as part of an essentially classical evolution governed by deterministic differential equations like those of standard general relativity.
 
+---
+
 #### Weyl Curvature and the Classical Universe in CCC
 
 **Curvature and Quantum Gravity**
@@ -1370,6 +1480,8 @@
 - Classical equations continue the evolution of massless fields present in the very remote future into the next aeon's big bang
 - Standard approaches to early universe assume that quantum gravity determines behavior at the Big Bang, such as inflationary cosmology and its explanation of CMB temperature deviations through quantum fluctuations
 - However, CCC provides a different perspective on this issue.
+
+---
 
 ### 3.6 Observational implications
 
@@ -1385,6 +1497,8 @@
 - Explanation: Pre-Big Bang theories, like CCC, can address this through an exponential expansion of separation between points in a conformal diagram (Fig. 3.23)
 - Initial density fluctuations in the CMB appear scale-invariant over a broad range
 - Explanation: Self-similar process of exponential expansion can result in a distribution with certain scale invariance if there is randomness in initial fluctuations distribution.
+
+---
 
 #### Quantum Cosmology Alternate Aeon and Fundamental Constants Variation
 
@@ -1421,6 +1535,8 @@
 **Observational Proposals:**
 - No clear-cut observational proposal exists for testing the aspect of CCC that demands the ultimate decaying away of rest-mass.
 
+---
+
 #### Gravitational Radiation Signature of Black Hole Collisions in CMB Sky
 
 **Black Holes Encounters and Gravitational Radiation**
@@ -1446,6 +1562,8 @@
 - The gravitational wave burst would give the initial material of the succeeding aeon (presumed primordial dark matter) a significant kick in the direction of the radiation
 - This effect would be the same all around the entire circle C, where I is the geometrical intersection of the past light cone (u) and future light cone (+e) at the crossover surface
 - Thus, for each black-hole encounter in the previous aeon, there would be a circle in the CMB sky that contributes either positively or negatively to the background average CMB temperature over the sky.
+
+---
 
 #### Evidence for Cyclic Cosmology from CMB Data Analysis
 
@@ -1480,6 +1598,8 @@
 **Future Work:**
 - Break up celestial sky into smaller regions to identify regions with significant Weyl curvature along line of sight between observer and decoupling surface
 - Clarify matters in the not-too-distant future for resolution of physical status of conformal cyclic cosmology.
+
+---
 
 ## Epilogue - Appendices
 

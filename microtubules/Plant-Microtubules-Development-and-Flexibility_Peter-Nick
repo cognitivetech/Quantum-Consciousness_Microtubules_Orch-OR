@@ -1,65 +1,8 @@
 # Plant Microtubules Development and Flexibility 2nd Edition Volume Editor: Peter Nick
 
-- A book about plant microtubules and their role in plant morphogenesis, environmental responses, and evolution
-- Highlights the morphogenetic potential of plant microtubules from three general viewpoints
-
-## Part 1: Microtubular Functions in Plant Development
-
-### Control of Cell Axis
-- Establishment of division and expansion axis
-- Preprophase band and phragmoplast define cell division axis
-- Cortical microtubule reorientation for cell expansion adjustment
-
-### Interaction with Actin Filaments
-- Cross-talk between microtubules and actin filaments
-- Importance in organelle movement, morphogenesis, and cell expansion
-
-### Control of Cell Wall Texture
-- Microtubules define secondary wall texture
-- Influence on cellulose deposition and lignification
-
-## Part 2: Microtubules and Environmental Challenges
-
-### Pathogen Defense
-- Role in resistance to fungal pathogens
-- Interaction with viral movement proteins
-
-### Abiotic Stress Response
-- Microtubules as sensors for abiotic stimuli (touch, osmotic pressure, gravity, cold)
-- Involvement in signal transduction and environmental adaptation
-
-## Part 3: Evolution and Regulation of Plant Microtubules
-
-### Tubulin Gene Regulation
-- Complex regulatory system for tubulin expression
-- Control at transcription, translation, folding, and assembly levels
-
-### Evolution of Mitosis
-- Divergence of plant microtubule organization from animals
-- Development of plant-specific mitotic structures
-
-### Evolutionary Footprints
-- Presence of tubulin ancestor FtsZ in mosses
-- Discovery of intranuclear tubulin
-
-## Biotechnological Applications
-
-### Manipulation of Plant Architecture
-- Potential target for changing plant shape and growth
-
-### Stress Resistance
-- Manipulation of microtubules to enhance resistance to pathogens and abiotic stress
-
-### Crop Improvement
-- Use of tubulin isotypes to alter plant responses to cold, herbicides, and hormones
-- Exploitation of species-specific drug sensitivities for weed control and crop growth management
-
-## Research Advances
-- Progress in life-cell imaging techniques
-- Availability of large-scale tools from high-throughput studies
-- Expansion of research to more diverse plant species (mosses, algae)
-
-This book provides a comprehensive overview of plant microtubule functions and their potential for biotechnological applications in agriculture and plant science.
+> Plant microtubules are key elements of cell growth, division and morphogenesis. In addition to their role in plant development and architecture, they have emerged as regulatory elements of signalling and important targets of evolution.
+> 
+> Since the publication of the first edition of Plant Microtubules in 2000, our understanding of microtubules and their manifold functions have advanced substantially. Consisting of the following three parts, this book highlights the morphogenetic potential of plant microtubules from three general viewpoints: Microtubules and Morphogenesis: control of cell axis during division and expansion, cross-talk with actin filaments, mechanical properties of the cell wall. Microtubules and Environment: the role of microtubules during the sensing or response of environmental factors such as pathogens or abiotic stresses. Microtubules and Evolution: complexity and specialization of plant microtubules in the context of plant evolution. - [Plant Microtubules (Amazon)](https://www.amazon.com/Plant-Microtubules-Development-Flexibility-Monographs/dp/3540771751?&tag=cognitivetech-20)
 
 ## Contents
 - [Control of Cell Axis](#control-of-cell-axis)
@@ -72,6 +15,7 @@ This book provides a comprehensive overview of plant microtubule functions and t
 - [Microtubules and the Evolution of Mitosis](#microtubules-and-the-evolution-of-mitosis)
 
 ## Summary
+
 ### Control of Cell Axis
 
 **Plant Cell Monograph (11) P. Nick: Plant Microtubules**
@@ -112,6 +56,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
 **Conclusion:**
 - Potential approaches for manipulating the cell axis through division or expansion discussed.
 
+---
+
 ### Crossed-Wires: Interactions and Cross-Talk Between the Microtubule and Microfilament Networks in Plants
 
 **Plant Cell Microtubules**
@@ -140,6 +86,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
 - Microtubules and microlaments function independently in many roles within plant cells
 - When these two networks interact and cross-talk occurs, dissecting the relationship can be challenging.
 
+---
+
 ### Microtubules and the Control ofWood Formation
 
 **Plant Cell Monograph (11) P. Nick: Plant Microtubules**
@@ -164,6 +112,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
   * Timber, furniture, pulp and paper, chemicals, fuels
 - Carbon sink, expected to play role in reducing CO2 emissions from fossil fuels
 - Great demand for wood due to its various uses and environmental benefits.
+
+---
 
 ### Microtubules and Pathogen Defence
 
@@ -191,6 +141,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
   - Oomycete species
   - Possibly bacteria
 
+---
+
 ### Microtubules and Viral Movement
 
 **Plant Cell Monograph: Plant Microtubules**
@@ -209,6 +161,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
    - Recent findings describe interactions between MP and MT during early and late stages of infection
 3. **Importance in Virus Infection:**
    - Understanding these interactions crucial for developing strategies to control virus spread.
+
+---
 
 ### Microtubules as Sensors for Abiotic Stimuli
 
@@ -229,6 +183,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
 - This research will emphasize the mechanosensory properties of microtubules.
 - Proposed mechanism: Nonlinear dynamics of microtubule assembly provide a strong and sensitive amplifier for detecting minute mechanical stimuli.
 - Examples of abiotic sensing using this mechanism: gravi- and cold-sensing adaptation to harsh environments.
+
+---
 
 ### Plant Tubulin Genes: Regulatory and Evolutionary Aspects
 
@@ -252,6 +208,8 @@ This book provides a comprehensive overview of plant microtubule functions and t
 - Nuclear mRNA transcription is regulated by promoters and 5'/3' sequences that annex the coding region (examples: Chu et al., 1998; Stotz and Long, 1999; Abe et al., 2004).
 - The specificity of expression for a tubulin isotype can be determined by analyzing the promoter/regulatory sequence's activity pattern.
 - Several laboratories have recorded the specific expression patterns of different tubulin gene nucleotides (overs, adpolleon, fungalization).
+
+---
 
 ### Microtubules and the Evolution of Mitosis
 

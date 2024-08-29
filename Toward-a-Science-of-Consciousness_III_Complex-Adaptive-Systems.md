@@ -7,6 +7,7 @@
 > Contributors : Dick J. Bierman, Jeffrey Burgdorf, A. Graham Cairns-Smith, William H. Calvin, Christian de Quincey, Frank H. Durgin, Vittorio Gallese, Elizabeth L. Glisky, Melvyn A. Goodale, Richard L. Gregory, Scott Hagan, C. Larry Hardin, C. A. Heywood, Masayuki Hirafuji, Nicholas Humphrey, Harry T. Hunt, Piet Hut, Alfred W. Kaszniak, Robert W. Kentridge, Stanley A. Klein, Charles D. Laughlin, Joseph Levine, Lianggang Lou, Shimon Malin, A. David Milner, Steven Mithen, Martine Nida-Rumelin, Stephen Palmer, Jaak Panksepp, Dean Radin, Steven Z. Rapcsak, Sheryl L. Reminger, Antti Revonsuo, Gregg H. Rosenberg, Yves Rossetti, Jeffrey M. Schwartz, Jonathan Shear, Galen Strawson, Robert Van Gulick, Frances Vaughan, Franz X. Vollenweider, B. Alan Wallace, Douglas F. Watt, Larry Weiskrantz, Fred A. Wolf, Kunio Yasue, Arthur Zajonc. - [Toward a Science of Consciousness III - Amazon](https://www.amazon.com/Toward-Science-Consciousness-III-Discussions/dp/0262581817?&tag=cognitivetech-20)
 
 ## Contents
+- [Contents](#contents)
 - [PREFACE](#preface)
 - [I— THE EXPLANATORY GAP—INTRODUCTION David J. Chalmers](#i-the-explanatory-gapintroduction-david-j-chalmers)
   - [2— Conceiving Beyond Our Means: The Limits of Thought Experiments Robert Van Gulick](#2-conceiving-beyond-our-means-the-limits-of-thought-experiments-robert-van-gulick)
@@ -45,6 +46,7 @@
   - [35— Essential Dimensions of Consciousness: Objective, Subjective, and Intersubjective Frances Vaughan](#35-essential-dimensions-of-consciousness-objective-subjective-and-intersubjective-frances-vaughan)
   - [36— Training the Attention and Exploring Consciousness in Tibetan Buddhism B. Alan Wallace](#36-training-the-attention-and-exploring-consciousness-in-tibetan-buddhism-b-alan-wallace)
   - [37— Transpersonal and Cognitive Psychologies of Consciousness: A Necessary and Reciprocal Dialogue Harry T. Hunt](#37-transpersonal-and-cognitive-psychologies-of-consciousness-a-necessary-and-reciprocal-dialogue-harry-t-hunt)
+
 
 ## PREFACE
 
@@ -93,6 +95,8 @@
 - Establishment of Center for Consciousness Studies
 - First Consciousness Poetry Slam organized by poet Carol Ebbecke.
 
+---
+
 ## I— THE EXPLANATORY GAP—INTRODUCTION David J. Chalmers
 
 **Explanatory Gap**
@@ -118,6 +122,8 @@
 - Conceivability argument shows existence of an explanatory gap between mental and physical phenomena
 - Seemingly conceivable that there could be a physically/functionally similar creature without consciousness or distinct sensory experiences
 - Lack of explanation for why this isn't the case demonstrates the explanatory gap.
+
+---
 
 #### Analyzing Explanation Sketches and the Analytic-Synthetic Distinction in Philosophy
 
@@ -148,6 +154,8 @@
    - Some argue that statements like (i) in ESI may not be analytic or topic-neutral
    - Objectors challenge the assumption that identities like (5) require explanation, claiming they can be accepted as brute facts
 
+---
+
 #### Epistemological Explanatory Gap and Psychophysical Identity Claims
 
 **Objection to Identity Claims Requiring Explanation**
@@ -165,6 +173,8 @@
 - Distinction between explanatory gap argument and traditional antimaterialist conceivability argument
 - Materialist position: mental properties can be metaphysically reducible to physical properties, despite epistemological thesis that they cannot be explained in terms of physical properties due to gappy identities like (8)
 - Argument for metaphysical conclusion from epistemic premise concerning cognitive access to reality is not straightforward.
+
+---
 
 #### Explaining the Explanatory Gap in Consciousness: A Metaphysical and Epistemological Perspective
 
@@ -195,6 +205,8 @@
 - Levine (1983, 1993b): introduces explanatory gap and further elaborates on the argument
 - Hempel (1965), Kitcher & Salmon (1989): locus classicus for treating explanations as deductions; wide range of views on nature of explanation
 - Jackson, Fodor & Lepore (1992), Levine (1993a), Rey (1993) - in-depth discussion of problem; different approaches to understanding it.
+
+---
 
 ### 2— Conceiving Beyond Our Means: The Limits of Thought Experiments Robert Van Gulick
 
@@ -227,6 +239,8 @@
 2. Problems with the argument: Equivocation on conceivable or failure to support both premises.
 3. Chalmers acknowledges that logical possibility does not necessarily mean metaphysical possibility and primary vs secondary intensions in scientific examples.
 
+---
+
 #### Analysis of Consciousness and Materialism Debate: Limitations in Conceptual Understanding
 
 **Chalmers' Argument Against Identifying Consciousness with Material Properties:**
@@ -252,6 +266,8 @@
 - Critique on the adequacy of concepts used for both sides, especially the concept of phenomenal consciousness and its possible physical basis.
 - Comparison with vitalist's flawed reasoning in the mid-19th century about reproduction and physical structure.
 
+---
+
 #### Discussing the Inadequacy of Neodualist's Concept of Consciousness for Assessing Physical Instantiation
 
 **Neodualist's Concept of Consciousness Inadequacy**
@@ -267,6 +283,8 @@
     * Adequacy of concepts used to reach general antifunctionalist conclusion questionable
 - Functionalist's embarrassments: large explanatory gap, carrying a promissory note is not the same as being refuted.
 - Mid-19th century materialist's position: wide explanatory gap, needs to write a hefty IOU but not yet refuted.
+
+---
 
 ### 3— Realistic Materialist Monism Galen Strawson
 
@@ -291,6 +309,8 @@
 - Confusion in our imaginative picture of matter or the physical world
 - Limited knowledge about space, time, gravity, dimensions, etc.
 7. Physics can provide insights to dilute or undermine features of our natural conception of the physical that make nonmental phenomena seem utterly different from mental ones.
+
+---
 
 #### Quantum Mechanics Challenges the Solid Nature of Matter
 
@@ -317,6 +337,8 @@
 - Argument that PPD-zombies (perfect physical duplicates with no experiential properties) could exist is invalid due to lack of evidence
 - Realistic materialist monism: Registers indubitable reality of experiential phenomena and acknowledges non-experiential phenomena as concrete reality or matter.
 
+---
+
 #### Materialist Monism: A Philosophical Discussion on the Nature of Reality.
 
 **Realistic Materialist Monism:**
@@ -341,6 +363,8 @@
 7. Conception of matter as essentially energy-involving present since Democritus and Epicurus' work
 8. Suggestion from Sebastian Gardner: call oneself a 'Q-ist' instead of monist.
 9. Trailer for Strawson's forthcoming work, grateful to various philosophers and audiences for their contributions.
+
+---
 
 ### 4— On the Intrinsic Nature of the Physical Gregg H. Rosenberg
 
@@ -372,6 +396,8 @@
 - Dimensional viewer accessing another reality as a Life world
 - Existence of objects functioning analogously to cognitive systems in our world.
 
+---
+
 #### Discussion on Phenomenal Consciousness and Carrier Theories within a Simulated Life World.
 
 **Explanatory Gap and Consciousness in a Life World**
@@ -389,6 +415,8 @@
 **Implications:**
 - Avoiding infinite regress requires carriers with natures partially external to the fundamental system of categories in the fundamental schema but not internal to any other schema.
 - The existence of consciousness in a pure Life world remains an open question due to skeptic's doubts and the complexity of the issue.
+
+---
 
 #### Realist Theory of Causation: Two Faces and Carriers for Consciousness
 
@@ -411,6 +439,8 @@
 - Receptivity as a connection between effective sides of distinct individuals (Figure 4.2)
   * Yields explanatory benefits: simple inductive definition, models levels of nature, reduces facts about spacetime to causal connection and significance, ties into hypothesis of consciousness as a carrier for causal content
 - Theory increases explanatory power by endowing the world with an intricate vertical structure (Figure 4.3)
+
+---
 
 #### Duality in Causation and Consciousness: The Carrier View
 
@@ -443,6 +473,8 @@
 - Human consciousness carrying causal content of high-level, cognitively structured natural individual
 - Human awareness is experiential acquaintance with intrinsic content that carries nature's effective side.
 
+---
+
 ## II— COLOR—INTRODUCTION David J. Chalmers
 
 **Color Experiences and Consciousness**
@@ -468,6 +500,8 @@
 - Color experiences can be represented geometrically as a color space with points corresponding to colors and proximities indicating similarities
 - Newton's color circle is an example of a simple representation for understanding behavioral data constraints on answering the color question.
 
+---
+
 #### Exploring Color Perception Symmetries in Human Vision.
 
 **Color Differences Unseen Through Similarity Measures**
@@ -488,6 +522,8 @@
 **Red-Green Reversed Perceivers:**
 - Some individuals may be red-green reversed trichromats due to certain genetic defects affecting pigments in cone types.
 - They do not experience the red-green dimension of color space, but their case is more plausible than a complete reversal of all dimensions.
+
+---
 
 #### Isomorphism Constraint: Behavioral Equivalence of Conscious Experiences
 
@@ -513,6 +549,8 @@
 - Two people's color experiences might be different, but if they have the same relational structure, their behavior will be indistinguishable
 - The isomorphism constraint suggests that the nature of individual color experiences cannot be uniquely fixed by behavioral means, but their structural interrelations can be
 
+---
+
 #### Inferring Colors through Biological Interventions and Within-Subject Designs
 
 **Isomorphism Constraint and Color Perception**
@@ -530,6 +568,8 @@
 - Biologically defined classes do not imply equivalent color experiences for individuals within them
 - True equivalence classes based on relevant biological features can be inferred, but statements about others' experiences are indirect inferences
 - Chances of bringing this project off in reality are vanishingly small due to assumptions involved.
+
+---
 
 ### 6— Color Quality and Color Structure C. L. Hardin
 
@@ -564,6 +604,8 @@
 - Ai was trained on basic color terms and then tested with Berlin and Kay chips she had not seen before.
 - She named the chips similarly to human beings, suggesting that her color categorization was based on innate mechanisms rather than cultural bias or other fancy explanations.
 
+---
+
 #### Color Perception and Neural Mechanisms: Intrinsic Qualities and Structures
 
 **Categorical Asymmetry in Color Perception:**
@@ -579,6 +621,8 @@
 - Warm and cool colors have a cross-culturally robust distinction, possibly reflecting intrinsic phenomenal similarities and differences
 - Katra and Wooten's study: higher ratings of warmth correspond with activation levels in opponent channels (Katra & Wooten, 2003)
 - Connection between temperature association and color perception may be rooted in neural systems rather than solely based on environmental associations.
+
+---
 
 #### Argument for Inverted Spectrum's Implausibility in Light of Current Knowledge
 
@@ -601,6 +645,8 @@
 **Addressing Challenges:**
 - Careful description of both sides of equation required to judge adequacy of functionalism or materialism in capturing qualitative character of experience
 - Patient application of methods: phenomenology, functional models, and neural investigation necessary for understanding hard problem of consciousness.
+
+---
 
 ### 7— Pseudonormal Vision and Color Qualia 1 Martine Nida-Rümelin
 
@@ -635,6 +681,8 @@
 **Arguments Against Functionalism:**
 - Pseudonormal vision challenges functionalist theories as it doesn't fit the expected model. Claims (A) and (B) are not met by most versions of functionalism.
 
+---
+
 #### Hardin's Argument against Qualia Inversion and the Explanatory Gap
 
 **Explanatory Gap Thesis and Color Qualia Debate**
@@ -655,6 +703,8 @@
 **Closing the Explanatory Gap**:
 - Need an argument showing that functional structure necessarily leads to specific phenomenal experiences (R*)
 - Proposed premise **P3** may help, but does not close the gap fully as it only explains phenomenal structure, not specific qualities like red, green, etc.
+
+---
 
 #### Phenomenal Structure vs Concrete Qualia in Color Vision
 
@@ -683,6 +733,8 @@
 **Conclusion**:
 - Explanations of specific experiences, structure, and psychophysical laws all presuppose but don't explain the existence of subjective perspective or consciousness itself.
 
+---
+
 ## III— NEURAL CORRELATES—INTRODUCTION Alfred W. Kaszniak
 
 **Neural Correlates of Consciousness (NCC)**
@@ -710,6 +762,8 @@
 **Conclusion**:
 - Current neuroscience technologies offer new opportunities for examining relationships between brain and consciousness
 - Yield of such technologies in revealing NCC depends on how well phenomenology can be assessed or manipulated within experimental paradigms
+
+---
 
 #### Development of Phenomenal Model System for Consciousness Research
 
@@ -741,6 +795,8 @@
 - Necessary to understand consciousness as a biological phenomenon
 - Empirically based descriptive phenomenology practiced in dream content analysis.
 
+---
+
 #### Neuroscience and Virtual Reality as Models for Consciousness Research
 
 **The Dreaming Brain and Consciousness Research**
@@ -763,6 +819,8 @@
 - Most studies focused on animal subjects; human phenomenology is key
 - Reviewing neural correlates of human visual awareness through studies by Crick and Koch.
 
+---
+
 #### Neural Correlates of Visual Awareness and 40-Hz Synchronization in Object Perception
 
 **Study Findings on Cortical Magnetic Responses and Visual Awareness:**
@@ -781,6 +839,8 @@
 **Conclusions:**
 - Further development of consciousness science depends on taking it seriously as a biological phenomenon in the brain
 - Cognitive neuroscience of consciousness deserves serious consideration and empirical basis instead of philosophical speculations.
+
+---
 
 ### 9— Neural Correlates of Hallucinogen-Induced Altered States of Consciousness F. X. Vollenweider, A. Gamma, and M. F. I. Vollenweider-Scherpenhuyzen
 
@@ -811,6 +871,8 @@
 - Proposed model to analyze the effects of different chemical types of hallucinogens on a system level
 - Five cortico-subcortical loops: motor, oculomotor, prefrontal, association, limbic (memory, learning, self-nonself discrimination)
 - Each loop mediates specific functions and involves dopaminergic, serotonergic, and GABAergic neurotransmission.
+
+---
 
 #### Cortico-Striato-Thalamic Loops and Hallucinogenic Experience
 
@@ -847,6 +909,8 @@
 - Hallucinogen research can help explore the relationship between self/ego experience and neural networks, narrowing the gap between the mental and physical
 - The CSTC model provides a useful starting point to approach the functional organization of the brain in drug-induced or naturally occurring ASC
 
+---
+
 ### 10— First Steps toward a Theory of Mental Force: PET Imaging of Systematic Cerebral Changes after Psychological Treatment of Obsessive-Compulsive Diso
 
 **Obsessive-Compulsive Disorder (OCD)**
@@ -876,6 +940,8 @@
 3. **Understand**: The cognitive foundation of the treatment is enhancing patients' insight into false brain messages causing their symptoms
 4. **Adapt**: Utilizing this understanding to change behavioral responses, leading to significant improvements and alterations in brain metabolism patterns in OFC, anterior cingulate, and caudate.
 
+---
+
 #### Cognitive-Behavioral Therapy for OCD: Mindful Awareness and Brain Changes
 
 **Cognitive-Behavioral Training for OCD Patients**
@@ -903,6 +969,8 @@
 **Epiphenomenalism vs. Role of Interpretation in Inner Experience**
 - Valuing is emotional reaction to environment and physiological conditions (Mises, 1978)
 - OCD provides an opportunity to investigate relationships between valuation of inner experience, behaviors, and brain events.
+
+---
 
 #### Understanding and Overcoming OCD: Generating New Brain Circuits through Mental Force
 
@@ -933,6 +1001,8 @@
 **Mental Force**:
 - Hypothetical entity representing the power of conscious effort
 - Needed for strengthening new brain circuitry's messaging capacity
+
+---
 
 #### Exploring Visual Consciousness through Neurophysiology, Neuropsychology, and Cognitive Psychology
 
@@ -973,6 +1043,8 @@
 **Milner's Response to Stoerig's Work:**
 - Discusses relationship between unconscious ventral activation during blindsight and Milner/Goodale hypothesis.
 
+---
+
 ### 11— The Visual Brain in Action A. David Milner and Melvyn A. Goodale
 
 **The Visual Brain in Action**
@@ -1004,6 +1076,8 @@
 - Posterior parietal cortex lesions: Impaired landmark task performance and inaccurate grasping
 - Hand shaping impairment with microinjections in PP cortex
 
+---
+
 #### Visual Control of Action Separate from Perception in Brain
 
 **Dorsal Stream vs Ventral Stream in Visual Control and Guidance:**
@@ -1027,6 +1101,8 @@
 
 **Dorsal Stream's Role:**
 - Plausible assumption that residual visuomotor skills depend on dorsal stream mechanisms due to severe damage or disconnection of ventral stream in some patients.
+
+---
 
 #### Dual Visual Pathways: Perception vs Action Control
 
@@ -1057,6 +1133,8 @@
 **Limitations:**
 - Perception can proceed unconsciously under certain circumstances, such as degraded stimuli or outside focus of selective attention.
 
+---
+
 #### Distinct Dorsal and Ventral Visual Streams for Action and Perception, Limited Interaction.
 
 **The Relationship Between Dorsal and Ventral Streams in Visual Processing:**
@@ -1075,6 +1153,8 @@
 - Successful integration required for adaptive goal-directed behavior
 - Independent functioning of visuomotor modules and occipitotemporal mechanisms during visual processing
 - Only perceptual system can provide suitable raw materials for thought processes.
+
+---
 
 ### 12— In Search of Immaculate Perception: Evidence from Motor Representations of Space Yves Rossetti
 
@@ -1110,6 +1190,8 @@
 6. Patient J. A.: Complete loss of somatosensory processing on left half body but able to point at stimuli on right arm (Figure 12.1)
 7. Motor responses to visual illusions, e.g., longer movements for open configuration of Müller-Lyer lines (Gentilucci et al. 1996).
 
+---
+
 #### Dissociation Between Perception and Motor Responses in Müller-Lyer Illusion
 
 **Müller-Lyer Illusion and Motor Performance:**
@@ -1135,6 +1217,8 @@
 - Learning based on direct confrontation with physical environment
 - Perfect metric correspondence between space representation used for action and physical space supports this claim.
 
+---
+
 ### 13— Attending, Seeing and Knowing in Blindsight Robert W. Kentridge, Charles A. Heywood, and Lawrence Weiskrantz
 
 **Blindsight and Visual Attention**
@@ -1159,6 +1243,8 @@
 **Implications**:
 - The relationship between attention and consciousness is complex and multifaceted
 - Experiments on blindsight allow for the investigation of the role of awareness in both voluntary and automatic attention
+
+---
 
 #### Analyzing Blindsight: Attention, Awareness, and Anatomy
 
@@ -1196,6 +1282,8 @@
   - Hemispatial neglect associated with unilateral damage to parietal lobe, specifically inferior parietal lobule (IPL)
   - Redirection of attention may not require control by areas beyond parietal cortex
 
+---
+
 #### Attention and Awareness in Blindsight: Role of Dorsolateral Prefrontal Cortex
 
 **Constantinidis and Steinmetz (1996) Study:**
@@ -1216,6 +1304,8 @@
 - Dorsolateral PFC associated with willed action, spatial memory, and suppression of habitual responses
 - GY's aware mode in blindsight associates dorsolateral PFC activation with awareness but not visual qualia
 - No conflict between understanding of attention anatomy and voluntary/automatic control bypassing striate cortex.
+
+---
 
 ### 14— Insights into Blindsight A. David Milner
 
@@ -1239,6 +1329,8 @@
     * GY could direct attention within his hemianopic field using cues he couldn't see
     * Voluntary use of cues required conscious processing, while automatic orienting did not.
 
+---
+
 ### 15— From Grasping to Language: Mirror Neurons and the Origin of Social Communication Vittorio Gallese
 
 **Naturalistic Approach in Neurophysiology**
@@ -1261,6 +1353,8 @@
 - Relationship between visual features of graspable objects and specific words in motor vocabulary
 - Approximately 20% of F5 grasping neurons respond to visual presentation of objects without movement, showing strict congruence between type of grip coded by a neuron and size of effective object.
 - Mirror neurons discovered through study of visual properties of grasping neurons.
+
+---
 
 #### Discovery of Mirror Neurons in Monkeys & Humans: Neural Units Responding to Observed Actions
 
@@ -1301,6 +1395,8 @@
 - Brain imaging studies using Positron Emission Tomography (PET)
   - Activation of cortex in left superior temporal sulcus, inferior parietal lobule, and anterior Broca's region during grasping observation.
 
+---
+
 #### Mirror Neurons and Language: Evolutionary Origins in Primate Premotor Cortex
 
 **Mirror Matching System: Possible Functional Roles**
@@ -1324,6 +1420,8 @@
 - Human Broca's region has cytoarchitectural similarities with monkey area F5, where mirror neurons are found
 - This suggests a potential evolutionary continuity between prelanguage brachio-manual behaviors and language skill
 
+---
+
 #### Evolutionary Origins of Language: Motor Theory and Mirror Neurons
 
 **Studies on Broca's region:**
@@ -1345,6 +1443,8 @@
 - Similarity between action/perception matching system for speech and mirror neurons.
 - Language can be exhibited in visual domain through sign language.
 - Proposal: left hemisphere language specialization independent of modality rests on gesture recognition (Broca’s region evolutionary continuity with F5 area).
+
+---
 
 ### 16— Supporting the ''Grand Illusion of Direct Perception: Implicit Learning in Eye-Movement Control Frank H. Durgin
 
@@ -1374,6 +1474,8 @@
 - Results: Implicit learning found in Experiment 1 but not in Experiment 2
 - Conscious strategies better developed for world/display-relative coordinate systems than eye-centered polar coordinates
 
+---
+
 #### Learning Eye-Movement Patterns in Visual Search Tasks
 
 **Experiment 1:**
@@ -1402,6 +1504,8 @@
 
 **Conclusion:** Experiment 1 demonstrated learned sensitivity to eye movement contingencies, while Experiment 2 failed to show improvement with a screen-relative rule.
 
+---
+
 #### Differences in Implicit Learning of Eye-Movement Control Systems Based on Rule Coordinate Frames.
 
 **Experiment 2 vs. Experiment 1 Results:**
@@ -1425,6 +1529,8 @@
 **Implications:**
 - Further research needed to determine if this finding is an artifact or an important limitation on implicit learning in eye-movement control systems.
 
+---
+
 ### 17— Selective Peripheral Fading: How Attention Leads to Loss of Visual Consciousness Lianggang Lou
 
 **Peripheral Vision Fading and Attention:**
@@ -1446,6 +1552,8 @@
 **Preliminary Observation:**
 - Case study shedding light on the neural substrate for attention and consciousness in vision.
 - Voluntary attention to a specific area may play a role in peripheral fading, as suggested by selective fading observation.
+
+---
 
 #### Investigation of Selective Fading in Peripheral Vision Discusses Selective Attention and Visual Consciousness
 
@@ -1471,6 +1579,8 @@
 
 **Implications:**
 - Attention might involve a centrifugal influence from extra-striate cortical areas, including prefrontal areas, to lower visual centers like V1, V2, and LGN for selectively modulating cortico-LGN reverberation.
+
+---
 
 ## V— EMOTION—INTRODUCTION Alfred W. Kaszniak
 
@@ -1501,6 +1611,8 @@
 - Disagreements on necessary conditions for identifying an emotion
 - Emotion is often linked to feeling and consciousness but not invariably correlated with other emotional components or conscious experience
 - Nonconscious autonomic physiological reactions and motoric behavior can occur without conscious recognition or attention.
+
+---
 
 #### Exploring Conscious Emotional Experience and its Neural Correlates through fMRI and Case Studies in Individuals with Brain Damage
 
@@ -1533,6 +1645,8 @@
 - International Affective Picture System (IAPS) slides used as emotionally salient stimuli to ascertain conscious experience of emotion
 - IAPS slides carefully selected based on valence and arousal ratings to balance sets, avoiding distressing or shocking content. Four different block-randomized presentation orders used for each slide set.
 
+---
+
 #### Emotional Responses in Ventromedial Frontal Lobe Damage Patients: Valence and Arousal Ratings and Skin Conductance Responses Study
 
 **IAPS Stimulus Set Evaluation**
@@ -1556,6 +1670,8 @@
 - Patient group showed less SCR differentiation between slide types than control group
 - Correspondence between subjective arousal ratings and SCRs suggests sympathetic autonomic response and emotional arousal experience are dependent on ventromedial frontal structures.
 
+---
+
 #### Frontal Brain Regions and Emotional Awareness: Comparative Study
 
 **Comparing ACA Aneurysm Patients with Circumscribed Medial Frontal versus Orbito-frontal Damage**
@@ -1574,6 +1690,8 @@
   - Obsessively develop alternative strategies for solving problems but unable to decide between them
 - Orbital frontal cortex, with connections to amygdala, appears to be involved in inhibiting emotional impulses
 - Connections between orbital frontal cortex and rostral anterior cingulate may allow conscious representations of emotional bodily states to influence impulse control and adaptive regulation of behavior.
+
+---
 
 ### 19— At the Intersection of Emotion and Consciousness: Affective Neuroscience and Extended Reticular Thalamic Activating System (ERTAS) Theories of Con
 
@@ -1603,6 +1721,8 @@
 4. **Motor changes and differential readiness activations**: Reflecting approach vs. avoidance behavioral intent towards the situation
 5. **Autonomic/physiological changes**: Crucial visceral aspect of emotion, including cardiopulmonary parameters, skin conductance, muscle tonic issues, endocrine, and immune system changes
 
+---
+
 #### Exploration of Emotional Processing and Integration in Brain Systems
 
 **The Functional Evidence - Intrinsic Interpenetration of Three Global State Functions (GSF)**
@@ -1628,6 +1748,8 @@
 4. Distinguishing between primitive emotions (prototype states) and emotional learning is challenging, as emotional meaning involves value-laden activations across the brain.
 5. The biphasic nature of affect requires understanding how valence is processed at multiple levels of biological, social, and personal-subjective values in the brain.
 
+---
+
 #### Neuro-Emotional Interactions: Affective Prototypes and PAG Connectivity in Emotion Processing
 
 **Ambivalence in Human Relationships:**
@@ -1651,6 +1773,8 @@
 **PAG's Role:**
 - Receives projections from all of the affective prototype systems in the basal forebrain and diencephalon
 - May function as a primitive ventral nRt, computing competition between the relative activation states of the prototypes.
+
+---
 
 #### Midbrain Affective Prototypes and Consciousness Modeling
 
@@ -1681,6 +1805,8 @@
 - These prototype affective states may generate primary wetware instantiated models for basic self-world relations that can be further cognitively developed
 - Rich contents of consciousness suggest the influence of these primes is pervasive and hard to separate from sensory or motor mapping correlations.
 
+---
+
 ### 20— Laughing Rats? Playful Tickling Arouses High-Frequency Ultrasonic Chirping in Young Rodents Jaak Panksepp and Jeffrey Burgdorf
 
 **Laughter in Rats:** Evidence of a Primitive Form of Laughter in Young Rodents
@@ -1710,6 +1836,8 @@
    - Brisk and assertive stimulation without frightening the animal
 7. Results: Mean levels of 50 KHz chirping in young rats based on body stimulation and gender.
 
+---
+
 #### Rats exhibit different responses to tickling based on age and social context.
 
 **Findings from Tickling Study**
@@ -1733,6 +1861,8 @@
 - Negative emotional arousal affected chirping: mild hunger marginally increased, bright light significantly reduced, and exposure to cat smell had a large suppressive effect on chirping [F(1, 18) = 71.56, p < .0001]
 - Gentle touch or static forms of somatosensory stimulation did not provoke vigorous chirping; negative touch strongly inhibited chirping
 - Manual tickling play for 15 mins reduced ensuing social play exhibited by pairs of young rats, but sustained artificial somatosensory stimulation had no such effect.
+
+---
 
 #### Investigating the Biological Basis of Rat Chirping as Analogous to Human Laughter.
 
@@ -1773,6 +1903,8 @@
 - Possibility for studying friendly cross-species social interactions in animal research laboratory
 - Clinical value: additional work may yield information on depression and other bodily processes affected by emotions.
 
+---
+
 #### Rats exhibit joy and play behavior similar to humans; suggesting a common emotional root in mammals.
 
 **Joyful Affect in Mammals**
@@ -1797,6 +1929,8 @@
 **Neural Ground for Human Consciousness:**
 - Raw emotional experiences and primitive self may constitute the neural ground upon which more figurative aspects of human consciousness were built. (Panksepp 1998b)
 
+---
+
 ## VI— EVOLUTION AND FUNCTION OF CONSCIOUSNESS—INTRODUCTION Stuart R. Hameroff
 
 **Consciousness, Evolution, and Function: An Introduction**
@@ -1817,6 +1951,8 @@
 - **Graham Cairns-Smith**: Qualia have a physical basis and may be generated by biomolecular systems
 - **Steven Mithen**: The onset of higher order consciousness occurred with the development of tools, art, and agriculture
 - **William H. Calvin**: Consciousness is the result of a hierarchical process of competing ideas and sensations
+
+---
 
 #### Evolution of Sensory Qualities: Past Function vs Present Privacy
 
@@ -1843,6 +1979,8 @@
 
 **Conclusion:**
 - Continue trying to explain sensory quality as a product of selection or accept its privacy as private but acknowledge that these two things occurred at different times in evolution.
+
+---
 
 #### Understanding Sensations: Evolution of Active Engagement in Response to Stimuli
 
@@ -1872,6 +2010,8 @@
 - Sensations and clocks share an analogy in their methods of representing information
 - Both involve active engagement with external stimuli and the evolution of responses over time.
 
+---
+
 #### Darwinian Explanation of Sensory Privatization Over Time
 
 **The Evolution of Sensory Experience: A Darwinian Approach**
@@ -1897,6 +2037,8 @@
 - The author argues that we can have it both ways: explain sensory quality through selection and accept its apparent privacy
 - Evolutionary change led to privatization, but forms of sensory responses remain fixed
 - Privatized sensory experiences become self-sustaining and partly self-creating.
+
+---
 
 ### 22— Flagging the Present Moment with Qualia Richard L. Gregory
 
@@ -1933,6 +2075,8 @@
 - Projecting prevailing hypothesis into physical world
 - Importance of present moment for survival.
 
+---
+
 #### The Role of Consciousness and Qualia in Perception: Evidence and Exceptions
 
 **Visual Processing and Consciousness:** Qualia Hypothesis
@@ -1959,6 +2103,8 @@
 - Present moment recognition essential for survival against dangers
 - Qualia serve to flag the present with vivid sensations
 - Exceptional cases may provide insight into normal perception processes and abnormal states.
+
+---
 
 #### Unusual Memory Synesthesia in Mr. S: A Case Study by Luria
 
@@ -1989,6 +2135,8 @@
     1. Cold thoughts are not conscious without sensed bodily changes
     2. Special vividness of qualia in perception flags the present.
 
+---
+
 ### 23— If Qualia Evolved . . . A. G. Cairns-Smith
 
 **The Evolution of Qualia**
@@ -2018,6 +2166,8 @@
   - Adaptive nature of feelings, such as hunger and lust
 - Evolutionary argument for the efficacy of feelings based on Darwin's idea of natural selection.
 
+---
+
 #### Exploring the Physico-Chemical Origins of Consciousness and Qualia
 
 **The Physico-Chemical Consequences of Feelings**
@@ -2042,6 +2192,8 @@
 
 **Implications:**
 - The study of qualia could potentially lead to a new understanding of matter and energy in the physical world.
+
+---
 
 ### 24— Handaxes and Ice Age Carvings: Hard Evidence for the Evolution of Consciousness Steven Mithen
 
@@ -2071,6 +2223,8 @@
 - Provide a dilemma: why would making handaxes indicate high intelligence and good health but also require significant resources?
 - Further research needed to understand the relationship between handaxes, consciousness evolution, and cognitive package development.
 
+---
+
 #### Early Humans' Conscious Thought Facilitated Handaxe Production
 
 **Handaxe Manufacturing: Four Mental Components**
@@ -2099,6 +2253,8 @@
 - Private speech played a critical role in combining these resources to create technical intelligence (Mithen)
 - This process likely began hand-in-hand with talking to each other.
 
+---
+
 #### Disembodiment of Mind Through Material Culture and Language Evolution.
 
 **Material Culture and the Disembodiment of Mind**
@@ -2124,6 +2280,8 @@
 - First hesitant use of additional tools seen 100,000 years ago; intense use after 50,000 with art; continued with agriculture
 - Material culture helped pull new ideas out of the human mind and into consciousness.
 
+---
+
 ### 25— Ephemeral Levels of Mental Organization: Darwinian Competitions As a Basis for Consciousness William H. Calvin
 
 **Understanding Consciousness: Darwinian Competitions and Levels of Mental Organization**
@@ -2144,6 +2302,8 @@
 - Neocortex can implement a Darwinian process
 - Essential components include random variations and the algorithm for creating new stable configurations
 - Stabilizing intermediate levels allows tacking on even higher levels, potentially resulting in consciousness.
+
+---
 
 #### Understanding Neocortical Hexagonal Competitions in Cognition and Action
 
@@ -2174,6 +2334,8 @@
 - Exhibits all six Darwinian essentials in its superficial neocortical circuitry
 - Copies, competes, and produces spatiotemporal patterns needed for thought and action
 
+---
+
 #### Neocortical Darwinian Processes and Consciousness
 
 **Neocortex and Consciousness**
@@ -2199,6 +2361,8 @@
 **Limitations:**
 - Much detail about subpatterns beyond current microelectrode and imaging technologies
 - Uncertainty about how Darwinian success can be converted into a subroutine obviating the copying competition after enough experience.
+
+---
 
 ## VII— PHYSICAL REALITY AND CONSCIOUSNESS—INTRODUCTION Stuart R. Hameroff
 
@@ -2238,6 +2402,8 @@
 - Differing mental states correspond to different condensates of the underlying quantum vacuum
 - Quantum signals can influence mesoscale neural function, and neural information can translate into quantum encoding
 
+---
+
 #### Whitehead's Philosophy: Atoms of Reality as Units of Life and Quantum Mechanics Implications
 
 **The Philosophy of Alfred North Whitehead**
@@ -2269,6 +2435,8 @@
 **Implications:**
 - Quantum mechanics supports the idea that the universe is alive due to its close relationship with Whitehead's philosophy.
 
+---
+
 ### 27— Quantum Monadology Kunio Yasue
 
 **Penrose's Platonic Stance**
@@ -2287,6 +2455,8 @@
 3. Macroscopic quantum states: Useful for quantum computing, but maintaining superposition is troublesome in highly interactive physical environment like the brain
 4. Fröhlich's theory and Bose-Einstein condensation as potential solutions to maintain quantum coherence over macroscopic regions in the brain are unrealistic or unacceptable by modern physics standards.
 5. Progressing from quantum mechanics to quantum field theory for understanding brain-wide quantum states.
+
+---
 
 #### Quantum Brain Dynamics: A Physical Model for Consciousness
 
@@ -2311,6 +2481,8 @@
 1. Modern physics framework cannot fully explain conscious experience (Chalmers)
 2. Penrose's proposal for a new space-time framework called spin networks may provide potential solutions
 3. Spin networks aim to implement both physical reality and Platonic mathematical reality in a universal way.
+
+---
 
 #### Quantum Monadology: Bridging Philosophy and Consciousness through Quantum Algebras
 
@@ -2363,6 +2535,8 @@
 - To develop a science of consciousness, we need an understanding of Platonic world's existence in frontier physics and a concrete formulation of brain states interacting with it.
 - Quantum monadology may bridge philosophical explanations for consciousness, Penrose's predictions, and the brain.
 
+---
+
 ### 28— The Interface in a Mixed Quantum/Classical Model of Brain Function Scott Hagan and Masayuki Hirafuji
 
 **Interface in Mixed Quantum/Classical Model of Brain Function**
@@ -2406,6 +2580,8 @@
 - Encountered at fine level of psychological structure, not admitted in traditional reading
 - No adequate solution found in classical context where locality constraint is enforced
 
+---
+
 #### Quantum Memory Theory and Neuron Functionality
 
 **Proposed Quantum Component for Memory**
@@ -2428,6 +2604,8 @@
 **Superradiance and Information Flow**
 - Superradiance phenomenon allows quantum effects to propagate up to macroscopic levels in large systems involving many participating molecular sites
 - Neural system orchestrates changes to synaptic weights, suggesting information needed for orchestration inheres momentarily in parts of the cytoskeletal network.
+
+---
 
 #### Quantum Dynamics in Microtubules: Memory and Coherent States in Biological Systems
 
@@ -2459,6 +2637,8 @@
 
 **Biological Systems and Coherent States**:
 - Continuous provision of energy is ubiquitous in the biological world
+
+---
 
 ## VIII— THE TIMING OF CONSCIOUS EXPERIENCE—INTRODUCTION Stuart Hameroff
 
@@ -2496,6 +2676,8 @@
 - Debate on quantum mechanics as an explanation for backward referral in consciousness continues from Libet's experiments
 - Multiple non-quantum explanations proposed, including time delay following the 250ms cortical stimulation.
 
+---
+
 #### Libet's Temporal Perception Study Reanalyzed, Highlighting Psychometric Functions and Optical Illusions
 
 **Dennett's Perspective on Brain Tricks for Processing Neural Activity**
@@ -2521,6 +2703,8 @@
 * Threshold and PSE defined as the range needed for 10% to 90% correct responses, and the difference corresponding to the 50% point respectively.
 * Figure 29.2B shows a psychometric function with an increased PSE due to the Muller-Lyer illusion (an optical illusion)
 
+---
+
 #### Comparing Perceived Timing of Sensory Stimuli in Libet's Experiment
 
 **Libet's Raw Data Insights**
@@ -2541,7 +2725,7 @@
 **Table 29.4:** Reorganized data for lower right panel of figure 29.3
 
 | Thalamic onset time relative to skin onset (msec) | Number of observations/total number |
-|--------------------------------------------------|----------------------------------|
+|-----|----|
 | –200                                            | 4/20                           |
 | –100                                             | 7/17                           |
 | 0                                               | 13/19                          |
@@ -2551,7 +2735,7 @@
 **Table 29.5:** Optimal parameter values for psychometric function fits in figure 29.3
 
 | Subject   | PSE (with i = 1 or 2) | threshold  | chi-square |
-|-----------|----------------------|------------|------------|
+|-----|----|---|---|
 | HS, skin-skin                                | –69 ± 18            | 87 ± 26    | 8.9        |
 | HS, skin-thalamus                | –139 ± 13           | 68 ± 30    | 16.6       |
 | GS, skin-skin                               | –60 ± 13            | 115 ± 12   | 2.9        |
@@ -2560,6 +2744,8 @@
 **Problems with Libet's Data:**
 1) PSE shifts in cortical data not larger than thresholds
 2) Backward referral enterprise based on belief of substantial shift between cortex and skin awareness may be flawed due to small differences when compared to threshold.
+
+---
 
 #### Analysis of Brain Stimulation Time Anomalies in Libet's Experiment.
 
@@ -2586,6 +2772,8 @@
 - All responses in Libet's data occur after stimulus onset
 - Two reasonable explanations for Libet's time anomaly data: fixed delay between stimulus and conscious awareness or placing qualia in memory at time of marker
 - PSE timing shifts due to brain stimulation are relatively small compared to threshold and uncertainty in criterion placement.
+
+---
 
 ### 30— A Quantum Physics Model of the Timing of Conscious Experience Fred Alan Wolf
 
@@ -2615,6 +2803,8 @@
   - Neuronal adequacy achieved later for thalamus or medulla stimuli compared to cortical stimuli
 - TTOTIM explains difference in timings of awareness for passive stimuli events and predicts that brain-based phantom experiences appear later than time marker events, while peripheral sensory experiences become conscious earlier than their time markers.
 
+---
+
 #### Quantum Model for Consciousness: Time-Reversed State Vector Theory
 
 **Cortical Cycle and Consciousness Theory**
@@ -2642,6 +2832,8 @@
 - Temporally close overlap between perceived and projected experiences, potentially explaining early evolution of specific projection system
 - Electrical stimulation in Parkinson's disease patients may provide artificial time marker signals, minimizing jitter.
 
+---
+
 ### 31— Conscious and Anomalous Nonconscious Emotional Processes: A Reversal of the Arrow of Time? Dick J. Bierman and Dean Radin
 
 **Experiments Exploring Nonconscious Emotional Processes**
@@ -2664,6 +2856,8 @@
 - Study 1: Similar procedure as Radin but organized picture sets randomly and introduced exposure time as a within subject variable
 - Study 2: Uninformed subjects told about control pictures before single extreme picture presentation
 - Study 3: Subjects fully informed about extreme picture possibility, one ratio of extremes to calms, and fewer total pictures used.
+
+---
 
 #### GSR Study on Emotional Responses: Calm vs. Extreme, Erotic vs. Violent, and Effect of Exposure Time
 
@@ -2696,6 +2890,8 @@
 - Effect sizes may differ due to subject population or dependent variable choice
 - Potential normal explanations, such as anticipatory strategies, ruled out by previous research and replication.
 
+---
+
 #### Exploring Macroscopic Time Symmetry in Emotional Response Studies, finding no support for anticipation strategies or conventional physics explanations; suggesting consciousness as coherent absorbing system and possible meditation experiment for further investigation.
 
 **Presponse Effect: Alternative Explanations**
@@ -2721,6 +2917,8 @@
 - Adapted version of a paper presented at the Parapsychological Convention (1997, Brighton UK) by the first author
 - Hartwell's results were disappointing due to low sensitivity and low emotional value in stimuli used.
 - Radin originally used a 5 seconds foreperiod; new theoretical insights suggest shifting critical interval to one second earlier.
+
+---
 
 ## IX— PHENOMENOLOGY—INTRODUCTION Alfred W. Kaszniak
 
@@ -2761,6 +2959,8 @@
    - Incorporates all approaches to studying consciousness
    - Ethnographic and neurophenomenological approaches emphasized.
 
+---
+
 #### Exploration of Actuality through Experimentation and Experience
 
 **Understanding Self: A Comparative Analysis**
@@ -2786,6 +2986,8 @@
 3. Tibetan Buddhist Dzog Chen: Subject and object are latecomers; pure experience is the more basic aspect of actuality.
 
 **Figure 32.1:** Objectivity and Subjectivity in a naive interpretation of one person's experience: S denotes total realm of experience, O the objective world, O¢ objective experiences corresponding to the objective world, S¢ consciousness that we study scientifically (realm of psychology), and S the universe of experience containing all experiences.
+
+---
 
 #### Comparison of Three Worldviews: Science, Phenomenology, and Tibetan Buddhism.
 
@@ -2819,6 +3021,8 @@
 4. Different perspective as it circumvents analyzing reality in terms of objects and subjects
 5. Rich range of reasonable world views, with internal structure yet to be detailed.
 
+---
+
 #### Philosophical Analysis of Scientific Methods: Husserlian Phenomenology and Quantum Mechanics
 
 **Science's Historical Development and Limitations**
@@ -2834,6 +3038,8 @@
 - Requires extensive training to see beyond prejudices and overlook the unexpected
 - Can lead to unexpected insights in various scientific fields (Einstein's relativity theories)
 - Contrasts with natural science's method of analysis: breakdown into elementary processes versus fullness of experience.
+
+---
 
 #### Exploring World Views Through Science, Phenomenology, and Dzog Chen.
 
@@ -2863,6 +3069,8 @@
 - Husserl's phenomenology: focused on experience through epoche, published works available in Husserliana series
 - Dzog Chen: a radical contemplative practice, similar to Japanese Zen and Chinese Chan, with living traditions among Tibetans. Books include The Practice of Dzogchen, Time, Space, and Knowledge by Tarthang Tulku.
 
+---
+
 ### 33— Intersubjectivity: Exploring Consciousness from the Second-Person Perspective Christian de Quincey
 
 **Second-Person Perspective and Intersubjectivity: Christian de Quincey's Argument for Expanding Consciousness Studies**
@@ -2890,6 +3098,8 @@
 5. Distinction between weak and strong intersubjectivity
 6. Weak intersubjectivity affects the form of consciousness of participating subjects without changing the fact of their consciousness
 7. Strong intersubjectivity brings distinct subjects into being through cocreative nonphysical presence.
+
+---
 
 #### Discussing Second-Person Perspective in Intersubjectivity and Consciousness Studies
 
@@ -2928,6 +3138,8 @@
    - Reduction to first-person subject or third-person object debated (solipsism vs. denying experiential reality for others)
 2. Differences between second-person methodology and other perspectives.
 
+---
+
 #### Advocating for Second-Person Engagement in Consciousness Studies
 
 **Chapter Thesis:**
@@ -2952,6 +3164,8 @@
 **Second-Person Methodology:**
 - Engaged presence in an I-thou relationship
 - Possible intertheoretic reduction: first-person experience derived from second-person intersubjective formations.
+
+---
 
 ### 34— Goethe and the Phenomenological Investigation of Consciousness Arthur Zajonc
 
@@ -2987,6 +3201,8 @@
 - Goethe's method stays close to phenomena from first naive observations to deepest theoretical insights
 - A novel perspective that may help resolve the so-called "hard problem" of consciousness
 
+---
+
 #### Perceiving Patterns in Nature: A Goethean Approach to Science
 
 **Understanding Perceptual Discovery and Goethe's Approach to Science**
@@ -3011,6 +3227,8 @@
 **Physics: Relativity and Quantum Theory**
 - Overturned nineteenth-century mechanical thinking
 - Constancy of phenomena more important than specific theories or explanations.
+
+---
 
 #### Exploring Consciousness: Bridging First-Person and Third-Person Perspectives
 
@@ -3041,6 +3259,8 @@
 **Conclusion:**
 - Two forms of hard problem: subject-object dualism and first-person, third-person dichotomy
 - Different approaches to resolution: recognizing the relevance of subjective experience in science and transforming consciousness structure.
+
+---
 
 ### 35— Essential Dimensions of Consciousness: Objective, Subjective, and Intersubjective Frances Vaughan
 
@@ -3078,6 +3298,8 @@
 - I-thou vs I-it relationships
 - Relevant to understanding cultural diversity and deepening dialogue between researchers.
 
+---
+
 #### Exploring Integral Consciousness: Subjective, Objective, and Intersubjective Domains in Psychotherapy
 
 **Interview with Albert Hoffmann: Spiritual Basis for Lives vs. Dogma or Belief**
@@ -3113,6 +3335,8 @@
 - Physical, emotional, cognitive, moral development may proceed at different rates
 - Emotional intelligence important for psychological health and wellbeing
 - Moral development is a foundation for spiritual development
+
+---
 
 #### Exploring Inter-subjective Consciousness and Its Role in Personal Development.
 
@@ -3159,6 +3383,8 @@
 - Recognizing and validating neglected dimensions of consciousness (subjective, internal states)
 - Deepening dialogue between different approaches to support healing the inner life with outer work.
 
+---
+
 ### 36— Training the Attention and Exploring Consciousness in Tibetan Buddhism B. Alan Wallace
 
 **Training the Attention and Exploring Consciousness in Tibetan Buddhism**
@@ -3194,6 +3420,8 @@
 - Short duration of continuous attention, astounding for some due to chaotic minds.
 - Introspection used to detect occurrence of excitation and decrease lapses in focused attention.
 
+---
+
 #### Exploring Phenomenological Aspects of Consciousness through Buddhist Mindfulness Techniques
 
 **Introspective Awareness and Attention Training:**
@@ -3214,6 +3442,8 @@
 - Traditions introduced into Chinese Taoist tradition, further developed in Tibet, Mongolia, Korea, and other Asian countries
 - Wide variety of techniques designed for different personality types
 - Relevance to exploring consciousness, achieving soteriological goals, enhancing attention capacity, treating attentional disorders.
+
+---
 
 ### 37— Transpersonal and Cognitive Psychologies of Consciousness: A Necessary and Reciprocal Dialogue Harry T. Hunt
 
@@ -3248,6 +3478,8 @@
 **Similarities Between Meditative States and Experimental Introspection:**
 - Nafe's study on affective pleasure: momentary experiences with features of prolonged ecstasies in meditation.
 
+---
+
 #### Exploring Interconnectedness of Consciousness and Transpersonal States through Cognitive Science
 
 **Transpersonal Psychology: Understanding Transpersonal States Through a Cognitive Lens**
@@ -3277,6 +3509,8 @@
 - Balanced dialogue between transpersonal and cognitive perspectives necessary
 - False reductionism not an issue if phenomenology is of objective, unmediated transcendence
 - Recognition and amplification of abstract synesthetic processes in understanding transpersonal states.
+
+---
 
 #### Exploring the Relationship Between Consciousness, Quantum Physics, and Mysticism
 

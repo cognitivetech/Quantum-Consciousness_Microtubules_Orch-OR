@@ -6,6 +6,7 @@
 > 
 > For physics to accommodate something that is as foreign to our current physical picture as is the phenomenon of consciousness, we must expect a profound change--one that alters the very underpinnings of our philosophical viewpoint as to the nature of reality. Shadows of the Mind provides an illuminating look at where these profound changes may take place and what our future understanding of the world may be. - [Shadows of the Mind (Amazon)](https://www.amazon.com/Shadows-Mind-Missing-Science-Consciousness/dp/0195106466/?&tag=cognitivetech-20)
 
+---
 
 ## Contents
 - [Preface](#preface)
@@ -21,6 +22,8 @@
   - [6. Quantum theory and reality](#6-quantum-theory-and-reality)
   - [7. Quantum theory and the brain](#7-quantum-theory-and-the-brain)
   - [8. Implications](#8-implications)
+
+---
 
 ## Preface
 **Shadows of the Mind: A Search for the Missing Science of Consciousness** by Roger Penrose
@@ -46,6 +49,8 @@
 - Part I: Provides detailed arguments supporting the thesis that consciousness cannot be simulated by computation
 - Part II: Genuine attempt to understand how non-computational action might arise within scientific principles
 
+---
+
 #### Exploring Quantum Coherence and Consciousness in Neurons April 1994
 
 **Physical Non-Computability in Conscious Actions**
@@ -68,6 +73,8 @@
 - Mind is not outside scientific explanation, but requires deeper understanding of physical world rules.
 - Science is more than just mindless computation; it seeks understanding.
 
+---
+
 ## Notes to the reader
 
 **Book Overview:**
@@ -76,6 +83,8 @@
 - Quantum mechanics discussions contain serious mathematics in sections like 5.12-5.18 and 6.4-6.6 (density matrix)
 - Author has adopted pronoun 'he' for impersonal/metaphorical individuals, acknowledging potential gender bias but intending no implication of male or female
 - Page references in The Emperor's New Mind (ENM) refer to the original hardback version; paperback pagination differs slightly from US and non-US editions.
+
+---
 
 ## Prologue
 
@@ -103,6 +112,8 @@
 - They could learn about bird shapes and rabbit movements through these shadows
 - Jessica imagined making a scientific discovery during a conference with other cave dwellers
 
+---
+
 #### The Cave Analogy Explaining the Earths Movement
 
 **Jessica's Father's Explanation of Scientific Theory in a Simplified Way**
@@ -126,7 +137,11 @@
 - Skeptics need to be convinced through careful examination of evidence
 - Galileo showed that the earth spins around the sun is a "striking simplicity" despite the complexities involved in demonstrating it
 
+---
+
 ## Part I Why We Need New Physics to Understand the Mind 
+---
+
 ### 1. Consciousness and computation
 
 **Part I: Why We Need New Physics to Understand the Mind**
@@ -162,6 +177,8 @@
 - Expectations for future achievements
 - Senses enhanced through technology (ancient to modern)
 
+---
+
 #### Artificial Intelligence The Future of Mental Capabilities
 
 **Expansion of Physical and Mental Capabilities through Technology**
@@ -195,6 +212,8 @@
 - More connections between neurons than transistors (up to 80,000 synaptic endings vs. three or four)
 - Some advantages may be short-lived but could potentially be overcome in the future with advancements like massively parallel computational systems and optical devices
 
+---
+
 #### Perceptions on Consciousness and Computation in Artificial Intelligence
 
 **Computing Power vs. Consciousness**
@@ -220,6 +239,8 @@
 
 **Implications:**
 If computers eventually surpass human capabilities, they may make us obsolete and potentially resolve worldly problems. However, this could also lead to the loss of humanity's role in society as they might be able to run the world more efficiently without humans. Additionally, consciousness and its influence on behavior remain unclear from a scientific perspective. There are various viewpoints regarding the relationship between consciousness and computation, with strong AI or functionalism being one extreme that all mental processes can be explained through computational terms. Ultimately, it is essential to consider these implications as we navigate the development of artificial intelligence technology.
+
+---
 
 #### Artificial Consciousness and Turing Test Debate
 
@@ -254,6 +275,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Operational viewpoint more radical than f.A but less operational than d
 - Weak AI affirms computational simulation of physical world, denies consciousness from simulations.
 
+---
+
 #### Physicalism vs Mentalism The Nature of Mind-Brain Relationships
 
 **Physicalism vs. Mentalism Debate**
@@ -280,6 +303,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Believers in .@ are mentalists, denying physicalism
 - It's unclear where to draw the line between physicalism and mentalism for other viewpoints (Sil, PA, "6")
 - Holders of Sil would generally be considered physicalists, but this may not be universally accepted.
+
+---
 
 #### Algorithmic Computation Top-Down and Bottom-Up Procedures
 
@@ -316,6 +341,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Included under computational and algorithmic headings for our purposes here
 - Key difference: bottom-up systems require a memory of previous performance to be incorporated into subsequent computations.
 
+---
+
 #### Algorithmic Processes and Turing Machines
 
 **Artificial Intelligence (AI) and Computation:**
@@ -338,6 +365,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Church's thesis and Turing's concept shown to be equivalent; modern computers based on Turing machine principles
 - Original Church's thesis asserting mathematical algorithms can be carried out by an idealized modern computer is a mere tautology
 - Turing may have intended that the computational capabilities of any physical device must be equivalent to a Turing machine, which goes beyond Church's original intentions.
+
+---
 
 #### Unpredictable Physical Systems and Computation
 
@@ -364,6 +393,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - They can be studied by putting them on a computer, which implies they can be computed
 - However, simulation results may not resemble actual behavior due to sensitivity to initial conditions and external factors.
 
+---
+
 #### Analog Computation Continuous vs Discrete Systems
 
 **Chaotic Systems and Computation**
@@ -388,6 +419,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
   - Naturalness and uniqueness questions remain unanswered
   - Certain anomalies where technical non-computability arises.
 
+---
+
 #### Non-Computable Physical Actions in Consciousness and Computation
 
 **The Computational Nature of Mental Activity**
@@ -408,6 +441,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **The Unique Environment**:
 - The unique environment provided for each individual human being does not help in this context as a source of input beyond computation. A computationally simulated plausible (chaotic) environment would suffice for training a computer-controlled robot. The robot doesn't need to learn its skills through an actual environment, a typical simulated environment would be sufficient.
 
+---
+
 #### Hilberts Tenth Problem and Undecidability in Mathematics
 
 **Hilbert's Tenth Problem and Computation**
@@ -419,6 +454,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Turing proposed definition of algorithms with his universal Turing machine concept leading to general-purpose computers.
 - Certain classes of problems don't have any algorithmic solutions, such as the halting problem.
 - Matiyasevich proved in 1970 that there can be no computer program or algorithm for deciding whether a Diophantine equation system has a solution.
+
+---
 
 #### Non-computable Polyomino Universe A Deterministic but Unsimulatable System
 
@@ -440,6 +477,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
   - Don't tile the plane: use Rule 2
 - The toy universe behaves deterministically but non-computably due to the lack of a general computational procedure for ascertaining when a polyomino set won't tile the plane.
 
+---
+
 #### Computers and Consciousness Implications for the Future
 
 **Key Points about Computability vs Determinism:**
@@ -454,6 +493,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 
 **Related Issues:**
 - Legal responsibilities and rights for computers in the future if they approach or exceed human expertise.
+
+---
 
 #### Consciousness and Intelligence Clarifying Terminology
 
@@ -480,6 +521,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - He acknowledges disagreements on the meaning of these terms, particularly regarding awareness.
 - The author suggests a clear distinction between "genuine understanding" (which requires awareness) and heuristic uses of terms like "understands."
 
+---
+
 #### Perceptions on Artificial Intelligence and Consciousness
 
 **Artificial Intelligence and Understanding**
@@ -498,6 +541,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Perception of color red requires passive consciousness
 - Sensation of pain or appreciation of melody also examples
 - No attempt to be precise about the concept of 'mind' in this context.
+
+---
 
 #### The Unified Concept of Consciousness and its Role in Understanding
 
@@ -521,6 +566,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Importance of consciousness for understanding and appreciation of arguments
 - Searle's Chinese Room argument addresses passive aspects, focusing on simulation vs. actual understanding; allows for simulation of external manifestations but not personal experience of understanding.
 
+---
+
 #### Challenging Complications in Consciousness and Computation Models
 
 **John Searle's Assessment of Chinese Room Argument (d) and Consciousness:**
@@ -538,6 +585,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
    b. Lack of persuasive attempts to explain qualia
    c. Modern computers cannot fully evoke significant mental experiences according to proponents.
 5. **Searle's stance**: further assessment in ENM (pp. 17-23) and ongoing discussion.
+
+---
 
 #### Limits of AI and Consciousness Beyond Computation
 
@@ -564,6 +613,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Top-down organization: human programmers' understandings used in construction of the program
 - Bottom-up organization: no clear specific understanding required for the system or its programmers.
 
+---
+
 #### Limitations of Artificial Intelligence Understanding Beyond Computation
 
 **Deep Thought and the Limitations of AI**
@@ -585,6 +636,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Mathematical Understanding vs. Computation**
 - Some argue that mathematical abilities come more easily to computers than humans
 - However, mathematical understanding is beyond computation according to the author's argument in Chapters 2 and 3.
+
+---
 
 #### Non-Computational Consciousness and the Godel Theorem Argument
 
@@ -610,6 +663,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Acceptance of some form of viewpoint rtf (mysticism or Platonism)
 - Need to come to terms with its other implications if Godel argument forces us into this acceptance.
 
+---
+
 #### Mathematics and the Limits of Computation in Consciousness
 
 **Platonic Viewpoint and Mathematics**
@@ -633,6 +688,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Brain's action must result in feelings of awareness, as functionalists claim
 - Refusal to accept computational model for mental activity considered mysticism.
 
+---
+
 #### Non-Computational Awareness and Gdels Incompleteness Theorem
 
 **Non-Computational Processes in Mathematical Understanding and Common Sense Behavior**
@@ -645,6 +702,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **The Role of Godel's Theorem**:
 - The author uses Godel's theorem to argue that no computer can fully achieve or simulate this non-computational process, as it cannot capture the Platonic knowledge and common sense understanding
 - While we may not be able to characterize these concepts completely in terms of computational rules, descriptions of numbers in terms of physical objects like apples or bananas can still allow a child to grasp abstract concepts like "three"
+
+---
 
 #### Geometry and Mathematical Insight Brain Activity during Visualization
 
@@ -668,6 +727,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Godel's argument shows that there is no way to eliminate the need for new 'obvious' understandings
 - Mathematical understanding cannot be reduced to blind computation alone.
 
+---
+
 #### Non-Computational Nature of Conscious Awareness Inferences
 
 **Equality between Consciousness and Computation (Natural Numbers)**
@@ -685,6 +746,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Argument against computability of visualization: mental images need not be literally visual, can relate to abstract concepts or music
   - Visualizations more concerned with general awareness than literal vision
 - Belief that actual acts of visualization are non-computational is an inference from the non-computational nature of other human awareness.
+
+---
 
 #### Non-Computational Awareness and Mathematical Insights
 
@@ -708,6 +771,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Justifying the Claim of Non-computational Conscious Understanding**:
 - Requires justifying the claim that we perform non-computational feats when we consciously understand
 - Will be explored by turning to mathematics in the remainder of Part I.
+
+---
 
 #### Artificial Intelligence History Challenges and Controversies
 
@@ -736,6 +801,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - British TV program The Dream Machine (December 1991)
 - Douglas Lenat's intriguing 'Cyc' project discussed in Freedman (1994)
 
+---
+
 #### Popular Accounts on Artificial Intelligence Advancements
 
 **Background:**
@@ -752,6 +819,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 
 **Related Work**
 - Freedman (1994): Account of Lenat's work in this direction.
+
+---
 
 ### 2. The Godelian case
 
@@ -776,6 +845,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Universal Turing Machines:**
 - Can imitate any other Turing machine, carrying out any computation or algorithm
 - Modern general purpose computers are equivalent to universal Turing machines.
+
+---
 
 #### Non-terminating Computations and Goldbach Conjecture
 
@@ -809,6 +880,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 2. Some are easy, others difficult, and some require immense intelligence and effort.
 3. In some cases, like (B) and (D), the results remain unproved due to their complexity.
 
+---
+
 #### Hexagonal Number Properties and Godels Theorem Proof of Non-Terminating Computations
 
 **Hexagonal Numbers: Properties and Relationship with Cubes**
@@ -834,6 +907,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Computation on Natural Numbers:**
 - Computations depend on natural numbers (C(n))
 - Turing machine computes on the number n, providing a family of computations for each natural number.
+
+---
 
 #### Diagonal Self-Reference and Limitations of Computation Theory
 
@@ -865,6 +940,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - The second part of the diagonal slash is examining this particular value n = k: (L) If A(k, k) stops, then Ck(k) doesn't stop
 - Substituting (K) into (L), we find that if Ck(k) stops, it must not stop according to the soundness of A. However, since A cannot ascertain this fact about Ck(k), it cannot encapsulate our understanding of these computations.
 
+---
+
 #### Godels Incompleteness Theorem and Mental Reasoning
 
 **Godel's Theorem and Computational Procedures**
@@ -889,6 +966,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Technical Points to Consider**:
 - A was assumed to be a single procedure, but mathematicians use various reasoning types
 
+---
+
 #### Algorithmic Self-Improvement and Godelian Limitations
 
 **Mathematical Argument: Godelian Procedure and Algorithmic Procedures**
@@ -907,6 +986,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 5. Focus is on the possibility of such a change being algorithmic, which would contradict the conclusion if true.
 6. Unnecessary narrowness in insisting A must go on computing forever in cases where it may have become clear computation stops. The argument only applies to insights allowing us to conclude computations don't stop; A cannot come to a successful termination by concluding computation does stop.
 
+---
+
 #### Algorithmic Limits and Reductio Ad Absurdum
 
 **Godel-Turing Argument: Q1, A's Role and Reductio Ad Absurdum**
@@ -924,6 +1005,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Q6: Computers can follow computational processes but cannot ascertain truths beyond their capabilities
   - New computation leading to Ck(k) not officially admitted as part of A's procedures
 - Explicit computational procedure for obtaining Ck(k) from algorithm A given in Appendix A.
+
+---
 
 #### Limitations of Idealized Computation in Finite Systems
 
@@ -947,6 +1030,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Distinction between idealized computations with potential infinity and finite physical objects like computers or brains
 - Importance to assess limitations of idealized arguments when applying them to actual systems
 - Godel-Turing argument not substantially affected by consideration of finiteness in discussions.
+
+---
 
 #### Finiteness Limits in Turing Machine Computations
 
@@ -974,6 +1059,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - By setting `k = q`, the computation `A(k, k)` is equivalent to `Ck(k)`.
 - If `k` is larger than `Q` or `N`, it cannot be implemented, but this occurs only if the algorithm `A` is becoming too complex.
 
+---
+
 #### Godels Incompleteness Theorems and Intuitionistic Critique
 
 **Understanding the Godel's Incompleteness Theorem and its Implications**
@@ -992,6 +1079,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Philosophical stance questioning absolute mathematical truth and accepting only constructively defined objects.
 - Rejects reductio ad absurdum arguments that don't provide actual constructions for mathematical objects.
 - Godel type argument is still intuitionistically acceptable because it uses contradiction from an assumption of existence, not non-existence.
+
+---
 
 #### Formalism and Consistency in Mathematics
 
@@ -1019,6 +1108,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 4. **Undefinable statements**: those that cannot be determined by rules of a formal system (IF).
 5. **Formalists' perspective**: focus on demonstrating consistency and completeness of suitable formal systems rather than absolute mathematical truths about infinite quantities.
 
+---
+
 #### Godels Incompleteness Theorem and W-Consistency in Formal Systems
 
 **Godel's Theorem and Consistency of Formal Systems**
@@ -1040,6 +1131,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Q(IF): the formal system IF is w-consistent cannot be proven within IF if it's actually w-consistent (assuming sufficient extensiveness).
 - G(IF): the consistency of a formal system cannot be proven using its procedures.
 - This theorem challenges the idea that all mathematical procedures can be encapsulated in a single formal system and provides limitations to formalism philosophy.
+
+---
 
 #### Formal Systems and Algorithmic Proofs Construction and Comparison
 
@@ -1064,6 +1157,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
   - Can be achieved by incorporating A's algorithmic procedure into IF's rules
 - Godel's theorem states that there exists a statement in IF that cannot be proven or disproven within the system itself.
 
+---
+
 #### Godels Theorem and Mathematical Truth
 
 **Godel's Theorem and its Relation to the Presented Argument**
@@ -1085,6 +1180,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Further Objections and Clarifications**:
 - Absolute nature of mathematical truth: Differences in views regarding infinite sets; axiom of choice, Cantor's continuum hypothesis independent of standard Zermelo-Fraenkel axioms (ZIF)
 - Impact on Godel-Turing argument: Affects more limited class of mathematical problems rather than those related to non-constructively infinite sets.
+
+---
 
 #### Non-Constructive Infinities and Mathematicians Perspectives
 
@@ -1115,6 +1212,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
   * Gets away from suggestions of personal algorithms and individual perceptions of truth
 - Issue of subjectivity in beliefs regarding existence of large non-constructive sets S remains, even for I1-sentences.
 
+---
+
 #### Disagreements in Mathematical Truth among Mathematicians and the Role of Personal Algorithms
 
 **Mathematical Truth and Personal Algorithms**
@@ -1138,6 +1237,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Different viewpoints do not necessarily pose a threat to the original formulation <>
 - There are only a few significant differences among mathematicians, such as the axiom of choice
 - Disputes over set-theoretic axioms do not always lead to inconsistencies with standard ZIF axioms
+
+---
 
 #### The Accessibility of Mathematical Understanding
 
@@ -1165,6 +1266,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Effective Exposition**:
 - Obscure writing styles or limitations in lecturing abilities can create difficulties for mathematicians.
 
+---
+
 #### Lack of Absolute Certainty in Mathematics
 
 **Mathematicians' Beliefs and Uncertainty**
@@ -1183,6 +1286,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Possibility of errors in deductions from premises may lead to uncertainty about conclusions
 - However, actual errors are correctable through further examination and confirmation of arguments
 - Correctly carried out arguments become more convincing with time
+
+---
 
 #### Inconsistency of Formal Systems Godels Proof and the Shading Off in Belief
 
@@ -1205,6 +1310,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - If a formal system like IF is unassailably sound, then so is its associated proposition G(IF).
 - Any uncertainty or 'shading off' lies solely in possible errors or misunderstandings when formulating G(IF) rather than the intended version.
 
+---
+
 #### Foundations of Mathematics Consistency vs Certainty
 
 **The Viewpoint of the Formalist**
@@ -1226,6 +1333,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 
 **Deriving Statements About Unprovable Results**
 - Procedures for establishing mathematical truths cannot be equivalent to a belief in a formal system, no matter what the formal system may be.
+
+---
 
 #### Understanding Godels Incompleteness Theorem The Distinction between Natural and Supernatural Numbers
 
@@ -1250,6 +1359,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Peano axioms define natural numbers using symbols 0, S (successor), and the induction principle
 - These axioms do not fully capture the infinite character of the natural number totality
 
+---
+
 #### Inconsistency between Formal Systems and Mathematical Concepts
 
 **Godel's Theorem: Implications and Misconceptions**
@@ -1273,6 +1384,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 **Reinterpreting Symbol Meanings in Formal System IF**
 - Representation of Godel argument within a formal system IF requires symbol meaning shifts, which may not be allowed if mental activities are solely based on the operations of IF. If mental activities involve more than just the procedures in IF, then rules governing shifting meanings must be known and incorporated into 'IFt'.
 
+---
+
 #### Godelian Proofs Expansion and Limits
 
 **Godel's Theorem and Its Implications**
@@ -1286,6 +1399,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 6. IHI cannot assert its own consistency or encapsulate symbol meanings
 7. Inconsistent IHI can formulate and assert anything it wants, including "IHI is consistent" if and only if inconsistent
 8. Repeatedly adjoining Godel propositions (G(IFn)) to a formal system IF leads to an infinite sequence of sound systems IFn+1, but this process cannot be automated or fully incorporated into one comprehensive system without work.
+
+---
 
 #### Understanding Beyond Computation Gdels Theorems and Mathematical Insights
 
@@ -1309,6 +1424,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Existence of large infinite sets: debate about whether a clear rule must exist before a set is considered to exist (e.g., axiom of choice)
 - Cohen's perspective on the continuum hypothesis in his 1966 book, revealing that he views mathematical truth as absolute and not arbitrary despite leaving untouched the question of its actual truth.
 
+---
+
 #### Non-standard Models in Geometry The Limits of Formal Specification
 
 **Discussion of Views on Cognition and Mathematics:**
@@ -1319,6 +1436,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Godel's theorems:
   - Completeness theorem: non-standard models always exist for formal systems
   - Inconclusive regarding Euclidean geometry's complete specification.
+
+---
 
 #### Turing Machine Specification and Coding in Expanded Binary Notation
 
@@ -1349,6 +1468,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Instructions coded as sequences 110 (R), 1110 (L), or 11110 (STOP)
 - Preceding symbols determine marking and internal state changes.
 
+---
+
 #### Explicit Godelizing Turing Machine Coding and Notation
 
 **Turing Machine Specification**
@@ -1368,6 +1489,8 @@ If computers eventually surpass human capabilities, they may make us obsolete an
 - Binary expression for p cannot contain sequence ... 11111 ...
 - Use quinquary scale to represent large numbers without ambiguity (0 -> 12345...)
 - Notation: C/ is the correctly specified Turing machine where r is the number's quinquary expression.
+
+---
 
 #### Explicit Construction of a Turing Machine K as an Extension of A for Undecidability
 
@@ -1393,6 +1516,8 @@ K's size is bounded by the number of binary digits in A and the additional instr
 ```
 where `N` is the total number of internal states in A's specification.
 
+---
+
 #### Non-Terminating Computations with A-Calculus Operations
 
 **Degree of Complexity of Computation Ck(k)**
@@ -1417,6 +1542,8 @@ where `N` is the total number of internal states in A's specification.
   - Not something that appears as an operation on natural numbers (since second K in KK is not a 'number')
   - A-calculus less suited for dealing with explicit numerical operations
 
+---
+
 ### 3. The case for non-computability in mathematical thought
 
 **Case for Non-Computability in Mathematical Thought**
@@ -1435,6 +1562,8 @@ where `N` is the total number of internal states in A's specification.
 - Human mathematicians may believe in the unassailability and obviousness of their reasoning
 - The existence of an unknown, unknowable algorithm that underlies mathematical belief is a logical possibility but not plausible given current understanding.
 
+---
+
 #### The Inconclusive Nature of Turing Machines and Unsound Algorithms in Mathematics
 
 **Theorems and Unsound Algorithms**
@@ -1450,6 +1579,8 @@ where `N` is the total number of internal states in A's specification.
 1. **Consciously knowable with known role**: algorithm is consciously known, and its role as the underlying procedure for mathematical understanding is also consciously known
 2. **Consciously knowable but unconsciously not knowable**: algorithm is consciously known, but its role in mathematical understanding remains unconscious and not known
 3. **Unconscious and not knowable**: both the algorithm and its role are unconscious and not known
+
+---
 
 #### Unknowable Algorithm and Mathematical Understanding
 
@@ -1476,6 +1607,8 @@ where `N` is the total number of internal states in A's specification.
 **Implications:**
 - Unknowability of underlying algorithm does not provide solace for those aiming to build a robot mathematician using AI.
 
+---
+
 #### The Inconsistency Paradox in Formal Systems
 
 **Mathematical Theorems and Unknowable Equivalents (IF)**
@@ -1499,6 +1632,8 @@ where `N` is the total number of internal states in A's specification.
 **Alternative: Infinite Axiom List**:
 - An alternative is to consider an IF with an infinite list of axioms, which may allow for the possibility of unassailably acceptable rules of procedure.
 
+---
+
 #### Heuristic Limits of Mathematical Truth
 
 **Formal System and Non-Computability in Mathematics**
@@ -1521,6 +1656,8 @@ where `N` is the total number of internal states in A's specification.
 - Provide an anticipation of the truth of mathematical results
 - Subsequent proofs may be obtained along different lines
 - Unlike Bl, heuristic principles are based on conscious understandings of why some mathematical results are true
+
+---
 
 #### Unsound Mathematical Systems Possible Foundations of Error
 
@@ -1548,6 +1685,8 @@ where `N` is the total number of internal states in A's specification.
 - Unwelcome situation for Frege as a scientific writer after receiving letter from Russell pointing out foundation error in his work on mathematics foundations (Frege 1964)
 - Error could be corrected but not our concern since we are concerned with matters of principle rather than individual mathematicians' fallibility.
 
+---
+
 #### Godels Argument and Infinite Sets in Mathematics
 
 **The Difference Between Mathematical Understanding and Formal Systems**
@@ -1563,6 +1702,8 @@ where `N` is the total number of internal states in A's specification.
 - Importance of caution with infinite sets after paradoxes such as Russell's came to light
 - Godel's argument and Turing's produce statements within the compass of what is unassailable
   * No plausible assumption that mathematicians use an unsound formal system IF as the basis for their mathematical understandings and beliefs.
+
+---
 
 #### Unknowable Algorithms and Mathematical Understanding
 
@@ -1580,6 +1721,8 @@ where `N` is the total number of internal states in A's specification.
 - Comparison with Il1-sentences:
   * Truth represents Turing machine action that does not terminate in principle
   * Assertion about derivability within formal system must also be taken in the 'in principle' sense.
+
+---
 
 #### Algorithmic Limitations in AI Beyond Human Capabilities
 
@@ -1600,6 +1743,8 @@ where `N` is the total number of internal states in A's specification.
   - Advanced robots created by other robots
   - Darwinian evolution improving capabilities from generation to generation
 - Argument against this solution: Algorithmic procedures used to build up AI strategy should be known, leading to knowable F.
+
+---
 
 #### Algorithmic Origins of Mathematical Thought One or Many
 
@@ -1622,6 +1767,8 @@ where `N` is the total number of internal states in A's specification.
 - Mathematicians perceive mathematics differently (visual images, logical structure, conceptual arguments, etc.)
 - Even if some individuals might use different algorithms, mathematicians' perceptions remain consistent once they settle on unassailably true ideas
 - Disagreements between mathematicians are often due to errors in reasoning or fundamental issues, not to profound inequivalence in algorithms.
+
+---
 
 #### Mathematical Algorithms  Natural Selection Unfathomable or Evolutionarily Advantageous
 
@@ -1654,6 +1801,8 @@ where `N` is the total number of internal states in A's specification.
 **Figures and Figurative Language:**
 - None.
 
+---
+
 #### Algorithmic Understanding and Natural Selection A Contradiction
 
 **Understanding vs Algorithmic Faculty**
@@ -1675,6 +1824,8 @@ where `N` is the total number of internal states in A's specification.
 2. Such a system would have the capacity to learn mathematical problem solutions.
 3. However, this view also faces challenges: how could natural selection create an unknowable or incomprehensible learning system?
 4. The ability for a computational learning system to resolve obscure mathematical issues has no relevance to ancestor survival issues.
+
+---
 
 #### Computational Learning Systems and Natural Selection
 
@@ -1700,6 +1851,8 @@ where `N` is the total number of internal states in A's specification.
 - Can environment be simulated computationally?
 - For artificial case: Effective simulation of human teacher is the question being considered
 - For natural case: Environment can be simulated if assumptions in dor PA are correct
+
+---
 
 #### Understanding Computational Learning in Robots
 
@@ -1728,6 +1881,8 @@ where `N` is the total number of internal states in A's specification.
 - Artificial neural network systems: preassigned computational rules for improving performance
 - Genetic algorithm: natural selection between different algorithmic procedures
 
+---
+
 #### Bottom-Up Algorithms in Robot Systems and Mathematical Randomness
 
 **Turing Machine and Bottom-up Rules**
@@ -1748,6 +1903,8 @@ where `N` is the total number of internal states in A's specification.
 - Difficulty with the analogy due to Turing machine's fixed structure
 - Technically, it cannot modify its structure during runtime without restarting
 - Issue resolved by having the machine output two things when it reaches STOP.
+
+---
 
 #### Robots Learning and Mathematical Belief Formation
 
@@ -1771,6 +1928,8 @@ where `N` is the total number of internal states in A's specification.
 - Doesn't need to understand, perceive, or believe anything internally
 - External behavior is what matters as long as it mirrors those mental attributes.
 
+---
+
 #### Mechanisms Underlying Robot Mathematics Human and Artificial Interventions
 
 **Viewpoint fJl vs. d/91**
@@ -1788,6 +1947,8 @@ where `N` is the total number of internal states in A's specification.
 - Assume that any human intervention in developing the robot could be replaced by computational methods
 - Knowability of underlying mechanisms is essential for creating a mathematics-performing robot
 
+---
+
 #### Mathematics AI and Uncertainty Reducing the Unknowable to the Known
 
 **Chapter Discussion: Computational Nature of Human Behavior**
@@ -1799,6 +1960,8 @@ where `N` is the total number of internal states in A's specification.
 - Knowability of axioms and rules of procedure in formal system IQ(M) if mechanisms M are humanly knowable
 - Unknown algorithm F replaced by knowable formal system O(M), assuming AI aims to create a robot capable of human-level mathematics or beyond.
 - Issue of random elements introduced during robot development: considered as pseudo-random computation, but will be addressed more fully in 3.18.
+
+---
 
 #### Unassailable Mathematical Beliefs and Artificial Intelligence Contradictions and Loopholes
 
@@ -1824,6 +1987,8 @@ where `N` is the total number of internal states in A's specification.
 - The unpalatable conclusion is that 'underlying laws are incomprehensible, but they are non-computable.'
 - This should not imply scientific incomprehensibility; it only means that these underlying laws cannot be computed.
 
+---
+
 #### Robot Paradox and Non-Computable Mathematical Thought
 
 **Robot's Understanding of Mathematics and Godel's Theorems**
@@ -1834,6 +1999,8 @@ where `N` is the total number of internal states in A's specification.
 - Robot's unassailable belief in the soundness of O_.,(M) leads to a contradiction when applied to Godel's sentence Q(Q_.,(M))
 - Assumptions may be vague, but *.H-assertions are well-defined mathematical statements
 - Exception: robot might contemplate the putative mechanisms M and go beyond Q(M) to Q_K(M), leading to potential paradoxes if it believes in their soundness.
+
+---
 
 #### Robot Belief and Error in Mathematical Reasoning
 
@@ -1853,6 +2020,8 @@ where `N` is the total number of internal states in A's specification.
 - Robots' assertions may sometimes be erroneous, even if correctable by the robot according to its own criteria
 - Comparing robots to human mathematicians who make errors but later correct them
 - The idea of a robot "meaning" something rather than just "saying" it is unclear without assuming that robots can have beliefs in the same way humans do
+
+---
 
 #### Ensemble of Robot Behaviors Non-computational Potential
 
@@ -1877,6 +2046,8 @@ where `N` is the total number of internal states in A's specification.
 - These differences are not major concern for the present argument
 - Discussion focuses on actual assertions and their operational implications.
 
+---
+
 #### Computable Formal System Derived from Robot Assertions
 
 **Simulation-based Approach for Robot Behavior Analysis**
@@ -1900,6 +2071,8 @@ where `N` is the total number of internal states in A's specification.
 **Computational System:**
 - Provides a new formal system Q'(M), whose theorems are error-free "tl-assertions" or their logical derivatives
 - Important is that these assertions are believed to be error-free by robots themselves, not necessarily their actual accuracy.
+
+---
 
 #### The Finite Shortening of Gdel Propositions for Robot Systems
 
@@ -1927,6 +2100,8 @@ where `N` is the total number of internal states in A's specification.
 - Godel proposition Q(OHI) for formal system OHI has degree of complication greater than OHI by a small amount
 - Use specific notation to denote IHI's capacity to prove 111-sentences and its algebraic procedure A
 
+---
+
 #### Proof of Godels Incompleteness Theorem Using Automated Reasoning
 
 **The Godel's Incompleteness Theorem and Non-Computability in Mathematical Thought**
@@ -1950,6 +2125,8 @@ where `N` is the total number of internal states in A's specification.
 
 **Conclusion**:
 - Godel's Incompleteness Theorems demonstrate that for very complex formal systems, there are mathematical truths that cannot be proven within the system itself. This is due to the finite and limited nature of a system's rules and procedures compared to infinite and complex mathematical truths. This contradiction can only be derived through computational methods, showing that no computational procedure M can underlie such mathematical thought processes.
+
+---
 
 #### Chaos as Alternative for Randomness in Computational Mind Modeling
 
@@ -1979,6 +2156,8 @@ where `N` is the total number of internal states in A's specification.
 - Played a role in considering the simulation of all possible robot activities consistent with given mechanisms M
 - Allowed for consideration of chaotic outcomes as part of randomness, which was used to provide large numbers of alternative robot histories
 - Random elements may still exist, such as initial data, which can be handled using ensemble idea and simultaneous simulation.
+
+---
 
 #### Imaginary Dialogue on AI and Mathematics Strengthening the Case for Non-computability
 
@@ -2015,6 +2194,8 @@ where `N` is the total number of internal states in A's specification.
 - Human mathematical abilities impressive, improving over time
 - Occasional errors in human mathematical results accepted as part of the process.
 
+---
+
 #### The Godels Incompleteness in the World of Mathematical Robots
 
 **Discussion Between AI and Human About Mathematical Robots' Capabilities and Godel's Theorem**
@@ -2041,6 +2222,8 @@ where `N` is the total number of internal states in A's specification.
 **Conclusion:**
 - Godel's theorem introduces an inherent limit in mathematical robots' capabilities, despite their infallibility in establishing theorems once they are claimed with *-certainty.
 
+---
+
 #### Non-computability Debate between AI and Humans
 
 **The Debate Between Machines and Humans on Non-Computability in Mathematical Thought**
@@ -2060,6 +2243,8 @@ where `N` is the total number of internal states in A's specification.
    - MJC not convinced of their correctness despite claims of errorless procedures
 4. Implications for unassailable certainty and human advantage.
 
+---
+
 #### Uncertainty in Robot Logical Construction
 
 **The Paradox of Robot Logic**
@@ -2077,6 +2262,8 @@ where `N` is the total number of internal states in A's specification.
 **Another Approach: A Logical Exercise**
 - SMIRC could explore the implications of the assumption that they were constructed according to M, even if they don't believe it
 - This would involve creating a new algorithm Q:., which generates *.A-assertions (and their logical consequences) that SMIRC would accept based on this assumption.
+
+---
 
 #### Artificial Intelligences Self-Doubt and Claim to Superiority
 
@@ -2101,6 +2288,8 @@ where `N` is the total number of internal states in A's specification.
 **Emergency Preparation for Discussions about Construction**
 - Robot keeps one secret about construction from other robots: the use of human-like consciousness in their development process.
 
+---
+
 #### Self-referential Paradoxes and K-assertions
 
 **Arguments and Paradoxes in Reasoning**
@@ -2120,6 +2309,8 @@ where `N` is the total number of internal states in A's specification.
 - But they are not self-referential in the same sense as the Cretan paradox ("All Cretans are liars") - they refer to a hypothesis about how the robot was constructed
 - More subtle *.K-assertions can arise, where a robot observes that the truth of a sentence P0 would follow from its supposition about the robot's underlying mechanisms M
 
+---
+
 #### Complexity and Limits in Mathematical Proofs
 
 **Role of Self-Reference in Arguments (3.19-3.21)**
@@ -2131,9 +2322,13 @@ where `N` is the total number of internal states in A's specification.
 * Goldbach's conjecture and Four-Color Theorem as examples of difficult Il1-sentences with no obvious bound on argument length
 * Robots might need sophisticated arguments for Il1-demonstrations, subjected to careful scrutiny before receiving -k-status.
 
+---
+
 #### Breaking Loops and Avoiding Paradoxes in Computational Models of Mathematical Understanding
 
 **The Appel-Haken Argument and Theorem 0\*\n\nWrite comprehensive bulleted notes summarizing the provided text, with headings and terms in bold.
+
+---
 
 #### Probabilistic vs Mathematical Precision in Solving Complex Equations
 
@@ -2156,6 +2351,8 @@ where `N` is the total number of internal states in A's specification.
 - Trying to determine if a computation has looped based on how long it seems to be running can be misleading
 - The Euler conjecture, originally thought to be non-terminating, was later shown to have solutions
 - A combination of mathematical insight and computational methods were used to find the solution
+
+---
 
 #### Algorithms and Computation A Top-Down Approach
 
@@ -2180,6 +2377,8 @@ where `N` is the total number of internal states in A's specification.
 - Top-down computational procedures are more effective for establishing unassailable truths
 - Examples of computer-assisted proofs: Kenneth Appel and Wolfgang Haken's proof of the Four Color Theorem (1976)
 
+---
+
 #### Non-Computability in Mathematical Thought and Consciousness
 
 **Computer Simulation vs Human Mathematical Understanding**
@@ -2198,6 +2397,8 @@ where `N` is the total number of internal states in A's specification.
 **Implications**:
 - Arguments provide a powerful case against the computational model of the mind
 - Also argues against the possibility of an effective, yet mindless, computational simulation of mental activities.
+
+---
 
 #### Non-Computability in Mental and Physical Systems Challenges and Debates
 
@@ -2222,6 +2423,8 @@ where `N` is the total number of internal states in A's specification.
   * Intricate neuronal substructures like cytoskeleton may influence neuronal action
   * Direct electromagnetic influences (resonance effects) not fully explained by ordinary nerve impulses
 * Effects of quantum theory might be important in brain action, providing roles for uncertainty or non-local collective quantum effects.
+
+---
 
 #### Non-Computational Elements in Physical Systems The Quantum Measurement Problem
 
@@ -2262,6 +2465,8 @@ where `N` is the total number of internal states in A's specification.
 - No requirement to simulate any particular individual's mental capabilities
 - A typical model brain that has arisen by Darwinian evolution from primitive life forms could be considered, as long as it is consistent with present-day computational physics
 
+---
+
 #### Understanding Limits of Human Rationality The Case for Non-Computability in Mathematics
 
 **Darwinian Evolution of Robot Society**
@@ -2281,6 +2486,8 @@ where `N` is the total number of internal states in A's specification.
 - Argument that Godelian reasoning is irrelevant to understanding human behavior due to irrationality and inconsistency in mathematical thinking
 - Correctable errors not the focus; subtle issues about what can be perceived using human understanding, reasoning, and insight are the concern
 - 'Correct reasoning' is subtler than it initially appears, as shown by Godel and Turing's work.
+
+---
 
 #### Exploring Mathematical Consciousness Perception Reality and the Brain in Quantum Computing and Beyond
 
@@ -2309,7 +2516,11 @@ where `N` is the total number of internal states in A's specification.
 18. Perception and attention (Johnson-Laird, Broadbent)
 19. Discussing computational complexity in relation to cognition (Broadbent).
 
+---
+
 ## Part II What New Physics We Need to Understand the Mind 
+---
+
 ### 4. Does mind have a place in classical physics
 
 **Understanding Mind through Physics: A Non-Computational Perspective**
@@ -2336,6 +2547,8 @@ where `N` is the total number of internal states in A's specification.
 - Precision and scope of presently appreciated physical laws lack non-computational actions
 - A hidden non-computational action must be found for the functioning of our brains to take advantage of it.
 
+---
+
 #### Non-Computable Physical Processes and Consciousness
 
 **The Need for Something Beyond Classical Physics**
@@ -2357,6 +2570,8 @@ where `N` is the total number of internal states in A's specification.
   - Ordinary materials are not organized to utilize such non-computational behavior
 - The view that consciousness is an "emergent phenomenon" arising from sufficient complexity or sophistication does not require new underlying processes, which conflicts with the proposed idea.
 
+---
+
 #### Einsteins General Relativity A Shift from Newtonian Gravity
 
 **Non-computable behavior in physics**
@@ -2377,6 +2592,8 @@ where `N` is the total number of internal states in A's specification.
 - This was unsettling to some physicists, who felt that gravity should not be treated differently from other physical phenomena
 - Another concern was that gravity is extremely weak compared to other forces, leading some to speculate it might be an "emergent phenomenon"
 - However, this idea does not work because gravity actually influences the causal relationships between objects, which cannot be explained as a residual effect of other forces.
+
+---
 
 #### Gravity and Light Cone Tilting in General Relativity
 
@@ -2402,6 +2619,8 @@ where `N` is the total number of internal states in A's specification.
 - This is referred to as "tilting the light cones"
 - Cannot be thought of as a refractive medium without violating the fundamental principle of special relativity
 
+---
+
 #### Exploring Gravitys Effect on Light Cones Beyond Refractive Media
 
 **Gravity and Light Cone Tilting**
@@ -2422,6 +2641,8 @@ where `N` is the total number of internal states in A's specification.
 - Measures gravitational tidal distortion, related to Newtonian gravity effects
 - WEYL tensor describes part of the information in the full Riemann curvature tensor
 - Only if WEYL is zero can all light cones be rotated into the Minkowskian arrangement
+
+---
 
 #### Gravitational Lensing Observable Evidence for Light-Cone Tilting in Space-Time
 
@@ -2452,6 +2673,8 @@ where `N` is the total number of internal states in A's specification.
   * Hidden non-computational ingredient in behavior of matter needed for understanding consciousness?
   * This delicate physical organization might not be apparent without considering the phenomenon of consciousness.
 
+---
+
 #### Pulsar Behavior and General Relativity
 
 **Pulsars and Computation in Physics**
@@ -2474,6 +2697,8 @@ where `N` is the total number of internal states in A's specification.
     * Compatibility with known physical phenomena
   * Consistency with all detailed physical phenomena today.
 
+---
+
 #### Gravitational Waves and Pulsar Motion A Test of General Relativity
 
 **Einstein's Theory of General Relativity:**
@@ -2493,6 +2718,8 @@ where `N` is the total number of internal states in A's specification.
 + Complex calculations possible with modern computers
 + Motions of planets and moons in solar system modeled in detailed calculation
 + Simplifying assumptions may be required for large number of bodies computations based on Newtonian theory.
+
+---
 
 #### Treating Massive Systems Statistically Astrophysics and Thermodynamics
 
@@ -2533,6 +2760,8 @@ where `N` is the total number of internal states in A's specification.
 - Nothing essentially non-computable about modeling physical behavior by mathematical structures
 - After appropriate calculations, there is good agreement between what is calculated and what is observed.
 
+---
+
 #### Quantum Mechanics and Classical Physics in Astrophysics
 
 **Quantum Mechanics in Classical Physics: Black-body Radiation**
@@ -2555,6 +2784,8 @@ where `N` is the total number of internal states in A's specification.
 **Limitations of Classical Physics**:
 - It is risky to make general inferences about the theoretical possibility of a reliable computational model of the brain by only considering classical physics
 - The mysteries of quantum theory need to be addressed, which will be attempted in the next two chapters
+
+---
 
 #### Mind in Classical Physics Theories of Dennett Sakharov and Penrose
 
@@ -2581,6 +2812,8 @@ where `N` is the total number of internal states in A's specification.
 **Sources for Second Law:**
 1. Davies (1974) provided a less detailed account.
 2. Penrose's work also touched on the topic but not very comprehensive.
+
+---
 
 ### 5. Structure of the quantum world
 
@@ -2609,6 +2842,8 @@ where `N` is the total number of internal states in A's specification.
 - Draw line between Z-mysteries and X-mysteries based on expectations for completing quantum theory
 - Believe present-day quantum theory is incomplete due to X-mysteries, which will be addressed later in the book.
 
+---
+
 #### Quantum Mysteries Bomb-Testing and Magic Dodecahedra
 
 **Quantum Theory vs. Classical Physics (Part I: Elitzur-Vaidman Bomb Testing Problem and Magic Dodecahedra)**
@@ -2630,6 +2865,8 @@ where `N` is the total number of internal states in A's specification.
   * Long history of accurate production for over 100 million years
 - Implications: complexity in quantum mechanics leading to seemingly magical properties.
 
+---
+
 #### Impossible Dodecahedron Coloring Problem
 
 **Quintessential Trinkets' Guaranteed Properties**
@@ -2649,6 +2886,8 @@ where `N` is the total number of internal states in A's specification.
 1. If two dodecahedra are independent, each must have preassigned vertices (WHITE or BLACK) based on deductions above
 2. Attempts to color a dodecahedron according to rules (d) and (e) lead to an unresolvable puzzle
 3. Proof of the impossibility of such a coloring is provided in Appendix B.
+
+---
 
 #### Entangled Quantum Phenomena and the EPR Paradox
 
@@ -2671,6 +2910,8 @@ where `N` is the total number of internal states in A's specification.
 - Experiments like this are called **EPR measurements**, named after a 1935 paper by Albert Einstein, Boris Podolsky, and Nathan Rosen
 - The original paper did not involve spin, but David Bohm presented a spin version in 1951
 - These experiments show that particles can be entangled, violating classical expectations about separate independent objects.
+
+---
 
 #### Quantum Entanglement Historical Origins of Fundamental Principles
 
@@ -2702,6 +2943,8 @@ where `N` is the total number of internal states in A's specification.
     - One ingredient is **wave-particle duality**, which was explored by early wave optics experiments (e.g., Young's double-slit experiment)
     - The other ingredient is **probability amplitudes** and **superposition**, which were explored in quantum mechanics
 
+---
+
 #### Life and Mathematical Achievements of Gerolamo Cardano
 
 **Gerolamo Cardano: An Extraordinary Man**
@@ -2728,6 +2971,8 @@ where `N` is the total number of internal states in A's specification.
 - Extended Tartaglia's method to cover all cases, published in Ars Magna (1570)
 - Lifelong grudge from Tartaglia leading to Cardano's downfall and arrest by the Inquisition.
 
+---
+
 #### Cubic Equation Solutions Cardanos Breakthrough in Mathematical Science
 
 **Gerolamo Cardano's Family Tragedy**
@@ -2752,6 +2997,8 @@ where `N` is the total number of internal states in A's specification.
 - **Casus irreducibilis**: when there were three intersection points as with line R
   - Required journeying through the complex to express the solutions
 
+---
+
 #### Complex Numbers and Quantum Physics A Brief Introduction to Cardanos Solution of Cubic Equations
 
 **Cardano's Problem and Complex Numbers**
@@ -2768,6 +3015,8 @@ where `N` is the total number of internal states in A's specification.
 **Complex Numbers and Quantum Theory**:
 - Complex numbers play a strange role at a very tiny underlying level of phenomena in quantum theory
 - Probabilities also play a part at the level between this quantum level and classical, observable phenomena
+
+---
 
 #### Quantum Superposition and Unitary Evolution
 
@@ -2791,6 +3040,8 @@ where `N` is the total number of internal states in A's specification.
 - Describes deterministic quantum state changes in Schrodinger picture
 - Mathematically precise and completel y deterministic description of the micro-world.
 
+---
+
 #### Quantum Superposition and Half-Silvered Mirror Experiment
 
 **Quantum Superposition and Linearity**
@@ -2807,6 +3058,8 @@ where `N` is the total number of internal states in A's specification.
 * Each individual photon in state `IA)>` evolves to `IB> + IC>` after reflection and transmission at the mirror
 * The superposition state `IA)` evolves as `IB> + IC>`, which can be reflected again to create new states `ID>)` and `IE`)
 * Bringing the two beams back together creates a new state `i(ID)-IE)`, demonstrating the interference pattern of the superposition.
+
+---
 
 #### Quantum State Collapse and Probability Calculation
 
@@ -2828,6 +3081,8 @@ where `N` is the total number of internal states in A's specification.
   - Ratio of probability that detector at F registers to G registers: |w/z|, where w and z are complex numbers denoting state amplitudes
   - Squared modulus of a complex number is the sum of squares of its real and imaginary parts
 - Normalization needed for this form of the probability rule to hold.
+
+---
 
 #### Quantum State Measurement and Interference
 
@@ -2854,6 +3109,8 @@ where `N` is the total number of internal states in A's specification.
 - Instead of having an obstruction, a measuring device could be attached to the lower right-hand mirror that detects the impulse imparted on the mirror by the reflected photon
 - This would "collapse the wavefunction" and read the state as either IB> (pointer moves) or IC> (pointer stays put), with equal probabilities
 
+---
+
 #### Quantum Bomb-Testing Solution Using Mirror Detection
 
 **Solution to Bomb-Testing Problem**
@@ -2873,6 +3130,8 @@ where `N` is the total number of internal states in A's specification.
 - In a long run of tests, half of the active bombs will explode and be lost.
 - Only in half of the cases where an active bomb does not explode will the detector at G register the arrival of the photon.
 - Therefore, if we run through the bombs one after another, only 1/4 of the originally active bombs are guaranteed to still be active.
+
+---
 
 #### Quantum Control of Physical Systems The Shabbos Switch and Null Measurements
 
@@ -2896,6 +3155,8 @@ where `N` is the total number of internal states in A's specification.
 **Importance in Quantum Theory:**
 - Spin plays a crucial role in addressing introductory quantum puzzles
 - Understanding spin is essential for a deeper comprehension of quantum mechanics.
+
+---
 
 #### Geometric Representation of Quantum Spin States
 
@@ -2924,6 +3185,8 @@ where `N` is the total number of internal states in A's specification.
    - 'Spin down': Represents w=O, with Id as one of the base states and Iu> as the other.
    - 'Spin up': Represents z=O, with Iu> as one of the base states and Id as the other.
 
+---
+
 #### Riemann Sphere and Quantum Spin States Representation and Measurement
 
 **The Riemann Sphere and Complex Ratios**
@@ -2947,6 +3210,8 @@ where `N` is the total number of internal states in A's specification.
   - Measurements using a Stern-Gerlach apparatus give n+1 possible outcomes, depending on the amount of spin oriented in the measured direction
   - The different possible states are complex number superpositions of these possibilities, with values determined by the spin measurement in units of .h
 
+---
+
 #### Quantum States of Spin and Location as Superpositions of Multiple Directions
 
 **Majorana's Representation of Spin State:**
@@ -2961,6 +3226,8 @@ where `N` is the total number of internal states in A's specification.
 - Large objects like golf balls don't exhibit such superpositions in the actual world
 - Classical outcomes are achieved through the action of R, not U alone
 - Strictly speaking, states of well-defined momentum have oscillatory spatial behavior (not linear vibrations) which were ignored during discussion on photon states.
+
+---
 
 #### Hilbert Space and Quantum States in Quantum Mechanics
 
@@ -2991,6 +3258,8 @@ where `N` is the total number of internal states in A's specification.
 3. Orthogonality: Two vectors are orthogonal when their scalar product is zero
 4. Independent states: Orthogonal outcomes of measurements in quantum physics.
 
+---
+
 #### Quantum States and Orthogonality Measurement Effects in Hilbert Space
 
 **Orthogonality in Quantum Mechanics**
@@ -3012,6 +3281,8 @@ where `N` is the total number of internal states in A's specification.
 
 **Examples:**
 - Photon detectors and Stern-Gerlach spin measurers are examples of yes/no measurements that result in orthogonal states.
+
+---
 
 #### Geometric Projection in Quantum Theory
 
@@ -3048,6 +3319,8 @@ where `N` is the total number of internal states in A's specification.
 - Similar discussion applies to non-primitive yes/no measurements
 - Involves YES and NO subspaces that are orthogonal complements
 
+---
+
 #### Quantum Mechanical And Grassmann Product
 
 **The Projection Postulate and Quantum Measurement**
@@ -3071,6 +3344,8 @@ where `N` is the total number of internal states in A's specification.
 - In absence of each other, the system would be described by state vectors `lex` and `IPx`
 - The combined state of the two parts is represented by the **tensor product** `lex  IPx`, or `Ix = lex  IPx`
 - This is a single quantum state vector, not a superposition of `lex` and `IPx` like `lecx + wlp`
+
+---
 
 #### Quantum Entanglement and Superposition Conundrums
 
@@ -3096,6 +3371,8 @@ where `N` is the total number of internal states in A's specification.
 - Understanding needed: EP R effects and the measurement problem
 - Introduce concept of entangled states to discuss these issues further.
 
+---
+
 #### Quantum Entanglement and EPR Paradox Instantaneous Interactions Across Space
 
 **Superposition and Measurement in Quantum Mechanics**
@@ -3108,6 +3385,8 @@ where `N` is the total number of internal states in A's specification.
 * Characteristic feature: non-local effect or retroactive action, e.g., EPR (Einstein-Podolsky-Rosen) effect
 + A puzzle in quantum theory that challenges its completeness as a description of Nature
 * EPR effect arises from known initial state In> evolving into superposition of orthogonal states, each describing separate parts of a physical system.
+
+---
 
 #### Quantum Entanglement Instantaneous Nonlocality and Bells Inequality
 
@@ -3137,6 +3416,8 @@ where `N` is the total number of internal states in A's specification.
 - Quantum theory predictions cannot be obtained in classical models with non-communicating objects
 - Entanglement lies between direct communication and complete separation, has no classical analogue.
 
+---
+
 #### Quantum Entanglement and Dodecahedra Precise Non-Local Effects
 
 **Einstein's Findings on Quantum Entanglement**
@@ -3156,6 +3437,8 @@ where `N` is the total number of internal states in A's specification.
 - NO response if atom is in remaining three locations
 - Each button pressing effects a primitive measurement as described in 5.13
 
+---
+
 #### Entangled Dodecahedra Quantum Interference and Bell Phenomena
 
 **Properties Guaranteed by Quintessential Trinkets:**
@@ -3171,6 +3454,8 @@ where `N` is the total number of internal states in A's specification.
 * Adjacent vertices of a cube inside dodecahedron have orthogonal Majorana states (IA*AA), IC*CC), and IG*GG)
 3. Three button pressings adjacent to a selected vertex are commuting measurements, order irrelevant for both parties
 4. Properties (a) and (b) establish quantum entanglement, allowing resolution of vertex-coloring problem (properties c, d, e) that would be impossible with independent objects.
+
+---
 
 #### Geometrical Understanding of Spin States in Quantum Physics
 
@@ -3196,6 +3481,8 @@ where `N` is the total number of internal states in A's specification.
 - Uses coefficients of this polynomial as coordinates in the (n + 1)-dimensional Hilbert space of spin states
 - Basis states are monomials, normalized to be unit vectors
 
+---
+
 #### Geometric Properties of Quantum States in Spin Systems
 
 **Spin-n States and Majorana Descriptions**
@@ -3218,6 +3505,8 @@ where `N` is the total number of internal states in A's specification.
 
 **Application:**
 - Relevant for understanding spin measurements and their results in terms of Majorana descriptions and orthogonality.
+
+---
 
 #### Quantum Non-Locality Experiments and Explanations
 
@@ -3252,6 +3541,8 @@ where `N` is the total number of internal states in A's specification.
 - Dirac (1947)
 - Davies (1984)
 
+---
+
 ### 6. Quantum theory and reality
 
 **Quantum Theory and Reality: Understanding Quan Tum Mysteries and Classical Phenomena**
@@ -3279,6 +3570,8 @@ where `N` is the total number of internal states in A's specification.
 **Conscious Perceptions:**
 - Ultimate determination of 'the buck stops' at conscious perceptions.
 
+---
+
 #### Quantum Superpositions in Many-Worlds Interpretations
 
 **Physical Theory and Perception**
@@ -3303,6 +3596,8 @@ where `N` is the total number of internal states in A's specification.
   - Large scale superpositions don't impinge on our awareness because they are preserved in total reality
 - Human observer states after examining detector: perceived reception or non-reception of photon.
 
+---
+
 #### Quantum Alternative Realities and the Measurement Problem
 
 **Many-Worlds Theory and Reality**
@@ -3324,6 +3619,8 @@ where `N` is the total number of internal states in A's specification.
 
 **Conclusion**
 The many-worlds theory provides an alternative perspective on quantum mechanics but faces criticisms related to economy, measurement problem, precision, complex entangled states, reality vs calculational device, non-local discontinuous 'jumping' (R), and alternation between U and R processes. Addressing these concerns is essential for a more satisfactory understanding of the underlying physics behind quantum phenomena.
+
+---
 
 #### Quantum State Uniqueness and Measurement in Quantum Theory
 
@@ -3348,6 +3645,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - If system is prepared in known state I</>), evolving into new state II/I>= I-+) under U action, must be taken seriously as part of physical reality for potential primitive measurements.
 - Standard rules of quantum theory allow these measurements even if they're impractical in certain situations.
 
+---
+
 #### Probability Mixtures and Density Matrices in Quantum Theory
 
 **The Need for Change in Quantum Theory**
@@ -3362,6 +3661,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Pragmatic physicists argue that state vector II/I> has no more "reality" than other indistinguishable states in practice
 - Density matrix represents probability mixture of alternative state vectors instead of a single state vector
 - Central role in standard mathematical descriptions of the measurement process, also plays a central role in the author's less conventional approach.
+
+---
 
 #### Quantum State Mixtures and Density Matrices
 
@@ -3385,6 +3686,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
    - Use a projector like E = It/I)> + l<P><PI + lx>xl for more complex measurements
    - The general property 1 holds, ensuring the trace of a projector equals 1
 
+---
+
 #### Quantum Entanglement and Density Matrix Interpretation
 
 **Density Matrix and Probability Calculation**
@@ -3401,6 +3704,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Density Matrix for EPR Pairs**
 * Appropriate description for entangled particles situation where one particle is far away and cannot be measured by observer
 * Density matrix D=tlRi> (Ril+tlR.> (R.l-) represents the right-hand particle's state of spin, allowing for equal probability mixture based on possible results obtained from imaginary colleague's measurement of left-hand particle's spin.
+
+---
 
 #### Density Matrix Interpretation in Quantum Physics
 
@@ -3422,6 +3727,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - A physicist examining the measuring apparatus would have no access to details of the environment's disturbance, similar to an observer unable to access measurements on the left-hand particle.
 - The state of the measuring apparatus is described by a density matrix rather than a pure quantum state, reflecting its role as a probability mixture rather than a single state.
 
+---
+
 #### Quantum State Collapse and Conscious Observers
 
 **Quantum State of Detector Before Measurement**
@@ -3439,6 +3746,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Density matrix does not explain why physicist always finds detector either in YES state (l'l'v) or NO state (l'l'N)
   * Possible interpretations of density matrix as 'dead plus alive' or 'dead minus alive' states, which are physically absurd but not necessarily experienced in the actual world
 - Conscious observer (physicist) is allowed to perceive only certain states and not all possible combinations of them. Reason for this limitation remains unclear.
+
+---
 
 #### Quantum Ambiguity and the Limits of Density Matrix Interpretation
 
@@ -3467,6 +3776,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Density matrix description adequate only if fine details cannot be measured and compared with experimenter's observations
 - Future advances in technology might reveal new physical phenomena to uncover interference effects.
 
+---
+
 #### Challenging Quantum Mechanics Consciousness and the State Vector Reduction
 
 **FAQP Viewpoint and Squared Modulus Rule**
@@ -3484,6 +3795,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Unconscious matter evolves according to U, but conscious entities result in R for reduction
 - No suggestion that conscious free will influences results of quantum experiments
 - Consciousness a rare phenomenon, so it would be strange if physical objects evolved differently based on presence or absence of consciousness
+
+---
 
 #### Proposed Solutions to Quantum Measurement Paradox
 
@@ -3511,6 +3824,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Proportional to squared modulus of wavefunction at that location
 - Time period T between applications is roughly once every 10^8 years per particle.
 
+---
+
 #### Quantum Superposition and State Reduction Resolving Schrdingers Cat Paradox
 
 **Quantum Theory and Reality**
@@ -3530,6 +3845,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Ad hoc, with no physical justification for the suggested values of parameters T and 
 - Violates the principle of conservation of energy
 - May require modifications to quantum theory to properly incorporate gravitational effects, rather than modifying general relativity
+
+---
 
 #### Quantum Gravity and Reality The Planck Scale and Spacetime Superpositions
 
@@ -3556,6 +3873,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - No absolute means of identifying points in one geometry with those in another
 - Critics argue that when differences become significantly large (on the scale of 10^-33 cm or more), reduction R occurs instead of maintaining superposition U
 - Gravitational effects are small, making this a reasonable demarcation line between quantum and classical levels.
+
+---
 
 #### Planck Units and Gravitational State Reduction Criterion
 
@@ -3590,6 +3909,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
   - Greater the difference, faster the rate of reduction.
 - Example: energy required to displace one instance of a spherical lump away from another (gravitational separation energy) gives approximation for time before state reduction occurs.
 
+---
+
 #### Quantum Reduction Time and Environmental Entanglement
 
 **Displacement of Lumps and Reduction Time**
@@ -3607,6 +3928,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 * Small disturbances in environment could dominate reduction time
 + Large numbers of microscopic particles disturbed
 * Careful control needed for accurate results, especially considering potential effects on surrounding matter.
+
+---
 
 #### Quantum Superposition Reduction in Biological Systems
 
@@ -3630,6 +3953,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 9. Importance of studying superpositions at a large scale, where standard theory predicts they cannot be maintained.
 10. Potential implications for biological systems and their entanglement with the environment.
 
+---
+
 #### Gravitational Energy Uncertainty and Quantum Decay in Reduction Processes
 
 **Argument for State Reduction as Gravitational Phenomenon:**
@@ -3643,6 +3968,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
   * Gravitational self-energy involves nebulous non-local field energy and essential uncertainty identifying points in two space-time geometries
 - Possible roles for such considerations in brain action
 - Expectation of non-computability in gravitationally induced reduction process.
+
+---
 
 #### Quantum Reality and Gravitational Reduction Hypothesis
 
@@ -3665,6 +3992,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Quantum Theory and Reality:**
 - Further research needed to make connections more specific
 - Connections with 'one-gravitation criterion' as given in ENM are unclear.
+
+---
 
 ### 7. Quantum theory and the brain
 
@@ -3690,6 +4019,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 
 **Proposed Viewpoint**:
 - Look for level at which R-process becomes operative at larger scales (microns to millimetres in diameter)
+
+---
 
 #### Quantum Coherence in Biological Systems Possible Implications for the Brain
 
@@ -3720,6 +4051,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Implications for Biological Systems:**
 - Possibility of quantum coherence effects having relevance to biological systems, including the human brain.
 
+---
+
 #### Quantum Coherence and Brain Function Frohlichs Proposal for Vibrational Effects
 
 **Quantum Theory and the Brain**
@@ -3741,6 +4074,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 
 **Proposed Alternative Mechanism**:
 - Gerald Edelman proposed a 'Darwinian' principle operating within the brain, enabling it to continually improve performance by natural selection-like process
+
+---
 
 #### Quantum Computation and its Role in Brain Function
 
@@ -3768,6 +4103,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Relevant at end for result ascertainment and during computation termination check
 - Cannot outperform conventional Turing computation in principle but has potential for certain classes of problems.
 
+---
+
 #### Exploring Cytoskeletons and Microtubules in the Brain
 
 **Quantum Computing vs Conventional Computing: Advantages of Quantum Computers**
@@ -3791,6 +4128,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Implications for Neurons and Quantum Computing**
 - Possibility that individual neurons may have their own personal nervous system due to their cytoskeleton structure
 - Scientists exploring this idea, such as Hameroff's work on Ultimate Computing: Biomolecular Consciousness and NanoTechnology.
+
+---
 
 #### Microtubules in Cell Structure Mathematical Interplay of Fibonacci Numbers
 
@@ -3823,6 +4162,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Fig. 7.7 and Fig. 7.8: Fibonacci numbers in biological systems (Fibonacci spiral)
 - Fig. 7.9: Indication of microtubule structure as viewed from within.
 
+---
+
 #### Microtubules and Clathrins in Neurons Structure and Function
 
 **Microtubules and Fibonacci Numbers in Plants and Neurons**
@@ -3840,6 +4181,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Neurons do not divide after maturity, so there is no role for a centriole in a neuron's centrosome
 - Microtubules extend from the peri-karyon (near the nucleus) to the presynaptic endings of axons and into dendrites and dendritic spines
 - The clathrin molecules associated with microtubules in presynaptic endings form beautiful geometric structures similar to fullerenes
+
+---
 
 #### Quantum Coherence in Microtubules Evidence for Large-Scale Quantum Phenomena in Biological Systems
 
@@ -3871,6 +4214,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Hameroff's proposal (1974) that microtubules might act as 'dielectric waveguides'
 - Some evidence suggesting this may be the case.
 
+---
+
 #### Quantum Coherence in Microtubules and Consciousness
 
 **Cytoskeleton and Consciousness: Microtubules as a Potential Site for Quantum Phenomena**
@@ -3895,6 +4240,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Evidence for microtubule role in consciousness:**
 - General anesthetics turn off consciousness reversibly without clear chemical relationships between substances
 - Other interactions like van der Waals forces may play a role, but not fully understood.
+
+---
 
 #### Quantum Hypothesis for Consciousness and Cytoskeletons Role in Neuronal Functioning
 
@@ -3923,6 +4270,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Cytoskeleton plays a role in quantum/classical interface through synaptic connections control
 - Stop-gap procedure R may not be sufficient, new physical theory OR required.
 
+---
+
 #### Quantum Coherence in Biology A Possible Explanation for Consciousness
 
 **Quantum Theory and the Brain**
@@ -3944,6 +4293,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 
 **Natural Selection and Survival Advantage**:
 - Organisms that benefit from subtle physical processes may survive better and have their descendants preserve these traits through natural selection.
+
+---
 
 #### Quantum Coherence and Neuron Microtubules Proposed Role in Brain Function
 
@@ -3972,6 +4323,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Coherently coupling activities within tubes across large brain areas
 - Influence of quantum state on computations along the microtubules, possibly taking effect through weak van der Waals' type influences between neighboring tubulin dimers.
 
+---
+
 #### Quantum-Gravity and Non-Computational Solutions in Topological Equivalence
 
 **Non-Computational Physics and Quantum Theory: A Possible Role for Consciousness**
@@ -3995,6 +4348,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Further Discussion:**
 - Non-computability as an essential feature in quantum gravity theories
 - Possible analogy with mental activities and free will.
+
+---
 
 #### Non-Computational Approaches in Quantum Gravity Theory
 
@@ -4020,6 +4375,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Deterministic in nature, different from computability
 - Universe could run as an oracle machine universe instead of Turing machine universe.
 
+---
+
 #### Superposition of Quantum Spacetimes and Time Travel
 
 **Oracle Machines and Non-Computability**
@@ -4038,6 +4395,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - No accepted theory in quantum gravity, but a proposal by Deutsch involves superposing "reasonable" and "unreasonable" space-times with closed timelike lines
 - The possibility of time travel contradictions in such space-times leads to the argument that they should not be taken as models of the classical universe
 - However, it may be argued that these space-times could still be involved in a quantum superposition
+
+---
 
 #### Noncomputable Quantum Time Effects and Consciousness
 
@@ -4061,6 +4420,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Unwise to make strong identifications between conscious awareness's "flowing" time and physicists' use of a real number parameter 't'.
 - Relativity tells us there is no uniqueness in choosing the parameter t for the entire space-time.
 
+---
+
 #### Delay in Conscious Willing and Awareness of Sensory Perception Experiments
 
 **Experiments on Consciousness and Time**
@@ -4082,6 +4443,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 2. **Interpretations:**
    - Our conscious responses may be slower than perceived (possibly taking 1.5 seconds)
 
+---
+
 #### Quantum Conundrums and Temporal Ordering
 
 **Unconscious Responses vs. Conscious Ones in Rapid Activities**
@@ -4101,6 +4464,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Suspicion towards physical notions of time, especially when quantum non-locality and counterfactuality are involved
 - Realistic view of the state vector in EPR situations presents a profound puzzle (difficulties for any detailed theory)
 - Magic dodecahedra example: Which event defines reality - my colleague's button pressing or mine?
+
+---
 
 #### Quantum Reality Multiple Descriptions and Alternative Views
 
@@ -4124,6 +4489,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Enables objective description of state in EPR situations consistent with Einstein's relativity
 - Provides non-local description of space-time, which relates it to quantum non-locality of EPR situations
 - Based on complex numbers and their related geometry, providing an intimate relationship between U-quantum theory and space-time structure.
+
+---
 
 #### Quantum Theory and Consciousness Brain Time and Beyond
 
@@ -4151,6 +4518,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Further Information on Twistors**:
 - Penrose and Rindler (1986), Ward and Wells (1990), Bailey and Baston (1990) for more information.
 
+---
+
 ### 8. Implications
 
 **Implications of Artificial Intelligence**
@@ -4177,6 +4546,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Observing non-computable behavior in an object would require having the appropriate physical theory, which is currently lacking
 - Without the theory, it would be unlikely to observe or exhibit non-computational behavior in a physically constructed object
 
+---
+
 #### Understanding Computer Limitations in Strategy Games Depth vs Complexity
 
 **Advancements in Computing and Intelligence**
@@ -4196,6 +4567,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Implications for Future Advancements in Computing and Intelligence**
 - Games or tasks with large p but effectively reducible by human understanding and judgment are at an advantage for humans.
 - As computers improve their ability to understand and learn, they may become more competitive with humans in complex tasks. However, humans' unique abilities, such as creativity and emotion, may still be difficult to replicate by computers.
+
+---
 
 #### Computers Lack Understanding in Complex Tasks
 
@@ -4226,6 +4599,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Humans differ in their possession of understanding versus memory and calculational powers
 - Understanding is more valuable than just parroting rules or information, as it tests the candidate's understanding in examinations
 
+---
+
 #### The Limitations of Computational Aesthetics
 
 **Limitations of Computational Systems: Understanding vs Feeling**
@@ -4240,6 +4615,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 **Limitations of Computational Systems: Absolute Qualities (Beauty, Goodness)**
 - **Platonic view**: absolute qualities exist and consciousness can access them
 - **Consciousness strength**: possibly related to ability to perceive these absolutes.
+
+---
 
 #### Computers and Societal Challenges Dangers and Implications
 
@@ -4264,6 +4641,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 9. Expertise accessibility: larger public can appreciate expertise more freely
 10. Quantum cryptography as potential solution to privacy concerns
 11. Future computational advancements, such as quantum computing, could impact benefits and dangers.
+
+---
 
 #### Political Virus Manipulation in Elections
 
@@ -4303,6 +4682,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 - Members of organization are experts in constructing computer viruses
 - Virus struck on election day, effectively altering vote count without detection or record
 
+---
+
 #### Consciousness A Quantum-State Reduction Perspective
 
 **Susan's Story: Computer Fraud and Consciousness**
@@ -4327,6 +4708,8 @@ The many-worlds theory provides an alternative perspective on quantum mechanics 
 
 **Conclusion:**
 The arguments presented have little to say on the positive side regarding where consciousness might be found in the known world. They suggest that it may be present in some capacity in biological structures like cytoskeletons due to their collective quantum effects and non-computational properties, but further investigation is required to confirm this hypothesis. Ultimately, a profound change in our philosophical viewpoint on reality will be necessary for consciousness to find its place within scientific terms.
+
+---
 
 #### Exploration of Consciousness in Non-Human Organisms
 
@@ -4353,6 +4736,8 @@ The arguments presented have little to say on the positive side regarding where 
 3. **Possibility of quantum-coherent states in non-human entities**
 4. **Evolutionary benefits for early eukaryotic organisms**
 5. **Value to early eukaryotes may be different from humans and multicellular cousins**
+
+---
 
 #### Quantum Coherence and Consciousness in Neurons
 
@@ -4383,6 +4768,8 @@ The arguments presented have little to say on the positive side regarding where 
 **Other Issues to Consider**:
 - Not all the brain's action is conscious, e.g., the cerebellum governs unconscious control of actions
 
+---
+
 #### Three Worlds and Conscious Experience Bridging Perception Physics and Mathematics
 
 **Three Worlds and Three Mysteries**
@@ -4403,6 +4790,8 @@ The arguments presented have little to say on the positive side regarding where 
 1. How the World of Perceptions relates to Physical World?
 2. Why do Conscious Experiences have anything to do with Physical World?
 3. What role does Mathematical World play in understanding Consciousness?
+
+---
 
 #### Emergence of Physical Reality from Mathematical Concepts A Three-World Perspective
 
@@ -4433,6 +4822,8 @@ The arguments presented have little to say on the positive side regarding where 
 - Illustrates relationship between three worlds
 - Useful for describing interconnectedness of mathematical, physical, and mental realms.
 
+---
+
 #### Mathematics in Physical Reality A Hidden Unity
 
 **Plato and Mathematical Forms**
@@ -4459,6 +4850,8 @@ The arguments presented have little to say on the positive side regarding where 
 - Close relationship between Platonic mathematical world and the physical world, still deeply mysterious
 - Hope that readers take the Platonic mathematical world more seriously as a 'world'.
 
+---
+
 #### The Role and Relationship of Mathematical Truths A Reinterpretation of Platos Theory
 
 **Discussion on Platonic Reality and Abstract Concepts:**
@@ -4468,6 +4861,8 @@ The arguments presented have little to say on the positive side regarding where 
 - Arrows in Fig. 8.1 represent correspondences between worlds rather than their direction being the essential point
 - Each world seems to 'emerge' from a tiny part of its predecessor, which can be seen as paradoxical but not prejudging primary or secondary statuses
 - Godel's theorem does not imply inaccessible mathematical truths beyond human understanding; it only refers to truths accessible through accepted formal systems.
+
+---
 
 #### Mystery and Mathematics in Physical Reality
 
@@ -4494,6 +4889,8 @@ The arguments presented have little to say on the positive side regarding where 
 - Science has a long way to develop yet to fully understand consciousness.
 - Indications suggest that new physical developments may clarify the relationship between mentality and physics.
 - Great minds throughout history, like Newton, Einstein, Archimedes, Galileo, Maxwell, Dirac, Darwin, Leonardo da Vinci, Rembrandt, Picasso, Bach, Mozart, or Plato, possess a unique faculty to "smell out" truth or beauty that others may not have.
+
+---
 
 #### The Mysterious Interconnectedness of Mind and Universe
 

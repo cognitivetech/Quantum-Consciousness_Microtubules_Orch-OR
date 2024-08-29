@@ -6,6 +6,8 @@
 > 
 > The participants include Bernard Baars, Ned Block, David J. Chalmers, Patricia S. Churchland, Daniel C. Dennett, Jeffrey Gray, Daniel Hillis, J. Allan Hobson, Stephen LaBerge, Jaron Lanier, Daniel S. Levine, Nikos K. Logothetis, Gary E. Schwartz, John R. Searle, Roger N. Shepard, Henry P. Stapp, Petra Stoerig, Charles T. Tart, John Taylor, Francisco J. Varela, Max Velmans, Roger Walsh, and Lawrence Weiskantz. - [Toward a Science of Consciousness II - Amazon](https://www.amazon.com/Toward-Science-Consciousness-II-Discussions/dp/0262082624/?&tag=cognitivetech-20)
 
+---
+
 ## Contents
 - [Summary](#summary)
 - [INTRODUCTION](#introduction)
@@ -84,8 +86,6 @@
   - [63 Dimensions of Creativity Aaron King and Alwyn C. Scott](#63-dimensions-of-creativity-aaron-king-and-alwyn-c-scott)
   - [64 Poetry, Mental Models, and Discordant Consciousness Paul K. Johnston](#64-poetry-mental-models-and-discordant-consciousness-paul-k-johnston)
 
-## Summary
-
 ## INTRODUCTION
 
 **Introduction:**
@@ -111,6 +111,8 @@
 - Michael Lockwood: scientific view of brain cannot account for qualia
 - Jeffrey Gray: functional or structural brain features cannot explain conscious experience
 - Roger Shepard and Piet Hut suggested brains may arise from consciousness instead.
+
+---
 
 #### Exploring Machine Consciousness and Inter-Species Communication at a Philosophy Conference
 
@@ -139,6 +141,8 @@
 - Diana Reiss: Dolphins' linguistic abilities and signs of self-awareness through mirror use and play
 - Irene Pepperberg: Alex the parrot's cognitive abilities, debate on whether they indicate consciousness
 - Paul Bloom: Language essential for concept formation, classical theories of Whorf, Hobbes, and Quine.
+
+---
 
 #### Debate on Consciousness: Neuroscience, Philosophy, and Quantum Theory
 
@@ -178,6 +182,8 @@
 - Hard problem clarified through philosophical assumptions in neural correlates of consciousness study
 - Churchland reviewed classical neural network theory for basis of conscious phenomena.
 
+---
+
 #### Multidisciplinary Conference on Consciousness: Presentations and Discussions.
 
 **Francisco Varela and Neurophenomenology:**
@@ -205,6 +211,8 @@
 - Conscious experiences of different people may not move synchronously
 - Alwyn Scott: consciousness emerging from all relevant levels of dynamic activity
 - Need for interdisciplinary approach to consciousness studies.
+
+---
 
 ## I PHENOMENOLOGY AND EPISTEMOLOGY
 
@@ -235,6 +243,8 @@
 - Misunderstanding the nature of philosophy and science (philosophy aims to help us acquire systematic knowledge)
 - Lack of consensus on a solid framework or methodology for studying consciousness scientifically.
 
+---
+
 #### Epistemic Objectivity vs Subjectivity: Consciousness is Epistemically Subjective but Scientifically Investigable
 
 **Challenges in Studying Consciousness with Scientific Methods**
@@ -258,6 +268,8 @@
 - Epistemic objectivity vs ontological subjectivity distinction should not be confused.
 - Fascinating intellectual history of the objectivesubjective distinction
 - Objectivity and subjectivity have different meanings, epistemically and ontologically.
+
+---
 
 #### Separating Subjective Qualia from Objective Consciousness: A Misconception
 
@@ -304,6 +316,8 @@
 - Brain processes cause consciousness, even if we don't have a theory explaining why or how it influences behavior
 - Surface reflections and froth on the water are caused phenomena with little impact on further effects, but consciousness plays a role in our understanding of the world.
 
+---
+
 #### Evolutionary Function of Consciousness: Not Epiphenomenal or Irrelevant
 
 **Discussing Consciousness in Scientific Contexts**
@@ -338,6 +352,8 @@
   - Reveals fundamental confusions about consciousness and its role in reality
   - Aids in creating an adequate science of consciousness.
 
+---
+
 #### Reductionism and Emergence: Consciousness as an Emergent Property
 
 **The Evolutionary Function of Consciousness**
@@ -357,6 +373,8 @@
 - Two types of reductions: Eliminative, which gets rid of the phenomenon being reduced (e.g., heat as molecular kinetic energy), and non-eliminative, which provides a causal explanation for the phenomenon (e.g., solidity as vibratory movement of molecules in lattice structures)
 - Consciousness is not eliminated by reduction to neuron behavior; it remains a higher-level feature caused by the behavior of lower-level elements
 
+---
+
 #### Consciousness as Intrinsic, Subjective Phenomenon Not Reducible to Information Processing
 
 **Solidity and Consciousness: A Comparative Perspective**
@@ -374,6 +392,8 @@
 **Avoiding Mistakes**:
 - Changing the subject or not taking consciousness seriously on its own terms can lead to mistakes
 - We need to focus on producing new scientific insights into how brain chemistry produces consciousness
+
+---
 
 ### 2 A Science of Consciousness as If Experience Mattered Francisco J. Varela
 
@@ -398,6 +418,8 @@
 4. Diverse contributions from Eugen Fink, Maurice Merleau-Ponty, Aaron Gurwitsch, and others
 5. Avoid assumptions about old-fashioned European school or limitations within personal options and styles.
 
+---
+
 #### Examining Consciousness through Phenomenological Reduction
 
 **Phenomenology:** A Synthesis of Modern Cognitive Science and Human Experience (Synthesis of Phenomenology)
@@ -419,6 +441,8 @@
 
 **Avoiding Common Misconceptions:**
 - Phenomenological analysis is not introspectionism as it goes beyond mere internal examination of experience; instead, it focuses on the meaning and significance of that experience.
+
+---
 
 #### Introspective Phenomenology: Beyond Subject-Object Duality
 
@@ -453,6 +477,8 @@
 - Recent studies have shown that the role of lived experience becomes increasingly important, even beyond first-person accounts
 - This highlights the need for a disciplined approach to include immediate, direct experience in the study of mind and consciousness
 
+---
+
 #### Neurophenomenological Approach: Bridging Mind-Experience Gap through Disciplined Introspection and Research.
 
 **Neurophenomenology: Bridging the Mind-Experiential Gap**
@@ -483,6 +509,8 @@
 - Overcoming habitual introspection to learn from experience instead of mourning potential losses
 - Complementary approach to traditional cognitive science research
 
+---
+
 #### Neurophenomenology: Combining Personal Experience and Cognitive Science for Understanding Consciousness
 
 **Science and Experience: Transformation Through Constraint**
@@ -508,6 +536,8 @@
    - Gratitude to all phenomenological partners, especially those mentioned above
    - Thanks for being allowed to recycle text from Journal of Consciousness Studies and other publications.
 
+---
+
 ### 3 Goodbye to Reductionism Max Velmans
 
 **Reflexive Model of Consciousness**
@@ -529,6 +559,8 @@
 - Reductionism faces problem of bridging gap between conscious experiences and scientific reality
 - Solution lies in accepting that all phenomenal qualities, including location and extension of perceived events, may not be the same as their underlying brain states.
 
+---
+
 #### Searle's Claim: Body Pain is a Brain State Mispresentation
 
 **Searle's Argument Against Common Sense:**
@@ -549,6 +581,8 @@
   * Different arrangements than perceived body
 - No discovery of body sensations in brain
 - Neural excitation causes tactile sensations that are subjectively located in different regions of the body.
+
+---
 
 #### Challenges to Reductionist Accounts of Consciousness and the Emergence of Nonreductionist Science of Consciousness
 
@@ -586,6 +620,8 @@
 - Velmans, M. (1993). A reflexive science of consciousness. In Experimental and Theoretical Studies of Consciousness. Ciba Foundation Symposium 174. Chichester: Wiley
 - Velmans, M. (1996). What and where are conscious experiences? In M. Velmans, ed. The Science of Consciousness: Psychological, Neuropsychological and Clinical Reviews. London: Routledge
 
+---
+
 ### 4 What Can Mysticism Teach Us About Consciousness? Robert K. C. Forman
 
 **Mysticism and Consciousness**
@@ -612,6 +648,8 @@
 - Advanced mystical experiences result from PCEs and minimization of emotional attachments
 - Unusual reports on the character of human awareness may provide useful insights into consciousness.
 
+---
+
 #### "Mystical Experiences: Pure Consciousness Events in Spiritual Traditions"
 
 **Three Mystical Phenomena and Their Implications**
@@ -630,6 +668,8 @@
 
 **Implications:**
 - PCEs may be defined as a wakeful but contentless (nonintentional) experience.
+
+---
 
 #### Phenomena of Unbroken Continuity and Dualistic Silence in Mystical States.
 
@@ -656,6 +696,8 @@
 - Dualistic pattern: silent interiors become a permanent development for some practitioners
 - Roberts and Neo-Advaitan report describing this state as devoid of intellectual self-reflection but with full cognizance of their own silent awareness while active.
 
+---
+
 #### Dualistic Mystical State: Silent Awareness Expanding Beyond Physical Self
 
 **Dualistic Mystical State (DMS)**
@@ -680,6 +722,8 @@
 1. Walt Whitman's oceanic feeling: similar ineffability and expanded quality
 2. St. Teresa's Spiritual Marriage: permanent union with God resulting in silence and expansion.
 
+---
+
 #### Exploring Mystical Experiences: Unity and Awareness Beyond the Body
 
 **Mystical Experiences and Consciousness**
@@ -698,6 +742,8 @@
 - Can be temporary or permanent
 - Similar to Plotinus' description of Nirvana or Hindu term for enlightened one (jivanmukti)
 - Bernadette Roberts' experience: watching a seagull, no division between self and object.
+
+---
 
 #### Unitive Experiences in Mysticism: Awareness, Field-like Perception and Transcendence
 
@@ -732,6 +778,8 @@
 - Awareness may have nonlocalized, quasispatial character like a field
 - Transcendental nature of this field may be similar to energy fields in physics.
 
+---
+
 #### Exploring the Nature and Locations of Consciousness in Mysticism.
 
 **Theories and Research on Consciousness:**
@@ -762,6 +810,8 @@
 - Awareness as a tie together through the passage of time (unconscious)
 - Transient vs. permanent sense of presence or expansive consciousness (25, 26, 28)
 - Non-locality of mind and interaction with fine particles (Buchanan, March 9, 1996; Forman, forthcoming).
+
+---
 
 ### 5 Reductionism Revisited Alwyn C. Scott
 
@@ -800,6 +850,8 @@
 - Traces life's development on Earth from bacteria to animals and plants
 - Evolution dominated by bacterial cells until emergence of eukaryotic cells with meiotic sex and programmed death.
 
+---
+
 #### Evolutionary Impact of Conscious Choice on Species Survival
 
 **The Myriad Species of Life on Earth**
@@ -835,6 +887,8 @@
 - Ongoing efforts by molecular biologists to formulate equations of life
 - Nonlinear processes make understanding life's global properties extremely challenging
 
+---
+
 #### Evolution and Consciousness: Bridging Reductive Science and Psychic Reality
 
 **Schrodinger's Feigned Lamarkism:**
@@ -858,6 +912,8 @@
 - Evolution of life makes effective uses of symbiosis
 - Search for a collective understanding of consciousness as an interacting spectrum of phenomena
 - Reach from biochemistry to neural network theory, psychology, culture, and the human spirit.
+
+---
 
 ## II ONTOLOGY, THE HARD PROBLEM OF EXPERIENCE, FREE WILL, AND AGENCY
 
@@ -898,6 +954,8 @@
 - Hodgson's defense of the ontology of "folk psychology" concepts
   - Important for understanding guilt and human rights in law.
 
+---
+
 ### 6 The Enigma of Sentience Michael Lockwood
 
 **The Enigma of Sentience**
@@ -920,6 +978,8 @@
 **The Enigma Remains**:
 - Even if the neural mechanisms underlying sentience are fully understood, it does not explain why these physical events have subjective correlates
 - The "deep problem" remains as to why consciousness arises from the physical processes of the brain
+
+---
 
 #### Consciousness as an Irreducible, Meaningful, Unified Phenomenon Resistant to Materialist Explanation.
 
@@ -954,6 +1014,8 @@
 - The conceptual edifice we bring to bear on the external world is essentially formal and lacks explicit content
 - Understanding in physics is limited, while our common-sense conception of the material world is filled with features drawn from perception and introspection.
 
+---
+
 #### Exploring Mind-Brain Identity Theory and Representation in Consciousness
 
 **Idea of Isomorphism between Consciousness and External World**
@@ -979,6 +1041,8 @@
 - Mind seems to elude ordinary categories; equating mind with a subsystem in the brain that has specific mentalist degrees of freedom may offer a materialist perspective.
 - Consciousness may be associated with a specific representation of this subsystem.
 
+---
+
 #### Quantum Mechanics and Consciousness: Potential Connection and Implications for Physical Models
 
 **Theoretical Proposal for Consciousness in Quantum Mechanics**
@@ -1001,6 +1065,8 @@
 - Marshall's idea of basing a physical model of consciousness on a pumped phonon system in the brain
 - Recent growth in applying quantum mechanics to understand consciousness
 - Shor’s discovery of a quantum computational algorithm for factoring large numbers quickly.
+
+---
 
 #### Quantum Coherence and Consciousness Discussion in Neuroscience.
 
@@ -1027,6 +1093,8 @@
 - Anatomical requirements: widespread afference, efference, direct and robust efference to motor systems, sensitivity to small lesions (Bogen)
 - Intralaminar nuclei of the thalamus as potential candidates for anatomical locus of consciousness.
 
+---
+
 ### 7 The Myth of Double Transduction Daniel C. Dennett
 
 **The Myth of Double Transduction**
@@ -1051,6 +1119,8 @@
 - A person's unconscious responses (e.g., pressing the brake pedal in response to a stoplight) do not imply consciousness
 - The idea that there is a special late transduction event occurring in the brain may be an illusion, as the patterns of activity in early visual areas seem distorted and unlike conscious experience
 
+---
+
 #### Distributed Consciousness Theory: Emotional Processing and Decision-Making are not Limited to Central Brain Centers
 
 **Cartesian Theater vs. Distributed Consciousness**
@@ -1071,6 +1141,8 @@
 **Implications:**
 - Consciousness not limited by millisecond onset
 - Work distributed in time, not just space within the brain.
+
+---
 
 #### Neuroscientific Arguments Against Dualism: Consciousness as Network Activity
 
@@ -1093,6 +1165,8 @@
 - The network itself can assume roles of an inner "Boss" and harbor consciousness
 - This view is not readily accepted by some due to the idea of a separate subjective point of view
 - The author argues that what one is is the organization of all competitive brain activities, and consciousness is the product of solving the "easy problems"
+
+---
 
 ### 8 Brainshy: Nonneural Theories of Conscious Experience Patricia Smith Churchland
 
@@ -1125,6 +1199,8 @@
 - The argument for an independent understanding of consciousness versus other phenomena lacks evidence
 - The definition and boundaries of consciousness are not well-defined enough to support this fundamental empirical principle.
 
+---
+
 #### Reflection on the Limits of Understanding Consciousness and Sensorimotor Control in Neuroscience.
 
 **Easy vs. Hard Problems in Consciousness**
@@ -1143,6 +1219,8 @@
 - Drawing substantive conclusions from scientific ignorance is a fallacy
 - Lack of evidence for something is just that: lack of evidence
 - The temptation to suppose ignorance indicates "depth" or metaphysical significance should be resisted
+
+---
 
 #### Searle's Critique of Neuroscience's Limitations in Understanding Consciousness
 
@@ -1171,6 +1249,8 @@
 - Believes that a fundamental change in science is needed to understand conscious experience
 - Advocates learning the science and doing the research instead of relying on intuitions about what problems are solvable.
 
+---
+
 #### Searle's Ontological Distinctness Argument for Conscious Experience
 
 **Searle's View on Consciousness:**
@@ -1184,6 +1264,8 @@
   - Reconfiguration vs. denial of phenomena
 - Distinction between reality and understanding of the nature of the world
 - No denial of consciousness existence, only potential conceptual reconfigurations.
+
+---
 
 #### Exploring Quantum Gravity's Role in Consciousness: A Critique of Penrose and Hameroff's Theory
 
@@ -1203,6 +1285,8 @@
 - Debate among mathematical logicians on what the Gödel result implies for brain function and its connection to conscious experiences.
 - Obscure link between loss of consciousness under anesthesia and microtubules' quantum coherence.
 - Uncertainty regarding how quantum effects in microtubules can explain various phenomena of conscious experience like recall, filling in the blindspot, hallucinations, and attentional effects on sensory awareness.
+
+---
 
 #### Criticizing Origins of Consciousness Theories, Emphasizing Need for Experimentation and Theory Development
 
@@ -1230,6 +1314,8 @@
 - Grush and Churchland's discussion on Penrose's mathematical argument (Grush and Churchland, 1995; Penrose and Hameroff, 1995)
 - Putnam, Philosophy of Mathematics: Selected Readings (1983); Feferman (1995), Benacerraf and Putnam (1983), Kitcher (1984) on the nature of consciousness
 - Hayes and Ford's award for Simon Newcombe's astronomical claims (Hayes and Ford, 1995)
+
+---
 
 #### The role of philosophy in understanding mind-brain relationship and its cooperation with other sciences.
 
@@ -1259,6 +1345,8 @@
 - Best research by contemporary philosophers is richly cross-disciplinary
 - A willingness to cooperate and exchange ideas is a healthy development in understanding the universe and ourselves.
 
+---
+
 ### 9 Whitehead's Even More Dangerous Idea Peter Farleigh
 
 **Whitehead's Idea in Philosophy and Science**
@@ -1286,6 +1374,8 @@
 **Implications:**
 - Dangerous idea displacing traditional perspectives on understanding the world.
 
+---
+
 #### Exploring Whitehead's Concept of Prehension in Perception and Memory
 
 **Panpsychism vs. Panexperientialism**
@@ -1308,6 +1398,8 @@
 **Prehension vs. Intentionality**
 - Both affirm doctrine of internal relations
 - Prehension solves causation problem through asymmetrical relations between present event and its past.
+
+---
 
 #### Whitehead's Theory: Events as Matter-Mind Relational Entities
 
@@ -1335,6 +1427,8 @@
 - Whitehead's theory avoids pitfalls of dualism, materialism, and functionalism
 - Worthy of serious consideration in contemporary debate.
 
+---
+
 ### 10 Against Functionalism: Consciousness as an Information-Bearing Medium Bruce Mangan
 
 **Consciousness as an Information-Bearing Medium**
@@ -1358,6 +1452,8 @@
 **Limitations of Functionalism**:
 - Cannot account for the specificity of how consciousness is instantiated as a medium
 - Contradicts the concept of medium specificity, which suggests information cannot be fully realized by different media
+
+---
 
 #### Consciousness as Medium: A Plausible Alternative to Functionalism
 
@@ -1385,6 +1481,8 @@
 - Functionalism fails if it denies that consciousness is a distinct information-bearing medium
 - Medium-specific research is important and should not be overlooked in favor of functional analysis alone.
 
+---
+
 #### Exploring the Distinct Medium Hypothesis for Conscious Experience and its Implications
 
 **Medium Hypothesis of Cognition**
@@ -1411,6 +1509,8 @@
 - Mangan, B. (1993a). Dennett, consciousness, and the sorrows of functionalism. Consciousness and Cognition 2:1–17.
 - Mangan, B. (forthcoming). Consciousness as an information-bearing medium. Psyche <http://psyche.cs.monash.au/>
 
+---
+
 ### 11 My Experience, Your Experience, and the World We Experience: Turning the Hard Problem Upside Down
 
 **Roger N. Shepard and Piet Hut's Perspective on the Hard Problem of Consciousness**
@@ -1433,6 +1533,8 @@
 - Dreams and other subjective experiences suggest a dependence on something beyond the phenomena experienced
 - The hard problem remains in distinguishing physical systems with vs. without conscious experiences
 
+---
+
 #### Consciousness and Neural Activity in Dreams: A Metadimension Perspective
 
 **The Distinction Between Conscious and Unconscious Neural Activity**
@@ -1451,6 +1553,8 @@
 - Use of spatial metaphors in discussing this gap (e.g., "depth of meaning")
 - Conjecture: Investigate reality by positing a "metadimension" for consciousness, similar to the role of time in motion
 - Analogy: Space and Time are equiprimordial, not reducible to each other but transformable; same with existence and this metadimension.
+
+---
 
 ### 12 The Boundary Problem for Phenomenal Individuals Gregg H. Rosenberg
 
@@ -1485,6 +1589,8 @@
 **Conclusion**:
 - The physical image of the world as a multitude of interacting micro-physical entities suggests that other kinds of feeling subjects could exist.
 
+---
+
 #### Examining the Phenomenal Boundary Problem in Complex Systems and Organisms
 
 **Boundary Problem for Phenomenal Individuals**
@@ -1515,6 +1621,8 @@
 10. **Application to Actual Systems: Economies**
    - Economic system processes information and self-organizes, raising questions about group mind
 
+---
+
 #### Exploring Phenomenal Individuality and Boundary Problem in Physics
 
 **Phenomenal Individuality and Boundary Problem**
@@ -1539,6 +1647,8 @@
 
 **Conclusion**:
 - Navigating middle ground requires finding a natural criterion for individuation and understanding inherent individuality in the natural world.
+
+---
 
 ### 13 Folk Psychology, Science, and the Criminal Law, David Hodgson
 
@@ -1571,6 +1681,8 @@
 - Psychological experiments showing common sense view is often misconceived
 - Recognition that common sense beliefs about free will and responsibility may be unintellectually respectable (three trends: recognition of unconscious motivation, fabrication and acceptance of plausible but untrue stories to explain experiences and actions)
 
+---
+
 #### Discussion on Free Will, Criminal Responsibility, and Human Rights in Relation to Neuroscience and Law
 
 **The Relationship Between Unconscious Processes and Conscious Development**
@@ -1588,6 +1700,8 @@
 - The system should only coerce people who have voluntarily breached a public law, with proportional punishment
 - Utilitarian arguments for this qualification still presuppose the distinction between voluntary and non-voluntary actions
 - Governments that do not recognize human rights qualifications assert that societal good overrides individual rights
+
+---
 
 #### The Philosophical Justification for Human Rights: A Defense Against Mechanistic Views of the Mind.
 
@@ -1611,6 +1725,8 @@
 2. Physical aspect: Development occurs automatically according to universal laws of nature (with or without randomness).
 3. Mental aspect: Some development involves actions by conscious subject through choices between open alternatives based on nonconclusive reasons.
 4. Neither perspective provides a complete account of system development.
+
+---
 
 #### Philosophical Analysis of Free Will, Responsibility, and Criminal Justice
 
@@ -1643,6 +1759,8 @@
 - Provides a useful working model for criminal responsibility, social/educational areas, and psychiatry practice
 - Helps people take charge of their lives by recognizing personal responsibility and ability to make better choices in the future.
 
+---
+
 #### Punishment and Responsibility: Mitigating Factors and Deterrence in Criminal Justice
 
 **Addressing Inequalities in Law Enforcement:**
@@ -1660,6 +1778,8 @@
 - Lesser moral responsibility does not guarantee lesser punishment
 - Considerations for punishment: objective criminality, deterrence, protection of society, mitigating circumstances, previous character and remorse, prospects for rehabilitation, effect on offender
 - Impact of factors (a)-(e) on offenders B and A may result in different punishments despite similar acts.
+
+---
 
 ### 14 Zombie Killer Nigel J. T. Thomas
 
@@ -1688,6 +1808,8 @@
 **Belief Formation and Consciousness**:
 - Cannot infer consciousness from correlations with other phenomena in the zombie world
 - Consciousness cannot be eliminated like phlogiston without eliminativist challenges
+
+---
 
 #### Zombie Consciousness and Language: Meaningfulness and Truth.
 
@@ -1719,6 +1841,8 @@
 - Zombies exhibit meaningful behavior, responses, and utterances in social interactions with other zombies
 - Epiphenomenalism about language has no appeal because language is a social matter that depends on both causes and effects of utterances.
 
+---
+
 #### Exploring Consciousness, Intentionality, and Linguistic Meaning in Zombie Scenarios
 
 **Zombies and Language**
@@ -1736,6 +1860,8 @@
 - The "hard problem" of intentionality is different from Chalmers's "hard problem" of qualia in the context of zombie philosophy
 - A scientific understanding of consciousness may be more attainable through a serious engagement with intentionality than by focusing on raw feels.
 
+---
+
 ## III DISCUSSIONS AND DEBATES
 
 **Chapter 3: Can a Machine Be Conscious? - Danny Hillis' Argument for Yes**
@@ -1747,6 +1873,8 @@
   - Building a life-size neuron simulator using future technology
   - Such a neuron simulator could restore mobility and feeling through prosthesis or brain replacement, mimicking real neuron responses
   - The author believes that a person using such a prosthetic would perceive exactly the same sensations as anyone else
+
+---
 
 #### Examining the Possibility of Artificial Consciousness
 
@@ -1773,6 +1901,8 @@
 - Disagreement stems from philosophical arguments and personal biases
 - Importance lies in the moral question: Should we treat them as fellow beings?
 
+---
+
 ### 16 Mindless Thought Experiments: A Critique of Machine Intelligence Jaron Lanier
 
 **Critique of Machine Intelligence (Mindless Thought Experiments)**
@@ -1798,6 +1928,8 @@
 - Critique of machine intelligence and consciousness as interchangeable terms
 - Awareness that we have a real problem with understanding consciousness.
 
+---
+
 #### AI: A Religious Approach Threatens Human Understanding and Responsibility
 
 **Turing Test and Machine Intelligence**
@@ -1822,6 +1954,8 @@
 8. Critics argue against the potential for machines to replace or surpass humans
 9. Fear that focusing on AI might distract from addressing real-world problems
 10. Importance of taking responsibility and understanding limitations in technology development.
+
+---
 
 ### 17 Structure and Function Giuseppe Vitiello
 
@@ -1852,6 +1986,8 @@
 **The Connection Between Symmetry Breaking and Nambu-Goldstone Bosons**:
 - When continuous symmetry is spontaneously broken, a massless particle (the Nambu-Goldstone boson) is dynamically created to carry the ordering information.
 - The presence of these bosons adds no energy to the state, ensuring that the ordered pattern is stable.
+
+---
 
 #### Quantum Dynamics of Living Matter and Consciousness
 
@@ -1888,6 +2024,8 @@
 - Information recording breaks time-reversal symmetry (introduces arrow of time)
 - Brain dynamics are intrinsically irreversible, leading to potential consciousness mechanisms from mirror brain dynamics.
 
+---
+
 ### 18 ""More Neural Than Thou"" Stuart R. Hameroff
 
 **Neuralism vs. Non-Neural Approaches to Consciousness**
@@ -1914,6 +2052,8 @@
 - Churning quantum fluctuations ("quantum foam") imparts dynamic structure and measurable energy ("zero-point fluctuations")
 - Casimir force: Measured force between parallel surfaces separated by a tiny gap, caused by surplus virtual photons outside the gap region
 - Hall's calculations of the Casimir force on microtubules predict significant pressure (0.5 to 20 atm) exerted by the quantum vacuum on microtubules of sufficient length
+
+---
 
 #### Quantum Spin Networks in Brain's Microtubules as Consciousness Mechanism
 
@@ -1945,6 +2085,8 @@
 - Anesthetics act directly on specific proteins through weak van der Waals forces in hydrophobic regions
 - Postsynaptic membrane proteins belonging to the acetylcholine receptor superfamily are potential targets.
 
+---
+
 #### Quantum Theory's Role in Anesthesia and Consciousness
 
 **Anesthesia, Microtubules, and Hydrophobic Pockets**
@@ -1967,6 +2109,8 @@
 **Comparison between Orch OR and Neuralism:**
 Feature 1: Experience, Hard Problem
 Orch OR: Ascribes experience as a fundamental property of the universe (Penrose's quantum-spin networks) vs. neuralism: Unspecified critical level of neuronal computational complexity.
+
+---
 
 #### Quantum Consciousness Theory: Microtubules and Space-Time
 
@@ -1997,6 +2141,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Conscious experience emerges at a critical threshold of neural activity
 - Prereduction tubulin superposition phase equated with preconscious processes
 - Quantum gravity threshold reached, causing objective reduction and selection of new fundamental experience geometry.
+
+---
 
 ## IV NEURAL CORRELATES OF CONSCIOUSNESS
 
@@ -2036,6 +2182,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Consciousness is an architectural aspect of brain organization, involving interaction between sensory input and memory
 - Cortical foci provide consciousness content; brain stem-thalamocortical axis supports conscious state.
 
+---
+
 #### Neuropsychological Models of Consciousness: Comparator Theory and Synaesthesia
 
 **Consciousness Models and Theories**
@@ -2058,6 +2206,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Common Themes Among Models:**
 - Anatomical regions in thalamus direct attention towards cortical epicenters
 - Consciousness involves temporal feedback between present moment, immediate past, and predicted future.
+
+---
 
 ### 19 On the Search for the Neural Correlate of Consciousness David J. Chalmers
 
@@ -2097,6 +2247,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 1. **Verbal Report Principle**: When information is verbally reported, it can be inferred as conscious.
 2. ... (to be continued)
 
+---
+
 #### Functional Criteria for Consciousness: Global Availability as a Neural Correlate
 
 **Principles Relating to Consciousness and Verbal Report**
@@ -2133,6 +2285,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 5. Dissociation studies, lesioning, and other methods can help address uncertainties about the NCC's role in global availability.
 6. The search for the NCC may require addressing challenges like measuring and controlling for confounding variables.
 
+---
+
 #### Neural Correlates of Consciousness: Global Availability and Modules
 
 **Understanding Consciousness and Neural Correlates of Consciousness (NCC)**
@@ -2153,6 +2307,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Mechanisms: multiple, various stages, different modalities
 - Possibility of a consciousness module as an integrated area responsible for all global availability.
 
+---
+
 #### Neural Correlates of Consciousness: Limitations and Implications.
 
 **Neural Correlates of Consciousness: Understanding Its Significance**
@@ -2170,6 +2326,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **The Quest for Neural Correlates of Consciousness:**
 - Enhances understanding of consciousness by bringing neuroscience and philosophy together
 - Clarifies deep problems involved in studying consciousness.
+
+---
 
 ### 20 A Rosetta Stone for Mind and Brain? Susan A. Greenfield
 
@@ -2206,6 +2364,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 3. Representation or focus: entails some sort of epicenter or experience
 4. Transient recruitment of neurons: creates individual associations and strengthens connections.
 
+---
+
 #### Consciousness: Emergence, Properties, and Variations
 
 **Properties of Consciousness**
@@ -2232,6 +2392,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Certain chemicals, released according to biorhythms and arousal levels, modulate ease of forming transient neuronal assemblies
 - Selective targets for mood-modifying drugs such as Prozac or Ecstasy are chemical systems that affect the sizes of these assemblies.
 
+---
+
 #### Linking Dreaming, Schizophrenia, Childhood Consciousness through Neuronal Assembly Patterns
 
 **Linking Conditions of Dreaming, Schizophrenia, and Childhood**
@@ -2257,6 +2419,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Significant step forward, but not an explanation
 - Private nature of consciousness remains inviolate from probings by scientists and philosophers alike.
 
+---
+
 ### 21 Locating the Subjectivity Pump: The Thalamic Intralaminar Nuclei Joseph E. Bogen
 
 **Subjectivity and Thalamic Intralaminar Nuclei (ILN)**
@@ -2271,6 +2435,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 * Localizing Mechanism: Aggregates of neurons form specialized circuits (e.g., rhythm generation, memory processing); ILN developmentally organize to produce C.
 * Mechanism for C is Double: Intact cerebrum has two mechanisms, one suffices for C; structural duality handled by the brain is an important question but not the focus here.
 * Mechanism for C is Thalamic: Emphasized by Penfield and Jasper (1954), C is not produced by cortex; some potential contents of consciousness are primitive and may predate the evolution of higher functions.
+
+---
 
 #### The Role of Intralaminar Nuclei in Consciousness and Attention
 
@@ -2301,6 +2467,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Abandonment of the concept of centrencephalic seizures
   - Cerebral commissurotomy (split brain) reinforcing doubts about the existence of a centrencephalon
 
+---
+
 #### Exploring Intralaminar Nuclei's Role in Consciousness Mechanism
 
 **The Problem of Localizing the Mechanism for Consciousness (C)**
@@ -2321,6 +2489,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
       * Passage through nRt of ILN efferents could influence the attention-selective action of nRt
 - Contrast with bilateral thalamic lesions involving ILN causing loss of consciousness compared to retention of C after large cortical ablations depriving consciousness of specific content
 - Intensive study of ILN suggested as quickest route for better understanding consciousness
+
+---
 
 ### 22 Anterior Cingulate Cortex Participates in the Conscious Experience of Emotion Richard D. Lane, Eric M. Reiman, Geoffrey L. Ahern, Gary E. Schwartz,
 
@@ -2354,6 +2524,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - ACC may have a broader role in mediating consciousness (Cotterill 1995)
 - Hypothesized role for ACC in emotional experience is well accepted in current neurosurgical practice.
 
+---
+
 #### Linking ACC and Emotional Consciousness in Health Outcomes
 
 **Patients Reported Findings after Cingulotomy Procedure:**
@@ -2383,6 +2555,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Possible feedback loop for sympathetic arousal modulation through transmission of interoceptive emotion information to the ACC
 - Failure of such transmission may lead to exaggerated and persistent sympathetic discharge. This alternative model provides physiological basis for disregulation theory (Schwartz, 1983). Conscious awareness promotes both psychological optimal adaptation and physiological health.
 
+---
+
 ### 23 Toward the Neurobiology of Consciousness: Using Brain Imaging and Anesthesia to Investigate the Anatomy of Consciousness Michael T. Alkire, Richard
 
 **The Neurobiology of Consciousness: Investigating the Anatomy of Consciousness**
@@ -2404,6 +2578,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Assessed auditory verbal memory during normal waking consciousness and unconsciousness using propofol general anesthetic agent
 - Correlated subjects' performance on tests of auditory verbal memory with functional brain activity (PET) when exposed to memory stimulus in both conscious and unconscious states
 - Used positron-labeled deoxyglucose tracer (FDG) to study human regional utilization of cerebral glucose in active brain neurons.
+
+---
 
 #### Propofol Anesthesia Decreases Global Brain Metabolism, Linked to Unconsciousness
 
@@ -2430,6 +2606,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Finding may not be specific to propofol anesthesia alone
 - Suggests that consciousness is a distributed phenomenon in the human brain, but further considerations are needed.
 
+---
+
 #### PET Scan Shows Similar Brain Changes During Unconsciousness from Different Anesthetics
 
 **Propofol Study Findings:**
@@ -2450,6 +2628,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Conscious and unconscious correlations showed more regional anatomic overlap than differences
 - Negative correlations between visual association cortices, white matter deep to areas 39/40, right caudate for unconscious condition only.
 - Most revealing difference: high correlations of memory performance scores with mediodorsal thalamic nucleus region in the conscious state.
+
+---
 
 #### Thalamus' Role in Conscious Memory Processing and Gatekeeping Function Hypothesis
 
@@ -2485,6 +2665,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Many current theories involve the thalamus or cortical-thalamic interactions (Crick, 1994; Baars, 1988; Llinas and Ribary, 1993)
 - Conscious and unconscious verbal memory processing share much anatomic overlap but do not show functional overlap within the thalamus.
 
+---
+
 ### 24 Neuronal Mechanisms of Consciousness: A Relational Global-Workspace Framework Bernard J. Baars, James Newman, and John G. Taylor
 
 **Neuronal Mechanisms of Consciousness: A Relational Global-Workspace Framework**
@@ -2511,6 +2693,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
    - Supports complex form of spatial competition beyond winner-take-all model
 7. **Comparator System**: Hippocampus and basal ganglia play a role in generating conscious contents
 8. **Alternative Hypothesis:** Feedback to ERTAS from cortex, hippocampus, and basal ganglia.
+
+---
 
 #### Neural Architecture for Conscious Processing and Attention
 
@@ -2548,6 +2732,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Newman's analysis suggests immediate perception is supported by posterior cortical modules, allowing them to be interpreted as a passive part of conscious experience
 - Interaction between self-structures and consciousness is mediated through this posterior corticothalamic system.
 
+---
+
 #### Theory of Global-Workspace Consciousness: A Theater Metaphor for Information Processing in Brain
 
 **Baars' Proposed Framework for Consciousness:**
@@ -2567,6 +2753,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Early sensory-projection areas like a series of theater stages, with only one spotlight on at any moment
 - Most active, coherent sensory cortex becomes conscious and is broadcast widely to suppress other cortices
 - Conscious information from the most amplified area may be sent via thalamus, corpus callosum, or massive corticocortical connections within each hemisphere for rapid switching between different sensory cortices.
+
+---
 
 ### 25 Creeping up on the Hard Question of Consciousness Jeffrey A. Gray
 
@@ -2596,6 +2784,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 4. **Challenges in addressing the hard problem**:
    - Experimental evidence contradicts everyday experience, making the issue more difficult to grasp
 
+---
+
 #### Comparator Hypothesis: Consciousness is related to brain's prediction-comparison mechanism.
 
 **Consciousness and Brain**
@@ -2616,6 +2806,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Extends previous work on emotion anxiety modeling (Gray 1982) and acute schizophrenia conscious experience aberrations (Gray et al. 1991).
 - Key feature: comparator system predicts next perceived state, compares it to actual state, determining if matched or not (Figure 25.2).
 - Contents of consciousness consist of subicular comparator activity and feedback from comparator to perceptual systems that provided input for comparison.
+
+---
 
 #### Synesthesia: A Study of Cross-Modal Sensory Experiences
 
@@ -2648,6 +2840,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Further research needed to validate synesthesia as real phenomenon
 - Gathering relevant experimental evidence through studying brain function in synesthetes may help answer questions about consciousness.
 
+---
+
 #### Neuroimaging Studies Support a Biological Basis for Synesthesia
 
 **Establishing Synesthesia's Genuineness and Neural Basis:**
@@ -2663,6 +2857,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 2. Neural development mechanisms: studying synesthesia could help elucidate mechanisms of neural development by investigating persistent neuronal connections in infancy
 3. Two hypotheses on how synesthesia occurs in the brain: permanent neural connections between modalities or learned associations, relevant to choosing between neuronal events and information processing as critical levels for conscious experience.
 4. Current study using fMRI to measure regional cerebral blood flow (rCBF) in various conditions to differentiate between hard-wiring hypothesis and associative learning hypothesis. Potential implications for understanding the nature of conscious experience and its relationship with neuronal events and information processing.
+
+---
 
 ## V VISION AND CONSCIOUSNESS Overview Petra Stoerig
 
@@ -2691,6 +2887,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Candidates for Conscious Vision:**
 - Frontal cortex: Crick & Koch hypothesis denied by Weiskrantz et al. (1995) and Ishai & Sagi
 - Visual cortex suggested by all authors addressing the question, including striate and extrastriate areas, frontal cortex, and thalamic nuclei.
+
+---
 
 ### 26 Varieties of Vision: From Blind Responses to Conscious Recognition Petra Stoerig
 
@@ -2724,6 +2922,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - **Object vision**: Ability to see shape, segment image, bind qualia into objects
 - **Object recognition**: Classifying visual object and registering its individuality and meaning
 
+---
+
 #### Understanding Vision: Levels of Conscious Perception and Blindsight Phenomena
 
 **Levels of Blind Vision:**
@@ -2748,6 +2948,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Phenomenal vision represents the prerequisite for object vision and recognition
   - Reverse disorder (intact conscious vision-based recognition in absence of phenomenal vision) has not been reported.
 
+---
+
 #### Neuronal Bases of Conscious Vision and Blindsight: Dissociations and Correlates
 
 **Cortical Blindness and Phenomenal Vision:**
@@ -2768,6 +2970,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 * Topographically imprecise projections to and from residual striate cortex may result in faint conscious experiences or perceptual completion of afterimages (Bender & Kahn, 1946; Farah et al., 1992)
 * Occipital lobe destruction can be followed by visual hallucinations that disappear within weeks (Grusser & Landis, 1991; Kolmel, 1985)
 * Unsuspected plasticity in primary visual cortex response to adaptive challenge may play a role (Sugita, 1996).
+
+---
 
 ### 27 Single-Neuron Activity and Visual Perception Nikos K. Logothetis and David A. Leopold
 
@@ -2797,6 +3001,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Binocular rivalry: Perceptual dominance of one eye's image switches with the other
 - Eye-dominance notion fails to account for prolonged periods of perceptual dominance by alternating stimuli
 
+---
+
 #### Experiment on Binocular Rivalry with Switched Monocular Stimuli Shows Similar Perceptual Alternations to Conventional Rivalry
 
 **Binocular Rivalry: Interocular or Interstimulus Competition?**
@@ -2822,6 +3028,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Perceptual alternations during binocular rivalry involve neural machinery of multistable perceptual phenomena
 - Dichoptic stimulation can be used to study physiology of perceptual organization and visual awareness in animals.
 
+---
+
 #### Investigating Neuron Response During Binocular Rivalry in Monkeys
 
 **Monkey Behavior during Binocular Rivalry**
@@ -2841,6 +3049,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
     - Modulating cells were mostly binocular and had a higher preponderance in V4 than V1/V2
     - Most modulating cells increased firing rate before the monkey reported preferred orientation
 - Some neurons became more active when nonpreferred stimulus was perceived, suggesting a role for early extrastriate areas in image segmentation and grouping.
+
+---
 
 ### 28 Visual Imagery and Visual Perception: The Role of Memory and Conscious Awareness Alumit Ishai and Dov Sagi
 
@@ -2867,6 +3077,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - This imagery-induced facilitation is based on short-term memory (STM) and depends on recent memory of the mask's presence
   - The imagery-induced facilitation is specific to the orientation and eye used in the task
 
+---
+
 #### Experiments Expose Low-Level Memory System for Visual Imagery
 
 **Short-Term Memory (STM) vs Long-Term Memory (LTM)**
@@ -2892,6 +3104,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Two types of representation in visual memory: low-level (Gabor) vs structural descriptions (lines)
 - Further physiological and neuroimaging studies needed to understand neural correlates of visual awareness.
 
+---
+
 ### 29 How Not to Find the Neural Correlate of Consciousness Ned Block
 
 **Chapter Overview:** This chapter discusses two concepts of consciousness: access-consciousness (a-consciousness) and phenomenal-consciousness (p-consciousness). The author argues that these two concepts may come to the same thing in the brain, despite appearing distinct. The author provides examples from John Searle's reasoning and Crick and Koch's argument on the neural correlate of consciousness to illustrate this point.
@@ -2912,6 +3126,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Access-consciousness (a-consciousness):** A representation is a-conscious if it is poised for direct control of reasoning, reporting, and action.
 
 **Phenomenal-consciousness (p-consciousness):** Phenomenal-consciousness is just experience; the way something is felt or perceived.
+
+---
 
 #### Distinction Between P-consciousness and A-consciousness and its Implications for Neural Correlates of Consciousness
 
@@ -2938,6 +3154,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Conclusion: V1 is not part of the neural correlate of consciousness
 - Critique: If by "consciousness," they mean p-consciousness, premise 1 is unjustified; if a-consciousness, the argument is trivial
 
+---
+
 #### Distinguishing between Neural Correlates of A- and P-Consciousness: Implications for Localization Theory
 
 **Neural Correlates of Consciousness and Visual Processing: A Critique of Crick and Koch's Argument**
@@ -2957,6 +3175,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 7. **Better Reason for Excluding V1 from NCC:**
    - Crick & Koch argue that V1 lacks direct connections to frontal areas; however, there might be a more compelling reason:
      * V1 is an early stage of visual processing and does not involve the higher-level cognitive processes associated with consciousness. This would make it less likely for V1 to be part of the neural correlate of consciousness or visual awareness.
+
+---
 
 #### Debating the Neural Basis of Phenomenal Consciousness: A Philosophical-Scientific Discussion
 
@@ -2986,6 +3206,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 
 **Value of Philosophical Collaboration with Scientists on Consciousness:**
 - Despite mostly scientific issue, collaboration necessary due to conceptual disagreements.
+
+---
 
 ### 30 Speeded Digit Identification under Impaired Perceptual Awareness Syoichi Iwasaki
 
@@ -3017,6 +3239,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Individual discrimination accuracy remained above chance even for the shortest SOA
 - Debriefing revealed subjects barely aware of digits at shortest SOAs, no spontaneous error correction or comments on errors.
 
+---
+
 #### Limited Awareness Enables Fast Perception in Masked Digit Identification Experiment
 
 **Study Findings:**
@@ -3036,6 +3260,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - **Conclusion:**
   - Subjects can make speeded discriminatory responses to severely masked digits with minimal awareness
   - Manual response may be under direct control of stimulus parameters rather than consciousness.
+
+---
 
 ### 31 Fast Dynamics of Visibility of Brief Visual Images: The Perceptual-Retouch Viewpoint Talis Bachmann
 
@@ -3064,6 +3290,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
     - Converges on the same cortical neurons as SP
     - NSP provides mainly facilitatory effects
 
+---
+
 #### Perceptual Retouch Model: NSP Modulation and Conscious Visual Perception
 
 **Perceptual Retouch Framework**
@@ -3085,6 +3313,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 1. Mutual masking: Equal visibility of stimuli S1 and S2 with short SOAs (<20-30ms) when intensities are compatible, resulting in integrative masking and no dominant perception.
 2. Metacontrast: Target stimulus S1 is easily visible at short SOAs due to its high intensity compared to S2, but with intermediate SOAs (40-90ms), S2 dominates conscious perception over S1.
 3. Speeding up of subjective moment for the perceived stimulus: Rapidly alternating visual stimuli result in faster response times and increased visibility of the later-presented stimulus (S2).
+
+---
 
 #### Neural Processing Theory: Proactive Perception and Temporal Phenomena
 
@@ -3117,6 +3347,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Tandem effect: pair of bars moving laterally appear simultaneously in subjective space and time with optimal speed and interstimulus distance
 - Explained by PR theory's two-process account of SP encoding and NSP modulation, resulting in compression of space and time.
 
+---
+
 #### Conscious Perception and Attention: A Physiological Approach to the "Hard Problem" of Perceptual Awareness
 
 **Overview:**
@@ -3148,6 +3380,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Approach may be criticized as too physiological by traditional psychologists or too speculative and psychophysical by neurophysiologists and neurologists.
 - Interdisciplinary approaches incorporating subjective and objective data in a unified framework are necessary for understanding the explanatory gap surrounding perceptual awareness.
 
+---
+
 ### 32 Double-Judgment Psychophysics for Research on Consciousness: Application to Blindsight Stanley A. Klein
 
 **Psychophysics for Research on Consciousness: Double-Judgment Psychophysical Methodology**
@@ -3176,6 +3410,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Objective threshold: where zh = zf + 1, corresponding to d' = 1
 - Subjective threshold: hit rate of 50% or ph = 50%
 - Phenomenal threshold: visual subjective awareness of the stimulus (may be below subjective threshold in blindsight cases)
+
+---
 
 #### Signal Detection Theory and Blindsight: Interpreting Visual Stimuli Below Perception Threshold
 
@@ -3208,6 +3444,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 6. Last observer (misinterpreted instructions or using nonvisual information) may exhibit blindsight behavior despite objective measurements suggesting otherwise.
 7. Methodology in actual research on blindsight is sometimes sloppy, neglecting careful psychophysical methods.
 
+---
+
 #### Blindsight Research and Controversies: Eye Movement Studies
 
 **Blindsight Studies and Controversial Issues**
@@ -3233,6 +3471,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Further research and discussion among researchers and philosophers on controversial issues associated with blindsight
 - Recent studies by Stoerig and Cowey (1997) and Cowey and Stoerig (1997) increase confidence in real nature of blindsight, but need extension to object discrimination.
 
+---
+
 ### 33 Consciousness, and Commentaries Lawrence Weiskrant
 
 **Blindsight Phenomenon and Consciousness**
@@ -3246,6 +3486,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 * **Color discrimination without conscious awareness:** Subjects can discriminate colors but never report experience (Stoerig and Cowey 1992; Brent, Kennard, and Ruddock 1994).
 * **Blindsight type 1 versus type 2**: Type 1: no reported experience; Type 2: awareness of rapid transient events (Barbur et al. 1993, Weiskrantz et al. 1997).
 * **Distinction between types:** Type 2 is easier to study and has received more experimental attention than Type 1 due to its veridical nature.
+
+---
 
 #### Comparing Brain Activity in Type 1 & 2 Blindsight using fMRI
 
@@ -3271,6 +3513,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
     - Elevated superior colliculus activity only seen in type 1 mode
 - Caution: results must be treated with caution, further analysis required.
 
+---
+
 #### Animals with V1 lesions demonstrate blindsight behaviorally, linking animal consciousness research to human blindsight studies.
 
 **Superior Colliculus:**
@@ -3295,6 +3539,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 
 **Animals and Blindsight:**
 - Monkeys with unilateral V1 lesions treat visual targets as nonlights, similar to human blindsight subjects.
+
+---
 
 ## VI BIOLOGY, EVOLUTION, AND CONSCIOUSNESS
 
@@ -3327,6 +3573,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Understanding life crucial for grasping consciousness
 - Consciousness an exclusive feature of living systems until proven otherwise in AI.
 
+---
+
 ### 34 Evolution of Intelligence, Language, and Other Emergent Processes for Consciousness: A Comparative Perspective James E. King, Duane M. Rumbaugh, an
 
 **Evolution of Intelligence, Language, and Other Emergent Processes for Consciousness: A Comparative Perspective**
@@ -3351,6 +3599,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - **Latent learning**: Rats showed increased performance after a reward was introduced, suggesting behavior is an expression of knowledge about related events (rewards and punishers)
 - **Silent learning**: Learning can occur in the absence of manifestation of the learned response
 - **Partial reinforcement effect (PRE)**: The number of trials to extinction increases as the proportion of reinforced responses decreases
+
+---
 
 #### Emergent Learning in Nonhuman Primates: Win-Stay, Lose-Shift Discrimination Learning Sets
 
@@ -3378,6 +3628,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Characterized as "emergent" learning: acquisition of new adaptive capabilities or patterns of responding
 - Emergents generalize based on rules, not conventional stimulus/response generalization
 - Examples: transfer suppression (decreased stimulus generalization) and rapid learning/forgetting in rhesus monkeys.
+
+---
 
 #### Emergence of Language in Primates: Chimps' Learning Capabilities
 
@@ -3410,6 +3662,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Evolution of consciousness, emergent learning, and language aptitude likely linked
 - Brain endocasts suggest left temporal gyrus expansion in humans around 2–3 million years ago.
 
+---
+
 #### Apes Approaching Human Language Capabilities Through Lexigrams and Spoken English.
 
 **Early Research on Ape Language**
@@ -3441,6 +3695,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Romanes was correct that consciousness emerged with learned actions independent of reflexes
 - Continuity in the evolutionary development of learning and language suggests consciousness evolved along similar paths
 
+---
+
 ### 35 Bacteria as Tools for Studies of Consciousness Victor Norris
 
 **Bacteria as Tools for Studies of Consciousness**
@@ -3467,6 +3723,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Signaling Mechanisms in Bacteria**:
 - Calcium-based system: primary/secondary transporters, voltage-operated calcium channels, calmodulin-like proteins
 - Phosphorylation-based system: kinases present in bacteria (as in eukaryotes)
+
+---
 
 #### Exploring Consciousness in Bacteria: Regulation of Cell Cycle, Differentiation, and Origins
 
@@ -3500,6 +3758,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Metaforce Recruiting Other Organizing Forces:**
 - Consciousness recruits or creates other forces for producing organizations with quasidivine status.
 
+---
+
 #### Exploring Bacterial Oscillations as Neural Correlates of Consciousness.
 
 **Hypotheses Regarding Consciousness**
@@ -3526,6 +3786,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   4. Neurons with similar patterns of vibration become physically connected via synapses or other means
 - Potential application to bacteria: Coherent oscillations in biological processes ancestral to neural correlates of consciousness, such as cell cycle regulation or protein folding
 - Reports on growth decrease and lytic cycle induction of E. coli and other organisms at specific microwave frequencies (Webb 1979; Berteaud et al. 1975; Grundler 1981) should be confirmed or discounted by further experimentation
+
+---
 
 ### 36 Nonlinear Dynamics in the Photoreceptor of the Unicellular Alga Euglena gracilis: An Application to the Evolutionary Aspects of Consciousness Ezio 
 
@@ -3558,6 +3820,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Charge transfer-dependent protein activation at base of all MT-driven motility processes
 - Postulated that MT are responsible for retrograde vesicle transport through a mechanism involving charge transfer and conformational changes in both MT binding site and dynein motor domain (Figure 36.2).
 
+---
+
 #### Microtubular Motor Theory: Coordinating Axonemal Components in Ciliary and Flagellar Beating
 
 **Microtubular Motors (MTM) in Ciliary and Flagellar Beating**
@@ -3579,6 +3843,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Coiled into a left-handed helix with a pitch of 45 degrees and lattice periodicity of 54 nm
   - ATPase activity detected in rod of Euglena
   - Goblet-like projections link PAR to axoneme MT doublets, suggesting charge-transfer dependency
+
+---
 
 #### Phototactic Response Mechanism in Euglena Gracilis: Charge Transfer and ATP Hydrolysis
 
@@ -3628,6 +3894,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
     + Results in complete stiffening of flagellum
     + Protozoan swims away from light source via depolarization and reversal of MTM.
 
+---
+
 #### Evolutionary Origin of Perception and Consciousness in Euglena
 
 **Evolutionary Pathway of Vertebrate Photoreceptors**
@@ -3661,6 +3929,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Instincts may have emerged in a feedback loop, serving movement and creating behavioral expression in a mutual creative process
 - Evolutionary dynamics led to differentiated collective psychic realm containing all evolutionary steps towards higher forms of behavior and consciousness (Jung's collective unconscious)
 
+---
+
 ### 37 Did Consciousness Cause the Cambrian Evolutionary Explosion? Stuart R. Hameroff
 
 **Consciousness and Evolution: Cambrian Explosion**
@@ -3688,6 +3958,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Paramecia: Examples of Intelligent Behavior**
 - Perform complex adaptive movements such as seeking food, avoiding obstacles and predators, identifying mates
 - No synapses or neural networks; rely on cytoskeleton for sensation, locomotion, information processing.
+
+---
 
 #### Evolution of Cytoskeleton and Consciousness through the Cambrian Explosion.
 
@@ -3717,6 +3989,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Raw "protoconscious" information encoded in space-time geometry at the fundamental level
 - Unclear whether this process exists or if it occurred during evolution.
 
+---
+
 #### Penrose's Quantum-Gravity Theory of Consciousness
 
 **Penrose's Objective Reduction Theory**
@@ -3744,6 +4018,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 9. Quantum coherence may have emerged in eukaryotic MT assemblies via Fröhlich mechanism or be an intrinsic property of their structure and geometry
 10. Evolution of actin gels and intercellular gap junction connections enabled larger quantum states among MT in many connected cells, leading to the emergence of consciousness.
 
+---
+
 #### Theorizing Consciousness Emergence from Microtubules in Early Cambrian Organisms
 
 **Microtubule Arrays and Consciousness in Evolution**
@@ -3766,6 +4042,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Primitive consciousness may have emerged in early Cambrian worms, urchins, or suctorians around 540 million years ago
 - Critical factors: MT, cilia, centrioles, and axonemes (Orch OR model of consciousness)
 - Fossil records suggest that modern animal species arose during the Cambrian explosion.
+
+---
 
 ## VII ANESTHESIOLOGY
 
@@ -3798,6 +4076,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 * Mechanism of anesthetic effect unknown; related to nature of consciousness?
 * Identifying key sites for consciousness through critically affected neural proteins.
 
+---
+
 ### 38 The Molecular Basis of General Anesthesia: Current Ideas Nicholas P. Franks and William R. Lieb
 
 **General Anesthetics: Understanding Their Effects and Mechanisms (Franks and Lieb, 2021)**
@@ -3818,6 +4098,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Theories on General Anesthetic Mechanisms:**
 - Early theory: Anesthetics perturb lipid bilayer structure leading to altered protein functioning.
 - Later findings suggest direct binding to proteins as the primary mechanism.
+
+---
 
 #### General Anesthetics Act by Binding to Proteins: Effects on Ion Channels
 
@@ -3842,6 +4124,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Subunits share homologous amino acid sequences within and between receptor types
 - In mammals, general anesthetics potentiate activities of GABA and glycine receptor channels, inhibit nicotinic acetylcholine receptor channels, leading to membrane hyperpolarization and reduced excitability.
 
+---
+
 #### General Anesthetics and Neurotransmitter Receptor Channels Interaction
 
 **Anesthetic Binding Sites and Microtubules:**
@@ -3863,6 +4147,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - The binding pocket size is roughly equal to the molar volume of decanol (approximately 200 cm3/mol).
 - An important question remains open: What makes a binding site sensitive to general anesthetics?
 
+---
+
 #### Molecular Mechanisms of General Anesthesia
 
 **General Anesthesia and Target Sites**
@@ -3875,6 +4161,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Potentiate activity of inhibitory synaptic channels
 - **Loss of Consciousness**: Unknown mechanism at anatomical level, but progress made at molecular level.
 - **Future Research**: Functional brain imaging and careful selection of anesthetic agents may provide insights into consciousness.
+
+---
 
 ### 39 On the Mechanism of Action of Anesthetic Agents Hans Flohr
 
@@ -3917,6 +4205,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Altering the postsynaptic membrane potential can modulate the functioning of the receptor channel complex
 - Inhibitory or excitatory synapses located in the vicinity of the NMDA receptor complex can modify the working conditions of the NMDA receptor channel complex
 
+---
+
 #### NMDA Receptor's Role in Consciousness and Anesthesia
 
 **Anesthetic Properties and NMDA Receptor Interaction**
@@ -3949,6 +4239,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Consciousness arises from the brain's representational activity
 - Higher-order representation theories propose that consciousness is a metarepresentation or higher-order thought
 - Support for this concept comes from physiological arguments (e.g., NMDA receptor's role in producing higher-order representations)
+
+---
 
 ## VIII SLEEP, DREAMING, AND NONCONSCIOUS PROCESSES
 
@@ -3986,6 +4278,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Unconscious biasing of behavior, lack of conscious control over emotional expression
 - Skeleton neural network model: self-actualization and optimal cognitive functioning.
 
+---
+
 ### 40 The Conscious State Paradigm: A Neuropsychological Analysis of Waking, Sleeping, and Dreaming J. Allan Hobson
 
 **Conscious State Paradigm: A Neuropsychological Analysis of Waking, Sleeping, and Dreaming**
@@ -4021,6 +4315,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - REM sleep is a modern invention in highly evolved brains with large cortices
 - Sleep plays an active role in cortical function development
 - Different levels or kinds of consciousness arise in brains according to level of complexity.
+
+---
 
 #### Historical Background Philosophical speculation regarding the nature of consciousness is as old as recorded history, and many materialist philosophers...
 
@@ -4059,6 +4355,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Emotion episodically strong with cholinergic hyperstimulation of amygdala and limbic forebrain
 - Volition weak due to top-down motor control and frontal executive power outcompeted by disinhibited subcortical networks.
 
+---
+
 #### Neurochemical Modulation of Consciousness in Sleep
 
 **Neurobiological Model**
@@ -4069,6 +4367,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 **Neuropsychological Model**
 - Progressive loss of responsiveness to the external world with cortical deactivation during sleep onset and deeper NREM sleep
 - REM sleep: brain reactivates but endogenous signals (PGO waves) from the brain stem replace external stimuli as inputs, leading to intense visual hallucinations and dream emotions (e.g., anxiety, surprise), potentially driven by cholinergic amygdala activation.
+
+---
 
 #### Neuropsychological Model Explains Conscious State Changes During Sleep
 
@@ -4092,6 +4392,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - In lucid dreaming, frontal cortex activated and pontine PGO system suppressed
 - Testable predictions using imaging techniques like PET, SPECT, MRI
 - Lucid state unstable due to top-down messages from the frontal cortex that suppress cholinergic system and turn on aminergic system causing awakening.
+
+---
 
 ### 41 Dream Sleep and Waking Reality: A Dynamical View Allan Combs and Stanley Krippner
 
@@ -4131,6 +4433,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
   - Accompanied by physical changes and behaviors
 - States of mind-body create larger holistic structures, states of consciousness.
 
+---
+
 #### Dream Consciousness: Chaotic Processes Yielding Creative States
 
 **Three-Tiered Consciousness Structure**
@@ -4164,6 +4468,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Dreaming brain relaxes into optimal or most "comfortable" configurations
 - PGO bombardment increases noise level in cortex, disrupting waking associations and allowing creative psychological processes
 
+---
+
 ### 42 Dreaming and Consciousness Stephen LaBerge
 
 **Understanding Dreaming and Consciousness**
@@ -4192,6 +4498,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Brain uses matching process to identify what is perceived based on existing mental models or schemas
 - Schemas capture essential regularities about the world, help organize experience, and constitute our private theory of reality
 
+---
+
 #### Comparing Waking and Dream Experiences: Similarities and Differences
 
 **Dreams vs Waking Perception:**
@@ -4217,6 +4525,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Lack of reflection and intentional control in dreams commonly believed (Rechtschaffen 1978)
 - Recent study challenges this view through equivalent sampling methods.
 
+---
+
 #### Lucid Dreaming: Bridging Consciousness and Physiology during REM Sleep.
 
 **Experiences During REM Sleep**
@@ -4233,6 +4543,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Rapid breathing, holding breath, singing, counting, and sexual activity in dreams produce physiological changes resembling their waking counterparts
 - Shifts in lateralized electroencephalographic activity during singing and counting in dreams are similar to those during actual activities
 - Pilot study on dreaming sexual arousal and orgasm revealed patterns of physiological activity closely matching waking experiences.
+
+---
 
 ### 43 Representational Momentum and Other Displacements in Memory as Evidence for Nonconscious Knowledge of Physical Principles Timothy L. Hubbard
 
@@ -4265,6 +4577,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Magnitude of displacement increases with angular velocity and radius length
 - Consistent with internalization of the principles of centripetal acceleration and tangential velocity in the representational system
 
+---
+
 #### Environmental Invariants Hypothesis: Mental Representations Reflect Physical Principles
 
 **Environmental Invariants Hypothesis**
@@ -4291,6 +4605,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Consciousness may compensate for errors produced by nonconscious extrapolation when a stimulus does not behave as expected
 - Priming representational pathways based on explicit knowledge to improve displacement accuracy.
 
+---
+
 ### 44 Emotion and Consciousness: A Shotgun Marriage? Daniel S. Levine
 
 **Emotion and Consciousness: A Shotgun Marriage?**
@@ -4314,6 +4630,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Previous network models focused on passive evaluation of known alternatives
 - Need to include active exploration of the environment (e.g., Verbal Fluency Test)
 - Guided by task requirements or internal priority-setting, which is influenced by the hippocampus and dorsolateral frontal cortex.
+
+---
 
 #### Neural Network Model for Decision Making and Self-Actualization
 
@@ -4346,6 +4664,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 - Godelians: Innovative solutions using intuition and reason
 - Interaction between personal style and unfamiliar tasks can lead to unintended consequences.
 
+---
+
 ## IX LANGUAGE, ANIMALS, AND CONSCIOUSNESS
 
 **Animal Language, Animals, and Consciousness**
@@ -4366,6 +4686,8 @@ Orch OR: Ascribes experience as a fundamental property of the universe (Penrose'
 
 **Significance:**
 These projects aimed to provide insight into the mental states and beliefs of animals, which is difficult to achieve otherwise. Despite limitations and criticisms, these studies have contributed significantly to our understanding of animal cognition and consciousness.
+
+---
 
 #### Animal Language Research: Debates, Methodologies, and Achievements
 
@@ -4392,6 +4714,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 
 **Comparability with Human Performance:**
 - Kanzi's ability to understand order information in various contexts and his quicker learning of lexigrams compared to spoken language, leading critics to acknowledge progress towards human comparability.
+
+---
 
 #### Comparing Animal Cognitive Capacities with Language and Consciousness
 
@@ -4425,6 +4749,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Attempts to use communication as a window into animal mentality have revealed cognitive capacities exclusive to humans, but not clear access to what it is like to be another creature.
 - Cognitive ethology will need other ways to understand animal awareness beyond language, which may continue to be explored in the future.
 
+---
+
 ### 46 Perspectives on Consciousness, Language, and Other Emergent Processes in Apes and Humans E. Sue Savage-Rumbaugh and Duane M. Rumbaugh
 
 **Perspectives on Consciousness, Language, and Other Emergent Processes in Apes and Humans**
@@ -4456,6 +4782,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - The lack of this key renders the world unintelligible, limiting reasoning and understanding
 - This view resurrects the human-animal dichotomy by positing an innate linguistic processor in humans
 
+---
+
 #### The Discovery of Linguistic Ability in Apes and Human-Animal Mind Debate
 
 **Similarities Between Humans and Animals**
@@ -4482,6 +4810,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Controversy around the use of terms like "language," "consciousness," and "intentionality" in discussing animal behavior
 - Need for further research to understand the complexities of animal minds and their similarities with human minds.
 
+---
+
 #### Debate on Ape Language Focus: Understanding vs Syntax Competency
 
 **Critics vs. Proponents of Ape Language**
@@ -4507,6 +4837,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Insights into the Nature of Language**
 - Words not linked to things, but coordinated responses to others' speech
 - Conditional reinforcement of comprehension impossible due to its silent nature.
+
+---
 
 #### Ape Language Development through Comprehension-Focused Training
 
@@ -4542,6 +4874,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Manipulated contents of others' minds by deceiving them
 - Answered questions about what another party thought was in a box.
 
+---
+
 #### Language & Cognitive Abilities in Apes: Syntax, Naming, and Inference
 
 **Understanding Others' Perceptions and Thoughts**
@@ -4573,6 +4907,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Complexities may exist beyond human encoding interests
 - Evidence suggests bonobos use complex communication systems.
 
+---
+
 #### Exploring Animal Consciousness Through Communication with Apes
 
 **Animal Language and Consciousness**
@@ -4596,6 +4932,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Funding and Acknowledgments:**
 - Supported by grants from National Institute of Child Health and Human Development (HD-06016), National Aeronautics and Space Administration (NAG2-438), and College of Arts and Sciences, Georgia State University
 - Special appreciation to Mr. and Mrs. Steve Woodruff and Dr. Stephen Draper for their commitment to the future of Language Research Center.
+
+---
 
 ### 47 Cognition and Communication in Dolphins: A Question of Consciousness Diana Reiss
 
@@ -4637,6 +4975,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Interactive underwater keyboard system to study functional and developmental aspects of dolphin vocal learning
 - Spontaneous acquisition of new vocalizations and their use in behaviorally appropriate contexts provides evidence for perceptual awareness.
 
+---
+
 #### Dolphin Vocal Learning Through Keyboard Interaction
 
 **Bottlenose Dolphin Study**
@@ -4667,6 +5007,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Conclusion**:
 - Provides evidence for vocal learning by this species, ability to acquire new vocal signals, associate them with objects/actions, and use in context without explicit training.
 
+---
+
 #### Dolphins Show Evidence of Conscious, Intentional Behavior
 
 **Whistle Imitation in Dolphins:**
@@ -4686,6 +5028,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Complexity and plasticity found in animal behavior and communication systems challenges previous assumptions
 - More research needed with diverse species to clarify the nature of consciousness in nonhuman minds
 - Marriage of laboratory studies and natural ecological evaluations essential for understanding other minds in nature.
+
+---
 
 ### 48 Language and Mental Life Paul Bloom
 
@@ -4713,6 +5057,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - The strong version of the hypothesis, that all concepts arise from language, is false
 - Abstract and diverse concepts exist independently of linguistic experience
 
+---
+
 #### Linguistic Frames of Reference Impact Spatial Cognition
 
 **Fodor's Perspective on Language and Thought:**
@@ -4739,6 +5085,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Lack of evidence that these differences influence nonlinguistic mental life outside language.
 - Possible third factor, such as differences in early spatial experience, could explain linguistic and cognitive differences between different cultures.
 
+---
+
 #### Language Influence on Cognitive Development and Mental Life: Evidence from Deaf Isolates and Word Learning Studies
 
 **Effects of Language on Cognitive Processes**
@@ -4762,6 +5110,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Young children are excellent learners of word meanings and possess a rich mental life before language acquisition
 - Many abstract expressions can be fast mapped by young children in single contexts, challenging the idea that abstract concepts do not exist prior to language capability.
 
+---
+
 #### Infants' Mental Abilities Pre-Exist Language Development
 
 **Infant Cognitive Abilities**:
@@ -4780,6 +5130,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Linguistic cues do not fully explain human mental life richness
 - Some unique aspects of human mental life exist independently of language
 - Other explanations are needed to account for these aspects
+
+---
 
 ## X EMERGENT AND HIERARCHICAL SYSTEMS
 
@@ -4828,6 +5180,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - There are many possible sets of discrete space-time systems, some so large they cannot be considered in full
 - Computational difficulties can contribute to the problem of not knowing what these hierarchical models can do
 
+---
+
 ### 49 The Five Kinds of Levels of Description Andrew Bailey
 
 **The Five Kinds of Levels of Description**
@@ -4857,6 +5211,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
   - Explanation is an asymmetric relation, not equivalent to logical or semantic relations
   - Not a transitive relation, meaning low-level descriptions may not provide relevant information for explanation
 
+---
+
 #### Explanatory Levels and Irreducibility in Science
 
 **Levels of Explanation and Ontology**
@@ -4873,6 +5229,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
   - Multiple realizability alone does not bring strong irreducibility; this requires no relevant similarity between token physical instantiations.
 - Prima facie plausible but faces challenges regarding supervenience and maintaining uniqueness among tokens that instantiate patterns.
 
+---
+
 #### Discussion of Levels of Description and Inflation in Philosophy
 
 **Key Conclusions from Discussion of Levels of Description:**
@@ -4888,6 +5246,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 
 - **Assertion of corresponding levels less plausible than it seems:**
   * Complexity and nuances in concepts make clear correspondences uncertain.
+
+---
 
 ### 50 Beyond Substance and Process: A New Framework for Emergence Syed Musfafa Ali and Robert M. Zimmer
 
@@ -4928,6 +5288,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - More metarule configurations as the number of levels increase
   * Empirical investigations have been restricted due to large configuration spaces.
 
+---
+
 #### Cellular Automata and Hierarchy for Universal Computation and Mind.
 
 **Cellular Automata (CA)**
@@ -4950,6 +5312,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Solution: Intentionalistic Self-Cutting Ontological Hierarchy**
 - Allows downwards causation via higher principles imposed by an intentional observer (subjective component of the hierarchy)
 - Boundary conditions are set in the selective act of cutting by an intentional observer.
+
+---
 
 ## XI QUANTUM THEORY, SPACE-TIME, AND CONSCIOUSNESS
 
@@ -4991,6 +5355,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Quantum Processes in Brain (Friedrich Beck)**
 - Discussing potential quantum processes relevant to consciousness in the brain.
 
+---
+
 #### Discussion on Quantum Theory's Role in Neural Function and Consciousness
 
 **Microscopic Quantum States and Brain Dynamics:**
@@ -5005,6 +5371,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
   - Question: Can a silicon device be functionally equivalent to a neuron regarding consciousness?
 - Euan Squires' contribution: Thought experiment on replacing neurons from the bottom up vs. Chalmers' replacement one by one
 - Sadly, Euan Squires passed away in summer 1996.
+
+---
 
 ### 51 The Evolution of Consciousness Henry P. Stapp
 
@@ -5031,6 +5399,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 3. Quantum mechanics solved this problem by making experiences central to the new science, acknowledging their role instead of grafting them onto a physical theory with no natural place for them.
 4. Experiences are now seen as classically describable and form the foundation of quantum mechanics.
 
+---
+
 #### Exploring Multiple Quantum Ontologies and Their Implications for Consciousness
 
 **Quantum Theory and Ontologies**
@@ -5052,6 +5422,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Logical simplicity of Everett's interpretation is undermined by the need to introduce probabilities
 - Introducing consciousness as a new ontological element leads to dualism, rather than monism
 - One-mind variation of Everett's many-minds interpretation may be more parsimonious
+
+---
 
 #### Discussing the role of consciousness in quantum mechanics theories.
 
@@ -5081,6 +5453,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Classical mechanics does not entail the existence of consciousness, as it has no reference to psychological qualities
 - The most parsimonious quantum ontology, the Bohr/Heisenberg/von Neumann/Wigner wave-function-collapse model, already includes conscious experiences within its theoretical framework
 - This was done to provide a rationally coherent and practically useful physical theory that accommodates experimental evidence
+
+---
 
 #### Consciousness Evolution: Brain Collapses and Quantum Mechanics
 
@@ -5115,6 +5489,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Classical mechanics does not specify how consciousness enters, leaving room for interpretation
 - Bohr/Heisenberg/von Neumann/Wigner formulation provides a toehold for explanation but doesn't guarantee success.
 
+---
+
 #### Accelerating Abductive Problem Solving with Collapses of Neurological Activity
 
 **Naturalistic Approach to Understanding Thought Processes**
@@ -5127,6 +5503,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 
 **Rationale for Favoring Top-Level Brainwide Events**:
 - Stapp (1994): Reasons why top-level brainwide events are favored over lower-level events:
+
+---
 
 ### 52 Why Are Quantum Theorists Interested in Consciousness? Euan J. Squires*
 
@@ -5150,6 +5528,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Melinda, the observer, would consistently write down the result (0 or 1) even if the underlying state was a superposition of both outcomes.
 - This shows that consciousness is able to "choose" one of the possible outcomes, even though the physical system itself does not have a definite state until measurement.
 - This implies that consciousness may play a role in "collapsing" the wavefunction and determining the outcome of a measurement.
+
+---
 
 #### Quantum Theory and Consciousness: A One-Mind Interpretation
 
@@ -5175,6 +5555,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 
 **Anthropic Arguments**:
 - This interpretation allows for anthropic arguments to explain apparent coincidences necessary for our existence.
+
+---
 
 #### Quantum Physics and Consciousness: A Non-local Connection
 
@@ -5207,6 +5589,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Orthodox quantum theory requires "something else," which may be identified with consciousness
 - Models show why this consciousness is causally effective, but identifying the mechanisms in the brain for magnifying quantum selections into macroscopic effects is a problem for the future.
 
+---
+
 ### 53 Synaptic Transmission, Quantum-State Selection, and Consciousness Friedrich Beck
 
 **Synaptic Transmission, Quantum-State Selection, and Consciousness**
@@ -5238,6 +5622,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Some argue that the noncomputable performance of a conscious brain can be understood only by evoking a **quantum-mechanical state collapse**, or state-selection mechanism
 - This condition is fulfilled for quantum states but hard to establish for macroscopic quantum states at room temperature
 
+---
+
 #### Quantum Mechanics and Neuron Functionality in Spine Synapses
 
 **Key Points:**
@@ -5257,6 +5643,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Proposed model for synaptic transmission includes quantum trigger mechanism:
   - Nerve impulse excites electronic configuration to metastable state
   - Quasi-particle tunnels through potential barrier separating states, leading to exocytosis or inhibition.
+
+---
 
 #### State collapse transforms this expression into Using the WKB approximation (Messiah 1961) to solve the tunneling problem, we can once more evaluate th...
 
@@ -5290,6 +5678,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 1. For the present status of the discussion on dualist-interactionism, identity theory, and materialism, see Eccles (1994).
 2. An alternative regulative process by tubulin molecules comprising the cylindrical walls of microtubules has been proposed by Hameroff and Penrose (1996). The basic quantal event postulated by these authors is similar to the synaptic quantum-trigger model presented here, but their mechanism for electron transfer across the presynaptic membrane violates conditions given in section two above.
 
+---
+
 ### 54 A Sonoran Afternoon Stuart R. Hameroff and Alwyn C. Scott
 
 **Stuart Hameroff and Alwyn Scott's Discussion on Quantum Theories of Mind**
@@ -5314,6 +5704,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Superposition and Significance**:
 - Even a small fraction of an atomic diameter separation can lead to quantum coherent superposition
 - Implications come from the quantum-coherent binding, self-collapse events, and noncomputable selection of postcollapse states.
+
+---
 
 #### The key point is that for tubulin at biological temperatures, the size of a quantum-wave packet is much less than the size of a protein molecule. For...
 
@@ -5345,6 +5737,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Stuart suggests quantum mechanics may be necessary for describing fundamental life processes in bacteria
 - Al argues that neurophysiological experiments provide little insight into the nature of conscious experience and casts doubt on the relevance of quantum theory to protein dynamics.
 
+---
+
 #### Discussion on Consciousness and Quantum Effects in Proteins between Stuart Hameroff and Al Knysh
 
 **Quantum Effects in Proteins and Consciousness**
@@ -5364,6 +5758,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Disagreements:**
 - Different intuitions regarding the significance of quantum effects in microtubules vs. classical nonlinear dynamics
 - Debate over whether Orch OR can explain difficult issues like binding, free will, noncomputability without addressing hard problem of experience (nature of consciousness).
+
+---
 
 ## XII TIME AND CONSCIOUSNESS
 
@@ -5401,6 +5797,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Significance of Studying Time in Consciousness Research**:
 - Exploratory yet significant for future research in the science of consciousness.
 
+---
+
 ### 55 Time Expansion and the Perception of Acoustic Images in the Big Brown Bat, Eptesicus fuscus Prestor A. Saillant and James A. Simmons
 
 **The Big Brown Bat's Perception of Acoustic Images**
@@ -5426,6 +5824,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - The time-expansion effect may function as a temporal "zoom lens" that provides signal-processing advantages to the mammalian auditory system
 - Time-expanded representations with ratios of 1:10 to 1:100 have been found in the auditory system of the big brown bat
 - This time expansion may provide a substrate for **wavelet-like processing strategies** in the bat auditory system, conferring additional scale and rotation invariance, sparse 3-D matrix compression, and the integration of msec-scale processes with other msec-scale processes in the brain.
+
+---
 
 #### Time Expansion for Invariant Processing and Data Compression in Sensory Systems
 
@@ -5458,6 +5858,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - The need to process sensory data at close to real time prevents continuous time expansion of all input streams
 - Time expansion may provide the auditory system with an "acoustic fovea" phenomenon, allowing it to zoom in on important stimuli while minimizing representation of uninteresting portions of space
 
+---
+
 ### 56 Context, Conditioning, and Meaning of Time-Consciousness in a Trappist Monastery Van A. Reidhead and John B. Wolford
 
 **Understanding Time-Consciousness in a Trappist Monastery**
@@ -5487,6 +5889,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
   - Five reported general unawareness, unconcerned
   - Five reported awareness, attributed to administrative duties or attentiveness to liturgy
 - No convergence between spirituality practiced and awareness/unawareness of the date
+
+---
 
 #### Monastic Time Consciousness and its Connection with Present Focus
 
@@ -5518,6 +5922,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Love of the Divine Office (choir) is a key criterion for vocation as a monk
 - Monks view time, not space, as the key physical variable in their system
 
+---
+
 #### Trappist Monastery Time-Consciousness Conditioning
 
 **Trappist Monastic Structure and Time-Consciousness**
@@ -5545,6 +5951,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 1. Monks at Holy Trinity Abbey and other abbeys contributing to research
 2. Dr. Margo Lea Hurwicz, Erin Doucette, Lynn Davis, Timothy Hogan from UMSL Anthropology Department for support.
 
+---
+
 ## XIII TRANSPERSONAL PSYCHOLOGY
 
 **Transpersonal Psychology and Methodologies for a Comprehensive Science of Consciousness**
@@ -5568,6 +5976,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 
 **Methodology:**
 - Understanding these experiences requires clarity about methodology of study.
+
+---
 
 #### Scientific Method and Bias in Consciousness Research
 
@@ -5594,6 +6004,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Training Observers**:
 - Introspective psychology failed because observers were not properly trained
 - Meditation techniques can help improve observer's ability to observe their own consciousness
+
+---
 
 #### Introspective Psychology's Limitations and the Need for Awareness of Biases
 
@@ -5624,6 +6036,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Thorough investigation is necessary to develop a comprehensive science of consciousness
 - Sensitivity towards adequate training for observers, bias in experimenters, individual differences, and exploring altered states.
 
+---
+
 ### 58 States and Stages of Consciousness: Current Research and Understandings Roger Walsh
 
 **Understanding Consciousness: Current Research and Perspectives**
@@ -5637,6 +6051,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **States of Consciousness**: Research has recognized more and more alternate states of consciousness, contrasting with the conventional Western view that there are few primary pathological states. Some early transpersonal pioneers discovered families of potential transpersonal states but were initially resisted due to cultural biases towards monophasic perspectives.
 
 **Categorizing States**: The challenge was to differentiate and compare various ASCs produced by different disciplines, with significant differences between states. Phenomenological mapping and deep structural analyses could provide a more precise and multidimensional comparison of these states.
+
+---
 
 #### Deep Structural Analysis of Transpersonal States and Stages
 
@@ -5662,6 +6078,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Nondual experience suggests a radical philosophical idealism (consciousness as primary) but has not been proven by science or philosophy
 - Participants in Tucson conferences were primarily materialists; no ontology has been definitively proven.
 
+---
+
 #### Contemplative Traditions: Unveiling Transpersonal States and Consciousness Development
 
 **Contemplatives' Suggestions about Meditation and Consciousness:**
@@ -5685,6 +6103,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 * Common structures underlying transpersonal experiences, identifying common developmental sequences across traditions
 * Scientific evidence supporting efficacy of contemplative disciplines (hundreds of studies on meditation)
 * Beginning to understand enlightenment or liberation from an scientific perspective.
+
+---
 
 ## XIV PARAPSYCHOLOGY
 
@@ -5714,6 +6134,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Laypeople face difficulty untangling claims and counterclaims
 - Proponents need to recognize data remain less convincing to unbiased scientists
 - More effort needed to explain psi phenomena if any are not artifactual, rather than just questioning them
+
+---
 
 ### 59 Parapsychology: Fact or Fiction? Replicable Evidence for Unusual Consciousness Effects Marilyn Schlitz and Edwin May
 
@@ -5747,6 +6169,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
   - Individual blind to target registers impressions
   - Statistical valid technique used to determine if result exceeds chance
 
+---
+
 #### ESP Experiments: Forced Choice and Free Response Methods
 
 **Forced-Choice ESP Testing:**
@@ -5770,6 +6194,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Operationally defined as interacting with physical world by mental means alone
 - Difficulty ensuring no normal events occurred, especially for physical effects which are problematic and expensive to verify
 - PK phenomena categorized into four groups: micro-, macro-, bio-, and psychophysiological effects. Focus on micro-PK due to difficulty observing macro-PK without visual inspection.
+
+---
 
 #### Parapsychology: Meta-Analysis of Psi Phenomena & Implications for Consciousness
 
@@ -5806,6 +6232,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Fact or fiction: review of meta-analyses leads to rejection of null hypothesis
 - Challenge/opportunity to fill gaps in knowledge of what is natural
 
+---
+
 ### 60 Why Psi Tells Us Nothing About Consciousness Susan Blackmore
 
 **Consciousness vs. Psi: The Relationship Between the Two**
@@ -5827,6 +6255,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 **Implications for Understanding Consciousness**:
 - Popular view: ESP/PK proves consciousness can bypass brain processes and affect things directly
 - Personal perspective: Parapsychologists may be seeking to prove the power of consciousness, rather than understanding its limitations
+
+---
 
 #### First, to make their case that psi effects actually involve consciousness, experiments rather different from those commonly done will be needed. Let u...
 
@@ -5852,6 +6282,8 @@ These projects aimed to provide insight into the mental states and beliefs of an
 - Scientific community's perspective on consciousness challenges parapsychological claims
 - Brain research suggests no single location for consciousness, raising questions about its role in causing actions.
 
+---
+
 #### Parapsychology's Role in Understanding Consciousness: Limited Progress due to Agent-Focused Approach
 
 **Parapsychology: Proven or Misunderstood?**
@@ -5872,6 +6304,8 @@ Answer: Probably not, due to current focus on proving consciousness' power and p
 2. Can parapsychology bring together spiritual insights and scientific ones?
 Answer: No, as parapsychology seems stuck on the idea of consciousness as an agent rather than integrating both perspectives for a comprehensive understanding.
 
+---
+
 ### 61 Do Psi Phenomena Suggest Radical Dualism? Dick Bierman
 
 **Psychical Research and Dualism**
@@ -5890,6 +6324,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 - If psychokinesis on prerecorded targets is real, accepting mental states have causal effects on matter requires acceptance that causes may precede effects.
 - Most cautious description: Anomalous correlations found between mental states and behavior of random physical systems within system constraints.
 
+---
+
 #### Psi Correlations Suggest Non-local Quantum Mental Interactions
 
 **Conclusion:**
@@ -5900,6 +6336,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 - The centrality of "time reversal" or "time independence" in theoretical approaches to psi phenomena (Stokes 1987) suggests that these parapsychological data may require an understanding that transcends traditional materialistic and some dualistic perspectives.
 - It may be preferable to interpret parapsychological data as correlations without a cause, similar to the nonlocal correlations in physics that allow for no explanation by signals traveling from one part of the system to another.
 - Von Lucadou (1994) proposes that psi correlations are an emergent property of macroscopic complex self-referential systems which are phenomenologically equivalent to nonlocal correlations in Quantum Physics, supporting nonreductionistic identity theories rather than dualistic theories on the relation between mind and matter.
+
+---
 
 ## XV AESTHETICS AND CREATIVE EXPERIENCE
 
@@ -5913,6 +6351,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 	+ **Motivation**: Psychological contexts that structure behavior and conscious experience according to personal significance
 * **Theoretical Coupling:** Baars's global-workspace theory and an appraisal theory of emotion lend themselves to natural coupling. Consciousness is modeled as a global workspace where informative and accessible contents can be displayed, while the motivational hierarchy represents the individual's goals, knowledge, and behavioral potential. Violations of expectations in active contexts will gain access to consciousness for planning and decision making.
 * **Creative Solutions:** Creative solutions transform the structure of a conceptual space, expand its boundaries, reveal uncharted areas, or change heuristics to enable novel solutions. Boden's criteria include: transformed structures, expanded boundaries, revealed previously uncharted areas, changed heuristics enabling novel solutions (Boden 1990).
+
+---
 
 #### Model for Creative Problem Solving: Emotional Appraisal and Contextual Restructuring
 
@@ -5930,6 +6370,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 3. **Conscious Effort Required**: metacognitive processes to direct attention, enlist effort, or select strategies
 4. **Unconscious Context Decomposition and Restructuring**: allowing adaptive or novel solutions to arise
 5. **Emotional Feedback**: positive feelings indicate progress towards creative solutions; negative feelings signal anxiety or difficulty in accessing deeper contexts.
+
+---
 
 #### Emotions and Motivation in Creative Problem-Solving: A Phenomenological Perspective
 
@@ -5952,6 +6394,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 - Emotions essential in creative problem solving
 - High stakes emotionally due to challenges to self-system
 - Creative activity attracts because of tension between pleasure and pain, fear and absorption.
+
+---
 
 ### 63 Dimensions of Creativity Aaron King and Alwyn C. Scott
 
@@ -5987,6 +6431,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 - Specifying neuronal activity at every synapse would require a phase space of about 100 trillion dimensions
 - Higher levels of biological organization involve increasingly complex systems
 
+---
+
 #### Exploring Cognitive Hierarchy in Shakespeare's Brain: Immeasurable Possibilities for Thought
 
 **Hebb's Theory of Neural Assemblies and Phase Spaces**
@@ -6014,6 +6460,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 **Conclusion**:
 - Shakespeare cannot think of all possible lines for Hamlet's play, but new ideas can still emerge.
 
+---
+
 #### Neural Complexity Exceeds Computational Representation in Creative Thought
 
 **The Dynamics of Shakespeare's Creative Activity**
@@ -6032,6 +6480,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 - The argument does not prove that constructing an artificial creative system is impossible
 - Such a system should take advantage of hierarchical structure like the human brain
 - However, we have no assurance that its unpredictable activities would please us
+
+---
 
 ### 64 Poetry, Mental Models, and Discordant Consciousness Paul K. Johnston
 
@@ -6068,6 +6518,8 @@ Answer: No, as parapsychology seems stuck on the idea of consciousness as an age
 **Language as a Source of Confusion:**
 - Helen's beauty created by makeup (paint) instead of nature
 - Blood painted not with makeup but with the blood of young men daily dying in battle for her sake.
+
+---
 
 #### Exploring Human Consciousness Conflict in Troilus & Cressida
 

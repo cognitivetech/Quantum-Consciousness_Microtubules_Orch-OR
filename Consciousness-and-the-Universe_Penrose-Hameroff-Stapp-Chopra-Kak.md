@@ -75,6 +75,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
     - Binding and synchrony problem: unifying disparate neuronal activities into a single conscious experience
     - Causal efficacy of consciousness and free will
 
+---
 
 ### Microtubules as Biomolecular Computers and Automata
 **Brain and Consciousness: Alternative Perspectives**
@@ -102,6 +103,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Hameroff's models of microtubules as molecular automata for cellular computation
 - Discrete states of tubulin acting as bits, interacting via dipole-dipole coupling.
 
+---
 
 ### Quantum State Reduction as a Consciousness Mechanism The OR Proposal
 **Proteins and London Forces**
@@ -121,6 +123,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Increased capacity alone does not address unanswered questions about consciousness
 - Penrose's Emperor's New Mind argued for non-computable aspects of human consciousness, suggesting an extension to quantum mechanics (OR) as a possible solution.
 
+---
 
 ### Quantum Measurement Paradox and its Implications for Consciousness
 **Discussion of Penrose's OR Proposal and Quantum Mechanics:**
@@ -143,6 +146,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 * Arises from considering measuring apparatus as a quantum entity
 * Many ways to approach this problem, including the Copenhagen interpretation proposed by Niels Bohr and Werner Heisenberg.
 
+---
 
 ### Quantum Mechanics and the Problem of Observation in Orch OR
 **Wave Function and Measurement**
@@ -165,6 +169,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Cat in box faces death if radioactive atom decays, resulting in cat being both dead and alive according to U-evolution
 - Conscious observer needed to determine cat's fate, emphasizes incompleteness of current theory.
 
+---
 
 ### Orchestrated Reduction in Quantum Consciousness Microtubules and Planck Scale Geometry
 **OR Theory: Alternative Perspective on Quantum Reduction**
@@ -196,6 +201,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Central to these structures undergoing biological quantum computation (A-lattice microtubules)
 - Provide a subtle yet direct connection to Planck-scale geometry, leading to conscious experience moments.
 
+---
 
 ### Quantum Superposition and Consciousness in the Brain Orch OR Proposal
 **Penrose's Proposal: Objective Reduction (OR)**
@@ -216,6 +222,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Proposal that some form of quantum computing could be occurring in the brain, following the Schrdinger equation without decoherence until a threshold for non-computable OR is reached (Penrose, 1989)
 - No plausible biological candidate for quantum computing in the brain was available to Penrose at that time due to his unfamiliarity with microtubules.
 
+---
 
 ### Quantum Consciousness and Microtubules in Neurons
 **Orch OR Consciousness Model**
@@ -241,6 +248,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Conscious influences might occur at a slower pace than suggested by current considerations (1/2 second or so)
 - It is best not to be dogmatic about how the ideas of OR are applied at this uncertain stage.
 
+---
 
 ### Quantum Computation in Microtubules and Orchestrated Objective Reduction in Biology
 **Microtubule Quantum Computation and Orch OR**
@@ -272,6 +280,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Integration of information is the neuronal function most closely associated with consciousness
 - Dendritic/somatic integration correlates best with local field potentials, gamma synchrony EEG, and anesthetic effects.
 
+---
 
 ### Quantum Computation in Microtubules and Consciousness Evolution
 **Dendritic Microtubules:**
@@ -295,6 +304,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 * Gap junctions: open electrical connections between cells, synchronizing membrane polarization states and allowing passage of molecules between cytoplasmic compartments
 * Quantum states in microtubules in one neuron could extend to other neurons and glia through gap junctions and form brain-wide syncytia.
 
+---
 
 ### Microtubule-Consciousness Relationship and Criticisms of Orch OR Theory
 **Consciousness and Gamma Synchrony: Role of GaP Junctions**
@@ -318,6 +328,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Criticized repeatedly since inception by philosophers Grush and Churchland (1995)
 - Objections include the Gdel's theorem argument and biological factors like colchicine use for treating diseases. However, these criticisms have been addressed through various responses.
 
+---
 
 ### Challenges to Orchestrated Objective Reduction Theory and Responses
 **Penrose and Hameroff's Response to Critics:**
@@ -338,6 +349,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - McKemmish et al challenged the claim that tubulin switching is mediated by London forces, stating mobile electrons in a benzene ring cannot exist in superposition of both states. Agreed. However:
   - A single benzene ring cannot engage in switching, but microtubules are complex structures with multiple attachment sites for microtubule-associated proteins (MAPs) where strong Frhlich coherence has been observed.
 
+---
 
 ### Quantum Hydrophobic Channels in Tubulin
 **London Forces and Orch OR**
@@ -369,6 +381,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Based on Frhlich's suggestion that protein states are synchronized by electron cloud dipole oscillations in non-polar regions and anesthetic gases selectively erasing consciousness by London forces in non-polar hydrophobic regions in various neuronal proteins.
 - London forces are weak but numerous, allowing cooperative regulation of protein states.
 
+---
 
 ### Quantum Hydrophobic Channels in Microtubules for Topological Quantum Computing
 **Topological Quantum Computing in Orch OR**
@@ -400,6 +413,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Orch OR provides a possible route for rational argument regarding alien sentient beings in the universe
 - Places consciousness at a central place in the physical nature of our universe, whether or not it includes other aeons.
 
+---
 
 ### Quantum Mechanics and Microtubules Relevant Literature
 **References**
@@ -427,6 +441,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Everett, H. (1957). Relative state formulation of quantum mechanics. In Quantum Theory and Measurement, J.A. Wheeler and W.H. Zurek (eds.) Princeton University Press, 1983; originally in Reviews of Modern Physics, 29, 454-62.
 - Feynman, R.P.
 
+---
 
 ## 2. Cosmological Foundations of Consciousness
 **Cosmological Foundations of Consciousness: An Overview**
@@ -451,6 +466,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 2. Non-linear molecular orbitals lead to strong covalent and ionic bonds, H-bonds, van der Waals interactions creating primary, secondary, tertiary structures of proteins and nucleic acids.
 3. Fractal manner of quaternary supra-molecular assemblies, cell organelles, cells, tissues, and organisms development.
 
+---
 
 ### Symmetry-Breaking The Origin and Evolution of Lifes Elemental Structure
 **Symmetry-Breaking and Life Origins**
@@ -495,6 +511,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Massive genetic expansion around 3.3 billion years ago, facilitated by high levels of horizontal gene transfer
 - Rapid presentation rate of new combinations compared to current computers suggests evolution as a two-phase process of genetic algorithm supercomputation solving protein folding problems for central metabolic and electrochemical pathways.
 
+---
 
 ### Dynamic Structure of Conscious Brain Evolution and Complexity
 **Horizontal Gene Transfer and Evolution of Neurological Components**
@@ -516,6 +533,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Massively parallel design with perhaps the order of 10 synapses between input and output enables quick reactions to complex stimuli in real time and avoids the interactability problem of serial computers
 - The cerebral cortex consists of six layers organized in a functional columnar architecture, representing one aspect of experience per column (primary processing of lines, colors, motion, auditory tones, faces, motor events, strategic planning, execution, spatial abstractions, semantics, symbols, and temporal relationships between experiences).
 
+---
 
 ### Quantum Dynamics in the Brain A Possible Basis for Conscious Intentions
 **Holographic Model and Consciousness**
@@ -542,6 +560,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Single vesicle excites up to 2000 ion channels providing extreme amplification for potential quantum event
 - Voltage gated ion channels exhibit fractal kinetics.
 
+---
 
 ### Quantum Entanglement and Consciousness in Neurophysiology
 **Quantum Chaos and Consciousness**
@@ -575,6 +594,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Suggested that consciousness may play a role in collapsing the superposition of quantum states to one real instance experienced
 - If so, consciousness may have a direct window on the entangled sub-quantum realm
 
+---
 
 ### Quantum Anticipation and Sensory Experience in Consciousness
 **The Transactional Interpretation of Quantum Mechanics:**
@@ -599,6 +619,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 * Sensory experiences differ from electrodynamics, possibly related to quantum modes of interaction with the physical world
 * Longer evolutionary time since Archaean expansion may have led to quantum anticipation as an evolutionary feature in single-celled organisms before metazoa emerged.
 
+---
 
 ### Complementarity and Symmetry Breaking in Consciousness and Cosmology
 **Peripheral Sensory Transduction and Brain Expressions of Related Genes:**
@@ -627,6 +648,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Basar E., Basar-Eroglu J., Rschke J., Schmitt S. (1989) The EEG is a quasi-deterministic signal anticipating sensory-cognitive tasks, in Basar E., Bullock TH eds. Brain Dynamics Springer-Verlag, 43-71.
 - Beggs J, Plenz D. (2004) Neuronal Avalanches Are Diverse and Precise Activity Patterns That Are Stable for Many Hours in Cortical Slice Cultures - Journal of Neuroscience, 24, 5216-9.
 
+---
 
 ## 3. Does the Universe have Cosmological Memory Does This Imply Cosmic Consciousness
 **Cosmic Consciousness and the Universe's Cosmological Memory**
@@ -650,6 +672,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Preservation of SLT through relating it to memory and entropY
 - Three assumptions: 1) SLT is the fundamental principle of space-time; 2) Memory plays a role in the universe's operation; 3) The universe has cosmological memory.
 
+---
 
 ### Multiverse Model through Black Hole Dynamics and Thermodynamics
 **Theories and Concepts**
@@ -680,6 +703,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Reduced to common fundamental particle with identical size, spin, and mass when passing through black hole into multiverse
 - Gravity waves cause identical particles to repel each other.
 
+---
 
 ### Perpetual Universes and Cosmic Creature-Driven Entropy Compensation
 **Cosmological Model with String Gates**
@@ -694,6 +718,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Decrease in entropy is balanced by increase in memory, preserving the Second Law of Thermodynamics
 - Szilard's thought experiment on perpetual motion machine: entropy decrease can be compensated if accompanied by production of k ln2 units of entropy.
 
+---
 
 ### Cosmological Consciousness and Virtual Particles in Coupled Universes
 **Cosmological Consciousness and the Second Law of Thermodynamics**
@@ -715,6 +740,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Conclusion:**
 - The proposed model suggests that memory and choice, which imply cosmic awareness, are necessary to preserve the Second Law of Thermodynamics in a forever and infinite universe.
 
+---
 
 ## 4. The Quantum Hologram And the Nature of Consciousness
 **Quantum Hologram Model for Information Processing and Consciousness**
@@ -741,6 +767,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 12. Recent evidence suggests certain quantum phenomena operate at both macro and micro levels
 13. Telepathic communication between twins or mother and child could be explained by these quantum phenomena.
 
+---
 
 ### Quantum Foundations of Consciousness and Perception
 **Quantum Phenomena and Consciousness Evolution**
@@ -768,6 +795,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Tubulin states governed by quantum mechanical effects, function as a quantum computer
 - Quantum states prevent decoherence through the hollow microtubule structure
 
+---
 
 ### Holographic Processing and Perception in Brains
 **Holographic Processing in Brain**
@@ -787,6 +815,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Brain perceives objects in three dimensions due to holographic processing, not just visible light reflected onto the retina (binocular vision)
 - Survival advantage: accurately locates predators and food in three dimensional space.
 
+---
 
 ### Quantum Holography Information Processing and Emission in Biological Systems
 **Quantum Hologram and PCAR Process**
@@ -813,6 +842,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Information contained in interference patterns similar to holographic plate
 - Can store an incredible amount of information including entire space-time history.
 
+---
 
 ### Quantum Hologram Nonlocal Information Storage and Resonance
 **Quantum Hologram (QH)**
@@ -846,6 +876,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Information is recoverable through resonance with creating entity or other objects
 - Not suggesting we are virtual beings living on a holographic plate but rather have a mechanism to describe how mind manipulates matter.
 
+---
 
 ### Quantum Holography A Theory of Consciousness and Information in the Universe
 **Quantum Hologram Model: Overview**
@@ -875,6 +906,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Self-organizing interconnected holistic system
 - Potential further applications: technologies, health, consciousness studies, extraterrestrial consciousness.
 
+---
 
 ### Developmental Field Theory and Morphic Resonance
 **How DNA and Environment Influence Cell Development**
@@ -902,6 +934,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Applies not only to living organisms but also to proteins, crystals, even atoms
 - Morphic field includes fields of both form and behavior
 
+---
 
 ### Experimental Evidence for Non-Locality in Consciousness
 **Akashic Record and Quantum Holagram (QH)**
@@ -934,6 +967,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Experimenter or participant's expectations, beliefs, and preconceptions can bias experimental results, even in double-blind experiments
 - Classical science has not provided a theoretical structure to support non-local information perception, leading to anomalous results being dismissed as faulty or fraudulent
 
+---
 
 ### Non-Local Correlations and Mind-Matter Interactions Evidence for Quantum Holographic Perception
 **Radin's Findings on Psychic Phenomena and Random Number Generators (RNGs)**
@@ -963,6 +997,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Quantum holographic theory provides an adequate informational structure for observed results
 - Meditation enhances understanding about objects through focused attention and deeper levels.
 
+---
 
 ### Resonance and Non-Local Information with Icons
 **Establishing Resonance through Focused Attention (PCAR)**
@@ -992,6 +1027,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Perception is based on space-time information, such as shape, color, and function, rather than the additional nonlocal information (e.g., location, threats)
 - Intuitive perceptions may be suppressed due to language development, cultural conditioning, and lack of practice
 
+---
 
 ### Quantum Holographic Information Retrieval Reincarnation Out-of-Body Experiences and Remote Viewing
 **Cultural Conditioning and Reincarnation Experiences**
@@ -1029,6 +1065,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Perceived information is internal and must be associated with the perceiver's experience to recognize the target
 - Complex targets require considerable training, teamwork, and experience to extract nonlocal information reliably.
 
+---
 
 ### Quantum Holography and Remote Perception in Natures Learning Process
 **Remote Viewing and Quantum Holography**
@@ -1056,6 +1093,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Reciprocal relationship: Object's history recorded in its quantum hologram affects the interference pattern, which can be detected
 - Resonance allows evaluation by percipient, leading to cognition, meaning assignment, belief, and experience.
 
+---
 
 ### Quantum Holography A Universe of Interconnected Information and Creative Self-Organization
 **Understanding Non-Locality in Nature: Implications for Consciousness and the Universe**
@@ -1076,6 +1114,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 8. Non-locally connected: Instantaneous information exchange between objects occurs regardless of space-time separation.
 9. Quantum principles: All matter displays quantum characteristics such as entanglement, coherence, correlation, and resonance from micro to macro scales.
 
+---
 
 ### Natures Self-Reference and Evolution A Bootstrap Process
 **Hypothesis of Universe as a Living, Evolving System:**
@@ -1100,6 +1139,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Sound bites, personal biases, self-serving interests have no place in learning and discovery
 - Openness, willingness to be informed, and engagement in new knowledge essential for survival.
 
+---
 
 ## 5. How Consciousness Becomes the Physical Universe
 **Title:** Integrating Consciousness in the Physical Universe: A Theory
@@ -1122,6 +1162,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Challenges**:
 - Uncertainty over how to define consciousness
 
+---
 
 ### Quantum Reality Mindful Observation and Non-locality
 **Subject-Object Dichotomy and Consciousness**
@@ -1157,6 +1198,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - This selection process cannot be described by QM or any physically described part of reality
 - Yields a profoundly different way of looking at the physical universe and our role in it.
 
+---
 
 ### Quantum Mechanics and the Brain Connecting Micro- to Macroscale Processes
 **Quantum Theory and Observer's Role**
@@ -1179,6 +1221,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Quantum states can be \"pumped\" like a laser and ions within ion channels do not move freely, leading to potential protection of quantum coherence
 - High-resolution atomic X-ray spectroscopy and molecular dynamics simulations have shown that molecular organization in ion channels allows for pre-organized correlations or ion trappings within the selectivity filter.
 
+---
 
 ### Quantum Consciousness A Unified Model for Reality
 **Quantum Entanglement in Biological Systems**
@@ -1201,6 +1244,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Materialism's claim that consciousness arises from physical systems leads to a paradox and cannot be proven objectively
 - Future development of science will retain the objectivity of present-day science but address consciousness from the inside rather than trying to devise a theory of everything on the outside.
 
+---
 
 ## 6. Conscious States Are a Crosstalk Mechanism for Only a Subset of Brain Processes
 **Conscious States and Unconscious Processes**
@@ -1221,6 +1265,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Conscious Processes Associated with Conscious States:**
 - Not clear yet what specific cognitive/brain processes are most intimately associated with conscious states.
 
+---
 
 ### Conscious States Required for Skeletal Muscle Conflicts
 **Unconscious Processes and Conscious States**
@@ -1259,6 +1304,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Subjective Effects of Conflicts from Action Conflicts:**
 - Conscious states are necessary for intersensory conflicts, smooth muscle conflicts, and skeletomotor unintegrated actions don't have subjective effects.
 
+---
 
 ### Consciousness Multidetermined Brain Interaction for Adaptive Action Selection
 **Multidetermination in Action Selection and Consciousness**
@@ -1283,6 +1329,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Recent experiments suggest awareness of actions occurs in sensorium with motor processes being unconscious
 - Future research may evaluate the necessary role of parietal areas in generating basic consciousness.
 
+---
 
 ## 7. The Neuroanatomy of Free Will Loss of Will Against the Will Alien Hand
 **Neuroanatomy of Free Will**
@@ -1308,6 +1355,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Arcuate fasciculus connects IPL, Broca's, and Wernicke's areas
 - Damage to arcuate fasciculus results in severe word finding difficulty.
 
+---
 
 ### Right Frontal Lobe Unrestrained Free Will
 **Consciousness, Forebrain, and Free Will**
@@ -1339,6 +1387,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - May result in disinhibition, saying/doing whatever comes to mind without concern for others or consequences
 - Patients may behave aggressively, impulsively, and irresponsibly
 
+---
 
 ### Behavioral and Motor Changes Following Frontal Lobe Injuries
 **Patient Behavior and Frontal Lobe Injuries**
@@ -1366,6 +1415,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Representation of musculature more diffuse in secondary premotor area
 - Premotor transmits motor impulses to primary motor areas and subcortical regions, receives orders from supplementary motor area (Joseph 1999b; Nachev et al. )
 
+---
 
 ### Executive Control Over Motor Movements and Free Will Disruption after Medial Frontal Lobe Damage
 **Medial Frontal Lobe and Supplementary Motor Area (SMA)**
@@ -1383,6 +1433,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Patients may be unable to release grip on objects once taken hold of
 - Gegenhalthen (counterpull), i.e. involuntary resistance to movement, is associated with medial frontal lobe/SMA abnormalities.
 
+---
 
 ### Alien Hand Syndrome Two Consciousnesses One Body
 **Alien Hand Syndrome**
@@ -1417,6 +1468,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Inability to perform normal tasks or daily activities
 - Increased irritation, depression, and embarrassment.
 
+---
 
 ### Alien Hand Syndrome Autonomous and Opposing Behavior Post-Split Brain Surgery
 **Split-Brain Patients and Alien Hand Syndrome**
@@ -1442,6 +1494,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - The left \"alien\" hand did not mimic or interfere with the choices made by the right hand and had its own free will.
 - Patients became angry when their \"alien\" left hand chose differently from what they expected, leading to conflict between the two hands.
 
+---
 
 ### Neurological Basis of Free Will and Catatonia
 **Frontal Lobes and Free Will**
@@ -1467,6 +1520,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Tourette's syndrome patients exhibit spontaneous movements and involuntary utterances, possibly linked to damage in neural pathways to/from the medial frontal lobes.
 - Suppression or inhibition of thoughts and behaviors may be difficult following damage to the medial frontal lobes and supplementary motor areas.
 
+---
 
 ## 8. Brain Consciousness and Causality
 **Epiphenomenalism and Consciousness:** An Examination of Theory and Empirical Perspectives
@@ -1494,6 +1548,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Contemporary philosophers and neuroscientists holding epiphenomenalist views
 - Importance of understanding epiphenomenalism: potential implications for scientific research on consciousness.
 
+---
 
 ### Epiphenomenalism and Causality A Reexamination
 **Epiphenomenalism and Radical Behaviorism**
@@ -1512,6 +1567,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - The principle of **physical causal closure**: if a physical event has a cause, it has a physical cause
 - Epiphenomenalism requires an **exclusion principle**: if an event e has a sufficient cause c at time t, no event distinct from c can be the cause of e. However, this is ruled out when the principle of exclusion and physical causal closure are joined together, as it only allows physical events to cause other physical events.
 
+---
 
 ### Consciousness and Quantum Physics Implications for Epiphenomenalism
 **Epiphenomenalism and Quantum Physics Argument:**
@@ -1530,6 +1586,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
     * Consciousness should be nonphysical entity if it causes collapse without being described by Schrdinger equation
 - Difficulty in reconciling consciousness with physical world if it has causal power.
 
+---
 
 ### Consciousness as Necessary Result of Cerebral Processes A Review on Epiphenomenalism
 **Theory of Consciousness by Edelman**
@@ -1559,6 +1616,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 3. Challenges and limitations of epiphenomenalism as a theory to explain the nature of consciousness.
 4. Importance of more empirical research on brain mechanisms of conscious causal processes.
 
+---
 
 ## 9. The Dissipative Brain and Non-Equilibrium Thermodynamics
 **Dissipative Many-Body Model of Brain**
@@ -1585,6 +1643,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Neurons, glia cells, and other classical elements exist in this model
 - Quantum degrees of freedom are electrical dipole fields of biomolecules and water molecules
 
+---
 
 ### Spontaneous Symmetry Breakdown and Order Parameter in Brain Modeling
 **Microscopic Dynamics in Neuroscience: Understanding Classical Tools through Quantum Field Theory (QFT)**
@@ -1617,6 +1676,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Condensation Process:**
 - Transformation B -> B+ generates coherent state with unique phase characterizing vacuum as a condensate of NG modes.
 
+---
 
 ### Dissipative Many-Body Model of Brain Dynamics
 **Ricciardi and Umezawa Brain Model**
@@ -1665,6 +1725,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - Confirms that functional aspects of brain dynamics are derived as macroscopic manifestations of many-body dynamics.
 - Further developments considering other features of non-equilibrium neuronal thermodynamics under study.
 
+---
 
 ## 10. Electromagnetic Bases of the Universality of the Characteristics of Consciousness Quantitative Support
 **The Electromagnetic Basis of Consciousness: A Universal Perspective**
@@ -1687,6 +1748,7 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 **Conclusion:**
 The convergence of these quantitative solutions may provide perspective on integrating previously disparate levels of discourse regarding consciousness. While observing similarities does not guarantee identity or complexity, it offers a potential framework for understanding the relationship between magnetic fields and consciousness within various contexts.
 
+---
 
 ### Quantum Energy and Cosmic Ray Impact on Brain Function
 **Mass of an Electron**
@@ -1715,6 +1777,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Energy density within human brain associated with 10^6 neurons firing at 10 Hz is 10^-13 J, which when divided by the human brain volume (about 10^-3 m3), results in 10^-10 J/m3
 - This energy density within brain space is congruent with this average of the whole volume of the universe and satisfies conditions for a hologram.
 
+---
 
 ### Energy Equivalence between Cosmic and Neural Electromagnetic Phenomena
 **Cosmic Energy and Human Brain Function**
@@ -1737,6 +1800,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Cross-sectional current density of lightning channel is equivalent to ~10^5 A/m2
 - Comparable quantitative solutions between lightning and action potentials, suggesting universality of consciousness conditions.
 
+---
 
 ## 11. Does Consciousness Exist
 **The Existence of Consciousness: A Philosophical Debate**
@@ -1763,6 +1827,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 **The Author's View on Direct Evidence**:
 - When we try to fix our attention on consciousness, it seems to vanish
 
+---
 
 ### Perception and Dualism in Experience
 **Philosopher's Perspective on Consciousness and Experience**
@@ -1786,6 +1851,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Representative theories avoid logical paradox but violate reader's sense of life
 - Puzzle of how one identical room can be in two places solved by intersection of processes.
 
+---
 
 ### Objectivity in Non-Perceptual Experiences Concepts as Simultaneously Subjective and Objective
 **The Objectivity of Non-Perceptual Experiences**
@@ -1810,6 +1876,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - This is without the least internal self-differentiation into consciousness and content
 - The object of thought, even if not directly perceived, occupies its definite place in the outer world
 
+---
 
 ### Perception and Consciousness External Relationships
 **Relation Between Perception and Thought**
@@ -1833,6 +1900,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Consciousness does not denote a special way of being or unique stuff
 - The knowing quality of experiences is better explained by their relations to one another.
 
+---
 
 ### Challenges to the Theory of Pure Experience
 **Objections to the Theory of Pure Experience**
@@ -1866,6 +1934,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - We call fire hot and water wet, but refuse to say our mental state is wet or hot when it's an image of these objects.
 - The difference lies in the fact that some fires burn sticks and warm bodies while others do not act at all.
 
+---
 
 ### Perception and Consciousness The Evolution of Subjective Qualities
 **Understanding Consciousness and Reality: Experiences as Attributes vs. Qualities**
@@ -1887,6 +1956,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Thoughts in concrete are made of the same stuff as things
 - A more detailed explanation will be provided in an upcoming article.
 
+---
 
 ## 12. Consciousness -- What Is It
 **Consciousness: Understanding Its Complexities Beyond Brain Activity**
@@ -1917,6 +1987,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Neural mechanisms proposed to explain OBEs as hallucinations or illusions
 - Challenges in linking altered brain physiology with accurate out-of-body perceptions.
 
+---
 
 ### Veridical Out-of-Body Experiences Case Studies and Corroborations
 **Out-of-Body Perceptions:**
@@ -1940,6 +2011,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 * Summarized by Hart (1954) in 30 published cases up to that time
 * Unpublished case from University of Virginia collection: nurse's dream about telling patient to keep fighting corroborated.
 
+---
 
 ### Childhood Past-Life Memories Cases and Evidence of Reincarnation
 **Experiments with Out of Body Experiences (OBEs)**
@@ -1957,6 +2029,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Some children report being deceased family members or strangers in other locations
 - Many show behaviors associated with apparent memories: emotions, phobias, play themes connected to occupation.
 
+---
 
 ### Connected Consciousness in Twins and Healing at a Distance
 **Birthmarks and Birth Defects as Evidence of Consciousness Transfer**
@@ -1977,6 +2050,7 @@ The convergence of these quantitative solutions may provide perspective on integ
   - Voluminous experimental evidence exists for ESP phenomena
 - Further consideration of this topic in Section 2 and 3's discussion of consciousness and its relationship to personality or essential identity.
 
+---
 
 ### Exploring the Impact and Mechanisms of Distant Healing on Biological Systems
 **Studies on Compassionate Healing Intentions**
@@ -2001,6 +2075,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Understanding the nature of consciousness remains elusive despite neuroscience advancements (Maddox, 1999)
 - Importance to keep an open mind and approach any theory or explanation with caution.
 
+---
 
 ### Entanglement and Collective Human Consciousness Quantum Connections in Minds
 **Famous Opinions About Consciousness**
@@ -2029,6 +2104,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Need to develop more powerful and fruitful concepts to elucidate the nature of consciousness (Sturrock, 2009)
 - Revision of current Model of Reality may involve concept of hyperspace (Sturrock, 2009).
 
+---
 
 ## 13. Consciousness Solvable and Unsolvable Problems
 **Proposed Theses on Consciousness**
@@ -2054,6 +2130,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Denying the existence of consciousness in robots leads to extreme solipsism or anti-machine racism.
 - The development of human-like robots does not prove they can experience emotions or consciousness like humans, but we should wait for their self-reported confirmation.
 
+---
 
 ### Form Theory The Emergence of Information and Life
 **Novel Theory: Forms and Information Processing Systems (I-Systems)**
@@ -2092,6 +2169,7 @@ The convergence of these quantitative solutions may provide perspective on integ
   * Development of detection systems for locating nutrients
   * Savings of energy lead to the development of complex I-systems.
 
+---
 
 ### Unification and Coordination of Subsystems for Survival
 **Theoretical Framework for Understanding I-Systems and Emotions**
@@ -2132,6 +2210,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 5. Prehuman states of preconsciousness (PC1, PC2, PCn) plausible hypothesis for understanding development and intensification of emotions over time
 6. No need for an unintelligible leap in the case of emotions and consciousness.
 
+---
 
 ## 14. Decoding the Chalmers Hard Problem of Consciousness Qualia of the Molecular Biology of Creativity and Thought
 **The Hard Problem of Consciousness: Bridging the Explanatory Gap between Functions and Experience**
@@ -2156,6 +2235,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 **Adaptive Function of Qualia**:
 - Daily and hourly cycles of human experience from quantum to cognitive-behavioral levels
 
+---
 
 ### Complex Adaptive Systems and RNA World Molecular Underpinnings of Consciousness Evolution
 **Evolution of Complex Adaptive Systems in Consciousness**
@@ -2179,6 +2259,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Central to genetic programming is ability to process information within cellular networks and link it to new behaviors
 - RNA a promising substrate for interfacing with cellular networks due to versatile sensing and actuation functions and ease of designing RNA structures.
 
+---
 
 ### Basic Rest-Activity Cycle and SELEX Molecular Analogues of Human Performance and RNA World Evolution
 **RNA World and the Origin of Life**
@@ -2194,6 +2275,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Illustrated in Figure 5 with the proteomics, genomics, and qualia profiles of Buddha's Four Noble Truths
 - Involves the **Novelty-Numinosum-Neurogenesis Effect**, which can turn on gene expression and brain plasticity through both neuroscientific (bottoms-up) and spiritual (top-down) perspectives
 
+---
 
 ### Molecular Biology of Qualia in Mind-Body Healing
 **Qualia Associated with Experience-Dependent Gene Expression and Brain Plasticity**
@@ -2220,6 +2302,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Pilot study using DNA microarrays to explore molecular genomic underpinnings of qualia associated with mind-body healing and problem solving
 - Hypothesis that top-down, creatively oriented experience can modulate qualia-dependent gene expression and various brain plasticity effects like stem cell growth, reduced oxidative stress, and decreased chronic inflammation.
 
+---
 
 ## 15. Protophenomena and their Physical Correlates
 **Understanding Phenomenal Consciousness: Protophenomena and Their Physical Correlates**
@@ -2247,6 +2330,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Neuromyohenological reduction: parallel reductions in subjective experience and neurobiology
 - Protophenomena: smallest units of subjectivity contributing to conscious state.
 
+---
 
 ### Physical Bases for Phenomenal Consciousness
 **Phenomenology and Protophenomena**
@@ -2274,6 +2358,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 - Neurotransmitter flux, binding to receptors, or membrane potential of a dendritic spine
 - These are possible correlative activities for protophenomena, but experimental evidence is lacking
 
+---
 
 ### Theorizing Physical Correlates of Consciousness Through Entropy and Information
 **Norman D. Cook's Suggestion for Protophenomenon:**
@@ -2302,6 +2387,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 6. Identification of physical processes associated with protophenomena more precisely.
 7. Focus on pyramidal cell as primary agent making decisions that make a difference, but results not expected to depend on cell type.
 
+---
 
 ### Experimental Methods for Identifying Physical Correlates of Consciousness
 **Challenges in Connecting Neurons to Thermodynamics:**
@@ -2328,6 +2414,7 @@ The convergence of these quantitative solutions may provide perspective on integ
 
 These techniques may be used to investigate activity sites in humans and identify preconditions for artificial phenomenal consciousness.
 
+---
 
 ## 16. The Macro-Objectification Problem and Conscious Perceptions
 **Problem with Quantum Theory and Perceptions:**
@@ -2353,6 +2440,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Reconsidering problem in light of collapse models
 - Discussion of how these models account for natural processes, including definite perceptions.
 
+---
 
 ### Quantum Measurement and Uncertainty Principle
 **Quantum Mechanics: Overview and Formal Structure**
@@ -2380,6 +2468,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Changes state instantaneously to eigenstate corresponding to measured observable's eigevalue
 - Nonlinear and stochastic change induced by measurement process
 
+---
 
 ### Quantum Measurement Problem and Entanglement
 **Quantum Measurement Problem**
@@ -2404,6 +2493,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - This leads to Eq. (6), which describes a superposition of possible outcomes, not just the expected one
 - The resulting final state is an \"entangled\" system-apparatus state that does not describe well-defined properties for either the microsystem or the macroscopic pointer
 
+---
 
 ### Measurement Problem and Superselection Rules in Quantum Mechanics
 **Quantum Mechanics and Measurement Problem**
@@ -2428,6 +2518,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Attempts at Solutions**:
 - An interesting proposal is the idea of **superselection rules**, which assume all observables of a macroscopic object form an abelian set, making the statistical mixture after WPR indistinguishable from the superposition
 
+---
 
 ### Quantum Decoherence Interaction with Environment Explained
 **Challenges with Assumptions in Quantum Mechanics**
@@ -2451,6 +2542,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Shows that superpositions of different macroscopic states are extremely difficult to observe due to environmental interactions (Zurek, 1981, 1982, 1991; Grifths, 1984, 1996; Gell-Mann & Hartle, 1990)
 - Deals with ensembles instead of individuals, but different statistical ensembles can give rise to identical physics in quantum mechanics (obviously probabilities differ from those implied by the quantum formalism when state is final).
 
+---
 
 ### GRW Model Collapse of the Quantum Wave Function
 **New Approach to Quantum Mechanics: GRW Model**
@@ -2475,6 +2567,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Allows definition of boundary between micro and macroscopic worlds, reversible and irreversible processes, quantum and classical.
 - Testable against quantum mechanics with proposals being difficult to implement due to current technology limitations.
 
+---
 
 ### Dynamic Reduction Mechanism and Conscious Perception Conflict
 **GRW Theory and Perception**
@@ -2510,6 +2603,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Importance**:
 - Analysis does not imply physicalistic explanation of conscious perceptions, only accounts for definiteness using dynamical reduction mechanism.
 
+---
 
 ## 17. A Mindful Alternative to the MindBody Problem
 **Mindfulness and Mindlessness**
@@ -2539,6 +2633,7 @@ These techniques may be used to investigate activity sites in humans and identif
 7. Lack of choice and new possibilities
 8. Certainties lead to mindlessness, often mistaken for facts in science.
 
+---
 
 ### Mindfulness and the Flexibility of Cognitive Categories
 **Mindfulness Practice and Uncontrollable Assumptions:**
@@ -2563,6 +2658,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Conceptual boundaries like \"mind\" and \"body\" are artificial and rigid
 * Putting mind and body back together leads to improvements at the level of brain processes.
 
+---
 
 ### Placebo Effects on Physical Functionality
 **Study Findings on Elderly Men:**
@@ -2587,6 +2683,7 @@ These techniques may be used to investigate activity sites in humans and identif
    - Negative expectations of aging lead to self-fulfilling prophecies.
    - Alternative mind-body views may enable us to see and function beyond current limitations.
 
+---
 
 ## 18. Consciousness The Fifth Influence
 **Theory on Role of Sensory Pleasure and Mental Joy in Behavior Optimization**
@@ -2612,6 +2709,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Conclusion:**
 - Sensory pleasure and mental joy may optimize behavior due to their influence on consciousness, which is suggested to operate similarly to physical forces in moving the infinitely complex into action.
 
+---
 
 ### Estimating Brain Complexity An Anthropic Perspective
 **Defining Complexity in Biology**
@@ -2644,6 +2742,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - William James considered pleasure a natural motivation in psychology
 - Seeking pleasure and avoiding displeasure explain human behavior, not brain function.
 
+---
 
 ### Pleasure as the Common Currency in Behavioral Optimization
 **Physiological Role of Pleasure in Sensation and Consciousness**
@@ -2669,6 +2768,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Confirmation:**
 - Experiments confirmed that subjects maximize algebraic sums of pleasures/displeasures in conflicts involving motivations with physiological functions like temperature regulation, fatigue from muscular exercise, or purely mental motivations.
 
+---
 
 ### Evolution of Consciousness Joy and Pleasure as Common Currency for Decision Making
 **Role of Pleasure and Displeasure in Behavior:**
@@ -2680,6 +2780,7 @@ These techniques may be used to investigate activity sites in humans and identif
 6. **Evolutionary Advantage**: Sensory pleasure saved the nervous system from storing astronomical numbers of stimulus-response reflexes by adding flexibility to animal behavior (Cabanac, 1996). Similarly, joy saves the brain from storing an infinite number of rules and provides a formidable advantage in terms of information storage and behavioral response flexibility.
 7. **Role of Affect in Guiding Evaluation and Choice**: The important role of affective factors in guiding evaluation and choice is apparent (Finucane et al., 2003).
 
+---
 
 ### The Emergence of Pleasure as the Fifth Influence in Consciousness
 **The Advantages of Affective Decision Process**
@@ -2705,6 +2806,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Experiments support the proposal as an axiom, attempting to falsify it rather than demonstrate it
 - The five forces and their emergence in phylogeny may be accepted as starting to drive the world towards increasing complexity by organizing the links between individuals, forming what Teilhard de Chardin (1955) called Noosphre.
 
+---
 
 ## 19. The Spread Mind Seven Steps to Situated Consciousness
 **Spread Mind Hypothesis: Radical Version of Phenomenal Vehicle Externalism**
@@ -2741,6 +2843,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Proposes that physical underpinnings of consciousness may extend beyond the skin
 - Consciousness may be situated in the environment
 
+---
 
 ### Rainbow as a Phenomenal-Physical Entity
 **Relation between Mind and Environment: Beyond Traditional Assumptions**
@@ -2762,6 +2865,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Traditionally considered as a prerogative of phenomenal experience
 * The rainbow process requires an observer for the reflected and refracted rays to meet, forming the full spectrum. Without an observer, the rays scatter and disperse.
 
+---
 
 ### Extended Consciousness in Space The Rainbow as a Model
 **The Rainbow Process**
@@ -2782,6 +2886,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The spread mind hypothesis suggests that the physical underpinnings of a phenomenal experience could extend beyond the observer's brain (e.g., from the cloud to the observer)
 - Extending processes over larger spatial distances (like the rainbow) does not contradict this idea, as neural activity can also span dozens of meters
 
+---
 
 ### Temporal Extension of Consciousness and Perception Processes Rather Than Objects
 **Second Step: Extension in Time**
@@ -2797,6 +2902,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Negative answer to whether faces exist without someone capable of recognizing them
 - Colors not an absolute perception but a complex integration of separate aspects like spectral composition, received wavelength, texture features.
 
+---
 
 ### Perception as Wholesome Processes
 **The Spread Mind: A Radical Physicalist View**
@@ -2831,6 +2937,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Not saying body or brain creates its world
 - World we experience is made of physical processes requiring both environment and perceiver's body.
 
+---
 
 ### Unity of Physical and Phenomenal World Sensory-Motor Contingencies
 **The Spread Mind Theory: Identity Between Representation and Reality**
@@ -2863,6 +2970,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Phenomenal experience might not entail emergence of unexpected phenomenal world or character from physical world
 - Unity may be consciousness, resulting from processes that create wholes out of simpler parts.
 
+---
 
 ### Conscious Experience and the Spread Mind
 **Consciousness and Physical Presence**
@@ -2895,6 +3003,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Dreams, mental imagery, hallucinations: uninterrupted causal chain from past encounters to present moment
 - Physical processes occur during these experiences, identical to the experience itself.
 
+---
 
 ### Consciousness and the Spread Mind Beyond Brain and Body Boundaries
 **The Spread Mind Theory**
@@ -2920,6 +3029,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Requires any phenomenal content to be explained as actual perceptions of the external world
 - Amenable to empirical verification through testing against alleged counterexamples like phosphenes or direct cortical stimulation.
 
+---
 
 ## 20. Consciousness Vectors
 **Consciousness and Continuity**
@@ -2950,6 +3060,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Output of cognitive processing transferred into consciousness continuously or seemingly continuously
 - Normal limit for information transfer: speed of light, not instantaneous.
 
+---
 
 ### Discontinuity of Consciousness A Quantum Hypothesis and Alternative Explanations for Continuity Illusion
 **Continuity and Consciousness:** Discontinuous Nature and Sense of Continuity
@@ -2974,6 +3085,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Unlocking human consciousness through deeper knowledge of brain functions
 - Potential applications in artificial intelligence.
 
+---
 
 ## 21. Gaia Universalis
 **Universality of Consciousness: Life as a Principle**
@@ -2999,6 +3111,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Connected to parental and potential offspring genomes
 - Dangers of Postmodern thought, but evocative metaphor for understanding interconnectedness.
 
+---
 
 ### Chemical Origins and Principles of Life
 **The Living Network and the Definition of Life**
@@ -3023,6 +3136,7 @@ These techniques may be used to investigate activity sites in humans and identif
 4. **Cooperation**: The three \"Firsts\" (metabolism, genetics, membranes) likely needed to emerge together rather than sequentially
 5. **Adaptability**: The flexibility for life to evolve over time, without necessarily returning to a \"primitive\" state
 
+---
 
 ### Universal Chemical Origins and Consciousness
 **The Role of HCN in Biogenic Reactions and Consciousness**
@@ -3047,6 +3161,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The anthropic principle suggests that our existence in this universe is because of its properties being suitable for our existence
 - This supports the idea that life and consciousness are two aspects of a larger phenomena encompassing the whole universe
 
+---
 
 ## 22. What Consciousness Does A Quantum Cosmology of Mind
 **Theoretical Development in Consciousness**
@@ -3073,6 +3188,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Qualis-consciousness establishes a meaningful world for doing to occur within it.
 - Scientific realism posits that qualis-consciousness may be an emotional fog generated by brain processing.
 
+---
 
 ### The Evolution of Views on Consciousness in Quantum Mechanics From Collapse to Cosmology
 **The Changing View of Consciousness in Quantum Mechanics**
@@ -3103,6 +3219,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Conventional theory states that these early fluctuations were caused by observations made by people and instruments like WMAP.
 - The mathematical formalism of quantum theory alone is insufficient to fully explain this process.
 
+---
 
 ### Quantum Cosmology and Consciousness Bridging Physicality and Awareness
 **Key Concepts:**
@@ -3120,6 +3237,7 @@ These techniques may be used to investigate activity sites in humans and identif
 4. A thing with consciousness must have internal unity and be maximal with respect to this coherence at the quantum-classical boundary where observation is not yet determined by decoherence.
 5. Several candidates for the logic of consciousness are available, allowing us to understand how it brings creativity along with rational deduction.
 
+---
 
 ## 23. The Stream of Consciousness
 **The Stream of Consciousness**
@@ -3144,6 +3262,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - There is no direct access to another person's thoughts; each consciousness is isolated and belongs to a specific individual mind.
 - This \"absolute insulation\" of personal minds makes it challenging for psychology to understand the nature of consciousness.
 
+---
 
 ### Persistent Change of Consciousness and Sensation
 **Psychology and Sensation:**
@@ -3168,6 +3287,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Immutable brain necessary for identical sensation to recur is impossible
 - Each thought of an object is unique and different from previous thoughts about it.
 
+---
 
 ### Continuous Consciousness and Sudden Contrasts in Thought Streams
 **The Nature of Consciousness: Continuity and Change**
@@ -3196,6 +3316,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Sudden contrasts in quality of segments of stream of thought
 - Loud explosion rends consciousness, but awareness of previous silence still present.
 
+---
 
 ### Substantive vs Transitive Mental States Introspective Difficulty and its Consequences
 **Substantive and Transitive States of Mind**
@@ -3224,6 +3345,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Language expresses these relations through phrases like \"feeling of and,\" \"feeling of if,\" etc.
 - The substantive parts alone have become so ingrained that language refuses to recognize the existence of transitive states
 
+---
 
 ### The Evolving Nature of Consciousness and Mental States
 **The Pulses of Change:**
@@ -3244,6 +3366,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Reader's ability to emphasize words correctly in reading aloud depends on understanding grammatical construction and anticipating the coming sentence
 - Reinstatement of vague or inarticulate ideas into their proper place is essential for a complete understanding of mental life.
 
+---
 
 ### The Fringe of Relations in Consciousness Cognitive Function and Overtones
 **Psychic Fringes and Overtones**
@@ -3265,6 +3388,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The sense of \"affinity\" or \"congruence\" between words is an important part of these psychic fringes
 - Even when thinking in visual or other images rather than words, this feeling of affinity and direction towards the topic is key to rational thought
 
+---
 
 ### Perception and Selective Attention in Thought Processes
 **The Feeling of Rationality vs. Meaning**
@@ -3281,6 +3405,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Attention then further selects certain sensations as worthy of notice and suppresses the rest based on practical or aesthetic interest.
 - The mind chooses certain sensations to represent a thing truly, while others are considered its appearances based on conditions.
 
+---
 
 ### Unique Personal Perspective and Choices in Perception and Experience
 **Understanding Selection and Experience:**
@@ -3293,6 +3418,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Schopenhauer's argument: we all choose differently where me and not-me are concerned, but our choices shape our entire career.
 * Human minds have unique interest in \"me\" and \"not-me\" parts of creation, which may be a moral riddle but is a fundamental psychological fact.
 
+---
 
 ## 24. The Stream of Thought
 **The Stream of Thought: The Five Characters of Thinking**
@@ -3314,6 +3440,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Personal consciousnesses are isolated from one another, with no direct access between them
 - Each mind keeps its thoughts to itself, creating absolute insulation between individuals' mental processes.
 
+---
 
 ### The Formation and Evolution of Secondary Personalities
 **Personal Selves and Secondary Personalities**
@@ -3332,6 +3459,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Unconscious movements may be accompanied by feeling, not just physiological reflexes
 - These unintelligent, unuttered thoughts tend to develop memory and form personal consciousness
 
+---
 
 ### Perception and Sensation Identity and Variability
 **The Change in Consciousness**
@@ -3358,6 +3486,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Feelings Reveal the Same World**:
 - Despite differences in sensibility, feelings reveal the same world with sensible qualities and objects.
 
+---
 
 ### Changing Brain States and Perception
 **Sensations and Feelings**
@@ -3382,6 +3511,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The presence of certain lines in a figure changes the apparent form of others, and music alters our feeling of sounds
 - The brain retains a \"soreness\" after being maximally excited, which influences present consciousness
 
+---
 
 ### The Continuity of Consciousness No Permanent or Independent Thought Parts
 **Theories of Mind Changes**
@@ -3407,6 +3537,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Quality Changes**
 - Sensibly continuous and one despite abrupt changes in thought quality
 
+---
 
 ### Continuity and Discontinuity of Consciousness
 **The Natural Whole: Self and Continuous Thought**
@@ -3435,6 +3566,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Invariably accompanies knowledge of other things
 - Awareness, however inattentive, always present.
 
+---
 
 ### The Dynamics of Thought Transitive and Substantive Parts
 **Understanding the Gradualness of Mental Content Change (Chapter 243)**
@@ -3459,6 +3591,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Main purpose: attainment of another substantive part from the current one
 - Difficulty observing transitive parts introspectively due to their headlong nature.
 
+---
 
 ### Feeling of Relation and Feelings of Tendency in Unnamed States of Consciousness
 **The Problem of Relations and Feelings**
@@ -3487,6 +3620,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Sensationalists fail to find them, intellectualists acknowledge their function but deny feelings
 - Examples: being told \"Wait,\" \"Hark,\" or \"Look\" can throw consciousness into a new state.
 
+---
 
 ### Psychological States of Expectancy and Meaning
 **Three Different Attitudes of Expectancy**
@@ -3523,6 +3657,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Intention of saying something before speaking has an entirely specific affection of the mind
 - Distinct state of consciousness, but consists of very little definite sensorial images.
 
+---
 
 ### The Role of Tendencies in Mental Life
 **Linger and Anticipatory Intuition**
@@ -3545,6 +3680,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - In states of mental fatigue or \"brain fog\", the horizon narrows almost to just the passing word
 - The awareness that our thought has come to a stop is different from the awareness that it has been definitively completed
 
+---
 
 ### Sensory Premonitions and Psychic Overtones in Thought Processes
 **Expressions of Completed and Incomplete Thoughts**
@@ -3576,6 +3712,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Can be a problem, gap, or mood; influences thoughts based on how they relate to the topic
 - Relation of harmony and discord felt in the fringe, leading to acceptance or rejection of thoughts.
 
+---
 
 ### Semantic Associations in Language and Thought A Psychological Axiom
 **Meaning of a Stream of Thought**
@@ -3601,6 +3738,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Regular language structure strengthens felt connections among words and concepts
 - Repeated use of language further embeds these associations in the mind
 
+---
 
 ### The Psychology of Meaning in Language
 **Perception of Meaning in Language:**
@@ -3625,6 +3763,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Exceptional Cases: Extremely Deficient Visual Imagery**
 - Some individuals can't create mental images, but still understand through other means like knowing or feeling.
 
+---
 
 ### Early Childhood Ponderings Origin of Life and Universe
 **The Role of Words in Thought Processes**
@@ -3639,6 +3778,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The author began asking about the origins of life, the earth, sun, moon, and stars at a young age before learning to read or write
 - He believed that man and the earth were the two primary things he needed to understand, with animals being secondary in importance.
 
+---
 
 ### The Formation and Evolution of Thought Processes
 **Personal Account of Early Thoughts about the Universe's Origin**
@@ -3659,6 +3799,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Words and ideas are blank forms until supplied with values through images and sensations
 - Analysts can carry out extensive operations without translating ideas into images, like a sign for danger.
 
+---
 
 ### Cognitive Function and Reality Perception in Thought Processes
 **Ideas as Substitutions**
@@ -3679,6 +3820,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - As consciousness develops and we make judgments of sameness among objects, we corroborate the notion of realities beyond thought
 - This is the psychologist's point of view: the relatively uncritical non-idealistic perspective adopted by natural science.
 
+---
 
 ### Psychological Object Understanding the Comprehensive Nature of Thought
 **Shoemaker's Experience of Ether Intoxication:**
@@ -3697,6 +3839,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Object should refer to the actual constitution of the thought being studied, not just its grammatical object or subject
 - Kernel or topic may mean more than what's present to the thought, so introspective psychology requires careful consideration.
 
+---
 
 ### Unity of Thought One State of Consciousness
 **Psychology of Thought**
@@ -3717,6 +3860,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The thought \"the pack of cards is on the table\" represents a **different subjective phenomenon** than the thought of the pack itself
 - We cannot break down a thought into corresponding parts that match the object's physical components
 
+---
 
 ### Understanding the Persistence of Thought Content in Verbal Streams
 **The Consciousness of Thought Streams and Ideas**
@@ -3744,6 +3888,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Representing the object content of a vertical section as a plane figure, with height representing relative prominence
 - A series of sections over time would build up to a solid, with a cut across it at right angles showing the thought's content
 
+---
 
 ### Selective Emphasis in Perception and Consciousness
 **The Stream of Consciousness**
@@ -3774,6 +3919,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Reader perceives objects based on preferred attitude, normal size, characteristic distance, standard time etc.
 - Perception involves a twofold choice: noticing significant absent associates and picking a few to represent objective reality
 
+---
 
 ### Selective Attention and the Formation of Experience
 **The Importance of Selectivity in Perception and Reasoning**
@@ -3804,6 +3950,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The highest mental products are filtered from the data chosen by the faculty below
 - The mind works like a sculptor extricating one statue from the mass of stone or a world from the primordial chaos of sensations
 
+---
 
 ### Psychology of Self-Consciousness The Unity and Diversity of Conscious States
 **Self-Consciousness and the Division of Consciousness**
@@ -3829,6 +3976,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The actual result can vary based on the person or situation
 - Our mental states have an essential unity, with each state being a single whole
 
+---
 
 ### Feelings of Relation and Their Implications for Knowledge
 **Feelings of Relation**
@@ -3851,6 +3999,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Thomas Brown: relative suggestions, or feelings of relation, are distinct from simple perceptions
 - Spencer: outward relations felt along with their terms in substantive states as well as transitive ones.
 
+---
 
 ### Consciousness Components and Relations Between Feelings
 **Characteristics of Relations Between Feelings**
@@ -3881,6 +4030,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Spread it out broader and clearer until almost finished in his head
 - Can see the whole piece at a single glance as if it were a beautiful painting or handsome human being.
 
+---
 
 ### Stream of Consciousness and Language Relationships
 **Mental Physiology and Sensory Perception**
@@ -3902,6 +4052,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Thought or intelligence involves a minimum level of self-consciousness
 * Parts of a thought cannot live outside that particular thought; they are inseparable like the parts of a soap bubble or an army idea.
 
+---
 
 ## 25. Origins of Thought Consciousness Language Egocentric Speech and the Multiplicity of Mind
 **Origins of Thought: Consciousness, Multiplicity, Language, and Mind**
@@ -3925,6 +4076,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The dominant streams of consciousness (vision and language) may not have access to all relevant information
 - We remain unknown to ourselves, as the mind is a multiplicity
 
+---
 
 ### Duality in Consciousness and Thought Internal Language and Brain Functioning
 **Thinking and Listening**
@@ -3939,6 +4091,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Language areas become activated during verbal thought (Kaan & Swaab, 2002; Keller et al., 2001; Paulesu et al., 1993; Petersen et al., 1988).
 - Inferior parietal lobule/angular gyrus, Broca's expressive speech area in the left frontal lobe, and Wernicke's receptive speech area in the superior temporal lobe involved (Joseph, 1982, 1986a, 1988a).
 
+---
 
 ### Developmental Stages of Language and Thought
 **Lateral Surface of Right and Left Frontal Lobes**
@@ -3972,6 +4125,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Three maturational stages correspond to language acquisition and development
 - Leads to thinking in words or forming verbal memories.
 
+---
 
 ### Emergence of Egocentric Speech and Its Role in Thought Development
 **Linguistic Development and Vocalization in Infancy**
@@ -4006,6 +4160,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Comprises up to 40-50% of child's language
 - Peaks during this period, then internalized and becomes covert.
 
+---
 
 ### Developmental Stages of Egocentric Speech and Thought Internalization
 **Egocentric Speech and Thought Internalization**
@@ -4037,6 +4192,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Egocentric speech reflects the developmental stages of a child's mind and brain
 - As neural connections mature, children transition from vocalizing their thoughts to internalizing them
 
+---
 
 ### Evolution of Mind From Multiple Brain Regions to Consciousness
 **Egocentric Speech in Children:**
@@ -4059,6 +4215,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Language-dependent aspects of consciousness began to evolve within the last 100,000 years (Joseph, 1996, 2000b)
 - Ancient regions of the mind function independently of human consciousness which is not consciously accessing their workings.
 
+---
 
 ### Multiple Minds and Consciousness in Human Brain Development
 **Human Brain Development and Evolution:**
@@ -4076,6 +4233,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Consciousness requires something separate from itself (Joseph 2009)
 - Differentiated brains lead to multiple minds, enabling self-consciousness.
 
+---
 
 ### References for Neural Development and Cognitive Functions in Language Processing
 **References:**
@@ -4107,6 +4265,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Joseph (1999). Frontal lobe psychopathology: Mania, depression, aphasia, confabulation, catatonia, perseveration, obsessive compulsions, schizophrenia. Psychiatry, 62(3), 138-172.
 * Joseph (2000a). Limbic language/language axis theory of speech. Neuropsychology, Development and Cognition, 9(4), 775-815.
 
+---
 
 ## 26. Consciousness A Direct Link to Lifes Origins
 **Correspondence Between Induction and Consciousness: A Direct Link to Life Origins?**
@@ -4131,6 +4290,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Non-computability question addressed through environment's external influence on algorithmic system decisions
 - Frohlich's coherent excitations proposed for cell membranes represent a more concrete representation of this picture.
 
+---
 
 ### Nonlinear Energy Transfer Mechanisms in Biology
 **Frohlich Excitations and Penrose-Hameroff Model**
@@ -4156,6 +4316,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Goedel's theorem states that with any set of axioms, it is possible to produce a statement that is obviously true but cannot be proved by those axioms alone
 - Penrose claims the functioning of the human brain includes non-algorithmic processes
 
+---
 
 ### Exploring the Origins of Life through Quantum and Magnetic Field Interactions in Biology
 **Non-Algorithmic Determinism in Quantum Mechanics**
@@ -4177,6 +4338,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Conclusion**:
 - The provided essay only scratches the surface of the problem, with a huge gap that is symbolized by Whitehead's perspective on religion if one substitutes consciousness for his definition
 
+---
 
 ## 27. The Evolution of Human Consciousness Reflections on the Discovery of Mind and the Implications for the Materialist Darwinian Paradigm
 **Human Consciousness Evolution:** A Reflection on Mind, Culture, and Discoveries
@@ -4200,6 +4362,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Recognize the intimate relationship between physical and psychological evolution
 - Focus on understanding psychological maturation or evolution of consciousness through art, language/literature, religion/spirituality as much as technological and economic manipulation of the physical environment.
 
+---
 
 ### The Evolution of Consciousness Ontogeny and Phylogeny
 **Importance of Self-Consciousness in Humans and Evolution**
@@ -4227,6 +4390,7 @@ These techniques may be used to investigate activity sites in humans and identif
 3. Perceived advanced or primitive cultures depend on context and personal bias
 4. Human fascination with immortality may indicate intuitive grasp of spiritual realities.
 
+---
 
 ### The Evolution and Internalization of the Soul From Homer to Socrates
 **The Evolution of Consciousness and Culture**
@@ -4244,6 +4408,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Distinction between physical body and spiritual soul led to debates about mind-body duality
 - Internalization of the divine and recognition of individual responsibility allowed for greater spiritual potential but also loneliness, anger, and the \"religious tradition of the fall\"
 
+---
 
 ### Evolution of Self-Awareness and Dualism in Human History
 **Self Awareness: Dualism and the Evolution of Consciousness**
@@ -4273,6 +4438,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Physical matter has ambiguous meaning in modern physics
 - Explanations for the evolution of human consciousness unlikely to focus on strictly physical phenomena.
 
+---
 
 ## 28. Evolution of Paleolithic Cosmology and Spiritual Consciousness and the Temporal and Frontal Lobes
 **Spiritual Consciousness in Paleolithic Cultures (100,000 to 20,000 Years Ago)**
@@ -4295,6 +4461,7 @@ These techniques may be used to investigate activity sites in humans and identif
 
 **Keywords:** Consciousness, dreams, spirits, souls, evolution, amygdala, hippocampus, limbic system, temporal lobe, frontal lobes, Cro-Magnon, Neanderthals.
 
+---
 
 ### Neanderthal Spiritual Beliefs and Burial Practices
 **Neanderthal Burial Practices and Beliefs**
@@ -4324,6 +4491,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Did not discover God but held strong spiritual and mystical beliefs
 - Transmigration of the soul and associated fears, hopes, and emotions.
 
+---
 
 ### Neanderthal Violence Religion and the Limbic System
 **Characteristics of Neanderthals**
@@ -4347,6 +4515,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Skulls suggest temporal lobe was well-developed and little different from modern humans
 - Neanderthals were not very intelligent or tidy, unable to fashion complex tools
 
+---
 
 ### Evolution of Human Brain Enlargement of Temporal and Frontal Lobes
 **The Evolution of Human Brain:**
@@ -4370,6 +4539,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Temporal lobes and underlying limbic system implicated in generating religious feelings and supernatural experiences
 * Amygdala enables storage and reexperience of emotional memories, as well as bizarre mental phenomena like hallucinations or dissociative states.
 
+---
 
 ### Evolution of the Frontal Lobe The Birth of Creativity and Spirituality in Humans
 **Evolution of Frontal Lobes in Humans**
@@ -4381,7 +4551,10 @@ These techniques may be used to investigate activity sites in humans and identif
 
 **Comparison of Frontal Lobes Over Time**
 | Species | Average Brain Size (cc) | Frontal Lobe Development |
-|---|---|---|
+|
+---|
+---|
+---|
 | Australopithecus | N/A | Undeveloped |
 | H. Habilis | N/A | Partially developed |
 | H. Erectus | N/A | Slightly developed |
@@ -4397,6 +4570,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Depicted scenes from everyday life, often drawing animals to scale
 * Art was meant for trade, religious reverence, and appreciation.
 
+---
 
 ### Evolutionary Roots of Religious Imagery in Upper Paleolithic Art
 **Cro-Magnon People and Their Contributions**
@@ -4430,6 +4604,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Buried with tools, ornaments, hunting implements, and other essentials
 - Believed in complex religious rituals and worshipped female goddesses attended by animals and shaman.
 
+---
 
 ### Spirits and Shamanism in Upper Paleolithic Culture
 **Cro-Magnon Culture and Symbolism**
@@ -4463,6 +4638,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Belief that animals, plants, and trees were sensitive, intelligent, and spiritually alive
 - Hunters respected animal spirits before killing them
 
+---
 
 ### Cosmic Symbolism and Spirituality in Paleolithic Art
 **Themes:**
@@ -4493,6 +4669,7 @@ These techniques may be used to investigate activity sites in humans and identif
    * Ancient cultures symbolized seasons with sign of the cross
    * Cro-Magnon observed sun's movement and its effect on nature.
 
+---
 
 ### Chauvet Cave and Celestial Symbolism in Paleolithic Art
 **The Significance of the Cross and Constellations in Ancient Civilizations**
@@ -4503,6 +4680,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * The Chinese cross represents God making the Earth in the form of a cross; can also be likened to the swastika or gammadion, one of the names for the Lord God
 * Cro-Magnons depicted the constellation Virgo and observed patterns in other stars, such as Taurus and Orion/Osiris, suggesting an early fascination with the cosmos.
 
+---
 
 ### Orion and the Bull Constellation Connection Ancient Mythology and Evolution of Consciousness
 **The Connection Between Ancient Mythology and Cosmology**
@@ -4537,6 +4715,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Ancient peoples believed in spirits, souls, and gods/goddesses
 - Gave birth to first heavenly cosmologies over 20,000 years ago
 
+---
 
 ## 29. Evolution of Modern Human Consciousness
 **Modern Human Consciousness Evolution:**
@@ -4557,6 +4736,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Patterns of change over hominid evolution clear despite arguments and testing limitations
 * Closest living relatives, chimpanzees and bonobos, provide approximate models for early hominid ancestors but are nonsymbolic.
 
+---
 
 ### Evolutionary Changes and Social Organization of Early Hominids
 **Very Early Hominid Cognition and Change in Human Evolution**
@@ -4586,6 +4766,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Physically committed to open savanna lifestyle
 - Increase in animal protein intake and cooking of food for nutrient availability.
 
+---
 
 ### Hominid Brain Evolution and Symbolic Cognition
 **Hominid Transition to Predators and Symbolic Thought**
@@ -4625,6 +4806,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Structured language can be spontaneously invented and spread rapidly within populations predisposed for it
 - Symbolic thought allowed Homo sapiens to envision alternative worlds and plan in an unprecedented manner, creating a cognitive gulf with other hominids.
 
+---
 
 ## 30. Evolutions Gift Subjectivity and the Phenomenal World
 **Retinoid System: Evolution and Consciousness**
@@ -4653,6 +4835,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Emerged in lower animals and peaked with human beings
 - Provides humans with a phenomenal world full of events and contingencies beyond isolated stimuli impacts on other creatures.
 
+---
 
 ### Seeing-More-Than-Is-There Phenomenon and Its Implications for Consciousness
 **Retinoid Space and Consciousness**
@@ -4679,6 +4862,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Subject sees more than actual visual stimulus when narrow aperture fixated on computer screen
 - Perception corresponds to the veridical optical projection of the state of the world.
 
+---
 
 ### Perception and Attention in Retino-Id Space
 **Experimental Findings from Visual Illusion Experiment:**
@@ -4698,6 +4882,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Retinoid system with long-term memory and synaptic matrix enable creative modeling.
 * Detailed description of neuronal design given in T rehub (1991).
 
+---
 
 ### Retinoid System and the Science of Consciousness
 **Self System (Rehub 2007)**
@@ -4720,6 +4905,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Implications extend understanding of source of scientific concepts and contribute to weak anthropic principle
 - Challenge: Pursue scientific challenge of formulating alternative, superior explanations for subjectivity and phenomenal world.
 
+---
 
 ## 31. Prehistoric Astronomers Ancient Knowledge Created By Modern Myth
 **Upper Paleolithic Achievements and Astronomy in Europe**
@@ -4747,6 +4933,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Significant impact on Paleolithic research direction
 - Still influencing scientific circles today despite criticism in the late 20th century.
 
+---
 
 ### Paleolithic Sky Lore and Constellation Interpretations
 **Paleolithic Calendars and Constellations**
@@ -4772,6 +4959,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Shaman figure serves as reference line, bird-headed shaman stick points to North Pole
 - Other interpretations include representations of the Pleiades and Moon cycle in various drawings.
 
+---
 
 ### Prehistoric Origins of Constellations in Europe
 **The Origin of Constellations**
@@ -4807,6 +4995,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Aid in navigation (land and sea)
 - Long process, with origins reaching far back into human history
 
+---
 
 ### Cave Art and Astronomy Interpreting Paleolithic Depictions
 **Characteristics of Identification of Palaeolithic Constellations**
@@ -4830,6 +5019,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Value lies in stimulating interdisciplinary approaches and new methodologies for a complex interpretative task
 - Celestial phenomena may have influenced prehistoric communities, but proving this requires significant evidence beyond astronomical calculations.
 
+---
 
 ## 32. Intention and Attention in Consciousness Dynamics and Evolution
 **Intention and Attention in Consciousness and Cognition**
@@ -4867,6 +5057,7 @@ These techniques may be used to investigate activity sites in humans and identif
 
 **Keywords:** Attention, Intention, Free will, Neurodynamics, Cortical networks, EEG, Evolution.
 
+---
 
 ### Brain Dynamics and Consciousness A Mesoscopic Perspective
 **Neural Dynamics: Brain Structures and Complexity**
@@ -4903,6 +5094,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Attention related mainly to sensory/perceptual pathways and brain areas
 - Intention more related to motor areas and pathways (e.g., SMA, parietal cortex)
 
+---
 
 ### Consciousness Evolution Across Life Forms Perception to Intentionality
 **Consciousness, Attention, and Intention**
@@ -4930,6 +5122,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - As nervous systems evolve, processes become more advanced (e.g., cognition, language)
 - Human internal model includes other individuals and their minds, important for determining significance and predicting behavior
 
+---
 
 ### Consciousness Evolution and Interaction with the Environment
 **Self-Consciousness and the Sense of an I**
@@ -4964,6 +5157,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Consciousness provides a freedom beyond indeterminism or determinism
 - Exploration through attention, perception, and intention-action is fundamental at all levels of existence
 
+---
 
 ### Neurodynamics and Consciousness Studies Key Papers Collection
 **Moss and Gielen (Eds.) Handbook of Biological Physics, Vol. 4: Neuro-informatics, Neural Modelling**
@@ -5077,6 +5271,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - A discussion of the mind-brain problem
 - Theoretical Medicine and Biology 14, 167-180
 
+---
 
 ## 33. The Ecological Cosmology of Consciousness
 **Fundamental Mysteries of Consciousness and Its Relationship with the Physical World**
@@ -5103,6 +5298,7 @@ These techniques may be used to investigate activity sites in humans and identif
 5. **Temporal and Evolutionary Dimensions of Consciousness**
 6. **Cosmological Foundations and Directionality of Future Evolution of Consciousness**
 
+---
 
 ### Reciprocalism Interdependent Consciousness and Physical World
 **Idealism vs Materialism: Two Ontological Theories**
@@ -5129,6 +5325,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Symmetry or balance between four puzzles: What is consciousness? What is the physical world? How does consciousness depend on the physical world? And how does the physical world depend on consciousness?
 * Interdependency represented by Taijitu symbol (Yin and Yang)
 
+---
 
 ### Embodied Consciousness and Reciprocal Perception
 **The Reciprocity Between Consciousness and the Physical World**
@@ -5163,6 +5360,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Physical reality can only be consciously apprehended from within an ambient universe, through embodied consciousness, selective abstract thinking, and technologies that augment capacities.
 - Structured energy patterns permeate the physical world, providing information about their existence and make-up, enabling knowledge.
 
+---
 
 ### Evolution of Consciousness From Local to Cosmic
 **Perceptual-Proprioceptual Experience**
@@ -5186,6 +5384,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Emergence of a global consciousness potentially leading to cosmic consciousness
 * Universe evolving an embodied conscious mentality that differentiates, integrates, and brings control over its substratum.
 
+---
 
 ## 34. Consciousness Dissociation and Self-Consciousness
 **Dissociation, Consciousness, Self-Consciousness**
@@ -5216,6 +5415,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Dissociative disorders challenge the notion of a single, unified consciousness
 - Examining dissociative disorders can provide insights into the nature and underpinnings of self-consciousness.
 
+---
 
 ### Embodied Mind Brain-Body-Environment Trinity in Ontological Regard
 **Parts and Wholes: Studying Consciousness in Health**
@@ -5232,6 +5432,7 @@ These techniques may be used to investigate activity sites in humans and identif
 + Parts determine each other ontologically
 + Example: A part that doesn't eat exists because there are other parts that do eat.
 
+---
 
 ### Dissociative Parts and Consciousness in Mental Health
 **EP-Victim and EP-Controller in Dissociative Identity Disorder**
@@ -5268,6 +5469,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Sensorimotor integration and goal-orientation cannot be explained in terms of physical causation alone
 - As embodied and embedded biopsychosocial systems, we are associated with all four causes.
 
+---
 
 ### Multiple Perspectives in Dissociative Identity Disorder First- Second- and Third-Person Views
 **Dissociative Parts and Aristotelian Causes**
@@ -5297,6 +5499,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - They engage in their own Aristotelian causes, including the generation of a phenomenal self-model (FPP) but lack presentification ability (QSPP).
 - Understanding these subsystems requires an analysis of their mutual relations and the patient's overall biopsychosocial system.
 
+---
 
 ### Understanding Dissociative Perspectives in Self-Consciousness
 **Development of Self Consciousness: Perspectives and Epistemic Abilities**
@@ -5320,6 +5523,7 @@ These techniques may be used to investigate activity sites in humans and identif
   * Comparisons between dissociative parts and mentally healthy individuals
 - Documenting differences in neural activity, brain structures, and behavioral patterns associated with experiencing, perceiving, and knowing oneself, others, objects, and events in FPP, QSPP, SPP, or TPP.
 
+---
 
 ### Dissociation as a Tool to Study Consciousness in Neuroimaging Studies
 **Contribution of Dissociative Research to Understanding Self and Consciousness**
@@ -5341,6 +5545,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Potential contributions to philosophy, science, and patient welfare.
 - Lack of recognition in comparison with studies on other disorders like schizophrenia.
 
+---
 
 ## 35. Science and the Self-Referentiality of Consciousness
 **Background:**
@@ -5373,6 +5578,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Belief in supernatural powers as byproduct of higher-order features significant
 - Brain as modulator versus source of consciousness.
 
+---
 
 ### Radical Self-Referentiality of Consciousness
 **The Radical Self-Reference of Consciousness**
@@ -5390,6 +5596,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Consciousness comes from now here else than here, which may not seem like a satisfactory answer at first
 - But this response acknowledges that consciousness is the background condition of any act of attention
 
+---
 
 ### The Limitations of Classical Science in Explaining Consciousness
 **Indexical Term: \"I, now, this\"**
@@ -5413,6 +5620,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Formulates universal truths through scientific laws
 - Has little to say about existence or qualitative content of phenomena (appearances) experienced by someone.
 
+---
 
 ### Evolutionary Origin of Consciousness A Connection to Biology
 **Advances in Neurophysiology and Consciousness**
@@ -5432,6 +5640,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Consciousness is connected to human biology
 - Acceptance that some crucial aspects of consciousness, like reflectivity or self-awareness, are part of biological evolution and important for mankind's development and reproduction.
 
+---
 
 ### Evolution of Consciousness as Spandrel and its Relation to Spirituality
 **Evolution and Consciousness: A Debate**
@@ -5464,6 +5673,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Brain limits human capacity to have spiritual experiences
 - Understanding many-layered functionalities and amplifications of consciousness without weakening knowledge that raw experience is most immediate given.
 
+---
 
 ### Quantum Physics and the Nature of Consciousness Realist vs Anti-Realist Interpretations
 **Evolution of Consciousness: A Scientific Perspective**
@@ -5488,6 +5698,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Quantum mechanics provides important clarifications for the philosophy of mind and consciousness
 - Contextuality of quantum phenomena: they cannot be said to reveal an intrinsic property, but still hold independently of particular experimental situations.
 
+---
 
 ### Sciences Limits in Understanding Consciousness
 **Relation Between Consciousness and Quantum Physics**
@@ -5506,6 +5717,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Scientific inquiry can enrich us with complementary notions about conscious life
 - Bold hypothesis: Development of the brain in two opposite directions (improvement of technical and logical abilities vs loss of contemplative/spiritual potential) is a challenging intellectual enterprise.
 
+---
 
 ## 36. Cosmological Implications of Near-Death Experiences
 **Near-Death Experiences and Materialism**
@@ -5527,6 +5739,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Described since the 19th century, studied systematically for past 30 years (Holden et al., 2009)
 - Experiences include: feeling of peace and joy; out-of-body perspective; sense of pain; bright light or Being of Light; encountering other beings, often deceased persons; memory revival or full life review; sensation of a barrier or border.
 
+---
 
 ### General Anesthesia and Cardiac Arrest Challenging Mind-Brain Production Theory of NDEs
 **Hypotheses Proposed to Explain NDEs**
@@ -5559,6 +5772,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Conclusion**:
 - Mind-brain production theory unable to explain NDEs due to lack of detectable brain activity under general anesthesia or cardiac arrest conditions.
 
+---
 
 ### Near-Death Experiences Challenging Materialist Explanations
 **Theories and Defenses for NDEs:**
@@ -5578,6 +5792,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Analysis showed enhanced mental functioning was more common when people were physiologically close to death than not (Owens et al., 1990)
   - Examples: rapid revival of memories, almost instantaneous panoramic review of entire life, seeing one's body from a different perspective, witnessing events around the body.
 
+---
 
 ### Perception of Events Beyond Sensory Reach in Near-Death Experiences
 **Mind-Brain Production Theory**
@@ -5606,6 +5821,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - More common among people close to death than hallucinations reported by others
   - Differs from hallucinations reported by non-NDE patients, who are more likely to see living persons
 
+---
 
 ### Neurodissociative Experiences Under Extreme Conditions Challenging the Mind-Brain Production Theory
 **Whinnery (1997) Study Findings:**
@@ -5629,6 +5845,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Progress in understanding consciousness requires accommodating extraordinary experiences such as NDEs within our models of consciousness
 - Contemporary consciousness models based on classical physics are incomplete; post-classical physics offers empirical support for a new conceptualization of mind-brain interface.
 
+---
 
 ## 37. Near Death Experiences and the 5th Dimensional Spatio-Temporal Perspective
 **Near Death Experiences (NDEs)**
@@ -5658,6 +5875,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Patients described clear memories and accurate descriptions, not just vague or distorted.
 - Further investigation required into the modalities of these paradoxical perceptions without making assumptions about their reality.
 
+---
 
 ### Multidimensional Consciousness in Near-Death Experiences
 **Perception During Near-Death Experiences (NDEs)**
@@ -5675,6 +5893,7 @@ These techniques may be used to investigate activity sites in humans and identif
   * Human perception sees everything at a glance
 * Applicability to NDE experiences and their descriptions.
 
+---
 
 ### Perception of Omnipresence and Passing Through Solid Objects in Near-Death Experiences
 **Perception and Vision in Near Death Experiences (NDEs)**
@@ -5696,6 +5915,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - T weedee's interpretation: 2D walls are black lines for him
 - Easy passage through walls without difficulty.
 
+---
 
 ### Multisensory Perception in Near-Death Experiences
 **360 Degree Vision during NDEs**
@@ -5725,6 +5945,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Enhanced understanding through a panoramic perspective
 - Possible connection with the concept of seeing everything at once.
 
+---
 
 ### Dynamic Perspective Effects in NDE Perceptions
 **Perception by Transparency in Near Death Experiences (NDEs)**
@@ -5750,6 +5971,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - In some cases, the point of perception may move dynamically, allowing for new perspectives
 - T. weedee's experience illustrates this when he moves perpendicularly away from his body while remaining above it, seeing everything in its vicinity from a new vantage point.
 
+---
 
 ### Perceptions of Non-Linear Time and Space During NDEs
 **Understanding NDE Perceptions of Space and Time**
@@ -5758,6 +5980,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * **Fourth dimension:** Notion of a fourth dimension has been discussed since 19th century as mathematical and geometric speculations, within metaphysics, philosophy, fine arts, etc. For rigor, we should consider at least a five-dimensional world with space and time closely linked (Brumblay 2003).
 * **Perception during NDE:** Notions of time or duration may disappear, leading to an eternal present or omnitime experience for some individuals (S.D, K.E, M.M, M-P .S, M.N). In other cases, time seems to flow differently and everything happens at once (A.L).
 
+---
 
 ### Perception of Time During Near-Death Experiences
 **The Experience of Time During Near Death Experiences (NDEs)**
@@ -5787,6 +6010,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Hypothesis: extra-dimensional vantage point
 - Supported by accounts of various temporal perspectives.
 
+---
 
 ### Perception Beyond Time NDE Accounts
 **Non-locality and Time Perspective in NDEs**
@@ -5814,6 +6038,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Difficulty Explaining the Experience:**
 - NDErs find it difficult to share or explain their experience using common words.
 
+---
 
 ### Five-Dimensional Consciousness Exploring Extra Dimensions in Near-Death Experiences and Brane Cosmology
 **Near Death Experiences (NDEs)**
@@ -5845,6 +6070,7 @@ These techniques may be used to investigate activity sites in humans and identif
       - Finite size, not sufficient for perspective effects (1mm)
       - Infinite size, suitable for extradimensional modeling proposed by Randall and Sundrum in 1999.
 
+---
 
 ### Space-Time Perception in Near-Death Experiences A Multidimensional Approach
 **Model: Scalar Relativity**
@@ -5866,6 +6092,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Hyper dimensional interpretation of perceptual particularities in NDEs intriguing
 - Analysis focuses on global perception and acquiring of information, free from metaphysical a priori.
 
+---
 
 ## 38. In the Borderlands of Consciousness and Dreams Spirituality Rising from Consciousness in Crisis
 **The Borderlands of Consciousness in Crisis: Spirituality Rising from Crisis**
@@ -5886,6 +6113,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Overlooking Crisis: The Importance of Consciousness in Crisis**
 - Discussion on near-death experiences has overshadowed the fact that first and foremost, near-death experience is a form of consciousness in crisis.
 
+---
 
 ### Locus Coeruleus and Consciousness Regulation
 **The Brain's Three Conscious States**
@@ -5912,6 +6140,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Factors promoting REM consciousness can inhibit the LC, which is relatively silent during REM sleep
 - Counterbalances like the cholinergic REM system could potentially act on the adrenergic LC if scanning attention becomes maladaptive or focused attention is necessary in crisis.
 
+---
 
 ### REM Consciousness Transitions and Crisis Response
 **The Functioning of the LC: REM Consciousness**
@@ -5945,6 +6174,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Occurs frequently but often goes unrecognized
 - Manifested in sleep paralysis and visual or auditory hallucinations
 
+---
 
 ### Vagus Nerve and Near-Death Experiences Bridging the Boundaries of Consciousness
 **Near-Death Experiences and REM Consciousness**
@@ -5971,6 +6201,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Reciprocal connections between the nucleus tractus solitarius, PBN, and cholinergic REM structures
 - Vagal afferents can shift consciousness towards REM states, leading to unexpected transport of consciousness.
 
+---
 
 ### REM Consciousness and Near-Death Experiences A Neurological Perspective
 **Out-of-Body Experience (Autoscopy)**
@@ -6002,6 +6233,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Proposed relationship between REM consciousness and near-death experience is reasonable from neurological perspective
 - Mystery of why experiences occur remains even if brain function is understood.
 
+---
 
 ## 39. Dreams and Hallucinations Lifting the Veil to Multiple Perceptual Realities
 **Dreams and Hallucinations: Lifting the Veil to Multiple Realities**
@@ -6029,6 +6261,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Residual impressions from ancient civilizations
 - Recalled even thousands of years later.
 
+---
 
 ### Dreams Predicting Death Lincolns Foreshadowed Assassination
 **Reincarnation and Dreams**
@@ -6056,6 +6289,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Ancient societies saw dreams as important sources of future information
 - Carefully observed and interpreted.
 
+---
 
 ### Predicting the Future through Dreams and Genetics Quantum Connections
 **Ancient Beliefs about Dreams:**
@@ -6078,6 +6312,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Hardwired aspects in our genome shape lives and destiny
 * Genetic ancestry older than Earth, possibly influencing life on other planets or dimensions.
 
+---
 
 ### The Neuroanatomy of Dreams Right Hemisphere Dominance in REM Sleep
 **Neurobiology of Dreams: Overview**
@@ -6105,6 +6340,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Defective dreaming, visual imagery deficits, loss of hypnagogic imagery found in patients with focal lesions or hypoplasia of the posterior right hemisphere and abnormalities in corpus callosum (Botez et al., 1985; Kerr & Foulkes, 1981; Murri et al., 1984)
 - Paucity of REM episodes reported after split-brain surgery, with some dream activity still present (Greenwood et al., 1977)
 
+---
 
 ### REM Sleep and Serotonin A Look at Dreaming Mechanisms
 **Effects of Hemisphere Damage on Dream Reporting**
@@ -6134,6 +6370,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Focuses attention by filtering out irrelevant signals
 - Suppresses activity in the lateral geniculate nucleus of the thalamus and synaptic functioning in the visual cortex, as well as the amygdala
 
+---
 
 ### The Amygdala Gateway to Multiple Perceptual Realities
 **The Amygdala: Gateway to Multiple Perceptual Processing**
@@ -6154,6 +6391,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * The witness became friends with Damon due to their isolated military duty
 * The witness was a satellite technician
 
+---
 
 ### Damon Wells Sacrificing Victims to the Devil
 **Damon Well's Background:**
@@ -6175,6 +6413,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Instead of helping, he took her deep into the woods, assaulted her, killed her, and left her body on a rock
 - Tanya's friends and family reported her missing, but no evidence was found at the scene.
 
+---
 
 ### Dreams and LSD-Induced Hallucinations
 **No signs of a struggle. Just an abandoned car.**
@@ -6194,6 +6433,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Acts directly on amygdala and hippocampus (Bennett & Snyder, 1976; Gresch et al., 2002)
 - Enhances perception: \"I was walking toward a park and stopped to touch a green leaf... I could taste it's greenness through my fingers\"
 
+---
 
 ### LSD-Induced Sensory Alterations and Cerebral Hemisphere Activity
 **LSD Experience and Hallucinations**
@@ -6214,6 +6454,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Complex hallucinations typically follow right rather than left cerebral lesions or seizure activity.
 - Direct stimulation of neocortex and amygdala also produces complex hallucinations.
 
+---
 
 ### Near-Death Experiences and Hallucinations in Temporal Lobe Epilepsy
 **Temporal Lobe Hallucinations**
@@ -6233,6 +6474,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Similar experiences detailed in ancient Egyptian funeral texts and modern accounts (Eadie 1992; Joseph 1996; Rawling 1978; Ring 1980)
 * Case example: Lisa, a college student who survived a car accident, reported being detached from her body and floating up and down hospital corridors, watching doctors and nurses attend to her (Williams 1956).
 
+---
 
 ### Out-of-Body and Fear-Induced Hallucinations in Near-Death Experiences
 **Near Death Experiences (NDX)**
@@ -6255,6 +6497,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Splitting of consciousness: inside controlling car while outside observes situation
 - Perceptual and hallucinogenic experiences can occur during near death situations.
 
+---
 
 ### Evolution of Consciousness and Hallucination in Humans
 **The Nexus Between Out-of-Body Experiences and Hippocampal Functioning**
@@ -6278,6 +6521,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Language capabilities evolved gradually from primitive manifestations to complex conversational skills
 - Human brain may continue to evolve or de-evolve depending on technological advancements.
 
+---
 
 ## 40. Altered Consciousness Is A Many Splendored Thing
 **Altered States of Consciousness (ASC)**
@@ -6313,6 +6557,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Goes against centeries' critiques of naive realism, both in the West and East
 - Contradicts research on perception, cognition, and personality (Ornstein, 1986; Greenwald, 1980).
 
+---
 
 ### Altering Consciousness for Personal Growth and Wellbeing
 **Western and Eastern Spiritual Ascriptions**
@@ -6342,6 +6587,7 @@ These techniques may be used to investigate activity sites in humans and identif
   - Increase sense of meaningfulness in life and heal differently
   - Obtain alternate epistemological routes to comprehend ourselves and the universe
 
+---
 
 ### Enhancing Life Meaning and Healing Through Altered States of Consciousness
 **Psychedelics and Altered States of Consciousness (ASC)**
@@ -6372,6 +6618,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Hypnosis and meditation shown to have therapeutic effects (Horowitz, 2010; Mendoza & Capafons, 2009)
 - Connection between ASC techniques and positive outcomes still being researched.
 
+---
 
 ### Exploring the Reality-Altering Potential of Altered States of Consciousness
 **The Role and Significance of Alternative Self-World Representations (ASC)**
@@ -6394,6 +6641,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Research on parapsychological phenomena suggests consciousness exists beyond time and space constraints, often during ASC
 - Connection between consciousness and the universe: World can be found not only in a grain of sand but in the state of consciousness intuiting that connection.
 
+---
 
 ## 41. Quantum Physics and the Multiplicity of Mind Split-Brains Fragmented Minds Dissociation Quantum Consciousness
 **Quantum Physics, Relativity, and the Multipplicity of Mind**
@@ -6420,6 +6668,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Multiple realities: possibility of multiple consciousnesses and observers
 - Each reality created by its own mind, creating potential for different interpretations or perceptions of reality.
 
+---
 
 ### Quantum Reality and Duality in the Copenhagen Model
 **Concept of Reality Beyond Quantum State**
@@ -6438,6 +6687,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Human brain functionally specialized, different mental states located in specific areas
 - Differential processing of identical experiences by various brain regions.
 
+---
 
 ### Multiplicity of Mind and Perception in Quantum Mechanics
 **Multiplicity of Mind and Reality**
@@ -6463,6 +6713,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - **Consciousness**: Associated with the new brain (neocortex)
 - **Frontal Lobes**: Monitor all perceptual/sensory activity, maintain focus of attention, and can inhibit additional processing in primary areas
 
+---
 
 ### Disconnected Consciousness and Denial of Blindness in Brain Injuries
 **Brain Function and Consciousness:**
@@ -6484,6 +6735,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Even with destruction of the visual lobe, conscious mind may deny being blind
 - This denial occurs because other mental systems are uninformed about the loss of visual consciousness.
 
+---
 
 ### Body Image and Consciousness Phantom Limbs and Bodily Neglect
 **Blind Sight and Body Consciousness:**
@@ -6508,6 +6760,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Can experience pain associated with trauma that led to amputation, called phantom limb pain
 - Mental system of parietal lobe preserves body image and consciousness even when parts are missing.
 
+---
 
 ### Brain Hemisphere Domains and Consciousness Division
 **Split Brains and Split Minds**
@@ -6534,6 +6787,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Language dependent mind associated with the left hemisphere (Joseph, 1982, 1996)
 - Expressive and receptive speech, linguistic knowledge and thought, mathematical and analytical reasoning, reading, writing, temporary-sequential and rhythmical aspects of consciousness (Joseph, 1982, 1988a).
 
+---
 
 ### Duality of Consciousness Split-Brain Effects on Decision-Making and Motor Control
 **Overlap in Functional Representation between Left and Right Hemispheres**
@@ -6574,6 +6828,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Unexpected diversion of course, potentially leading to embarrassment or undesired outcomes
 - Sudden striking or choking by left hand, requiring intervention from right hemisphere.
 
+---
 
 ### Multiple Mental Systems in Split-Brain Patients and Beyond
 **Split Brain Patients' Experiences of Interhemispheric Conflict:**
@@ -6606,6 +6861,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Involved in self-reflection, personal identity, and self-consciousness (Joseph, 1992, 1998, 1999b, 2001)
 - Enable individuals to visualize and remember themselves from an external perspective.
 
+---
 
 ### Out-of-Body Dissociative Experiences and Fear-Induced Hippocampus Hyperactivation
 **Hippocampus and Out-of-Body Dissociative Experiences**
@@ -6632,6 +6888,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Examples:
   - Army Specialist J. C. Bayne's out-of-body experience after being killed in Vietnam (Wilson, 1987; Sabom, 1982)
 
+---
 
 ### Quantum Consciousness and Multiple Minds Perception of Reality
 **Consciousness and Quantum Unity**
@@ -6664,6 +6921,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Contrary to standard interpretations, states can have both definite position and momentum simultaneously
 - The mind is capable of becoming one with the continuum and achieving singularity
 
+---
 
 ## 42. Consciousness and Quantum Physics A Deconstruction of the Topic
 **Consciousness and Quantum Physics:** A Decentered Construction of Topic
@@ -6694,6 +6952,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Discussion of consciousness in relation to quantum physics requires careful consideration of meanings and contexts
 - Unresolved issues around consciousness bring metaphysical implications that challenge the physical realm's principles.
 
+---
 
 ### Dis-Closure Quantum Brain Dynamics and World Appearance
 **Deconstructing Consciousness in Quantum Physics**
@@ -6735,6 +6994,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Active REM sleep: revival of between-two with participation of other action inhibited
 - Dream life disclosed: function of residual self-actions and retraces.
 
+---
 
 ## 43. Logic of Quantum Mechanics and Phenomenon of Consciousness
 **Quantum Mechanics and Consciousness**
@@ -6755,6 +7015,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The author's approach is based on the logical structure of Quantum Mechanics, rather than analyzing processes in the brain
 - Consciousness arises from specific features of the concept of reality in Quantum Mechanics
 
+---
 
 ### Quantum Parallel Worlds The Everett Interpretation
 **Quantum Mechanics and the Many-Worlds Interpretation**
@@ -6775,6 +7036,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Experimentally proven for microscopic systems, but should also apply to macroscopic systems
 - Classically incompatible or alternative states must coexist as parallel worlds due to quantum mechanics
 
+---
 
 ### Everetts Many-World Interpretation Separation of Consciousness and Alternative Perceptions
 **Everett's Many-Worlds Interpretation (EMI)**
@@ -6799,6 +7061,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - This led to the development of the Extended Everett Concept (EEC), which simplifies the logical structure of quantum theory
 - The EEC identifies the two primary concepts of consciousness and alternative separation, reducing it to a single concept.
 
+---
 
 ### Accessing Alternative Realities through Unconscious State
 **EEC Theory: Extended Everett's Concept (EEC)**
@@ -6825,6 +7088,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Objective probability p is small but non-zero
 - Subjective probability p may differ and be influenced by observer's preference.
 
+---
 
 ### Quantum Consciousness and Probabilistic Miracles
 **Extended Everett's Concept (EEC)**
@@ -6848,6 +7112,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Difficulties in constructing a purely objective quantum theory, as consciousness is necessary for analysis
 - Present stage of quantum theory marked as the second quantum revolution.
 
+---
 
 ## 44. A Quantum Physical Effect of Consciousness
 **Quantum Physical Effect of Consciousness**
@@ -6876,6 +7141,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Implications:**
 - Conscious being's ability to distinguish nonorthogonal quantum states reveals a distinct quantum physical effect of consciousness, lacking for physical measuring systems without consciousness.
 
+---
 
 ### Quantum Consciousness Distinguishing Superposition States
 **Quantum Effects of Consciousness**
@@ -6900,6 +7166,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Collapse time for single superposition state can vary randomly between 0 and infinity
 - The slow collapse condition is also applicable in many-worlds theory and de Broglie-Bohm theory.
 
+---
 
 ### Quantum Consciousness and the Distinction of Nonorthogonal States
 **Theories Comparison: Consciousness vs. Quantum Mechanics**
@@ -6923,6 +7190,7 @@ These techniques may be used to investigate activity sites in humans and identif
   + Consciousness might be a fundamental property of substance, possessed by all matter
   + New result may provide quantum basis for panpsychism.
 
+---
 
 ## 45. The Conscious Observer in the Quantum Experiment
 **Two-Slit Experiment: Conscious Observer and Quantum Theory**
@@ -6951,6 +7219,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Unresolved quantum measurement problem arises from both quantum theory and experiment
 - Depends crucially on the assumption of free will of the experimenter.
 
+---
 
 ### Quantum Experiment and Observers Free Choice Impact on Observed Outcome
 **Experimental Findings and Observations:**
@@ -6980,6 +7249,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Choosing interference experiment would establish different history: aspects of object came on both paths to both boxes after mirror encounter
 - Quantum cosmologist John Wheeler suggested testing history creation by delaying choice of experiment until after object made decision at semi-transparent mirror. Results would imply relevant history was created by later choice.
 
+---
 
 ### Quantum Non-Locality and the Conscious Observer
 **Quantum Experiment and Non-locality**
@@ -7005,6 +7275,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Intrusion of conscious observer through observation and collapse of wavefunction
 * Difficulty resolving quantum measurement problem without underlying structure
 
+---
 
 ### Quantum Enigma Influence of Consciousness on Experimental Physics
 **Background Information:**
@@ -7024,6 +7295,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Research by Aspect et al. (1982), Bell (1964 & 1981), and others challenges the completeness of quantum mechanical description of physical reality.
 - The concept of an overarching structure requiring conscious free will is mentioned for addressing this issue.
 
+---
 
 ## 46. Does Quantum Mechanics Require A Conscious Observer
 **Quantum Mechanics and Conscious Observer**
@@ -7057,6 +7329,7 @@ These techniques may be used to investigate activity sites in humans and identif
   * Conscious observers not required by experimental facts
 - Understood as simplified measuring devices causing misunderstanding due to limited degrees of freedom.
 
+---
 
 ### Quantum Measurement Paradox and its Misconceptions
 **Physics and Misconceptions about Quantum Mechanics**
@@ -7088,6 +7361,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - The cat should be in a superposition of life and death states, but never observed this way
 - The expectation is that a camera would record the cat as alive until the unpredictable moment of decay
 
+---
 
 ## 47. Quantum Physics Advanced Waves and Consciousness
 **Copenhagen Interpretation of Quantum Mechanics**
@@ -7113,6 +7387,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Models in the second category cannot be tested or falsified using modern science.
 - Models in the third group attribute consciousness to principles that require extreme physical conditions for application.
 
+---
 
 ### Laws of Retarded and Advanced Waves in Quantum Physics
 **Klein-Gordon Equation and Quantum Mechanics**
@@ -7151,6 +7426,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Anabolism transforms simple structures into complex ones with absorption of energy
 * Catabolism converts higher-level structures into lower-level ones, releasing energy.
 
+---
 
 ### Anticipatory Responses in Autonomic Nervous System Experimental Evidence
 **Fantappi's Syntropy Model and Living Systems**
@@ -7186,6 +7462,7 @@ These techniques may be used to investigate activity sites in humans and identif
 4. Tressoldi et al. (2005): Anticipatory heart rate reactions in intuitive tasks
 5. Daryl Bem: Retrocausality studies showing responses before stimulus events occur (2011)
 
+---
 
 ### Quantum Physics and Consciousness Restoring Time Symmetry and Advanced Waves
 **Priming Experiments**
@@ -7219,6 +7496,7 @@ These techniques may be used to investigate activity sites in humans and identif
 4. Balanced systems (atoms): past, present, and future coexist; both advanced and retarded waves possible.
 5. CIRTS model considers advanced solutions at macro level without considering entropy restrictions.
 
+---
 
 ### Quantum Coherence and Consciousness Two Models Compared
 **Fantappi's Discovery and Syntropy Model vs CIRTS**
@@ -7251,6 +7529,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Coherence vs emotions: Emotions easier to measure than coherence
 - Bierman's formula contradicted by heart rate measurements.
 
+---
 
 ## 48. Consciousness and the Quantum
 **Sensible Quantum Mechanics or Mindless Sensationalism Framework:**
@@ -7265,6 +7544,7 @@ These techniques may be used to investigate activity sites in humans and identif
 * Taking quantum hypothesis as one of central working hypotheses
 * Framework for integrating conscious perception and quantum theory called Sensible Quantum Mechanics or Mindless Sensationalism.
 
+---
 
 ### Quantum Theory and Consciousness A Mindless Sensationalism Framework
 **Quantum Theory Formalism**
@@ -7287,6 +7567,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Not all conscious perceptions occur equally; each one has a normalized measure w(p) as associated with it, which sums up to unity for all p in the full set M.
 - The weight w(p) can be interpreted as proportional to the probability of getting this particular experience if a random selection were made.
 
+---
 
 ### Quantum Consciousness Connecting Conscious Perception and Quantum Awareness Operators
 **Sensible Quantum Mechanics: Framework for Connecting Consciousness and Quantum Theory (Page, 2003)**
@@ -7311,6 +7592,7 @@ These techniques may be used to investigate activity sites in humans and identif
 3. Awareness operators Aj for each observation (or conscious perception in SQM or MS).
 4. Expectation value i[Aj] in the quantum state given by the theory, representing probability of an observation Oj or conscious perception pj.
 
+---
 
 ### Quantum Measurement Problems in Eternal Inflationary Universes
 **Sensible Quantum Mechanics or Mindless Sensationalism**
@@ -7344,6 +7626,7 @@ These techniques may be used to investigate activity sites in humans and identif
 **Research Support**:
 - The research was supported in part by the Natural Sciences and Engineering Research Council of Canada.
 
+---
 
 ## 49. Quantum Reality and Mind
 **Two Fundamental Questions Addressed in Orthodox Quantum Mechanics**
@@ -7372,6 +7655,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - No mention or explanation for experientially described aspects of nature, leading to a logical disconnect between mental realities and physical properties
 - Collapses Descartes' duality into a nondualistic physical monism.
 
+---
 
 ### Quantum Reality Dualistic Interaction and Potentiality in Orthodox Quantum Mechanics
 **William James' Challenge to Classical Physics**
@@ -7394,6 +7678,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Actual event occurs with registration in the observer's mind (Heisenberg)
 - Physical aspects are more mind-like than matter-like due to represented probabilities and future projections.
 
+---
 
 ### Quantum Mechanics Reason-Based Dynamics vs Physical Descriptions
 **Conclusion: Orthodox Quantum Mechanics and Cartesian Dualism**
@@ -7418,6 +7703,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Pragmatic level: operates at a practical level, involving both physical and psychological aspects
 - Ontological level: fundamentally mind-like with an emphasis on unfolding reality where facts become definite.
 
+---
 
 ### Quantum Mind-Brain Interaction in von Neumanns Dynamics
 **Von Neumann's Dynamics and Quantum Mechanics**
@@ -7444,6 +7730,7 @@ These techniques may be used to investigate activity sites in humans and identif
 - Physicalist argument that this doesn't resolve the mind-matter problem
 - Flaws due to the fact that process 3 delivers nature's choice, while process 1 is man's choice (fixed by the deterministic aspect of quantum mechanics)
 
+---
 
 ### Quantum Mechanics and Human Free Will Von Neumanns Interpretation
 **Human Choices in Quantum Mechanics (Bohr and von Neumann)**

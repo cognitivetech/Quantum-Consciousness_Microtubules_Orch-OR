@@ -8,6 +8,8 @@
 > 
 > In addition to the editors, who are, respectively, an anesthesiologist, a psychologist, and an applied mathematician, contributors include such luminaries as David Chalmers, Michael Conrad, Avshalom Elitzur, Owen Flanagan, David Galin, John Kihlstrom, Christof Koch, Benjamin Libet, Roger Penrose, Karl Pribram, Gary Schwartz, Petra Stoerig, John Taylor, Andrew Weil, Fred Wolf, and many others. - [Toward a Science of Consciousness (Amazon)](https://www.amazon.com/Toward-Science-Consciousness-Discussions-Adaptive/dp/0262527650/?&tag=cognitivetech-20)
 
+---
+
 ## Contents
 - [Summary](#summary)
   - [Preface](#preface)
@@ -78,7 +80,10 @@
   - [54 The Possibility of Empirical test of Hypotheses About Consciousness](#54-the-possibility-of-empirical-test-of-hypotheses-about-consciousness)
   - [55 Toward a Science of Consciousness Addressing Two Central Questions](#55-toward-a-science-of-consciousness-addressing-two-central-questions)
 
+---
+
 ## Summary
+
 ### Preface
 
 **The Role of Consciousness in Science: Past and Present**
@@ -113,6 +118,8 @@
 + Building bridges between seemingly unrelated areas of scientific inquiry into the nature of consciousness
 + Better learning from each other through collaboration and exchange of ideas.
 
+---
+
 #### Advances in Consciousness Research Proceedings of the Tucson Conference
 
 **Understanding Consciousness:** Analyzing Progress in Brain Biomolecules, Drugs, and Parapsychology
@@ -137,6 +144,8 @@
 8. Nonlocal Space and Time Effects in Consciousness (Poster Presentations)
 9. Meaning of Conscious Now and Multidimensional Perceptions
 10. General Overviews: Can Reductive Science Explain Consciousness? Future Directions
+
+---
 
 ## I Philosophy of Mind
 
@@ -165,6 +174,8 @@
 **Philosophy of Mind: Significance and Paradoxes**
 - Flanagan's naturalistic stance: dreams are mere epiphenomena, not representations of subconscious processes
 - Reductionist/dualist paradox: the closer we look at the brain, the more enigmatic consciousness becomes.
+
+---
 
 ### 1 Facing Up to the Problem of Consciousness
 
@@ -202,6 +213,8 @@
 3. Argue that nonreductive explanation is needed for further progress
 4. Propose a naturalistic account based on principles of structural coherence and organizational invariance, as well as double-aspect theory of information.
 
+---
+
 #### Functional Explanation in Cognitive Science Perception Memory and Language
 
 **Phenomenon of Consciousness**
@@ -231,6 +244,8 @@
 - Learning: Modification of behavioral capacities based on environmental info
   - Perception, memory, language can be explained similarly by explaining function performance.
 
+---
+
 #### Hard Problem of Consciousness Unresolved Explanatory Gap
 
 **The Problem of Consciousness**
@@ -243,6 +258,8 @@
    - Explanation: These oscillations seem to be correlated with awareness and suggest a mechanism for binding information contents together.
    - Limitations: The theory does not explain why the oscillations give rise to experience, only how they might facilitate binding and storage in memory.
 2. Interview with Koch (published) stated that Crick and Koch's theory aims to understand the neurobiology of consciousness but doesn't claim to solve the hard problem.
+
+---
 
 #### Cognitive Perspectives on Consciousness Unanswered Questions
 
@@ -271,6 +288,8 @@
 - Examples: Edelman's neural Darwinism model, Dennett's multiple drafts model, Jackendoff's intermediate level theory
 - Researchers have different attitudes towards the problem of experience and sometimes take a clear stand.
 
+---
+
 #### The Quest for the Extra Ingredient in Consciousness Explanation
 
 **Approaches to Explaining Conscious Experience**
@@ -291,6 +310,8 @@
 - Proposed extra ingredients include: nonalgorithmic processing, nonlinear dynamics, neurophysiology discoveries, and quantum mechanics
 - However, these approaches do not provide a complete explanation of why experience arises from these processes
 
+---
+
 #### Beyond Reductive Explanations for Consciousness
 
 **The Problem of Consciousness: Experience Cannot Be Explained by Physical Processes Alone**
@@ -307,6 +328,8 @@
 **Alternative Approaches:**
 1. Nonreductive explanation: Taking fundamental entities as basic and giving a theory of how they relate to everything else in the world; expanding the ontology of physics to account for new components like electromagnetic charge and forces.
 2. Further investigation: Continuing to explore alternative methods when simple ones fail, as the problem is considered interesting rather than unsolvable.
+
+---
 
 #### Towards a Theory of Consciousness Fundamental Entities and Basic Laws
 
@@ -328,6 +351,8 @@
 
 **Towards a Theory of Consciousness:**
 * Understanding the relationship between physical processess and experience, as well as their regularities, is important for developing a theory of consciousness.
+
+---
 
 #### Structural Coherence Principle in Consciousness Theory
 
@@ -359,6 +384,8 @@
 - Central fact: complex structure in both conscious experience and awareness
 - Each structural feature in experience has a corresponding feature in the information processing structure of awareness.
 
+---
+
 #### The Structural Coherence Principle in Consciousness and Awareness
 
 **Principle of Structural Coherence**
@@ -382,6 +409,8 @@
 - Structural coherence allows for indirect explanation of consciousness using physical processes
   - Existing work in neuroscience aimed at isolating neural correlates of consciousness can be interpreted through this principle.
 
+---
+
 #### Basic Principle of Information as Foundation for Consciousness
 
 **Coherence Principle and Awareness Mechanisms**
@@ -403,6 +432,8 @@
 **Fundamental Principle Needed**:
 - More basic principles required to explain conscious experiences based on the above constraints
 - Proposed principle involves information and Shannon's notion of information states embedded in an information space.
+
+---
 
 #### Information-Based Consciousness Theory
 
@@ -429,6 +460,8 @@
 **Progress and Future Work:**
 - Further investigation needed for explanatory success
 - More refined theories and careful analysis required.
+
+---
 
 #### Consciousness Intrinsic Properties and Information Processing
 
@@ -458,6 +491,8 @@
 - Hameroff, S. R. (1994). Quantum coherence in microtubules: A neural basis for emergent consciousness? Journal of Consciousness Studies, 1(2), 91-118.
 - Hardin, C. L. (1992). Physiology, phenomenology, and Spinoza's true colors. In Emergence or reduction? Prospects for nonreductive physicalism, edited by A. Beckermann, H. Flohr, and J. Kim. Berlin: De Gruyter.
 - Hill, C. S. (1991). Sensations: A defense of type materialism. Cambridge, England: Cambridge University Press.
+
+---
 
 ### 2 Consciousness and the Introspective Link Principle
 
@@ -498,6 +533,8 @@
 - Individual consciousness: overall state one is in
 - State consciousness: classifying mental states as conscious or not.
 
+---
+
 #### Higher-Order Perception Theories and Mental Representation
 
 **Higher-Order Representation (HOR) Theories of Consciousness**
@@ -514,6 +551,8 @@
 **Critique of HOP Theories**:
 - The author argues that the nature of this "perception-like awareness" is ambiguous, and there is little attention paid to detailing it.
 - They argue that the plausibility of the HOP theories depends on providing such details.
+
+---
 
 #### Higher-Order Perception Awareness of Mental State Representations
 
@@ -535,6 +574,8 @@
 + Conflation of properties of representer (brain states) with those of the represented (mental states).
 + Indirect access to one's brain states through technologies like MRI images doesn't provide complete understanding of mental states.
 
+---
+
 #### Intentional Fallacy and Perception in Consciousness Debate
 
 **Higher-Order Theories (HOP) of Consciousness:**
@@ -551,6 +592,8 @@
 **Problems with HOP:**
 - Lack of analysis for perceiving what passes in one's own mind
 - Theoretical backbone questionable due to definitional issues and conflicting interpretations among proponents.
+
+---
 
 ### 3 The Place of Qualia in the World of Science
 
@@ -571,6 +614,8 @@
 - Distinction between physics and physicalism: Physics is a scientific discipline, while physicalism is a philosophical stance
 - Physicalism asserts that only physically studied entities, properties, relations, and facts are real
 - Respect for science does not commit one to physicalism.
+
+---
 
 #### Non-Reductive Physicalism A Critique
 
@@ -600,6 +645,8 @@
 2. Causal facts involved in perception argue against viewing experienced qualia as part of the object rather than the mind/brain (Russell's argument)
 3. Other objections: difficulties with subjectivity, the role of consciousness, and more complex scenarios.
 
+---
+
 #### Primacy of Qualia Neutral Monism
 
 **Problems with the Simple View on Qualia**
@@ -617,6 +664,8 @@
 **Neutral Monism as an Alternative to Simple View**
 - This approach places qualia at the basis and treats nonqualitative properties as constructed or derivative from them.
 - It inverts the order of fundamentalness by treating qualia as more fundamental than scientific properties.
+
+---
 
 #### Neutral Monism and Qualia Integration in Science
 
@@ -640,6 +689,8 @@
 **Scientific Realism vs. Neutral Monism**:
 - "Scientific realism" refers to descriptive realism
 - Neutral monism is a speculative pointer towards integrating qualia into the scientific world, not a comprehensive solution
+
+---
 
 ### 4 The Binding Problem and Neurobiological Oscillations
 
@@ -670,6 +721,8 @@
 - Ongoing research explores neuronal events related to perceptual experiences, such as 40Hz oscillatory firing patterns in cortex (Blakeslee 1992, Crick and Koch 1990, Flanagan 1992, Koch 1992)
 - However, researchers are making a mistake assuming 40Hz oscillations may be related to perceptual awareness.
 
+---
+
 #### Neuronal Assembly Synchronization in Visual Processing
 
 **The Binding Problem in Neurobiology**
@@ -695,6 +748,8 @@
 
 **Eckhorn's Research:**
 - Synchronized neuronal assemblies in different brain areas with similar receptive fields synchronize outputs through oscillatory state for simple stimuli.
+
+---
 
 #### Neurobiological Oscillations and Binding Mechanism in the Primary Visual Cortex Synchronized Firing Patterns for Object Recognition
 
@@ -722,6 +777,8 @@
 - Higher-level comparator mechanisms, such as central feature locators or distributed recurrent feedback loops, may play a fundamental role in initial synchronization and dynamic stability of oscillations
 - Phase-locked oscillations are being taken seriously as a new solution to the superposition catastrophe and binding problem
 
+---
+
 #### Feature Segmentation and Binding Mechanisms in Visual Perception
 
 **Neuroscientists' Model of Mental Function**
@@ -745,6 +802,8 @@
 - Results extended to area 17 and PMLS, visual association areas specialized for motion
 - Stimulus-induced nonoscillatory synchronization may be more fundamental for feature binding
 - Synchronous oscillations cannot be sufficient for feature binding, but may still be necessary
+
+---
 
 #### Synchronous Neuronal Responses in Visual Cortex
 
@@ -775,6 +834,8 @@
 - Sejnowski (1981): Skeleton fibers in the brain
 - Smith et al. (1989): Effects of synchrony between primate cortico-motoneuronal cells on post-spike facilitation of muscles and motor units
 - Sporns et al. (1990, 2004): Reentrant signaling for perceptual grouping and figure segregation.
+
+---
 
 #### Neurobiological Oscillations and Visual Perception
 
@@ -822,6 +883,8 @@
 **Van Essen et al., 1992:**
 - Information processing in the primate visual system: An integrated systems perspective (Science)
 
+---
+
 ### 5 Deconstructing Dreams The Spandrels of Sleep
 
 **Philosophical Problems about Dreams**
@@ -844,6 +907,8 @@
 2. Consciousness is heterogeneous in kind, with different aspects (phenomenal and neural).
 3. The "natural method" of understanding consciousness involves integrating phenomenology, psychology, and neuroscience.
 
+---
+
 #### Exploring the Epiphenomenal Nature and Interpretability of Dreams
 
 **Evolutionary Biology and Consciousness**
@@ -863,6 +928,8 @@
 
 **Distinction Between Perceptual Consciousness and P-Dreaming**
 - Perseverative fearful thought occurring during NREM sleep is a type of p-dreaming but not the same as awake perception consciousness.
+
+---
 
 #### REM Sleep Origins and PGO Waves
 
@@ -885,6 +952,8 @@
 4. Inhibited motor output in REM sleep due to hyperpolarizing signals from brainstem neurons to spinal cord.
 5. Recent studies show mentation during dreaming operates on the same anatomical substrate as perception in waking state.
 6. PGO waves dominant during REM sleep, quiescent during NREM sleep.
+
+---
 
 #### Brain Chemical Shifts in REM Sleep for Neurotransmitter Restoration
 
@@ -914,6 +983,8 @@
 - Infants spend more time in REM sleep than adolescents, suggesting a role in releasing unconscious desires
 - Neurochemical shifts during REM sleep may allow the brain to rest and synthesize new neurotransmitters for attention, memory, and learning.
 
+---
+
 #### The Neurochemical Landscape of Sleep Cycles
 
 **Theories of Sleep Functions**
@@ -928,6 +999,8 @@
 2. **Memory Consolidation**: A hypothesis suggests that during sleep, memories are converted from electrical patterns into stable protein structures within neurons, particularly at synapses. This reactivation process occurs during REM sleep when cholinergic neurons interact with temporary electrical synaptic hot spots to create more permanent memories.
 3. **Adaptive Significance of Sleep**: The biological notion of an adaptation refers to features that increase fitness and result from selective pressures contributing to reproductive success. Sleep, including NREM and REM sleep, is proposed as an adaptation due to its restoration, conservation, and building functions. However, the adaptive significance of specific mental aspects of sleep (thoughts during NREM and dreams/lucid dreams in REM) remains unclear. They might be serendipitous accompaniments or nonadaptations if they don't undergo positive selection or modification pressures.
 4. **Function vs. Causal Contribution**: The term 'function' has multiple meanings: (1) a causal contribution sense of function and (2) functional versus dysfunctional sense. Mutant DNA causing tumor growth is an example of something functioning in the causal contribution sense but being dysfunctional biologically and psychologically for the organism. Sleep, as an adaptation, refers to its role in contributing to reproductive success through specific functions like restoration, conservation, and building processes.
+
+---
 
 #### The Function of Dreaming A Debate on Epiphenomenalism
 
@@ -962,6 +1035,8 @@
 - Neuroscientifically and phenomenologically different state
 - Cortex tries to fit REM mentation into narrative structures about personal experiences
 
+---
+
 #### Dreams as Mental Spandrels Exploring the Function and Interpretation of Dreams
 
 **Deconstructing Dreams: The Spandrels of Sleep**
@@ -978,6 +1053,8 @@
 
 **The Prevalence of Romantic or Sexual Content in Dreams**:
 - After hormonal changes in adolescence, only about 6 in 100 dreams have romantic/sexual content
+
+---
 
 #### Exploring Neuroscience and Consciousness in Dreams 40-Hz Oscillations and REM Sleep
 
@@ -1004,6 +1081,8 @@
 **Limitations of the 40-Hz Necessary Condition Hypothesis**:
 - Mentation during NREM sleep does not always involve 40-Hz oscillations, despite mentation occurring
 
+---
+
 #### Dreams Nature Function and Interpretation
 
 **Thalamocortical Oscillations in Sleeping and Aroused Brain**
@@ -1029,6 +1108,8 @@
 **Theoretical Implications of NREM and REM Sleep**:
 - Some researchers argue that the sensorily dull but thoughtlike mentation of NREM sleep challenges the idea of unconsciousness during NREM sleep
 - The debate on this issue continues, with some arguing that information processing occurs even in Stage IV NREM sleep
+
+---
 
 ## II Cognitive Science
 
@@ -1063,6 +1144,8 @@
 - Review of the language used by the brain in relevant conscious processes
 - Discussion on biological roots and social usages of varieties of conscious experience.
 
+---
+
 ### 6 Unconscious Processes in Social Interaction
 
 **General Social Interaction Cycle (GSI Cycle)**
@@ -1096,6 +1179,8 @@
 **Cycle Continues:**
 The cycle continues as both participants interact and respond to each other in a dyadic interaction. The GSI Cycle is a useful framework to understand how social behavior emerges from the cognitive processes involved in forming impressions, interpreting situations, and acting based on those interpretations during interactions between individuals.
 
+---
+
 #### Unconscious Determinants in Social Interaction Automatic Processes and Implicit Perception
 
 **Attention Shifts: Cycles of Understanding in Social Interaction**
@@ -1128,6 +1213,8 @@ The cycle continues as both participants interact and respond to each other in a
 5. Controversial matter in social psychology regarding the role of unconscious influences on cognitive contents accessible to consciousness (Greenwald, 1992; Kihlstrom, 1990, 1994b).
 6. In following discussion, I will present studies demonstrating how implicit percepts and memories mediate cognitive, affective, or behavioral aspects of social interaction.
 
+---
+
 #### Implicit Memory and Social Interaction The Mere Exposure Effect
 
 **The Dissociation Between Explicit and Implicit Memory**
@@ -1157,6 +1244,8 @@ The cycle continues as both participants interact and respond to each other in a
 - The hypothesis is that more favorable attitudes should lead to better interactions, and this was tested by exposing college students to subliminal faces of other students.
 - Even with no conscious recognition, subjects showed a preference for the previously-exposed faces, suggesting that subliminal exposure can affect behavior as well.
 
+---
+
 #### Implicit Social Perception and Preconscious Processing in Forming Impressions
 
 **Preconscious Processing and Impression Formation**
@@ -1181,6 +1270,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Limits on Preconscious Processing**
 - Debate between those who believe preconscious processing is limited vs. semantic features can be processed
 - Niedenthal's experiment somewhat ambiguous due to claims that emotional expressions can be read directly from faces without cognitive analysis
+
+---
 
 #### Unconscious Influence on Social Perception Limits of Preconscious Semantic Processing
 
@@ -1213,6 +1304,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Greenwald, A. (1992). "Preconscious processing: An analysis of limitations." American Psychologist, 47(10), 12821289.
 - Greenwald, A., R. Klinger, & J. Liu (1989). "The meaning of priming effects: Word associations and the activation of representations in memory." Journal of Memory and Language, 36(5), 440462.
 
+---
+
 ### 7 Efference and the Extension of Consciousness
 
 **Efference and the Extension of Consciousness**
@@ -1235,6 +1328,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Visual Perception and Projection of Conscious Images**:
 - With vision, conscious event breaks free from the retina and is projected into space
 - Observation of Aleister Crowley's "red rose paradox" illustrates the process of neurological response causing a mental representation of a distal object
+
+---
 
 #### Efference Theory Consciousness of Movement and Location
 
@@ -1281,6 +1376,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Succinylchloride chloride dihydrate blocks motor neuron connections, suggesting efference cause of afterimage shift
 - Preliminary experiments support theory: efference responsible for image movement and location, not other components.
 
+---
+
 ### 8 Edelmans Biological Theory of Consciousness
 
 **Edelman's Theory of Consciousness (1989)**
@@ -1320,6 +1417,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Mental scene depicting here and now
 - Brain stem/limbic system is the hedonic system mediating internal values based on evolutionary selection for homeostatic autonomic and endocrine functions. It facilitates expression of appetitive, consummatory, defensive behaviors like food or water procurement, sexual reproductive behavior, aggression.
 
+---
+
 #### Edelmans Theory of Consciousness Interplay Between Sensory Systems
 
 **Brain Systems and Consciousness**
@@ -1354,6 +1453,8 @@ The cycle continues as both participants interact and respond to each other in a
 2. A lexicon/vocabulary accrued due to semantics
 3. Syntax emerged with the correlation of preexisting conceptual learning and a large vocabulary
 
+---
+
 #### Self-Concept and Higher-Order Consciousness in Edelmans Theory of Consciousness
 
 **Broca's and Wernicke's Area:**
@@ -1380,6 +1481,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Somatosensory plasticity findings support notions regarding interactive competition and strengthening synaptic connections (Clark et al., 1988)
 - Disruptions of reentrant connections lead to alterations in consciousness due to brain damage, such as HM case (Corkin, 1984), blindsight victims (Weiskrantz et al., 1974), contralateral neglect syndrome (Sacks, 1985), and complete loss of cognition in Karen Ann Quinlan (Kinney et al., 1994)
 - Extensive bilateral and symmetric damage to thalamus with less severe damage observed in cortex, cerebellum, basal ganglia in case of Karen Ann Quinlan may require reevaluation of thalamus' role in theory.
+
+---
 
 ### 9 The Structure of Subjective Experience Sharpen the Concepts and Terminology
 
@@ -1415,6 +1518,8 @@ The cycle continues as both participants interact and respond to each other in a
   - Fringe: feelings of familiarity, knowing, action tendencies, expectant feelings
 - Recognized the importance of the fringe experience in guiding thought
 
+---
+
 #### Fringe Experiences The Tip-of-the-Tongue Phenomenon
 
 **James' Distinction: Fringe vs. Nucleus**
@@ -1447,6 +1552,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Some categorize vague awareness as preliminary or defective, ignoring its significance.
 - Research and theory often overlook the importance of fringe experiences.
 
+---
+
 #### Relating Jamess Model to Modern Concepts Fringe Awareness in Contemporary Psychology
 
 **Spotlight Metaphor vs James's Model**
@@ -1475,6 +1582,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Provides relational/evaluative information, not just more content
 - Links fringe awareness to connectionist concepts and "goodness-of-fit" metric.
 
+---
+
 #### Differentiating Awareness Levels Based on Information Provided
 
 **Mangan's Hypothesis**
@@ -1496,6 +1605,8 @@ The cycle continues as both participants interact and respond to each other in a
 9. Nonconscious knowledge as a set of representations in property spaces
 10. Architectures of concept spaces proposed by various authors, but an oversimplified sketch is sufficient for the present purpose.
 
+---
+
 #### Varieties of Awareness Beyond Focus in Consciousness
 
 **Feature-Awareness vs Fringe-Experience**
@@ -1513,6 +1624,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Can be categorized into:
   - **Current Topic Summary Awareness**: Information about an object's global meaning and connections beyond the selected features
   - **Competing Topic Summary Awareness**: Nonconscious knowledge related to other topics or goals competing with the current one.
+
+---
 
 #### Taxonomy for Awareness Related to Self-Monitoring
 
@@ -1542,6 +1655,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Knowledge structure consisting of beliefs, attitudes, and facts about "who one is" as an object in the world
 - Different from self-monitoring: comes from various sources, not solely based on self-reported data.
 
+---
+
 #### Subjective Experience and Self-Monitoring Framework for Emotions
 
 **Emotions and Personal Goals**
@@ -1563,6 +1678,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Conclusion**
 - A complete theory of awareness requires accounts at the subjective level as well as neurological, cognitive, and behavioral levels
 - Contemporary psychologists hold various convictions about the causal potency of awareness; attending to subjective experience is beneficial for understanding underlying structures.
+
+---
 
 #### Varieties of Awareness in Psychology and Cognitive Science
 
@@ -1596,6 +1713,8 @@ The cycle continues as both participants interact and respond to each other in a
 5. Other References on Awareness:
    - Norman and Shallice (1986), Baars (1988) proposed models for awareness selection
 
+---
+
 ### 10 The Varieties of Conscious Experience Biological Roots and Social Usages
 
 **The Varieties of Conscious Experience: Biological Roots and Social Usages**
@@ -1627,6 +1746,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Distinguished based on responsiveness to prodding or incoherent thrashing
 - Comatose individuals show no response
 
+---
+
 #### Synaptodendritic Processing Domains in Rat Whiskers
 
 **State-Dependent Consciousness: Synaptodendritic Microprocesses**
@@ -1646,6 +1767,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Synaptodendritic Processing Domains:**
 - Density of stimulation a function of both spacings of cylinder grooves and speed of rotation (spectral domain)
 - Single whisker experiments: irregular and broadly tuned receptive field potential manifolds due to constraints such as anatomical extent and inhibitory/excitatory relationships between fields.
+
+---
 
 #### Gabor-Like Manifolds and Cortical Processing Medium
 
@@ -1672,6 +1795,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Information processing essential for uncertainty reduction (Shannon & Weaver, 1949)
 - Posterior intrinsic cortex determines range of alternatives and sample size for informative elements.
 
+---
+
 #### Behavioral Changes Following Amygdala Lesions in Monkeys
 
 **Patient with Difficulty Sitting Up in Bed:**
@@ -1692,6 +1817,8 @@ The cycle continues as both participants interact and respond to each other in a
   - Summary: shared species-specific behaviors
 - Instinct vs. species-specific behaviors: preference for retaining instinct concept
 - Species-shared behavior patterns of interest in tracking effects of amygdalectomy.
+
+---
 
 #### Amygdala and Memory Processes Orienting Familiarity and Distraction
 
@@ -1723,6 +1850,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Conscious feeling regarding an experience
 - Clinically, patients with lesions in amygdala region describe "jamais vu" and "deja vu" experiences
 - In laboratory settings, familiarity related to reinforcement history: monkeys trained on a 70% reward schedule for selecting one of two cues.
+
+---
 
 #### Frontal Cortex and Executive Functioning
 
@@ -1757,6 +1886,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Derives input from medial portion of thalamus (n. medialis dorsalis)
 - Close anatomical relationship to limbic medial forebrain in primates
 
+---
+
 #### Far Frontal Cortex and Narrative Construction for Conscious Experience Enhancement
 
 **Understanding Far Frontal Cortex and its Role in Processing Covariation**
@@ -1783,6 +1914,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Far frontal cortex has been linked to transcendent states of consciousness.
 - James explored both ordinary and extraordinary states of consciousness (James, 1870).
 
+---
+
 #### Consciousness and Holistic Processing in Esoteric Traditions
 
 **The Esoteric Tradition in Western Culture and Mystical Traditions of the Far East**
@@ -1806,6 +1939,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Limit to accuracy of certain measurements when others are being taken: indeterminacy
 - Gabor's description of quantum of information leads to unit of minimum uncertainty and convergence with understanding of communication microstructure and matter structure
 - Some physicists note similarity between observer specification in quantum physics and esoteric descriptions of consciousness, resulting in books like "The Tao of Physics" (Capra 1975) and "The Dance of the Wu Li Masters" (Zukav 1971)
+
+---
 
 #### Unifying Science and Spirituality The Evolution of Consciousness
 
@@ -1831,6 +1966,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Affinity between consciousness and Experience (untested)
 - Consciousness occurs when some destabilizing "trying" event or series of events takes place
 - To be conscious is to experience, to be tried and to try
+
+---
 
 ## III Medicine
 
@@ -1863,6 +2000,8 @@ The cycle continues as both participants interact and respond to each other in a
 - Review of research on Alzheimer's patients and their ability to monitor their own behavior, including dementia symptoms and experimental methods
 - Conclusion: Self-monitoring aspect of awareness deteriorates in Alzheimer's patients.
 
+---
+
 ### 11 Induction of Consciousness in the Ischemic Brain
 
 **Background:**
@@ -1884,6 +2023,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Significance:**
 - Understanding consciousness and its neurological basis through fighter aviation research
 - Reducing risk associated with +Gz stress in aircraft piloting.
+
+---
 
 #### The G-LOC Syndrome Neurological Response to Gravity Stress
 
@@ -1907,6 +2048,8 @@ The cycle continues as both participants interact and respond to each other in a
 5. **Manipulating kinetic characteristics** to reduce incapacitation period for fighter pilots
 
 **Table 11.1:** Individual symptoms of the G-LOC syndrome correspond to specific functional configurations in the nervous system caused by alterations in energy (blood flow) and anatomic structure.
+
+---
 
 #### Adverse Gravitational Effects on Consciousness
 
@@ -1953,6 +2096,8 @@ The cycle continues as both participants interact and respond to each other in a
 9. **Adaptation to Earth's 1Gz Gravitational Environment**
    * Transition from zero +Gz (oceans) to -1 Gx (land) and finally to +1 Gz (upright on land) facilitated human evolution
 
+---
+
 #### Protection Mechanisms of the Central Nervous System in Gravitational Stress
 
 **Healthy Humans and Gravitational Stress**
@@ -1979,6 +2124,8 @@ The cycle continues as both participants interact and respond to each other in a
 **Theoretical Framework: Consciousness as a Protective Mechanism**
 - Approaching neurologic states from a protective perspective facilitates understanding of central nervous system responses
 - Consciousness represents primary protection for the organism in response to external threats, while unconsciousness protects the nervous system against internal ischemic/hypoxic threats.
+
+---
 
 #### Thermodynamic Analysis of Consciousness Levels in the Human Nervous System
 
@@ -2016,6 +2163,8 @@ C = f(m, E, S)
 3. Continuum of neurological energy content, possibly quantized with improved measurement capabilities
 4. Arbitrary normal ranges defined based on observable capabilities (memory, response, sensing)
 5. Classical approach to understanding consciousness using experimental data.
+
+---
 
 #### Exploring Consciousness through G-LOC Syndrome and Near-Death Experiences
 
@@ -2056,6 +2205,8 @@ C = f(m, E, S)
 * Further development of experimental evidence and theory will lead to insight into potential inconsistencies
 * Broad range of information applicable to evolutionary development, mechanisms for ensuring survival, neurologic states during life, ultimate pathway followed at the end of life.
 
+---
+
 ### 12 Conflicting Communicative Behavior in a Split-Brain Patient Support for Dual Consciousness
 
 **Case Report: Unusual Brain Development and Consciousness**
@@ -2065,6 +2216,8 @@ C = f(m, E, S)
 - Underwent corpus callosum division surgery (split-brain procedure) when seizures were severe
 - Post-surgery: gait incoordination and speech dysfluency
 - Unusual behaviors during rehabilitation: left hand disrupting right hand actions, self-contradictory responses on psychological tests, emotional outbursts during conflicts between hands and personalities.
+
+---
 
 #### Dual Consciousness in Split-Brain Patient Unified Mind Through Internal Resolution Loss
 
@@ -2089,6 +2242,8 @@ C = f(m, E, S)
 - Neither hemisphere was aware of each other's thoughts prior to expression
 - Lack of inner resolution leading to uncontrolled spoken or manual combat is unusual but can occur after impaired compensation for interhemispheric dissociation.
 
+---
+
 ### 13 Left Brain Says Yes Right Brain Says No Normative Duality in the Split Brain
 
 **Experiment Overview**
@@ -2108,6 +2263,8 @@ C = f(m, E, S)
 - Unilateral conditions reflect different degrees of decision bias dominance: LVF-Lh shows weak dominance by right hemisphere, LVF-Rh shows strong dominance by left hemisphere
 - Bilateral presentations result in direct conflict between competing decision biases in opposite hemispheres (Figures 13.3 and 13.4)
 - Separation of response criteria in NG contradicts hypothesis of one undivided control system, suggesting normative duality in the split brain.
+
+---
 
 ### 14 Inkblot Testing of Commissurotomy Subjects Contrasting Modes of Organizing Reality
 
@@ -2133,6 +2290,8 @@ C = f(m, E, S)
 **The Right Hemisphere and Consciousness**:
 - Research suggests the right hemisphere is preferentially engaged in form perception and visual-spatial processing
 - The Rorschach Inkblot Test, a perceptual diagnostic tool, may be a viable way to elicit sustained right hemisphere processing and avoid left hemisphere dominance
+
+---
 
 #### Hemispheric Lateralization of Rorschach Inkblot Testing in Commissurotomy Patients
 
@@ -2164,6 +2323,8 @@ C = f(m, E, S)
 2. Inkblots presented twice in both left and right visual fields using lateral limits technique (Figure 14.2)
 3. Validated method for testing commissurotomy subjects (Cronin-Golomb 1986a , 1986b, Myers 1985; Trope et al. 1988).
 
+---
+
 #### Lateral Limits Technique for Inkblot Testing in Commissurotomy Subjects
 
 **Experiment 1 Method (Henninger, 1992)**
@@ -2193,6 +2354,8 @@ C = f(m, E, S)
 - Misidentified two out of four inkblots when presented in right visual field
 - Some stylized drawings showed no resemblance to blots, others vague or elephant-related labels
 - Attempted using left hand instead of right during right visual field trials.
+
+---
 
 #### Inkblot Testing of Commissurotomy Subjects Perception and Drawing Differences between Hemispheres
 
@@ -2224,6 +2387,8 @@ C = f(m, E, S)
 - Judges attempted to match drawings to Rorschach cards, line drawings, and original blots
 - Drawings by patient B showed "considerable perseveration" and similar pattern/template
 
+---
+
 #### Comparing Right vs Left Hemisphere Drawing Styles in Split-Brain Patients
 
 **Patient C's Drawing Behavior:**
@@ -2249,6 +2414,8 @@ C = f(m, E, S)
 - Right hemisphere advantage for global processing based on findings from inkblot task
 - Copying inkblot cards a successful methodology for inducing right hemisphere control
 - Distinct styles reflect combination of differences in manual dexterity, hemispheric specialization, and personality.
+
+---
 
 #### Hemispheric Influence on Rorschach Testing A Study of Commissurotomized Subjects
 
@@ -2281,6 +2448,8 @@ C = f(m, E, S)
 - Comparing drawings with verbal responses for understanding the accessing and suppression of emotional material
 - Studying nonverbal emotional processes in commissurotomy subject to further our understanding of consciousness.
 
+---
+
 ### 15 Evidence for Language Comprehension in a Severe Sensory Aphasic
 
 **Introduction**:
@@ -2302,6 +2471,8 @@ C = f(m, E, S)
 
 **Conclusion**:
 - This study has implications for theories of language comprehension and conscious access.
+
+---
 
 ### 16 Self-Awareness of Deficit in Patients with Alzheimers Disease
 
@@ -2330,6 +2501,8 @@ C = f(m, E, S)
 - Babinski (1914) observed patients with left-sided paralysis who didn't acknowledge their deficits, coining the term anosognosia
 - Observations later extended to other neurological syndromes and dementias like AD and MID
 - Empirical studies on unawareness of deficits in AD have more recently emerged.
+
+---
 
 #### Comparing Self-Report and Caregiver Ratings of AD Symptoms
 
@@ -2361,6 +2534,8 @@ C = f(m, E, S)
 - Interviewed subjects (including normal controls, individuals with senescent forgetfulness, and AD patients) and their spouses regarding memory, emotion, social functioning, and independent functioning
 - Discrepancies between patient and spouse ratings increased with severity of cognitive impairment; patients with moderate to severe deficits tended to underestimate their difficulties compared to spouses' assessments
 
+---
+
 #### Loss of Insight in Alzheimers Disease A Review of Studies
 
 **Studies Examining Self-Awareness in Dementia Patients:**
@@ -2373,6 +2548,8 @@ C = f(m, E, S)
 
 **Studies Examining Self-Awareness in Different Types of Dementia:**
 * 103 AD, 43 vascular dementia, and 24 other causes of dementia: no significant difference between groups regarding depression symptoms based on discrepancies between patient self-reports and caregiver reports concerning cognitive impairments. Awareness was related to severity of dementia but not presence or severity of depression.
+
+---
 
 #### Self-Awareness of Cognitive Deficits in Alzheimers Disease Discrepancies and Correlations
 
@@ -2405,6 +2582,8 @@ C = f(m, E, S)
 - Despite significantly lower memory test scores, AD patients did not differ from AAMI group in self-reported memory ability
 - Discrepancy between patient self-reports and caregiver ratings may not be due to caregiver overestimation or general intellectual decline alone.
 
+---
+
 #### Comparative Metamemory Studies of Dementia Patients and Controls
 
 **Studies of Self-Awareness of Deficit in Dementia Patients:**
@@ -2414,6 +2593,8 @@ C = f(m, E, S)
 * Schacter et al. found that AD patients consistently overpredict their recall performance more than controls, suggesting an unawareness of deficit but alternative explanations cannot be ruled out
 * Correa and Graves employed combined methods to examine metamemory processes in AD patients: discrepancies reported between self-reports and informant reports, impaired self-monitoring, and diminished memory awareness. However, the question of whether this reflects impaired self-awareness or more general difficulties remains unanswered due to subjects only rating their own abilities.
 * McGlynn and Kaszniak developed measures to quantitatively assess AD patients' unawareness of memory difficulties through self and relative ratings of everyday life memory-related challenges.
+
+---
 
 #### Dementia Patients Self-Assessment of Memory Deficits
 
@@ -2442,6 +2623,8 @@ C = f(m, E, S)
 - Memory self-monitoring aspect seems to break down rather than reflecting a more general cognitive estimation issue
 - Neuropsychological deficits, particularly those related to frontal and right parietal cortical functioning, have been found to correlate with patient awareness
 - Some evidence suggests that frontal lobe (right hemisphere) cerebral blood flow is correlated with clinician ratings of impaired awareness in AD patients.
+
+---
 
 ## IV Experimental Neuroscience
 
@@ -2494,6 +2677,8 @@ C = f(m, E, S)
 **Preconscious Processing, Consciousness, and Technology**
 - Several chapters discuss peculiar aspects of time in relation to conscious experience, indicating that temporal relations among perceived events may be actively processed to result in apparent simultaneity in consciousness.
 
+---
+
 ### 17 Toward the Neuronal Substrate of Visual Consciousness
 
 **Neural Correlates of Visual Awareness**
@@ -2515,6 +2700,8 @@ C = f(m, E, S)
   b. Awareness results from firing of coordinated subset of cortical (and possible thalamic) neurons for certain length of time, activating short-term memory
     i. Elevated firing rates during memory tasks provide evidence of short-term change in synapses or maintaining elevated firing rate
     ii. Minimum duration of semiglobal activity corresponding to awareness is around 100 msec
+
+---
 
 #### Neural Substrate of Visual Consciousness Awareness  Cortical Activity
 
@@ -2542,6 +2729,8 @@ C = f(m, E, S)
 **Figure 17.1 Summary Diagram**:
 - Represents the visual cortical hierarchy in macaque monkey
 
+---
+
 #### Visual Processing Streams and Consciousness Evidence from Neuroanatomy
 
 **Visual Processing in Macaque Monkeys**
@@ -2563,6 +2752,8 @@ C = f(m, E, S)
 * Demonstrated in anesthetized monkey at the level of V4, but not V1
 * Suggests that some form of awareness can be produced through neural mechanisms beyond primary visual cortex.
 
+---
+
 #### Neural Correlates of Visual Awareness in Primates
 
 **Hypothesis about Neural Activity in Visual Area V1**
@@ -2575,6 +2766,8 @@ C = f(m, E, S)
     - Psychophysical experiments demonstrating loss of sensitivity to finely spaced gratings that cannot be seen but can activate neurons in VI
   - Human neuroimaging studies have not yet provided conclusive evidence
 - Implications: Narrows the search for neural correlates of visual awareness to higher cortical areas further removed from sensory periphery
+
+---
 
 ### 18 Visual Perception and Phenomenal Consciousness
 
@@ -2603,6 +2796,8 @@ C = f(m, E, S)
 - Controversy remains about the level and type of consciousness present in simple organisms like paramecium
 - Complex behaviors may require conscious representation, while some reflexive responses do not.
 
+---
+
 #### Neural Basis of Consciousness Distinguishing Properties
 
 **Neural Basis of Consciousness: The Intermediary Net**
@@ -2628,6 +2823,8 @@ C = f(m, E, S)
 
 **Blindness:**
 - Total blindness means inability to process visual information; no visual imagery or dreams if born absolutely blind.
+
+---
 
 #### Visual Perception and Blindsight in Monkeys
 
@@ -2661,6 +2858,8 @@ C = f(m, E, S)
 - Residual visual functions observed but lack of phenomenal conscious vision unclear
 - Possible factors for striate cortex's role in phenomenal vision: providing crucial information to higher areas, receiving results of specialized analysis, establishing coherent activation patterns or cell assemblies.
 
+---
+
 #### Visual Perception in Hemianopic Monkeys Stimulus Localization and Blank Trial Tests
 
 **Residual Visual Functions in Hemianopic Monkeys**
@@ -2679,6 +2878,8 @@ C = f(m, E, S)
 - Monkeys pressed a no-stimulus response area in blank trials to obtain reward
 - Once mastered, presented fraction of stimuli in right hemifield (hemianopic field) to learn how they would respond
 - If correct responses were similar to normal field and blank trials: indicated dissociation between processing visual information and seeing it.
+
+---
 
 #### Visual Awareness and Perception in Hemianopic Monkeys Experiments and Theories
 
@@ -2709,6 +2910,8 @@ C = f(m, E, S)
 - Voluntary, phenomenal, consciously introspectible layers: conscious access to information
 - Dissociations show that perception is organized in layers with interconnected causal relationships between them.
 
+---
+
 #### Functions of Consciousness Evolution and Role in Survival
 
 **Stoerig and Cower: Visual Perception and Phenomenal Consciousness**
@@ -2730,6 +2933,8 @@ C = f(m, E, S)
 - Conscious access to memorized information may be restricted to phenomenally represented data
 - Disturbance of conscious access by phenomenal representations possible in certain conditions
 - Functions broaden behavioral repertoire and create new behaviors, rendering organism less predictable.
+
+---
 
 ### 19 Levels of Awareness and Awareness Without Awareness From Data to Theory
 
@@ -2756,6 +2961,8 @@ C = f(m, E, S)
 - Proposed theory with three levels: Level I (unconscious), II (normal consciousness), III (self-consciousness or reflective consciousness).
 - Research directions for each level not provided in text.
 - Integrates ancient spiritual ideas from native peoples with modern science.
+
+---
 
 #### EEG Changes in Subliminal Olfaction Trials Based on Subject Performance
 
@@ -2787,6 +2994,8 @@ C = f(m, E, S)
 - High performers (68% correct): similar intensity and confidence ratings to medium and low groups
 - Medium and low performers: near chance accuracy (medium at chance, low below)
 
+---
+
 #### Sensory Perception Beyond Consciousness Blindsmell in Subliminal Odorant Detection
 
 **Perceived Intensity of Subliminal Isoamyl Acetate Trials**
@@ -2815,6 +3024,8 @@ C = f(m, E, S)
 **Controversial Findings**
 - Data analysis revealed surprising and controversial results.
 
+---
+
 #### Subliminal Perception and Brain Activity in High-Performance Subjects
 
 **Subliminal Odorant Perception Study: EEG and Self-Report Findings**
@@ -2839,6 +3050,8 @@ C = f(m, E, S)
 **Topographic EEG Maps**:
 - Figure 19.6 shows topographic EEG maps for high-frequency alpha (10-12 Hz) subtracting control bottles from odor bottles for subthreshold isoamyl acetate trials, comparing hit and miss trials across high-, medium-, and low-performance groups.
 
+---
+
 #### Levels of Awareness Theory Subconscious and Beyond
 
 **Levels of Awareness Theory**
@@ -2858,6 +3071,8 @@ C = f(m, E, S)
 **Predictions:**
 1. All registered stimuli should show evidence of subtle awareness (Level I Awareness) using sensitive paradigms. Even "unconscious" processes like oxygen and carbon dioxide reception should influence self-reports and performance, though subjects may not be aware of it.
 2. With appropriate training procedures and measurement techniques, all stimuli registered by the brain can be transformed from Level I to Level II Awareness. Everyday experience indicates that with training, people become aware of information previously unknown.
+
+---
 
 #### Levels of Awareness in Nature Implications for Consciousness
 
@@ -2889,6 +3104,8 @@ C = f(m, E, S)
 **Challenges for Consciousness Science:**
 - Define awareness to address all levels of consciousness ability
 
+---
+
 ### 20 Implicit Memory During Anesthesia
 
 **Implicit Memory During Anesthesia**
@@ -2915,6 +3132,8 @@ C = f(m, E, S)
 - **Isoflurane Protocol Study (Kihlstrom et al., 1987)**:
   - Population: 30 healthy patients undergoing general anesthesia for various surgeries
   - Limited anesthetic agents to pure isoflurane, correcting previous study flaws.
+
+---
 
 #### Implicit Memory Testing during Anesthesia
 
@@ -2948,6 +3167,8 @@ C = f(m, E, S)
 - Five patients demonstrated free recall of target words; no evidence of priming for other tests
 - Free association showed significant priming effect
 
+---
+
 #### Implicit Memory During Propofol Anesthesia Effects and Susceptibility
 
 **Implicit Memory During Anesthesia**
@@ -2971,6 +3192,8 @@ C = f(m, E, S)
 - Bennett et al. (1985): Unconscious perception of meaningful sounds during surgical anesthesia as revealed under hypnosis
 - Cork et al. (1992, 1994): Absence of explicit and implicit memory with sufentanil/nitrous oxide; Implicit memory during propofol sedation
 - Goldman et al. (1987): Memory of cardiac anesthesia: Psychological sequelae in cardiac patients of intraoperative suggestion and operating room conversation
+
+---
 
 ### 21 Experimental Evidence for a Synchronization of Sensory Information to Conscious Experience
 
@@ -3002,6 +3225,8 @@ C = f(m, E, S)
    - Subject received one stimulus at a time
    - Instructed to pull handle on perception of stimulus
 
+---
+
 #### Reaction Time Measurement in Sensory Integration
 
 **Study Design**
@@ -3027,6 +3252,8 @@ C = f(m, E, S)
 - Calculated mean reaction times per subject, series of stimuli
 - Comparisons using Mann-Whitney test and paired t-test
 - Average reaction time: arm = 151.437 msec, foot = 165.331 msec (mean difference = 13.562 msec)
+
+---
 
 #### Sensory Information Synchronization Delay Compensation and Theories
 
@@ -3063,6 +3290,8 @@ C = f(m, E, S)
    - Dennett and Kinsbourne's suggested mechanism for central simultaneity
 4. Constant temporal delay in achieving property K (independent of conduction distances) if CNS is the only place where it can be achieved, then other mechanisms of synchronization must be considered.
 
+---
+
 #### Synchronization of Sensory Information Temporal Homunculus and Learning
 
 **Sensory Homunculus and Synchronization of Information**
@@ -3083,6 +3312,8 @@ C = f(m, E, S)
   - Compromise between delaying stimuli and having a more accurate system
   - Synchronization mechanism is learned or adaptable, reaching the degree of precision that is functional for the individual
 - Degree of physical fitness and coordination ability may influence synchronization
+
+---
 
 ### 22 Positron Emission Tomography Emotion and Consciousness
 
@@ -3113,6 +3344,8 @@ C = f(m, E, S)
 - Studies of fear responses in rats identified brain regions involved in sensory evaluation (thalamus), autonomic expression (hypothalamus), and behavioral expression (midbrain)
 - Potential that lesions in primary sensory cortex may not attenuate classically conditioned fear, suggesting an unconscious component
 
+---
+
 #### Neuroimaging Study on Human Emotions Film and Recall Tasks
 
 **Limitations of Animal Studies for Understanding Emotion:**
@@ -3135,6 +3368,8 @@ C = f(m, E, S)
 **Potential Roles of Identified Regions:**
 - Thalamus: Involved in evaluative, expressive, or experiential aspects of emotion; limitations prevent specifying exact thalamic region responsible for observed blood flow increases
 - Medial prefrontal cortex (Figure 22.1): Could be involved in conscious experience of emotion due to its connection with cognitive processes and integrated representation of self or in restraint from unbridled expressions of emotion.
+
+---
 
 #### Neuroanatomical Correlates of Self-Awareness and Consciousness
 
@@ -3172,6 +3407,8 @@ C = f(m, E, S)
 - **Priming effects** occur independently of semantic processing and depend crucially on form and structure information (Schacter, 1990)
 - **Study findings**: suggest perceptual representation systems are involved in priming effects on implicit memory tasks
 
+---
+
 #### Exploring Conscious and Non-Conscious Memory Processes with PET Scans
 
 **Explicit vs Implicit Memory**
@@ -3190,6 +3427,8 @@ C = f(m, E, S)
 - PET studies investigating the role of dorsolateral prefrontal cortex in executive control system
 - Research on brain changes during circadian cycle, different sleep stages, and sleep deprivation
 - Potential applications: studying pain processing during anesthesia, recognizing familiar voices in comatose patients.
+
+---
 
 ### 23 Dimensional Complexity of Human EEG and Level of Consciousness
 
@@ -3215,6 +3454,8 @@ C = f(m, E, S)
 - Investigated EEG under anesthetic sleep conditions to evaluate dimensional complexity as an index for changes in anesthetic depth
 - Conducted study with 10 human subjects at three anesthetic levels (1.0, 1.5, 2.0 MAC) using informed consent and institutional review board approval.
 
+---
+
 #### Dimensional Complexity Analysis of Human EEG and Anesthetic Levels
 
 **EEG Signals and Dimensional Complexity Analysis:**
@@ -3238,6 +3479,8 @@ C = f(m, E, S)
 - Calculated dimensional complexity for a single sine wave was in agreement with theoretical value (1.0)
 - Two sine waves of incommensurate frequencies resulted in more complex torus, experimentally calculated at 2.2.
 
+---
+
 #### Exploring EEG Dimensional Complexity and Consciousness in Anesthesia
 
 **Experimental Findings on Dimensionality and Anesthesia:**
@@ -3255,6 +3498,8 @@ C = f(m, E, S)
 - Previous studies suggest high frequency EEG activity between 40-100 Hz may provide clues about the nature of consciousness (binding problem)
 - Signal-to-noise problems hinder research on high frequency EEG activity
 - Standardization of analytical approach es used to investigate chaotic dynamics of EEG will evolve over time, enabling comparison between various research efforts.
+
+---
 
 ### 24 Collapse of a Quantum Field May Affect Brain Function
 
@@ -3278,6 +3523,8 @@ C = f(m, E, S)
 4. Target misses were influenced by EEG recording condition: fewer when recorded from right motor cortex (responsible for task performance), more from other areas
 5. Control experiments checked for possible errors and factors like acoustic feedback
 6. Further experimentation required to refute or support the hypothesis
+
+---
 
 #### Exploring Quantum Fields and Brain Activity
 
@@ -3306,6 +3553,8 @@ C = f(m, E, S)
 **Implications for Future Research:**
 - Methodology may prove valid with potential for further experimentation in understanding the relationship between consciousness and quantum field events.
 
+---
+
 ### 25 Neural time Factors in Conscious and Unconscious Mental Functions
 
 **Ben Jamm Libet's Research on Conscious Experience**
@@ -3323,6 +3572,8 @@ C = f(m, E, S)
   2. Content of sensory experience can be altered retroactively by stimulating the cortex before the onset of the response
   3. Reaction times to peripheral stimuli jump discontinuously, suggesting a delay in becoming aware of the stimulus
 - Delayed responses in the cerebral cortex may serve as a timing signal and result in the subjective referral of the skin-induced experience back to the initial fast response
+
+---
 
 #### Subjective Timing Correction Through Retroactive Referral of Sensory Experience
 
@@ -3347,6 +3598,8 @@ C = f(m, E, S)
 **Question:**
 - Can an endogenous experience require substantial duration of neural activity before awareness appears?
 
+---
+
 #### Consciousness and Volitional Processes Delayed Onset and Neural Activity Theory
 
 **Experimental Findings on Voluntary Action and Conscious Function in Brain**
@@ -3365,6 +3618,8 @@ C = f(m, E, S)
 
 **Theoretical Implications**:
 - Both conscious and unconscious functions may be represented by activity in the same cerebral areas, but separate sites are not excluded.
+
+---
 
 #### Neural Time Factors in Conscious and Unconscious Mental Functions Delayed Awareness  Quick Responses
 
@@ -3401,6 +3656,8 @@ C = f(m, E, S)
 **Key References**:
 - Deecke et al., 1976; Eccles, 1990; Jensen, 1979; Komhuber & Deecke, 1965; Libet, 1966, 1978, 1982.
 
+---
+
 ## V Neural Networks
 
 **Neural Networks**
@@ -3434,6 +3691,8 @@ C = f(m, E, S)
 - E. Schrdinger, 1958/1967, Mind and Matter, Cambridge University Press
 - A. C. Scott, 1977, Neurodynamics (a critical survey), Journal of Mathematical Psychology 15:1-45
 - A. N. Whitehead and B. Russell, 1925, Principia Mathematica, Cambridge University Press.
+
+---
 
 ### 26 Modeling What It Is Like To Be
 
@@ -3470,6 +3729,8 @@ C = f(m, E, S)
 - Extends Hume's notion of relations between perceptions to include a range of past experiences entering the relation with a present one, even if not conscious
 - Supported by evidence for past experiences influencing present behavior, categorization being context-dependent and sensitive to recent experience.
 
+---
+
 #### Neural Mechanisms of Consciousness and Memory
 
 **Relational Mind Model and Consciousness**
@@ -3496,6 +3757,8 @@ C = f(m, E, S)
 **Neuroanatomical and Neurophysiological Constraints:**
 - Inhibition between modules not a likely mechanism for effective global competition between distant cortex modules due to limitations in inhibition range.
 - Main determinant of orientation selectivity in VI seems to be oriented feed-forward excitation from LGN.
+
+---
 
 #### Neural Network Modeling for Consciousness and Attentional Control
 
@@ -3537,6 +3800,8 @@ C = f(m, E, S)
   * Subicular complex has a one-way projection to the mediodorsal thalamus, known to have connections specifically with the anterior pole of NRT
   * Limbic cortex, part of the Papez limbic circuit, provides control input outside direct NRT control
 
+---
+
 #### Modeling Consciousness Electrophysiological and Simulation Studies
 
 **Interesting Results from Libet's Experiments (1964)**
@@ -3562,6 +3827,8 @@ C = f(m, E, S)
   - Amplification and unscrambling of memories through feedback in cortex and the TH-NRT-C complex
 - The "Conscious I" model suggests that working memory (WM) is crucial for sustaining input activity long enough to win the competition for consciousness activation
 
+---
+
 #### Competitive Model of Consciousness and Memory Processing
 
 **The Relational Mind and Consciousness Model**
@@ -3581,6 +3848,8 @@ C = f(m, E, S)
 
 **Experimental Evidence:**
 Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direct psychological evidence for competition between working memories. Activation of visual or auditory working memories reduced occurrence of stimulus-independent thoughts from about 80% to 30%. The disruption was effective on coherent sequential intrusions but had almost no effect on fragmentary independent thoughts or random generation of letters. This fits the competitive relational mind model in a qualitative fashion.
+
+---
 
 #### Understanding Category Formation and Learning Processes in Infants
 
@@ -3609,6 +3878,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Even three-month old infants can sort objects in thematic categories and adults use various types of categorization
 - Visual pattern categorization without much action, contrary to earlier observation of category inclusion through movement sequence
 
+---
+
 #### Multisensory Perception and Consciousness in the Relational Mind Model
 
 **Relational Model and Consciousness**
@@ -3633,6 +3904,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Other Aspects of Consciousness:**
 - Finite modalities, intentionality, familiarity, subjective feeling considered here; other aspects require more space to discuss.
 
+---
+
 #### Understanding Consciousness through Relational Modeling Semantics and Personal Experience
 
 **The Dual Hemisphere Theory and Consciousness**
@@ -3654,6 +3927,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - The subjective character of experience is determined by the winning working memory's content and related feedback from semantic and episodic memories
 - Semantic memory has general culture-specific characteristics with some degree of objectivity, while episodic memories are more person-specific
 - Dissociation can occur when corpus callosum is cut, leading to separate consciousness centers.
+
+---
 
 #### Neurophysiological Modeling of Conscious Experience
 
@@ -3685,6 +3960,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - The competitive relational model does not claim to enable experiencing as X
 - Developing and extending imagination can change connection weights of suitable circuits to give the impression of being X
 - Complete set of X's experiences cannot be felt without all crucial brain circuitry being achieved through learning
+
+---
 
 #### Exploring Consciousness through a Competitive Relational Model of the Mind
 
@@ -3727,6 +4004,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Consciousness in beings without requisite neural circuitry is a case-by-case issue
 - Discussing beings with different orders of consciousness might require waiting for their investigation before speculating further.
 
+---
+
 ### 27 Artificial Attention in an Oscillatory Neural Network
 
 **Neural Network Model for Attention:**
@@ -3750,6 +4029,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Comparison to Human Attention:**
 - ONN demonstrates various phenomena resembling human attentional behaviors
 - Shows neural network can focus, defocus, and shift attention without additional mechanisms.
+
+---
 
 #### Artificial Attention in an Oscillatory Neural Network A Model of Consciousness
 
@@ -3783,6 +4064,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Speculative modeling and functional data from pathological studies can help
 - ONN provides various attentional behavior without additional mechanisms
 - The model's nonlocal character may be different from other feeling models
+
+---
 
 ### 28 The Emergence of Memory Categorization Far From Equilibrium
 
@@ -3818,6 +4101,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Basin of Attraction Field Structure in Biological Neural Networks**
 * Formed by evolution, development, and context of subnetworks within larger systems
 * Emergence of higher-level cognitive properties based on lower-level memory categories.
+
+---
 
 #### Basin of Attraction Fields in Random Boolean Networks
 
@@ -3858,6 +4143,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Random Boolean network may be seen as a discrete generalization of sparsely connected classical neural networks
 - Threshold function is a tiny subset of the 22K possible Boolean functions in a random Boolean network
 
+---
+
 #### Random Boolean Networks and Categorization in Brain Function
 
 **Random Boolean Network as a Model of Neural Activity**
@@ -3883,6 +4170,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Principle of categorization still applies even when basin fragments are computed
 - Detailed learning algorithms for random Boolean network have been proposed (Wuensche 1993)
 
+---
+
 #### Emergence of Memory and Cognition A Basin of Attraction Approach
 
 **Key Concepts:**
@@ -3897,6 +4186,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 
 **Basin of Attraction Diagrams**: Capture a simple network's capacity for distributed memory by demonstrating a complex hierarchy of categorization within basin trees, which are far from equilibrium. The relationship between basin field and network may provide a metaphor for the mind/brain.
 
+---
+
 ## VI Subneural Biology
 
 **Subneural Biology: Understanding Consciousness Through Cellular Functioning**
@@ -3910,6 +4201,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Neuronal membrane is the essential site for quantum computing, which is necessary to conscious functioning (Wallace)
 * Anesthetics erase consciousness by binding weakly to specific brain proteins in membranes and cytoplasm at quantum level; psychedelic drugs have opposite effects due to preventing quantum events in protein hydrophobic pockets essential for consciousness (Louria and Hameroff)
 * Cells are more than bit states, with capabilities for processing and representing information extending several hierarchical levels downward, possibly to the quantum level.
+
+---
 
 ### 29 Water Clusters Pixels of Life
 
@@ -3937,6 +4230,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Conclusion:**
 - Water plays an essential role in the origin, maintenance, and stability of life due to its unique properties and ability to exist in a flexible yet rich molecular structure.
 
+---
+
 #### Water Cluster Model and Protein Structure
 
 **Liquid Structure and Water Clusters**
@@ -3958,6 +4253,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Cubes with edge dimensions in the 3-4 nm range
 * Variety of internal structures due to choice of 20 different amino acids as links
 * Purified protein: all chains fold identically into unique three-dimensional structure stable in water under biosphere conditions.
+
+---
 
 #### Water Clusters and Protein Structure A Cooperative Interplay
 
@@ -3988,6 +4285,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Flat surface induces nodal plane in structure wave
 - Classical theories fail to explain gelation mechanism due to misconception about single water molecule pressure agents.
 
+---
+
 #### Coherent Water Clusters and Quantum Mechanisms in Living Systems
 
 **The Osmotic Mechanism and Macroscopic Implications**
@@ -4015,6 +4314,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - This macroscopic quantum gives protein gel its alive quality and allows it to extend beyond cell membrane
 - Correlations among aligned cells could induce harmonic transitions involving macroscopic quanta, leading to synchronous behavior in populations of cells.
 
+---
+
 ### 30 Microtubular Self-Organization and Information Processing Capabilities
 
 **Microtubules and Consciousness: Investigating Their Role in Subcellular Consciousness**
@@ -4039,6 +4340,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Entire MT viewed as a regular (biangular) array of coupled local dipole moments interacting with neighbors via dipole-dipole forces
 - Simplified view adopted, with elastic degrees of freedom not explicitly included
 - Appropriate generalization of the physical model poses no technical difficulties
+
+---
 
 #### Stability and Switching of Microtubular Phases
 
@@ -4068,6 +4371,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Assumption: KLE formation mainly due to hydrolysis of GTP into GDP; one act of hydrolysis corresponds to conformational change and formation of single KLE
 - Preferential orientation towards intrinsic electric field in cell, distributing energy at preferred end of a MT for detaching dimers from far end.
 
+---
+
 #### Microtubules as Information Processors Optimal Conditions for Functioning
 
 **Microtubular Self-Organization: Conditions for Phase Transition**
@@ -4092,6 +4397,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Conclusion:**
 - Two dielectric phases: low-temperature F phase and high-temperature ferri-electric phase with net polarization above room temperature.
 - Potential control mechanisms for operating mode selection between information processing and assembly/disassembly types, shedding light on enhanced MT formation rates during important stages of organism development.
+
+---
 
 ### 31 Quantum Computation in the Neural Membrane Implications for the Evolution of Consciousness
 
@@ -4122,6 +4429,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 8. Termination opens ion channel, generating action potential and membrane terminal energy state
 9. Mesoscopic coupling mechanism links intramembrane quantum computation to familiar action potentials of frequency-coded connectionist networks
 10. Control process regulated by microscopic correlates of membrane crystalline phase.
+
+---
 
 #### Quantum Computation in Neural Membranes A Theory of Consciousness
 
@@ -4157,6 +4466,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Continual integration of sensory and autonomic data into consciousness representations
 - Neural membrane proposed as the "master computer" of consciousness, extending Darwinian theory into quantum mechanics.
 
+---
+
 ### 32 Computer Simulation of Anethetic Binding in Protein Hydrophobic Pockets
 
 **Computer Simulation of Anesthetic Binding in Protein Hydrophobic Regions**
@@ -4181,6 +4492,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
   - **Papain**: Known to be inhibited by anesthetics
   - **Acetylcholinesterase**: Unaffected by anesthetics
 - Derived and compared effects of the anesthetic halothane on hydrophobic pocket energy measures between the two proteins
+
+---
 
 #### Anesthetic Binding and Quantum Coherence in Protein Hydrophobic Pockets
 
@@ -4212,6 +4525,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Psychedelic drugs (tryptamine, phenylethylamine) bind to similar hydrophobic pockets but exert opposite effects
   * Selective binding due to polar tails of their structures
 - Anesthetics have nonspecific hydrophobic binding in lipids and nonneural proteins compared to hallucinogens.
+
+---
 
 ## VII Quantum Theory
 
@@ -4259,6 +4574,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Fred Alan Wolf: Self-awareness arises from superposition of quantum automata in neurons and glial cells during dreaming
 - Michael Conrad: Quantum wave function collapse at the level of neural proteins can be amplified to control brain activities, carrying potential for qualia and free will.
 
+---
+
 #### Quantum Mechanics and Consciousness Emergence Binding and Collapse
 
 **Quantum Superposition and Proteins: Conrad's Perspective**
@@ -4283,6 +4600,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Focus on microtubules as possible quantum devices: Jibu, Hagan, Yasue; Hameroff and Penrose
 - Critics argue invoking quantum theory in consciousness is a reductio ad absurdum; however, consciousness remains unexplained.
 
+---
+
 ### 33 Consciousness and Bose-Einstein Condensates
 
 **Bose-Einstein Condensation and Consciousness**
@@ -4306,6 +4625,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Bose-Einstein Condensation (BEC):**
 - Salient characteristics: indeterminate, non-classical, and emergent properties
 - Potential role in understanding the physics of consciousness.
+
+---
 
 #### Uncertainty and Holism in Quantum Consciousness
 
@@ -4338,6 +4659,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Holism: quantum nonlocality, entangled particles, nonlocal relations, wave aspects
 - Similarities with consciousness: holism or contextualism.
 
+---
+
 #### Quantum Unity and Consciousness Bose-Einstein Condensates
 
 **Quantum Unity in Consciousness and Physics**
@@ -4368,6 +4691,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Limitations**:
 - Extensive work has been done, but objections remain regarding the practical implementation in the brain.
 
+---
+
 #### Quantum Coherence and Consciousness in Neurons
 
 **Frohlich-style Coherent Quantum Activity in the Brain**
@@ -4390,6 +4715,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 3. Recent experiment at Southampton University suggests a link between subneuron level quantum phenomena and conscious thoughts/perceptions
 4. Quantum dimension may be involved in rapid integration of perceptual data by the brain
 5. Overall model of mind would need to incorporate knowledge from multiple levels: whole networks of neurons, neuron level, and subneuron molecular/quantum level.
+
+---
 
 ### 34 On the Quantum Mechanics of Dreams and the Emergence of Self-Awareness
 
@@ -4419,6 +4746,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Self-reflective images ordered by hierarchy based on levels of self-inquiry
 * Higher levels achieved by integrating lower level images into record.
 
+---
+
 #### Quantum Mechanics of Self-Reflection Superposition and Memory
 
 **Self-Reflection and Quantum Mechanics**
@@ -4445,6 +4774,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Complementary observable operators operate on glial cell states
 - Glial cell contains image record, automaton obtains single image at random
 - Superposition of automaton and glial cell in parallel worlds interpretation is also an observable memory state
+
+---
 
 #### Quantum Interrogation and Self-Reflection of the Automaton
 
@@ -4474,6 +4805,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **The Self/Not Self Boundary**:
 - The appearance of the el(1) state marks the boundary between **self and nonself**. It represents the first act of self-reflection.
 
+---
+
 #### Quantum Self-Reflection Automatas Consciousness and Emotional States
 
 **Automaton Self-Reflection and Uncertainty Principle**
@@ -4499,6 +4832,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Automaton has conscious self-reflective states and unconscious thoughtform states at each level
 - Unconscious thought-forms arise from emotional material in conscious emotions or feelings
 - Self-reflection results in unconscious thought-form becoming conscious and ascending to higher levels, creating new archetypal states.
+
+---
 
 #### Quantum Self-Reflection Model in Dreams
 
@@ -4526,6 +4861,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - At highest level, possibly reachable through training or meditation techniques
 - State of "pure" awareness with no images present (God awakening from the dream)
 
+---
+
 ### 35 Percolation and Collapse of Quantum Parallelism A Model of Qualia and Choice
 
 **The Problem of Assimilating Consciousness into Science**
@@ -4552,6 +4889,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Virtual particles identified as self-perpetuating chains of transient fermion-antifermion pairs (fluctuons)
 - Pairs must decay within time interval specified by uncertainty principle, otherwise energy violation occurs
 - Decay is accompanied by creation of new pair until it reaches an absorber particle to transfer excess momentum.
+
+---
 
 #### Quantum-Gravity Link to Consciousness Collapse and Homeostasis in Molecular Systems
 
@@ -4589,6 +4928,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Self-corrective interactions crucial for organisms' homeostatic capabilities
 - Fluctuon model provides a referent for the subjective psychological sense of freedom.
 
+---
+
 #### Qualia as Irreducible Experience in Quantum Theory
 
 **Fluctuation Model in Physics: Eligibility Property and Qualia**
@@ -4610,6 +4951,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Importance of Qualia in Physical Theories**:
 - Theories that violate the principle of philosophical relativity by collapsing everything into real numbers describing space and time may lead to inherently arguable conclusions about the ultimate nature of reality, such as subjective experience being non-existent or ephemeral.
 - While we cannot positively define qualia, we can characterize them negatively through the eligibility property in physical theories claiming universality.
+
+---
 
 #### Quantum Mechanics and Consciousness Parallelism and Collapse in the Wave Function
 
@@ -4643,6 +4986,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
   * Viewed as a special case of an expanded dynamics
   - Advantageous for theories that project universality to satisfy this requirement.
 
+---
+
 #### Quantum-Classical Interface of Macromolecules Electronic-Conformational Interaction
 
 **Understanding Quantum Reality: Percolation of Classical and Nonclassical Levels**
@@ -4668,6 +5013,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Understanding Electronic-Conformational Interaction**
 - Nuclei move in charge fields due to electrons and other nuclei
 - Loosely bound electrons have separate wave functions (electronic and nuclear) that must be self-consistent.
+
+---
 
 #### Quantum Dynamics and Cellular Functionality Molecular Interactions in Biological Systems
 
@@ -4697,6 +5044,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Receptors code external signals into internal messengers like cyclic AMP or steroid hormones
 - Specific recognition capability of enzymes and structural proteins.
 
+---
+
 #### Self-Assembly and Communication Networks in Cells and Brain
 
 **Context-Sensitive Pattern Recognition**
@@ -4718,6 +5067,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Brain built up as a vast neural network with transformer neurons
 - Each neuron transforms input patterns to output patterns based on transduction dynamics and readout enzymes
 - Signal integration and readout steps may occur before final activation step determining neuronal firing.
+
+---
 
 #### Percolation Networks and Consciousness A Self-Enclosed Transduction Model
 
@@ -4748,6 +5099,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Biological Organisms vs. Universe**:
 - Biological organisms are homomorphic images of the whole universe but operate in a constraint-dominated regime.
 
+---
+
 #### Semantic Capability of Systems Supporting Self-Enclosed Transduction Cycles
 
 **Framework for Understanding Consciousness and Self-Consciousness**
@@ -4777,6 +5130,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Ability to simulate all behaviors requires accounting for referents in computer programs, which are not inherently meaning-bearing
 - Self-enclosed transduction-amplification cycles are eligible to be viewed as subjects as well as objects.
 
+---
+
 #### Philosophical Relativity and the Quantum Challenge
 
 **Wittgenstein's Sign Argument**
@@ -4801,6 +5156,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Potential for more complicated hidden variable theories with unsatisfactory philosophical entailments
 - Principle of philosophical relativity: structure of scientific theories should not entail solutions to undecidable philosophical questions, allowing alternative interpretations that are defensible by credible arguments.
 
+---
+
 #### Philosophical Relativity and Quantum Theory
 
 **Philosophical Relativity vs. Conventionalism**
@@ -4819,6 +5176,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Distinguishing statements bound to a perspective vs. empirically decidable independent of perspective might be difficult or impossible; agreement on absolute criteria may not be obtainable
 - Philosophical relativization is an ideal, roughly analogous to separating reference frame choice for measurements from the general physics scheme
 - Criteria laid out are heuristics valuable for constructing theories addressing domains where philosophical issues are complex, like consciousness.
+
+---
 
 ### 36 Subcellular Quantum Optical Coherence Implications for Consciousness
 
@@ -4845,6 +5204,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Quantum theory plays a significant role only on macroscopic scales in special circumstances
 * Structural requirement for consciousness necessitates an all-at-once occurrence, challenging the functionalist view.
 
+---
+
 #### Quantum Coherence and Consciousness in Biology A Microtubule Model
 
 **Locality and Consciousness**
@@ -4870,6 +5231,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Simple model constructed of electromagnetic field interacting with quantum rotors (water molecules) lining microtubule walls
 - Electric dipole moment JL allows water molecule many energy eigenstates, only two principal ones considered
 
+---
+
 #### Quantum Optical Coherence in Subcellular Systems Spontaneous Symmetry Breaking Model
 
 **Two-Level System and Quantum Dynamics**
@@ -4889,6 +5252,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Sum of equations (1), (2), and (4) has an invariance under E:.:-+ E+i8k, but this invariance is not respected by the vacuum state, leading to spontaneous symmetry breaking and macroscopic ordered state establishment
 * Goldstone bosons, associated with structural water and protein, emerge from spontaneous symmetry breakdown and allow for massless quanta to be easily excited
 * Spontaneously broken theories exhibit Goldstone modes, which correlate vacua chosen by elements of an extended system and order the vacuum.
+
+---
 
 #### Quantum Coherence in Biomolecules Subcellular Optical Superradiance
 
@@ -4914,6 +5279,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - **Self-induced transparency**: Neutralizes pulse spreading and distortion due to thermal environment
 - **Nonlinear optical effects**: Distortionless pulse obtained is a special case of nonlinear optical effects in an inhomogeneously broadened two-quantum system
 - **Coherent photons**: May have sufficient intensity to initiate protein conformational changes, gating transmembrane ionic diffusions, and allowing quantum mechanism to control classical neural functions through coherence.
+
+---
 
 #### Quantum Coherence and Subcellular Consciousness in Neurons
 
@@ -4943,6 +5310,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Recent observation of high Tc superconductors makes this speculation outdated
 - Finite size effects and long-range forces do not alter conclusions regarding coherence in proteins.
 
+---
+
 ### 37 Orchestrated Reduction of Quantum Coherence in Brain Microtubules A Model of Consciousness
 
 **Orchestrated Reduction of Quantum Coherence in Brain Microtubules: A Model for Consciousness**
@@ -4971,6 +5340,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Cytoskeletal microtubules are the most likely sites for quantum coherence, OR, and consciousness
 - Theoretical models suggest that conformational states of tubulins within microtubule lattices can interact with neighboring tubulins to represent, propagate, and process information as in molecular-level "cellular automata" computing systems
 
+---
+
 #### Quantum Consciousness Theory Orchestrated Reduction of Microtubule Coherence in Brain Neurons
 
 **Model Linking Microtubules to Consciousness using Quantum Theory**
@@ -4995,6 +5366,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 
 **The Proposed Model: Orchestrated Reduction (Orch OR)**
 - Hameroff and Penrose propose that OR in microtubules relevant to consciousness is guided and tuned by connecting MAPs, creating a model of "orchestrated OR" (Orch OR) in microtubules which may support consciousness.
+
+---
 
 #### Microtubules and Consciousness in Quantum Computation
 
@@ -5025,6 +5398,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Degree of cognitive damage correlates with decreased levels of dendritic MAP-2 in animals temporarily deprived of oxygen
 - Selective damage to MTs by the drug colchicine causes learning and memory defects mimicking Alzheimer's disease symptoms, possibly due to microtuble dysfunction and axonal MAP "tau protein" tangles.
 
+---
+
 #### Quantum Coherence in Proteins and Microtubules
 
 **Microtubule Information Processing: Hameroff and Penrose's Orchestrated Reduction of Quantum Coherence (1986)**
@@ -5054,6 +5429,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Can function as Turing machines (Neumann, 1966)
 - Frohlich excitations used as a clocking mechanism and electrostatic dipole coupling forces as transition rules for cellular automata behavior within MTs.
 
+---
+
 #### Quantum Computation in Microtubules and Consciousness
 
 **Microtubules and Cellular Automata Patterns**
@@ -5082,6 +5459,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Consciousness and Space-Time Geometry**
 - Consciousness may involve self-perturbations of space-time geometry, related to quantum gravity
 - Extent of space-time superposition causing self-collapse is equal to one in "absolute units"
+
+---
 
 #### Quantum Coherent Superposition and Orchestrated Reduction in Tubulin
 
@@ -5119,6 +5498,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Significance of the Number of Tubulins**:
 - The possible significance of this number of tubulins will be discussed later.
 
+---
+
 #### Quantum Coherence in Microtubules and Isolation Mechanisms
 
 **Orchestrated Reduction of Quantum Coherence**
@@ -5142,6 +5523,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Superradiance allows for the transformation of disordered energy into coherent photons within the microtubule core
 - Transient and reversible conversion of the cytoplasmic solution (Soi) to gel (gelatinous) phases can isolate microtubules during quantum coherence
 
+---
+
 #### Quantum Coherence in Microtubules and Consciousness
 
 **Quantum Effects in Living Cells: Microtubules and Structured Water**
@@ -5156,6 +5539,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Neuronal Networks and Consciousness
   + Nervous systems range from hundreds to thousands of neurons
   + Different types of conscious experience may result in varying time and number of tubulins required for Orch OR.
+
+---
 
 #### Quantum Coherence in Brain Microtubules and Orchestrated Reduction OR Hypothesis for Consciousness
 
@@ -5180,6 +5565,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Possibility of presently unrecognized quantum-mathematical logic acting on programming influences to provide hidden order in the Orch OR process.
 - Nonlocal nature of OR phenomena may exhibit puzzling bidirectional time flow prior to self-collapse.
 
+---
+
 #### Quantum Consciousness Orchestrated Reduction of Tubulins in Microtubules as the Basis for Stream of Consciousness
 
 **Orchestrated Objective Reduction (Orch OR) Model for Consciousness**
@@ -5197,6 +5584,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 6. MAPs and other tubulin modifications act as inodes to tune microtubule coherence and help orchestrate collapse (Orch OR).
 7. Orch OR introduces noncomputability, providing a connection between preconscious to conscious transition, fundamental space-time notions, noncomputability, and binding of various superpositions into an instantaneous "now".
 8. The most specific and plausible model for consciousness yet proposed.
+
+---
 
 ## VIII Nonlocal Space and Time
 
@@ -5230,6 +5619,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Avshalom Elitzur (Chapter 38, links consciousness to time through the "Now").
 - Jeff Tollaksen (Chapter 39, connects consciousness with quantum wave function collapse).
 
+---
+
 ### 38 Time and Consciousness The Uneasy Bearing of Relativity Theory on the Mind-Body Problem
 
 **Relativity Theory and Consciousness: The Uneasy Relationship**
@@ -5252,6 +5643,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Philosophical Challenges**:
 - Philosophers have argued that time is subject to creative "becoming" that physics cannot capture
 - These philosophical ideas are not taken seriously by mainstream science due to the mathematical rigor and logical beauty of relativity theory
+
+---
 
 #### Perception Consciousness and Time A Physics Perspective on the Interplay of Mental and Physical Experiences
 
@@ -5277,6 +5670,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Application to consciousness: Mental events must also take place in space-time, hence are identical with physical events
 + Alternative bearing: Relativity ignores time's passage, which could be relevant to understanding the relationship between consciousness and physical phenomena.
 
+---
+
 #### Time and Consciousness A Unified Perspective of Becoming
 
 **Theory of Time and Consciousness**
@@ -5288,6 +5683,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
   - A new theory called "space-time dynamics" is emerging, which extends the present relativistic framework to include Becoming in the physical formalism.
   - This theory ascribes real evolution to time itself, with space-time growing in the future direction and events being created anew as the "Now" progresses.
   - The author suggests that this Becoming is the long-sought-for master asymmetry underlying the diverse "arrows of time" in physics.
+
+---
 
 ### 39 New Insights from Quantum Theory on Time Consciousness and Reality
 
@@ -5316,6 +5713,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Conclusion:**
 - Quantum mechanics offers new perspectives and insights into the scientific study of consciousness, particularly with regard to its unique features like nonlocality and superposition. The formulation by Aharonov and Rohrlich successfully resolves some of the challenges posed by QM for understanding reality.
 
+---
+
 #### Quantum Measurement Dilemmas and Collapse of the Wave Function
 
 **Heisenberg Actual Event and Consciousness:**
@@ -5339,6 +5738,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Clue 3: Nonlocal aspects and local aspects of collapse
 - Clue 4: Irreversible recording of measurement outcome (Mandel's experiments)
 - Misconceptions about collapse occurring at MD level due to practical difficulties.
+
+---
 
 #### Quantum Consciousness and Observer-Participancy in Time
 
@@ -5371,6 +5772,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - The observer-participant plays a crucial role in the selection of both the destiny state and the observable
 - Yakir Aharonov's statement: "Don't think of measurement as just determining what we don't know. The real issue of measurement theory is determining what can manifest itself."
 
+---
+
 #### Time Reversal and Weak Values in Quantum Mechanics
 
 **Two-Vector Formalism of Quantum Mechanics**
@@ -5400,6 +5803,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 
 **Weak Measurements:**
 - Two-vector formalism provides evidence for existence of two boundary conditions during intermediate time through weak measurements.
+
+---
 
 #### Quantum Consciousness and Collapse of Wave Function
 
@@ -5437,6 +5842,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Transition from quantum to "classical" occurs at the point of awareness, where I > can only be in a definite state
 - Suggests that the rate of ticking of consciousness is directly related to the creation of destiny states, forming a new model for space-time.
 
+---
+
 #### Dynamics of Consciousness in Quantum Theory Processing Difficulties
 
 **Model of Time as Created by Consciousness:**
@@ -5462,6 +5869,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Processing Difficulties in Brain:**
 - Spatial and temporal changes in an object under observation present processing difficulties due to different transduction times for various sensory modalities.
 
+---
+
 #### Quantum Integration Theory and Consciousness
 
 **Poppel's Proposed Solution: Temporal Quantization and Elementary Integration Units (EIU)**
@@ -5481,6 +5890,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
   - A model of this process using the two-vector theory is suggested: each boundary of an EIU is the creation of one destiny state. In between the planes, all registered events are linked together via multiple time states. The multiple-time state actualizes correlations between quantum observables at different times, although the observable itself is undetermined for any given time. This actualization across time creates the necessary seamless integration.
   - The selection of a destiny state creates the EIU and is therefore responsible for psychological time. By unity of consciousness we mean that the essence of a conscious event is lost when we attempt to break it down into a simple aggregate of localized components as classical physics requires.
 - Poppel thanks various researchers and the Fetzer Institute for their support of this project.
+
+---
 
 ### 40 Consciousness A New Computational Paradigm
 
@@ -5518,6 +5929,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Scientists are studying quantum computing as a mechanism for exponential speedup and potential applications to consciousness
 - Quantum physics' unusual properties of nonlocal correlations may be relevant to understanding consciousness
 
+---
+
 #### Unifying Observation Frameworks for Consciousness Modeling
 
 **Physics Approach to Understanding Intelligence and Consciousness**
@@ -5544,6 +5957,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Combine observational frameworks into a single unified one that describes consistent observation
 - The consistency arguments used to develop relativity theory should apply to all observational frameworks
 - These consistency arguments define the nature of space and time, primary resources for computation.
+
+---
 
 #### Relativity and Computational Leverage Mechanisms
 
@@ -5577,6 +5992,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Carver Mead's two costs of computation: **Spatial Entropy** (information in the wrong place) and **Logical Entropy** (information in the wrong form)
 - Expanded spatial entropy theory deals with dimensionality, geometry, locality, and space-time metrics required for an observational framework.
 
+---
+
 ### 41 A Mathematical Strategy for a Theory of Consciousness
 
 **Ancient Idea: Hyperdimensional Reality**
@@ -5597,6 +6014,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Coxeter graphs (1934) classify all possible reflection spaces, corresponding to different types of hyperdimensional structures
 - Dynkin diagrams (1947) also classify Lie algebras, which relate to the mathematical structure of reflection spaces
 - Catastrophe theory (1960s) describes rapid changes in dynamic systems and has potential applications to understanding consciousness.
+
+---
 
 #### Mathematical Models of Consciousness and Quantum Gravity Correspondences
 
@@ -5632,6 +6051,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - A-DE correspondences can be used for clarifying relationships between twistors and superstrings in superstring theory (Witten 1988)
 - Studying the relationship between eigenvalues, gravity, and consciousness may lead to a unified field theory that entails gravity, which could have relevance for a theory of consciousness.
 
+---
+
 #### Exploring Quantum Consciousness through E7 Graph Theory and Gravity Gauge Fields
 
 **Identity Fiber and Singularity**
@@ -5662,6 +6083,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 * Embedding of lower dimensional structures in higher ones implies a hierarchical spectrum of reality structures: E6, ordinary reality, and E8 realms
 * Three E realms are the only doorways to the "nonsimple" structure beyond A-DE hierarchy.
 
+---
+
 ### 42 Nonlocality on a Human Scale Psi and Consciousness Research
 
 **Psychic Phenomena and Consciousness Research**
@@ -5691,6 +6114,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Person-Animal Exchanges: Uncertain relevance to consciousness research
 - Person-Matter Exchanges: Also uncertain relevance, but some experiments show consistent results
 
+---
+
 #### Metaanalysis of Psychic Phenomena Experiments
 
 **Metaanalysis of Ganzfeld Studies:**
@@ -5715,6 +6140,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Honorton et al.'s research found a positive correlation between extraversion and free response ESP scores (z = 4.82, P = 0.(x)(xx )15)
 - Lawrence's metaanalysis confirmed the sheep-goat effect with believers scoring higher than nonbelievers in ESP experiments (z = 8.17, P = 1.33 X 10-16).
 
+---
+
 #### Psi Research and the Reality of Consciousness
 
 **Metaanalysis Findings on ESP Scores and Defense Mechanisms**
@@ -5729,6 +6156,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Recent interdisciplinary studies illustrate the promise of investigating psi in bioPK research and mental/physiological states that facilitate or block psi.
 - Psi research challenges reductionist and epiphenomenalist frameworks, suggesting consciousness is an active source of nonlocal entropy reduction.
 - Epistemological issues arise as researchers may shape experimental findings through subtle expectancy effects, making objective data less trustworthy.
+
+---
 
 ### 43 Synchronicity and Emergent Nonlocal Information in Quantum Systems
 
@@ -5752,6 +6181,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Implications:**
 - Further exploration of synchronicity and its implications for consciousness and nonlocal information in the human brain.
 - Suggested experimental approach to be discussed.
+
+---
 
 #### Quantum Physics and Consciousness Synchronicity in Observation
 
@@ -5780,6 +6211,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Statistical causality, taking a middle way between causality and synchronicity
 - Depth of individual quantum events emphasized by Pauli (unique and irrational)
 
+---
+
 #### Quantum Synchronicity and Archetypes in Paulis Interpretation
 
 **Pauli's Perspective on Quantum Physics and Reality**
@@ -5806,6 +6239,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 
 **Manifestation of Archetypes in Space and Time**
 - Archetypes manifest themselves in space and time through ordered sequences of events (natural numbers).
+
+---
 
 #### Quantum and Archetypal Attractors in Synchronicity
 
@@ -5834,6 +6269,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Implications**:
 - Pauli's ideas allow a more pragmatic approach to Jung's theory of synchronicity
 
+---
+
 #### Quantum Neurodynamics and Synchronicity in Psychology and Physics
 
 **Synchronicity Theory Applications in Sciences:**
@@ -5853,6 +6290,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Consciousness as a nonlocal phenomenon, human brain as focusing substrate for its emergence
 - Contemporary science's attempts to explain consciousness on mechanical and causalistic basis
 - Necessity of uniting quantum physics and psychology through synchronicity theory.
+
+---
 
 ## IX Hierarchical Organization
 
@@ -5885,6 +6324,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
    - Dynamic unity tailored to specific perceptual event
 3. Demonstrated ability through computer algorithm realization
    - Teases recognizable image of Albert Einstein from noisy background
+
+---
 
 ### 44 Self-Referent Mechanisms as the Neuronal Basis of Consciousness
 
@@ -5921,6 +6362,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Presenting the conscious brain as a single, integrated, self-referent system
 - Avoids reliance on semantic final or output states
 
+---
+
 #### Neural Network Dynamics and Consciousness
 
 **Neural Dynamics and Consciousness**
@@ -5948,6 +6391,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Complexity of the brain makes attributing meaning or consciousness to a neural population challenging due to the locality problem
 - External observers can observe collective states of activity in specialized groups, but internal observation requires knowledge-at-a-distance or an internal neurophysiologist.
 
+---
+
 #### Reciprocal Connections and Feedback Loops in Sensory Pathways
 
 **Complex Systems and Consciousness:** The Role of Neurophysiology
@@ -5972,6 +6417,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Longstanding controversy on neural basis
 - Iconic representation of images at peripheral visual centers vs. triggering circuits in higher cerebral centers
 - Cortical depth of mental image depends on desired retinotopic detail or spatial relationship.
+
+---
 
 #### Neural Mechanisms and Mental Imagery A Discussion on Consciousness
 
@@ -5999,6 +6446,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Binding achieved through temporal correlation of activities of neurons involved in sensory analysis
 - Consciousness deduces meaning from simultaneous firing of specific neurons but leaves unsolved problem of locality.
 
+---
+
 #### Neuronal Basis of Consciousness Self-Referential Feedback Loops
 
 **Dennett's Argument Flaws**
@@ -6025,6 +6474,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Neural Network Architecture and Self-Referential Feedback Loops**
 - Neural network contains multiple causal loops, with centers along sensory pathways under both bottom-up and top-down control
 - This causes sensory information flow to be self-referent
+
+---
 
 #### Neural Optimization and Consciousness Alopex Algorithm and Visual Perception
 
@@ -6057,6 +6508,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Simulations**:
 - Tested idea of pattern modification and generation using optimization algorithms in a series of computer simulations (Harth et al., 1987, 1990)
 
+---
+
 #### Optimization Algorithm for Pattern Recognition
 
 **Experiment Details:**
@@ -6080,6 +6533,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Present model accounts for ubiquitous feedback pathways, does not require interpreter or homunculus
 - Peripheral sensory centers, central analyzers, and working memory form reentrant loops and operate self-referentially
 - Binding of neural messages occurs through top-down control of sensory images via optimization algorithms.
+
+---
 
 #### Optimization Algorithms and Sensory Perception in Consciousness
 
@@ -6107,6 +6562,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 6. Applicable to various optimization problems
 7. Attention given to vision sense unless stated otherwise.
 
+---
+
 #### Neuroscience and Consciousness Literature Review
 
 **Topics Covered:**
@@ -6121,6 +6578,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Harth, E., A. S. Pandya, and K. P. Unnikrishnan. (1990). "Optimization of cortical responses by feedback modification of sensory afferents." Concepts of Neuroscience 1:53-68.
 - Harth et al. (1974). "Alopex: A stochastic method for determining visual receptive fields." Vision Research 14:1475-1482.
 - Watson, R., T. E. Valenstein, and K. M. Hellman. (1981). "Thalamic neglect: A possible role of the medial thalamus and nucleus reticularis in behavior." Archives of Neurology 38:501-504.
+
+---
 
 ### 45 A Framework of Higher-Order Cognition and Consciousness
 
@@ -6153,6 +6612,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 2. Passage from one level to the next is what emergence is about
 3. Studying multilevel systems requires understanding this concept of emergence.
 
+---
+
 #### Emergence of Complex Systems through Hyperstructures A Framework for Higher-Order Cognition and Consciousness
 
 **Hyperstructure Principle**
@@ -6174,6 +6635,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Cognition as emergence: Recognition or registration of new global states or properties through an observer (sensory system) leading to new interactions and potentially higher-order cognitive processes.
 - Reasoning: A combination of using syntactic rules, observations, and interactions in a semantic manner.
 
+---
+
 #### Consciousness as Hyperstructured Cognition Quantum Hypothesis and Emergent Properties
 
 **Hyperstructures and Consciousness**
@@ -6194,6 +6657,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Penrose's argument: Consciousness needed for new judgments where rules aren't laid down
 - Hameroff's theory: Quantum coherence among neural proteins in microtubules might explain consciousness
 - Cytoskeleton components like microtubules suggested as bottom level substrate for consciousness emergence.
+
+---
 
 #### Emergence in Complex Systems A Study of Coherent Excitations
 
@@ -6218,6 +6683,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Other Examples of Emergence**:
 1. Gdel's Incompleteness Theorems: True statements cannot be deduced from axioms in formal systems, indicating emergent properties beyond the system.
 2. Dynamical Systems: Fractal-like structures like attractors, repellers, and Julia sets emerge as second-order structures in complex dynamic systems.
+
+---
 
 #### Exploring Emergent Phenomena and Hyperstructures in Mathematics and Artificial Life Models
 
@@ -6265,6 +6732,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Hyperstructures as a Language/Framework**:
 - Hyperstructures should be thought of as a language/framework to describe complex problems, solutions, and situations.
 
+---
+
 ### 46 Bioenergetic Foundations of Consciousness
 
 **Bioenergetic Foundations of Consciousness**
@@ -6299,6 +6768,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - **Bacterial-replicating systems** appeared, followed by metazoan animal systems (invertebrates and vertebrates)
 - Vertebrate systems have a common hub for both O and R intake, enabling potential self-knowledge
 
+---
+
 #### Evolution of the Larynx in Vertebrates A Comparative Study
 
 **Lungfish and Laryngeal Evolution:**
@@ -6315,6 +6786,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 5. **Marsupial Mammals:** Elastic corniculate cartilages attached to arytenoids act as springs for reopening after closure
 6. **Placental Mammals:** Thyroid cartilage free from cricoid, divided into vocal and vestibular folds with cuneiform cartilage as torsion springs
 7. **Evidence Summary:** Indirect evidence used due to absence of fossil larynges; adaptations suggest coevolution with cerebrum development.
+
+---
 
 #### Evolution of Primate Larynges and Vocal Folds
 
@@ -6353,6 +6826,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Human vocal folds lack cusps and are specialized for low-effort phonation with a paramedian axis of oscillation
 - Humans have a protruding chin, which decreases mandible acceleration energy costs and preserves geniohyoid and genioglossus muscle mobility for speech formants.
 
+---
+
 #### Larynx and Cerebrum Co-Evolution Dissipative Structures in Vertebrate Development
 
 **Larynx's Coevolution with Cerebrum**
@@ -6372,6 +6847,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Biological and evolution of language: Lieberman (1984)
 - Invertebrate zoology: Meglitsch and Schram (1991)
 - Principles of biochemistry: Lehninger et al. (1993), Zubay (1993)
+
+---
 
 ### 47 The Hierarchical Emergence of Consciousness
 
@@ -6400,6 +6877,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 6. Nonlinearity leading to emergence: trampoline example
   * Escape energy of a child on the trampoline is square of their weight
   * Two children standing together have extra escape energy (2Wa Wb) as attractive force or binding energy.
+
+---
 
 #### Combinatorial Complexity in Social and Neural Assemblies
 
@@ -6433,6 +6912,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Neuron may participate in many different assemblies, vital for determining number of assemblies
 - This multiple participation is crucial for understanding the organization and functioning of the brain.
 
+---
+
 #### Hierarchical Emergence of Consciousness Levels of Abstraction in Neuroscience
 
 **Hebb's Cell Assembly Properties**
@@ -6451,6 +6932,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Practitioners at different levels must study their own domain independently due to a "combinatorial barrier" between adjacent levels
 - Diagram in Figure 47.1 illustrates the hierarchical organization, with each shaded disk representing the domain of definition for that level
 - At each level, variables from higher levels appear as parameters and boundary conditions, while averages of dynamics at lower levels emerge as new equations (Fj = 0)
+
+---
 
 #### Hierarchical Emergence of Consciousness from Brain Activity
 
@@ -6494,6 +6977,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Level 0: Self-copying objects or simple ensembles of copying objects
 - Level 1: New object class made of Level 0 objects, self-maintaining organizations
 - Level 2: Self-maintaining metaorganizations composed of Level 1 organizations
+
+---
 
 #### Interdisciplinary Approaches to Consciousness A Hierarchical Perspective
 
@@ -6540,6 +7025,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Interdisciplinary Research**:
 - Requires collaboration between chemists, biologists, physiologists, psychologists, sociologists, and ethnologists
 - Exciting new research in interdisciplinary studies of consciousness
+
+---
 
 #### Major Works on the Emergence of Consciousness
 
@@ -6605,6 +7092,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Wigner, E. P.** (1969). "Are we machines?" Proceedings of the American Philosophical Society 113(4): 95-101.
 * Wigner raises the question of whether we are machines in this article.
 
+---
+
 ## X Phenomenology
 
 **Phenomenology and Consciousness:** A Review of Chapters 48-52
@@ -6639,6 +7128,8 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 **Significance:**
 These chapters emphasize the importance of studying the phenomenology of consciousness through careful reports on personal experiences, aesthetics, spirituality, meditation, and neural theories to gain a better understanding of this complex phenomenon. Future research should continue to explore these topics in greater depth.
 
+---
+
 ### 48 Pharmacology of Consciousness A Narrative of Subjective Experience
 
 **Pharmacology of Consciousness: A Narrative of Subjective Experience**
@@ -6666,6 +7157,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - Complex experiences induced by psychoactive drugs cannot be fully understood through neurochemical or neurobiological analysis alone
 - Unconscious expectations play a significant role in determining experiences and are difficult to elucidate.
 
+---
+
 #### Ayahuasca Visions and Dreams in Amazonian Shamanism
 
 **Interactions between Factors: Pharmacology, Set, and Setting**
@@ -6683,6 +7176,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - Inactivation of monoamine oxidase by harmine allows for oral consumption of active DMT
 - Indians claim they learned the technique through visions, not trial and error
 - Cilrdova's training sessions with chief involved select group, elaborate rituals to fix essential tribal life circumstances.
+
+---
 
 #### Exploration of Bufo Alvarius Venom as Hallucinogen
 
@@ -6719,6 +7214,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - Threat to species due to urban growth and collection for venom.
 - Proper milking techniques are essential to avoid harming the animals.
 
+---
+
 #### Discovery and Unique Properties of Salvia divinorum
 
 **Bufo Alverus Venom and Synthetic 5-Me O-DMT**
@@ -6738,6 +7235,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 + Could not find active constituent due to instability or low potency assumptions
 + Principal active component is salvinorin A, a diterpene without nitrogen atoms
 + Insoluble in water and requires emulsification for absorption through chewing quids or infusions.
+
+---
 
 #### Visionary Journey with Salvia divinorum
 
@@ -6769,6 +7268,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - L.J. Valdes, chemist who worked extensively with Salvia divinorum
 - Described second experience in detail for Journal of Psychoactive Drugs
 8. Quoted information from Valdes' paper published in The Journal of Psychoactive Drugs.
+
+---
 
 #### Exploring Hallucinogens and their Effects on Consciousness
 
@@ -6802,6 +7303,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - Disturbing psychically and left feeling disturbed for some time
 - Now believes oral administration is a wiser way to interact with the plant
 
+---
+
 ### 49 What Can Music Tell Us about the Nature of Mind A Platonic Model
 
 **Understanding Music: Conventional Biological Terms vs. Subtle Aspects of Mind**
@@ -6830,6 +7333,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 **Parallels Between Aesthetic Processes and Life Processes:**
 - Further development of these parallels discussed elsewhere (Josephson & Carpenter, 1994)
 
+---
+
 #### Universal Mind Through Musical Patterns The Platonic Connection
 
 **Comparison Between Music and Genes**
@@ -6852,6 +7357,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - Individual minds make use of adaptations in same way as organisms use genes
 - Collective or universal mind entailed in model: Platonic picture with preexisting ideas in a mind sphere
 - Study of music can inform aspects of mind not accessible through conventional studies.
+
+---
 
 ### 50  Intention Self and Spiritual Experience A Functional Model of Consciousness
 
@@ -6888,6 +7395,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 - This mode is highly functional and serves the intent of acting on the environment
 - An example: driving in heavy traffic, where we are focused on the objective world to survive.
 
+---
+
 #### Intentional Shifts in Consciousness Instrumental vs Receptive Modality
 
 **Self, Intention, and Consciousness**
@@ -6909,6 +7418,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 **Experiment: Changing Intention to Alter Perception**
 - Try analyzing someone's face with the intent to make a model vs. receiving and just taking in the experience
 - Most people report a difference between the two intentions, describing it as "richer" or "deeper" in the receptive mode
+
+---
 
 #### Transcending Self-Centeredness The Zen Retreat Experience
 
@@ -6934,6 +7445,8 @@ These chapters emphasize the importance of studying the phenomenology of conscio
 
 **Consciousness Formula**:
 C = f(I,S) - Summarizes the relationship between intention (I), self (S), and consciousness experience.
+
+---
 
 #### Balancing Conscious Modes for Life Satisfaction
 
@@ -6969,6 +7482,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Allows harmonious interaction between the two modes instead of alternating
 - Experience of being both active and guided at the same time
 
+---
+
 #### Transcendental Perception in Creativity and Spirituality
 
 **The Need for Science to Embrace Spiritual Traditions**
@@ -7000,6 +7515,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - **5. Suzuki (1970). Zen mind, beginner's mind.** New York: Walker/Weatherhill.
 - **Tart (1972). States of consciousness and state-specific sciences.** 186:120310.
 
+---
+
 ### 51 Enhanced Vigilance in Guided Meditation Implications of Altered Consciousness
 
 **Guided Meditation and Enhanced Vigilance: A Study on Altered Consciousness and Perceptual Performance**
@@ -7026,6 +7543,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 6. **Data Collection:**
    - Subjects were required to respond within 5 seconds and move the chair for next trial initiation.
 
+---
+
 #### Enhanced Vigilance with Guided Meditation A Comparative Study
 
 **Atkinson and Earl Study: Enhanced Vigilance with Chamber REST and Guided Meditation**
@@ -7044,6 +7563,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Enhanced perceptual vigilance for weak signals with both conditions without increased false alarms.
 - Stronger effect found in guided meditation than chamber REST on posttest trials.
 - Explanation: Focused attention and cognitive processing shift towards a holistic, receptive mode during meditation.
+
+---
 
 ### 52 The Stream Revisited A Process Model of Phenomenological Consciousness
 
@@ -7067,6 +7588,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - **Temporality**: Unfolding of consciousness in time
 - **Processing Activity**: Mental factors arise, undergo processing, and disappear
 - **Content**: Four broad classes: sensations (s), emotions (e), thoughts/mental images (t), intentions (i) (Figure 52.3)
+
+---
 
 #### Qualia Attention and Streams of Consciousness A Graphical Model
 
@@ -7103,6 +7626,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
   - Several forms: focal, panoramic, aimed, receptive, tenuous, or strong
 - Expanding the "stream" metaphor to include attention's margins (attention) and depth (levels).
 
+---
+
 #### Dynamic Stream of Awareness and Levels of Consciousness
 
 **The Forms of Covert Attention**
@@ -7130,6 +7655,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - No requirement for a "self" or "ego"; individuals are their actions
 - Possible applications: empirical recording and analyzing conscious flow, developing a reliable "hermeneutic" or "heterophenomenological" procedure, studying specific aspects and operations of consciousness in literary criticism
 
+---
+
 ## XI Overview
 
 **Overview of Consciousness Science**
@@ -7140,6 +7667,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Three perspectives on future research: AI paradigms (Ian Marshall), empirical testing (Jean Burns), and broadening the framework of science (Willis Harman)
 - Historical context: Bias towards determinism in modern science, questioning reductive view by prominent philosophers and scientists
 - Downward causation as an issue in brain dynamics, challenged by evidence but ignored due to preference for machine-like models of brains.
+
+---
 
 ### 53 Three Kinds of Thinking
 
@@ -7196,6 +7725,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 **Higher Mental Processes: Contacting a Timeless Realm**
 - Distinction between three kinds of thinking: here-and-now (point mode), personal narratives (line mode), general patterns in art, science, or philosophy (construct mode) and transcendent experiences (transcendent mode).
 
+---
+
 #### Empiricist Approach to Meaning through Associative Fields and Constrained Networks
 
 **Parallel vs. Serial Processing Styles:**
@@ -7213,6 +7744,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Serial processors have fixed language and programs but cannot create new language or programs
 - To add an explicit language to a parallel processor, we need a theory of meaning: [a] connotes [b] if [a] evokes [b] when consciousness system is on line. Associative meanings are not logical definitions; they're based on experience and can be holistic (music, metaphor) or empiricist (isolatable pointer readings).
 - New concepts or attitudes can be defined first by long narratives or widespread social trends before a short name makes them explicit.
+
+---
 
 #### Evolution of Meaning and Language through Associative Matrix and Intentional Use
 
@@ -7233,6 +7766,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - People constantly learn new meanings, which cannot be explained by a single fixed serial processor
 - The brain creates a sequence of serial processors tailored to the languages developed so far
 - This accords with the intuition that one's thinking is not tied to any formal language and is not restricted by Gdel's Theorem on formal languages
+
+---
 
 #### Quantum Consciousness and Intentionality in Brain Processing A Proposed Model
 
@@ -7264,6 +7799,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 **Limitations of the Model:**
 - Detailed issues ignored in this paper
 - New type of processing model with three interacting kinds of brain computational processes within artificial intelligence.
+
+---
 
 #### Quantum Elements in Brain Function and Consciousness
 
@@ -7311,6 +7848,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 * Zohar (1990): The quantum self
 * Zohar and Marshall (1993): The quantum society.
 
+---
+
 ### 54 The Possibility of Empirical test of Hypotheses About Consciousness
 
 **Consciousness and Physical Laws**
@@ -7327,6 +7866,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
     - Neural processes including synchronous oscillations and synaptic transmission (Crick)
     - Microtubules and their protein conformational changes (Hameroff)
   - Problem: Knowing which entities are conscious vs. nonconscious, especially for non-human beings or complete set of conditions necessary for human consciousness.
+
+---
 
 #### Consciousness and Free Will Theoretical Debates in Physics and Neuroscience
 
@@ -7369,6 +7910,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 **Foundations of Parapsychology and Quantum Physics**:
 - Walker (1975) discussed the foundations of parapsychological and paraphysical phenomena, in relation to quantum physics
 
+---
+
 ### 55 Toward a Science of Consciousness Addressing Two Central Questions
 
 **Consciousness: Strategy and Epistemology**
@@ -7390,6 +7933,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Questioning the objective nature of science based on subjective experiences of scientists
   - Preference for quantifiable data is a bias, not an intrinsic quality.
 
+---
+
 #### Exploring Consciousness Towards a Holistic Epistemology
 
 **Training to Study Consciousness**
@@ -7407,6 +7952,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 - Radically empirical or phenomenological epistemology proposed for studying consciousness:
   - Phenomenological/experiential approach, including subjective experience as primary data
   - Objective and unbiased, addressing both external and internal experience
+
+---
 
 #### Epistemology for Consciousness Studies in Holistic Perspective
 
@@ -7450,6 +7997,8 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 **9. Usefulness of Models:**
 - Permissible if useful for ordering knowledge, even if they seem to contradict other models
 - Classical examples: wave and particle models in physics.
+
+---
 
 #### Shift in Understanding Consciousness and Sciences Role A Cultural Evolution
 
