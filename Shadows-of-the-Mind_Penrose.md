@@ -140,8 +140,6 @@
 ---
 
 ## Part I Why We Need New Physics to Understand the Mind 
----
-
 ### 1. Consciousness and computation
 
 **Part I: Why We Need New Physics to Understand the Mind**
@@ -2519,8 +2517,6 @@ where `N` is the total number of internal states in A's specification.
 ---
 
 ## Part II What New Physics We Need to Understand the Mind 
----
-
 ### 4. Does mind have a place in classical physics
 
 **Understanding Mind through Physics: A Non-Computational Perspective**

@@ -415,34 +415,6 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 
 ---
 
-### Quantum Mechanics and Microtubules Relevant Literature
-**References**
-- Atema, J. (1973). Microtubule theory of sensory transduction. Journal of Theoretical Biology , 38, 181-90.
-- Bandyopadhyay A (2011) Direct experimental evidence for quantum states in microtubules and topological invariance. Abstracts: Toward a Science of Consciousness 2011, Sock holm, Sweden, HYPERLINK http://www .consciousness.arizona.edu/www .consciousness.arizona.edu
-- Barrow, J.D. and Tipler, F.J. (1986) The Anthropic Cosmological Principle (OUP , Oxford).
-- Bell, J.S. (1966) Speakable and Unspeakable in Quantum Mechanics (Cambridge University Press, Cambridge; reprint 1987).
-- Benioff, P. (1982). Quantum mechanical Hamiltonian models of Turing Machines. Journal of Statistical Physics, 29, 515-46.
-- Bennett C.H., and Wiesner, S.J. (1992). Communication via 1- and 2-particle operators on Einstein-Podolsky-Rosen states. Physical Reviews Letters, 69, 2881-84.
-- Bensimon G, Chemat R (1991) Microtubule disruption and cognitive defects: effect of colchicine on teaming behavior in rats. Pharmacology, Biochemistry and Behavior 38(1):141-145.
-- Bohm, D. (1951) Quantum Theory (PrenticeHall, Englewood-Cliffs). Chapter 22, sections 15-19. Reprinted as: The Paradox of Einstein, Rosen and Podolsky in Quantum Theory and Measurement, eds., J.A. Wheeler and W.H. Zurek (Princeton University Press, Princeton, 1983).
-- Bernroider, G. and Roy, S. (2005) Quantum entanglement of K ions, multiple channel states and the role of noise in the brain. SPIE 5841-29:20514.
-- Bouwmeester, D., Pan, J.W., Mattle, K., Eibl, M., Weinfurter, H. and Zeilinger (1997) Experimental quantum teleportation. Nature 390 (6660):575-579.
-- Brunden, K.R., Ya, Y., Potuzak, J.S., Ferrer, N.I., Ballatore, C., James, M.J., Hogan, A.M., Trojanowski, J.Q., Smith, A.B. 3rd and Lee, V.M. (2011) The characterization of microtubule-stabilizing drugs as possible therapeutic agents for Alzheimer's disease and related taupathies. Pharmacological Research, 63(4), 341-51.
-- Crick, F., and Koch, C. (1990). Towards a neurobiological theory of consciousness. Seminars in the Neurosciences, 2, 263-75.
-- Dennett, D.C. (1991). Consciousness Explained. Little Brown, Boston, MA.
-- Dennett, D.C. (1995) Darwin's dangerous idea: Evolution and the Meanings of Life, Simon and Schuster.
-- Dermietzel, R. (1998) Gap junction wiring: a new principle in cell-to-cell communication in the nervous system? Brain Research Reviews. 26(2-3):176-83.
-- Deutsch, D. (1985) Quantum theory, the Church-Turing principle and the universal quantum computer, Proceedings of the Royal Society (London) A400, 97-117.
-- Disi, L. (1987) A universal master equation for the gravitational violation of quantum mechanics, Physics Letters A 120 (8):377-81.
-- Disi, L. (1989). Models for universal reduction of macroscopic quantum fluctuations Physical Review A, 40, 1165-74.
-- Draguhn, A., Traub, R., Schmitz, D., Jefferys (1998). Electrical coupling underlies high-frequency oscillations in the hippocampus in vitro. Nature, 394(6689), 189-92.
-- Eccles, J.C. (1992). Evolution of consciousness. Proceedings of the National Academy of Sciences, 89, 7320-24.
-- Engel, G.S., Calhoun, T.R., Read, E.L., Ahn, T.-K., Mancal, T., Cheng, Y.-C., Blankenship, R.E., Fleming, G.R. (2007) Evidence for wave-like energy transfer through quantum coherence in photosynthetic systems. Nature 446:782-786.
-- Everett, H. (1957). Relative state formulation of quantum mechanics. In Quantum Theory and Measurement, J.A. Wheeler and W.H. Zurek (eds.) Princeton University Press, 1983; originally in Reviews of Modern Physics, 29, 454-62.
-- Feynman, R.P.
-
----
-
 ## 2. Cosmological Foundations of Consciousness
 **Cosmological Foundations of Consciousness: An Overview**
 
@@ -639,14 +611,6 @@ by Roger Penrose (Author), Stuart Hameroff (Author), Henry P. Stapp (Author), De
 - The relationship between subjective consciousness and the physical universe displays a similar complementarity with profound symmetry breaking.
 - Subjective consciousness has a claim to cosmological status in relation to the physical universe as it may function to solve the problem of superabundance by reducing probability multiverses to the unique course of history.
 - Biocentrism's conclusions are consistent with this view of consciousness in shaping the universe.
-
-**Additional References:**
-- Ananthaswamy, A. (2009) Whole brain is in the grip of consciousness - New Scientist 18 March.
-- Ananthaswamy, A. (2010) Firing on all neurons: Where consciousness comes from - New Scientist, 22 March.
-- Aspect, A., Grangier P., Roger G. (1981), Phys. Rev. Lett. 47, 460; (1982) Phys. Rev. Lett. 49, 1804; 49, 91.
-- Baars, B. (1997) In the Theatre of Consciousness: Global Workspace Theory - A Rigorous Scientific Theory of Consciousness. Journal of Consciousness Studies, 4/4 292-309.
-- Basar E., Basar-Eroglu J., Rschke J., Schmitt S. (1989) The EEG is a quasi-deterministic signal anticipating sensory-cognitive tasks, in Basar E., Bullock TH eds. Brain Dynamics Springer-Verlag, 43-71.
-- Beggs J, Plenz D. (2004) Neuronal Avalanches Are Diverse and Precise Activity Patterns That Are Stable for Many Hours in Cortical Slice Cultures - Journal of Neuroscience, 24, 5216-9.
 
 ---
 
@@ -4235,38 +4199,6 @@ These techniques may be used to investigate activity sites in humans and identif
 
 ---
 
-### References for Neural Development and Cognitive Functions in Language Processing
-**References:**
-* Ben-Shahar et al. (2003). The neural reality of syntactic transformations: evidence from fMRI. Psychological Science 14.43340.
-* Blakemore et al. (2007). Adolescent development of the neural circuitry for thinking about intentions. Social Cognition and Affective Neuroscience. doi: 10.1093/SCAFF.10.136
-* Blinkov & Glezer (1968). The human brain in figures and tables. Plenum, New York.
-* Booth et al. (2007). The role of the basal ganglia and cerebellum in language processing. Brain Research 1133.13644.
-* Bischoff-Grethe et al. (2000). Conscious and unconscious processing of nonverbal predictability in Brocas area. Journal of Neuroscience 20.19751981.
-* Chi et al. (1977). Gyral development of the human brain. Annals of Neurology, 1(1), 86-93.
-* Christoff & Gabrieli (2000). The frontopolar cortex and human cognition: Evidence for a rostrocaudal hierarchical organization within the human prefrontal cortex. Psychology, 28(1), 168-186.
-* Christoff et al. (2001). Rostrolateral prefrontal cortex involvement in relational integration during reasoning. NeuroImage, 14(1), 1136-1149.
-* Christoff et al. (2004). Neural basis of spontaneous thought processes. Cortex, 40(3), 623-630.
-* Chugani et al. (1987). Positron emission tomography of human brain functional development. Annals of Neurology, 22(2), 487-497.
-* Conel (1939). The postnatal development of the human cerebral cortex. Harvard University Press, Cambridge.
-* Dapretto & Bookheimer (1999). Form and content: dissociating syntax and semantics in sentence comprehension. Neuron 24(2), 4273-4282.
-* Di Quirico et al. (2009). Sensitivity to syntax in visual cortex. Cognition, 110(2), 293-315.
-* Dehaene et al. (1999). Sources of mathematical thinking: Behavioral and brain-imaging evidence. Science, 284(5417), 970-974.
-* Friederici (2002). Towards a neural basis of auditory sentence comprehension. Trends in Cognitive Sciences, 6(3), 78-84.
-* Gallagher & Joseph (1982). Non-linguistic knowledge, hemispheric laterality, and the conservation of inequivalence. Journal of General Psychology, 107, 31-40.
-* Ghiselin (1952). The Creative Process. New York: Mentor Books.
-* Holcomb et al. (1992). Visual and auditory sentence processing. Developmental Neuropsychology, 8(3), 203-241.
-* Joseph (1980). Joseph, R. (1982). The neuropsychology of development: Hemispheric laterality, limbic language, the origin of thought. Journal of Clinical Psychology, 44(1), 4-33.
-* Joseph (1986a). Confabulation and delusional denial: Frontal lobe and lateralized influences. Journal of Clinical Psychology, 42(4), 845-860.
-* Joseph (1986b). Reversal of language and emotion in a corpus callosotomy patient. Journal of Neurology, Neurosurgery, and Psychiatry, 49(3), 628-634.
-* Joseph (1988a). The right cerebral hemisphere: Emotion, music, visual-spatial skills, body image, dreams, and awareness. Journal of Clinical Psychology, 44(5), 630-673.
-* Joseph (1988b). Dual mental functioning in a split-brain patient. Journal of Clinical Psychology, 44(4), 770-779.
-* Joseph (1992). The limbic system: Emotion, laterality, and unconscious mind. The Psychoanalytic Review, 79(3), 405-455.
-* Joseph (1996). Neuropsychiatry, Neuropsychology, Clinical Neuroscience, 2nd Edition. Williams & Wilkins, Baltimore.
-* Joseph (1999). Frontal lobe psychopathology: Mania, depression, aphasia, confabulation, catatonia, perseveration, obsessive compulsions, schizophrenia. Psychiatry, 62(3), 138-172.
-* Joseph (2000a). Limbic language/language axis theory of speech. Neuropsychology, Development and Cognition, 9(4), 775-815.
-
----
-
 ## 26. Consciousness A Direct Link to Lifes Origins
 **Correspondence Between Induction and Consciousness: A Direct Link to Life Origins?**
 
@@ -7282,14 +7214,6 @@ These techniques may be used to investigate activity sites in humans and identif
 - **Article Excerpts from \"Quantum Enigma\" (Squires, 1991)**
   - Discusses conscious free will's role in overarching structure
   - Based on research by Aspect et al. (1982), Bell (1964 & 1981) and others
-
-**References:**
-1. **Aspect, A., Dalibard, J., Roger, G.** (1982). \"Experimental Test of Bell Inequalities Using Time-Varying Analyzers.\" Physical Review Letters 49, 1804-1807.
-2. **Bell, J.S.** (1964). \"On the Problem of Hidden Variables in Quantum Mechanics.\" Physics 1, 195.
-3. **Bell, J. S.** (1981). \"Bertlmann's Socks and the Nature of Reality .\" Journal de physique 42, 41.
-4. **Clauser, J.F.** (2010). \"de Broglie Wave Interference of Small Rocks and Live Viruses.\" In: Cohen, R.S., Horne, M., Stachel, J. (Eds.), Experimental Metaphysics: Quantum Mechanical Studies for Abner Shimony , Volume One. Kluwer Academic, Dordrecht, The Netherlands, pp. 1-12.
-5. **Einstein, A., Podolsky, B., Rosen** (1935). \"Can quantum-mechanical description of physical reality be considered complete?.\" Physical Review 47, 777-780.
-6. **Elitzur, A., Dolev, S., Kolenda, A.** (Eds) (2006). Quo Vadis Quantum Mechanics. Springer, Berlin.
 
 **Key Findings:**
 - Research by Aspect et al. (1982), Bell (1964 & 1981), and others challenges the completeness of quantum mechanical description of physical reality.

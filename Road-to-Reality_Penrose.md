@@ -398,8 +398,6 @@
 ---
 
 ## 1. The roots of science 
----
-
 ###  1.1: The quest for the forces that shape the world
 
 **Roots of Science**
@@ -602,8 +600,6 @@
 ---
 
 ## 2. An ancient theorem and a modern question 
----
-
 ###  2.1: The Pythagorean theorem
 
 **Pythagorean Theorem: Proofs and Assumptions**
@@ -839,13 +835,10 @@
 
 **Section 2.7: Cosmic Microwave Background Radiation (CMB) Evidence for Overall Universe Structure**
 - Detailed analysis of CMB provides evidence for overall structure of the universe, as discussed in §§27.7,10,11,28.5,10,30.14
-- References: de Bernardis et al. (2000), Netterfield et al. (2002), Halverson et al. (2001), Bennett et al. (2003)
 
 ---
 
 ## 3. Kinds of number in the physical world 
----
-
 ###  3.1: A Pythagorean catastrophe?
 
 **Pythagorean Theorem and Rational Numbers**
@@ -1096,8 +1089,6 @@
 ---
 
 ## 4. Magical complex numbers 
----
-
 ###  4.1: The magic number ‘i’
 
 **Magical Complex Numbers: The Imaginary Number 'i'**
@@ -1262,8 +1253,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 5. Geometry of logarithms, powers, and roots 
----
-
 ###  5.1: Geometry of complex algebra
 
 **Complex Algebra in Geometry:**
@@ -1415,8 +1404,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 6. Real-number calculus 
----
-
 ###  6.1: What makes an honest function?
 
 **Mathematical Analysis: Calculus and Functions**
@@ -1603,8 +1590,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 7. Complex-number calculus 
----
-
 ###  7.1: Complex smoothness
 
 **Complex-number calculus**
@@ -1723,8 +1708,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 8. Riemann surfaces and complex mappings 
----
-
 ###  8.1: The idea of a Riemann surface
 
 **Riemann Surfaces and Complex Mappings**
@@ -1869,8 +1852,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 9. Fourier decomposition and hyperfunctions 
----
-
 ###  9.1: Fourier series
 
 **Fourier Decomposition and Hyperfunctions**
@@ -2158,8 +2139,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 10. Surfaces 
----
-
 ###  10.1: Complex dimensions and real dimensions
 
 **Surfaces and Dimensions**
@@ -2389,8 +2368,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 11. Hypercomplex numbers 
----
-
 ###  11.1: The algebra of quaternions
 
 **The algebra of quaternions**
@@ -2589,8 +2566,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 12. Manifolds of n dimensions 
----
-
 ###  12.1: Why study higher-dimensional manifolds?
 
 **Higher-Dimensional Manifolds and Their Significance in Physics**
@@ -2899,8 +2874,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 13. Symmetry groups 
----
-
 ###  13.1: Groups of transformations
 
 **Symmetry Groups and Transformations**
@@ -3477,8 +3450,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 14. Calculus on manifolds 
----
-
 ###  14.1: Diferentiation on a manifold?
 
 **Calculus on Manifolds**
@@ -3825,8 +3796,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 15. Fibre bundles and gauge connections 
----
-
 ###  15.1: Some physical motivations for fibre bundles
 
 **Fibre Bundles and Gauge Connections (Chapter 15)**
@@ -4200,8 +4169,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 16. The ladder of infinity 
----
-
 ###  16.1: Finite fields
 
 **The Ladder of Infinity**
@@ -4549,8 +4516,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 17. Spacetime 
----
-
 ###  17.1: The spacetime of Aristotelian physics
 
 **The Spacetime of Aristotelian Physics**
@@ -4873,8 +4838,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 18. Minkowskian geometry 
----
-
 ###  18.1: Euclidean and Minkowskian 4-space
 
 **Minkowskian Geometry**
@@ -5201,8 +5164,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 19. The classical field of Maxwell and Einstein 
----
-
 ###  19.1: Evolution away from Newtonian dynamics
 
 **Evolution Away from Newtonian Dynamics**
@@ -5575,21 +5536,9 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 - Schoen, Yau, Witten, Nester, Parker, Taubes, Horowitz, Perry, Reula, Tod contributed to understanding the solutions of these equations
 - Penrose and Rindler provided a comprehensive account in their book "Relativity: The Specialist" (1986)
 
-**References**:
-- Stachel (1995)
-- Synge (1960), Weinberg (1972), Misner, Thorne, and Wheeler (1973), Wald (1984), Ludvigsen (1999), Rindler (1977, 2001), Schutz (2003), Hartle (2003)
-- Trautman (1958, 1972, 1973) for Einstein–Cartan–Sciama–Kibble theory
-- Bondi (1960, 1962), Sachs (1961, 1962a), Newman and Unti (1962), Penrose (1963, 1964)
-- Schoen and Yau (1979, 1982), Witten (1981), Nester (1981), Parker and Taubes (1982), Ludvigsen and Vickers (1982), Horowitz and Perry (1982), Reula and Tod (1984)
-- Penrose and Rindler (1986)
-- Roseveare (1982) for Mercury's perihelion anomaly
-- Shawhan (2001), Abbott (2004), Grishchuk et al. (2001), Thorne (1995b), John Baez's web-commentary (http://math.ucr.edu/home/baez/week143.html)
-
 ---
 
 ## 20. Lagrangians and Hamiltonians 
----
-
 ###  20.1: The magical Lagrangian formalism
 
 **Lagrangians and Hamiltonians**
@@ -5801,8 +5750,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 21. The quantum particle 
----
-
 ###  21.1: Non-commuting variables
 
 **Quantum Particle: Non-commuting Variables**
@@ -6208,8 +6155,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 22. Quantum algebra, geometry, and spin 
----
-
 ###  22.1: The quantum procedures U and R
 
 **Quantum Algebra and Spin**
@@ -6869,8 +6814,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 23. The entangled quantum world 
----
-
 ###  23.1: Quantum mechanics of many-particle systems
 
 **Quantum Mechanics of Many-Particle Systems**
@@ -7252,8 +7195,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 24. Dirac’s electron and antiparticles 
----
-
 ###  24.1: Tension between quantum theory and relativity
 
 **Key Concepts:**
@@ -7496,19 +7437,9 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 - Only 4x4 matrices can satisfy all the conditions
 - Explanation of why this is the standard 'gauge prescription' is given in the text
 
-**Further references**:
-- Pais (1986), Miller (2003), Dirac (1983) for Dirac theory applications to quantum mechanics and general discussion
-- Shankar (1994) for use of matrices in quantum mechanics
-- Trautman (1997) on 'square root' ideas related to Dirac sea
-- Clifford (1882), Cartan (1966), van der Waerden (1929), Infeld and van der Waerden (1933), Laporte and Uhlenbeck (1931), Penrose (1960), Penrose and Rindler (1984, 1986), O’Donnell (2003) for Clifford algebra and spinors
-- Igor Tamm, Hermann Weyl, J. Robert Oppenheimer's work on positron discovery in Oppenheimer (1930)
-- Zee (2003) for a complete, rigorous, and lovely treatment of the route to the positron discovery.
-
 ---
 
 ## 25. The standard model of particle physics 
----
-
 ###  25.1: The origins of modern particle physics
 
 **The Origins of Modern Particle Physics**
@@ -7910,8 +7841,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 26. Quantum field theory 
----
-
 ###  26.1: Fundamental status of QFT in modern theory
 
 **Quantum Field Theory (QFT)**
@@ -8346,8 +8275,6 @@ a₀ + a₁x + a₂x² + a₃x³ + ...
 ---
 
 ## 27. The Big Bang and its thermodynamic legacy 
----
-
 ###  27.1: Time symmetry in dynamical evolution
 
 **The Big Bang and its thermodynamic legacy**
@@ -9016,8 +8943,6 @@ Useful for extending metric smoothly to the r < 2M region.
 ---
 
 ## 28. Speculative theories of the early universe 
----
-
 ###  28.1: Early-universe spontaneous symmetry breaking
 
 **Early Universe Speculative Theories**
@@ -9649,8 +9574,6 @@ Hints for exercises:
 ---
 
 ## 29. The measurement paradox 
----
-
 ###  29.1: The conventional ontologies of quantum theory
 
 **The Measurement Paradox**
@@ -10102,8 +10025,6 @@ Hints for exercises:
 ---
 
 ## 30. Gravity’s role in quantum state reduction 
----
-
 ###  30.1: Is today’s quantum theory here to stay?
 
 **Chapter 30: Gravity's Role in Quantum State Reduction**
@@ -10812,8 +10733,6 @@ Hints for exercises:
 ---
 
 ## 31. Supersymmetry, supra-dimensionality, and strings 
----
-
 ###  31.1: Unexplained parameters
 
 **Supersymmetry, Supra-dimensionality, and Strings**
@@ -12756,8 +12675,6 @@ Hints for exercises:
 ---
 
 ## 34. Where lies the road to reality? 
----
-
 ###  34.1: Great theories of 20th century physics—and beyond?
 
 **Understanding the Physical World: A Look Back and Forward**

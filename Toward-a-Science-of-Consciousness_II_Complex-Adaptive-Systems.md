@@ -609,17 +609,6 @@
 - Many nonreductionist positions assume there are neural causes and correlates of conscious experiences
 - Causes and correlates should not be confused with the ontology of conscious experience
 
-**References**:
-- Churchland, P. S. (1988). Neurophilosophy: Toward a Unified Science of Mind and Brain. Cambridge: MIT Press
-- Crick, F. (1994). The Astonishing Hypothesis: The Scientific Search for the Soul. London: Simon & Schuster
-- Penfield, W., and T. B. Rassmussen. (1950). The Cerebral Cortex of Man. Princeton: Princeton University Press
-- Place, U. T. (1956). Is consciousness a brain process? British Journal of Psychology 47:42–51
-- Searle, J. R. (1987). Minds and brains without programs. In C. Blakemore and S. Greenfield, eds. Mindwaves: Thoughts on Intelligence, Identity, and Consciousness. New York: Blackwell
-- Searle, J. R. (1992). The Rediscovery of the Mind. Cambridge: MIT Press
-- Velmans, M. (1990). Consciousness, brain and the physical world. Philosophical Psychology 3(1):77–99
-- Velmans, M. (1993). A reflexive science of consciousness. In Experimental and Theoretical Studies of Consciousness. Ciba Foundation Symposium 174. Chichester: Wiley
-- Velmans, M. (1996). What and where are conscious experiences? In M. Velmans, ed. The Science of Consciousness: Psychological, Neuropsychological and Clinical Reviews. London: Routledge
-
 ---
 
 ### 4 What Can Mysticism Teach Us About Consciousness? Robert K. C. Forman
@@ -1306,15 +1295,6 @@
 7. Research on sleep and dreaming raises questions about different types and levels of awareness that we have yet to understand
 8. Reservations towards Penrose's mathematical argument regarding consciousness; the Simon Newcombe Award for outlandish astronomical claims (Hayes and Ford, 1995)
 
-**Additional References:**
-- Bennett et al., Observer Mechanics (1989), Neurophilosophy (2002)
-- Bowdle et al., The Pharmacological Basis of Anesthesiology (1994)
-- Chalmers, The Conscious Mind (1996) and "The Puzzle of Conscious Experience" (1995) in Scientific American
-- Churchland's articles: "Consciousness: The transmutation of a concept" (Pacific Philosophical Quarterly, 1983), "Intertheoretic reduction: A neuroscientist's field guide" (Seminars in the Neurosciences, 1991)
-- Grush and Churchland's discussion on Penrose's mathematical argument (Grush and Churchland, 1995; Penrose and Hameroff, 1995)
-- Putnam, Philosophy of Mathematics: Selected Readings (1983); Feferman (1995), Benacerraf and Putnam (1983), Kitcher (1984) on the nature of consciousness
-- Hayes and Ford's award for Simon Newcombe's astronomical claims (Hayes and Ford, 1995)
-
 ---
 
 #### The role of philosophy in understanding mind-brain relationship and its cooperation with other sciences.
@@ -1501,13 +1481,6 @@
 - Places consciousness within biological perspective as a distinct, information-bearing medium
 - Natural answer to "How does consciousness bear information?" is that it bears information as experience
 - Distinguishes consciousness from other media by the fact of experience.
-
-**Key References**:
-- Baars, B. (1989). A Cognitive Theory of Consciousness. Cambridge: Cambridge University Press.
-- Berlyne, D. E. (1971). Aesthetics and Psychobiology. New York: Appleton-Century-Crofts.
-- Dennett, D. (1993). Caveat emptor. Consciousness and Cognition 2:48–57.
-- Mangan, B. (1993a). Dennett, consciousness, and the sorrows of functionalism. Consciousness and Cognition 2:1–17.
-- Mangan, B. (forthcoming). Consciousness as an information-bearing medium. Psyche <http://psyche.cs.monash.au/>
 
 ---
 

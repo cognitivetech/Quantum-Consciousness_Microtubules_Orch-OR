@@ -401,8 +401,6 @@ VII. Summary
 3. **Verifying presence of assembly-competent tubulin**: Perform microplate assembly assays using column fractions, DMSO (10% v/v), and GTP (1mM) for faster identification of tubulin-rich fractions.
 4. **Quantifying concentration of tubulin per cell**: Prepare cell lysates, run dilution series with purified tubulin standards, and determine relative intensity by immunoblotting.
 5. **Summary**: Tubulins are highly conserved proteins; understanding differences between sources is essential for research. The protocols presented can be optimized to purify tubulin from various nonneural sources.
-6. **Acknowledgments**: Thanks to Mohan Gupta, Richard Cyr, and Sally Lyons-Abbott for information, comments, and corrections. This work was supported by NIH grants (DLS, AI067981).
-7. **References**: Andreu JM (2007), Aoki et al. (2009), Banerjee (2002), Barahona et al. (1988), Barnes et al. (1992), Boeke et al. (1987), Borisy et al. (1974), Callahan et al. (1984).
 
 ---
 
@@ -519,19 +517,6 @@ VII. Summary
 * Progress made in creating small library of monoclonal and polyclonal anti-g-Glu antibodies for identifying glutamylated proteins
 * Caution needed when using these antibodies for immunocytochemistry and interpreting Western blot results
 * Value of 7D2 antibody in identifying glutamylated polypeptides but unable to determine extent of glutamylation.
-**References:**
-* Akasaka et al., (2009) Loss of class III beta-tubulin induced by histone deacetylation is associated with chemosensitivity topaclitaxel in malignant melanoma cells. J. Invest. Dermatol. 129, 15161526.
-* Alexander et al., (1991) Characterization of posttranslational modifications in neuron-specific class III beta-tubulin by mass spectrometry. Proc. Natl. Acad. Sci. U.S.A. 88, 46854689.
-* Anthony et al., (2004) Radial glia serve as neuronal progenitors in all regions of the central nervous system. Neuron 41, 881890.
-* Arai et al., (2002) Distribution of the class II beta-tubulin in developmental and adult rat tissues. Cell Motil. Cytoskeleton 52, 174182.
-* Arevalo et al., (1990) Tubulin assembly probed with antibodies to synthetic peptides. J. Mol. Biol. 214, 105120.
-* Argarana et al., (1977) In vivo incorporation of [14C]tyrosine into the C-terminal position of the alpha subunit of tubulin. Arch. Biochem. Biophys. 180, 264268.
-* Argarana et al., (1978) Release of [14C]tyrosine from tubulinyl-[14C] tyrosine by brain extract. Separation of a carboxypeptidase from tubulin-tyrosine ligase. Mol. Cell. Biochem. 19, 17.
-* Banerjee et al., (1992) Preparation of a monoclonal antibody specific for the class IV isotype of beta-tubulin. Purification and assembly of alpha beta II, alpha beta III, and alpha beta IV tubulin dimers from bovine brain. J. Biol. Chem. 267, 56255630.
-* Bhattacharya et al., (2008) A minor beta-tubulin essential for mammalian cell proliferation. Cell Motil. Cytoskeleton 65, 708720.
-* Binder et al., (1985) The distribution of tau in the mammalian central nervous system. J. Cell Biol. 101, 13711378.
-* Blose et al., (1984) 10-nm filaments are induced to collapse in living cells microinjected with monoclonal and polyclonal antibodies against tubulin. J. Cell Biol. 98, 847858.
-* Caceres et al., (1984) Differential subcellular localization of tubulin and the microtubule-associated protein MAP2 in brain tissue as revealed by immunocytochemistry with monoclonal hybridoma antibodies. J. Neurosci. 4, 394410.
 
 ---
 
@@ -729,11 +714,6 @@ F. Preparation of Standard Curve for Quantitative Real-Time RT-PCR:
     * Preparation and analysis of subtilisin-treated dimers
 * **Other Applications**
     * Studying stability of in vivo tubulin complexes by native electrophoresis
-* **Materials** (not mentioned in provided text)
-* **Discussion**
-* **Summary**
-* **Acknowledgments**
-* **References**
 
 **Key Takeaways:**
 - Nondenaturing gel electrophoresis allows for the study of protein complexes without denaturing agents.
@@ -1210,11 +1190,6 @@ F. Microtubule Interactions with Drugs and MAPs:
 - Advantages of tubulin proteomics in understanding microtubule dynamics and drug effects
 - Usefulness in discovering microtubule-interacting drugs with fewer neurological side effects
 
-**Acknowledgments:**
-- List of authors and their affiliations
-
-**References.**
-
 ---
 
 #### Taxol-Based Tubulin Isolation from Non-Neuronal Sources
@@ -1509,11 +1484,6 @@ F. Microtubule Interactions with Drugs and MAPs:
 
 **V. Summary**
 - Recap of chapter content, including experimental methods used for characterizing microtubule intermediates and their relevance in cellular processes
-
-**VI. Acknowledgments**
-- Crediting individuals involved in the research discussed in this chapter
-
-**VII. References**
 
 ---
 
@@ -2239,26 +2209,6 @@ F. Microtubule Interactions with Drugs and MAPs:
 4. Thermodynamic analysis
 5. Mesoscopic stochastic model analysis
 
-**Significant References:**
-1. Ajo-Franklin et al. (2007)
-2. Bayley, Schilstra, & Martin (1989, 1990)
-3. Chen & Hill (1985)
-4. Coburn et al. (2009)
-5. Dyson (2004)
-6. Elowitz & Leibler (2000)
-7. Flyvbjerg et al. (1996)
-8. Freed (2002)
-9. Gliksman et al. (1993)
-10. Gregoretti, Margolin, Alber, & Goodson (2006)
-11. Holy & Leibler (1994)
-12. Huang et al. (2009)
-13. Johnson & Borisy (1975, 1977, 1979)
-14. Lorenz (1996)
-15. Margolin, Gregoretti, Goodson, & Alber (2006)
-16. Martin, Schilstra, & Bayley (1993)
-17. Howard (2001)
-18. Johnson & Borisy (1975, 1977, 1979)
-
 ---
 
 ### Chapter 11: Analysis of Dynamic Instability of Steady State Microtubules In Vitro by Video Enhanced Differential Interference Contrast Microscopy with an Appendix by Emin Oro
@@ -2928,12 +2878,6 @@ V. Summary: overview of the assay methods, including experimental setup, materia
   * Intensity profile examination for tip movement in evanescent field
 - Use kymographs for dynamic property determination (Fig. 6)
 
-**Additional References:**
-- Aitken et al., 2008: Oxygen scavenging system for dye stability in single molecule fluorescence experiments
-- Axelrod, 1984 & 2008: Total internal reflection fluorescence microscopy and its applications (Methodology)
-- Bieling et al., 2007: Reconstitution of a microtubule plus-end tracking system in vitro
-- Brinkley, 1997: Microtubules: A historical perspective (J. Struct. Biol.)
-
 **Dynamic Microtubule Assays:**
 - Use TIRF images recorded at specific intervals to measure growth rates
 - Higher growth rates observed with MAPs, up to 10 m/min
@@ -2942,10 +2886,6 @@ V. Summary: overview of the assay methods, including experimental setup, materia
 **Technical Challenges:**
 - Thermal fluctuations affect long microtubule extensions
 - Intensity profile examination to determine if tip has drifted out of field of view
-
-**References for Dynamic Microtubule Assays:**
-- Akhmanova & Steinmetz, 2008: Tracking the ends: A dynamic protein network controls the fate of microtubule tips (Nat. Rev. Mol. Cell Biol.)
-- Brouhard et al., 2008: Measuring microtubule growth rates with XMAP215 MAPs (Biophysical Journal)
 
 ---
 

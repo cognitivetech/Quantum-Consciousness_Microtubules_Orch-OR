@@ -482,16 +482,6 @@
 **Arguments Against**:
 - Best ignored for developing scientific theory
 
-**References**:
-- Chalmers, T. (1995). The conscious mind: Mental life explained. New York: Oxford University Press.
-- Dennett, D. C. (1991). Consciousness explained. Boston: Little, Brown.
-- Edelman, G. (1989). The remembered present: A biological theory of consciousness. New York: Basic Books.
-- Farah, M. J. (1994). Visual perception and visual awareness after brain damage: A tutorial overview. In Consciousness and unconscious information processing: Attention and performance, 15, 233-246. Cambridge, MA: MIT Press.
-- Flohr, H. (1992). Qualia and brain processes. In Emergence or reduction? Prospects for nonreductive physicalism, edited by A. Beckermann, H. Flohr, and J. Kim. Berlin: De Gruyter.
-- Hameroff, S. R. (1994). Quantum coherence in microtubules: A neural basis for emergent consciousness? Journal of Consciousness Studies, 1(2), 91-118.
-- Hardin, C. L. (1992). Physiology, phenomenology, and Spinoza's true colors. In Emergence or reduction? Prospects for nonreductive physicalism, edited by A. Beckermann, H. Flohr, and J. Kim. Berlin: De Gruyter.
-- Hill, C. S. (1991). Sensations: A defense of type materialism. Cambridge, England: Cambridge University Press.
-
 ---
 
 ### 2 Consciousness and the Introspective Link Principle
@@ -1293,16 +1283,6 @@ The cycle continues as both participants interact and respond to each other in a
 2. Automatic vs. controlled processing:
    - Preconscious stimuli can be analyzed by automatic, not controlled processes
 3. Influence on feelings, social judgments, interpersonal behaviors despite being unconscious and paid no attention.
-
-**References:**
-- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood Cliffs, NJ: Prentice-Hall.
-- Bargh, J. A. (1994). "The four horsemen of automaticity: Awareness, intention, efficiency, and control in social cognition." Handbook of Social Cognition, 2nd ed., Vol. 1 (pp. 1-40), edited by R. S. Wyer and T. K. Srull. Hillsdale, NJ: Lawrence Erlbaum.
-- Bargh, J. A. & P. Pietromonaco (1982). "Automatic information processing and social perception: The influence of trait information presented outside of conscious awareness on impression formation." Journal of Personality and Social Psychology, 43(6), 437449.
-- Bargh, J. A., R. N. Bond, W. J. Lombardi, & ME Tota (1986). "The additive nature of chronic and temporary sources of construct accessibility." Journal of Personality and Social Psychology, 50(2), 869878.
-- Bornstein, R. F. (1989). "Exposure and affect: Overview and metaanalysis of research, 19681987." Psychological Bulletin, 106(3), 265289.
-- Bornstein, R. F., D. R. Leone, & D. J. Galley (1987). "The generalizability of subliminal mere exposure effects: Influence of stimuli perceived without awareness on social behavior." Journal of Personality and Social Psychology, 53(6), 10701079.
-- Greenwald, A. (1992). "Preconscious processing: An analysis of limitations." American Psychologist, 47(10), 12821289.
-- Greenwald, A., R. Klinger, & J. Liu (1989). "The meaning of priming effects: Word associations and the activation of representations in memory." Journal of Memory and Language, 36(5), 440462.
 
 ---
 
@@ -3653,9 +3633,6 @@ C = f(m, E, S)
 - Discovered through experimental tests with human subjects
 - Cannot be discovered through constructing theories based on previous knowledge of brain processes
 
-**Key References**:
-- Deecke et al., 1976; Eccles, 1990; Jensen, 1979; Komhuber & Deecke, 1965; Libet, 1966, 1978, 1982.
-
 ---
 
 ## V Neural Networks
@@ -3685,12 +3662,6 @@ C = f(m, E, S)
   5. Feedback from primary cortex preserves imagery associated with a particular perception
   6. Conscious states result in activation of multiple modules
   7. The number of activated modules correlates with the complexity of perception
-
-**Additional References:**
-- W. S. McCulloch and W. H. Pitts, 1943, Bulletin of Mathematical Biophysics 5:115 -33
-- E. Schrdinger, 1958/1967, Mind and Matter, Cambridge University Press
-- A. C. Scott, 1977, Neurodynamics (a critical survey), Journal of Mathematical Psychology 15:1-45
-- A. N. Whitehead and B. Russell, 1925, Principia Mathematica, Cambridge University Press.
 
 ---
 
@@ -5608,16 +5579,6 @@ Recent experimental results on intrusive thoughts (Baddeley, 1993) provide direc
 - Consciousness and time's passage are interconnected mystery (Elitzur)
 - Quantum wave function collapse linked to consciousness creation by Tollaksen
 - Collapse outcomes and consciousness influenced from both past and future.
-
-**References:**
-- Wheeler, J. A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. *Review Models in Physics*, 29(4): 463-5.
-- Woolf, N. J., S. L. Young, G. V. W. Johnson, and M. S. Fanselow. (1994). Pavlovian conditioning alters cortical microtubule-associated protein-2. *NeuroReport*, 5(8): 1045-8.
-- Yu, W., and P. W. Baas. (1994). Changes in microtubule number and length during axon differentiation. *Journal of Neuroscience*, 14(5): 2818-29.
-- Penrose, R. (1994). Shadows of the Mind: A Search for the Real in a Virtual World. New York: Oxford University Press.
-- Saul-Paul Sirag (discusses these constructs in relation to consciousness).
-- Doug Matzke (also discusses these constructs and their relevance to consciousness).
-- Avshalom Elitzur (Chapter 38, links consciousness to time through the "Now").
-- Jeff Tollaksen (Chapter 39, connects consciousness with quantum wave function collapse).
 
 ---
 
@@ -7840,13 +7801,6 @@ C = f(I,S) - Summarizes the relationship between intention (I), self (S), and co
 * Kandel and Hawkins (1992): The biological basis of learning and individuality
 * Lucas (1970): The freedom of the will
 * Marshall (1989): "Consciousness and Bose-Einstein condensates"
-
-**Other References:**
-* Miller (1962): Psychology
-* Minsky (1972): Computation
-* Norman (1987): Reflections on cognition and parallel distributed processing
-* Zohar (1990): The quantum self
-* Zohar and Marshall (1993): The quantum society.
 
 ---
 

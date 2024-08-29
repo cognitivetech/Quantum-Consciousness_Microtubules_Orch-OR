@@ -249,11 +249,6 @@
 - Thanks to Dr. Nikki LaPointe and Ms. Jennifer Smith for critically reading the chapter
 - Study was supported by National Institute of Health CA57291
 
-**References**
-- Balasubramani et al., 2010: Characterization and detection of cellular and proteomic alterations in stable stathmin-overexpressing and taxol-resistant BT549 cells using offgel IEF/PAGE difference gel electrophoresis. Mutation Research, In press
-- Ballestrem et al., 2000: Actin-dependent lamellipodia formation and Microtubule Dependent tail retraction control directed cell migration. Mol Biol Cell 11, 2999-3012
-- Brust-Mascher and Scholey, 2002: Microtubule flux and sliding in mitotic spindles of Drosophila embryos. Mol Biol Cell 13, 3967-3983
-
 ---
 
 ### Chapter 2: Analysis of Microtubule Polymerization Dynamics in Live Cells
@@ -491,23 +486,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - S.G.: NSF Graduate Research Fellowship
 - T.W.: National Institutes of Health grant R01 GM079139
 - This research conducted in part at a facility supported by the Research Facilities Improvement Program C06 RR16490
-
-**References**:
-
-* Akhmanova & Steinmetz (2008): Tracking the ends: A dynamic protein network controls the fate of microtubule tips
-* Altinok et al. (2007): Model-based dynamics analysis in live cell microtubule images
-* Bieling et al. (2008): CLIP-170 tracks growing microtubule ends by dynamically recognizing composite EB1/tubulin-binding sites
-* Bogdanov et al. (2009): Cell culture medium affects GFP photostability: A solution
-* Brangwynne et al. (2007): Force fluctuations and polymerization dynamics of intracellular microtubules
-* Bulinski et al. (2001): Rapid dynamics of the microtubule binding of ensconsin in vivo
-* Dogterom et al. (2005): Force generation by dynamic microtubules
-* Dragestein et al. (2008): Dynamic behavior of GFP-CLIP-170 reveals fast protein turnover on microtubule plus ends
-* Hadjidemetriou et al. (2008): Motion tracking of the outer tips of microtubules
-* Honnappa et al. (2009): An EB1-binding motif acts as a microtubule tip localization signal
-* Hyman et al. (1991): Preparation of modified tubulins
-* Jaqaman et al. (2008): Robust single-particle tracking in live-cell time-lapse sequences
-* Kerssemakers et al. (2006): Assembly dynamics of microtubules at molecular resolution
-* Komarova et al. (2009): Mammalian end binding proteins control persistent microtubule growth
 
 ---
 
@@ -757,10 +735,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 
 **FRAP Applications**:
 - Understanding impact of different proteins or treatments on MT dynamics and function at various stages during cell cycle.
-
-**Additional References**:
-- Axelrod et al., (1976) Mobility measurement by analysis of fluorescence photobleaching recovery kinetics. Biophysical Journal 16:10551069.
-- Buster et al., (2007) Poleward tubulin flux in spindles: Regulation and function in mitotic cells. Molecular Biology and Cell 18:30943104.
 
 ---
 
@@ -1066,15 +1040,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Thanks to Jason Stumpff for suggestions on the chapter and advice on kinetochore oscillation measurements
 - Work in the author's laboratory is supported by National Institutes of Health grants K01CA125051 and R01GM088371, and the Pew Scholars Program in the Biomedical Sciences
 
-**References**:
-- Biggins, S., & Murray, A. W. (2001). The budding yeast protein kinase Ipl1/Aurora allows the absence of tension to activate the spindle checkpoint. Genes Dev., 15(3), 11831197.
-- Biggins, S., & Walczak, C. E. (2003). Captivating capture: How microtubules attach to kinetochores. Curr. Biol., 13(R449), R460.
-- Brinkley, B. R., & Cartwright, Jr., J. (1975). Cold-labile and cold-stable microtubules in the mitotic spindle of mammalian cells. Ann. N. Y. Acad. Sci., 253(428), 428439.
-- Cameron, L. A., Yang, G., Cimini, D., Canman, J. C., Kisurina-Evgenieva, O., Khodjakov, A., Danuser, G., & Salmon, E. D. (2006). Kinesin 5-independent poleward flux of kinetochore microtubules in PtK1 cells. J. Cell Biol., 173(7), 17311749.
-- Cassimeris, L., Becker, B., & Carney, B. (2009). TOGp regulates microtubule assembly and density during mitosis and contributes to chromosome directional instability. Cell Motil. Cytoskeleton, 66(5), 545553.
-- Cassimeris, L., Rieder, C. L., Rupp, G., & Salmon, E. D. (1990). Stability of microtubule attachment to metaphase kinetochores in PtK1 cells. J. Cell Sci., 96(3), 915922.
-- Cimini, D. (2008). Merotelic kinetochore orientation, aneuploidy, and cancer. Biochem. Biophys. Acta, 1786(3), 13151334.
-
 ---
 
 ### Chapter 5: Photoactivatable Green Fluorescent Protein Tubulin
@@ -1229,8 +1194,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **VI. Summary**
 - Summary of the chapter's content and significance
 
-**VII. Acknowledgments and References**
-
 ---
 
 #### TIRF Microscopy and its Objective-Type Setup in Cell Biology Investigations
@@ -1384,12 +1347,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - Can be used to study cytoskeletal elements localized near the basal cortex and their behavior with different markers (Akhmanova et al., 2009; Akhmanova & Steinmetz, 2008)
 - Commercial TIRF microscopes are increasingly popular among cell biologists for generating high-quality data suitable for quantitative analysis.
 
-**References:**
-- Cai, D., McEwen, D. P., Martens, J.R., Meyhofer, E., and Verhey, K. J. (2009). Single molecule imaging reveals differences in microtubule track selection between kinesin motors. PLoS Biol. 7, e1000216.
-- Grigoriev, M.O., Patterson, G.A., and Borisy, G.N. (2008). Dynamics of ER tubule extension at the leading edge of a migrating cell. Nat Cell Biol 10, 349560.
-- Akhmanova, A., Stehbens, S.J., and Yap, A.S. (2009). Touch, grasp, deliver and control: Functional cross talk between microtubules and cell adhesions. Traffic 10, 2682-274.
-- Akhmanova, A., and Steinmetz, M.O. (2008). Tracking the ends: A dynamic protein network controls the fate of microtubule tips. Nat Rev Mol Cell Biol 9, 309-322.
-
 ---
 
 ### Chapter 7: Microtubule Dynamics in Dendritic Spines
@@ -1407,7 +1364,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - **Imaging EB3-GFP by TIRF and Spinning Disk Microscopy:** Techniques for maintaining neuronal health, performing total internal reflection fluorescence microscopy (TIRFM), and spinning disk confocal microscopy are provided.
 - **Data Analysis:** Methods for data analysis are discussed.
 - **Conclusion:** Summary of the importance of dynamic microtubules in dendritic spines and their potential role in adaptive processes, learning, and memory formation.
-- **Acknowledgments and References.**
 
 ---
 
@@ -1692,19 +1648,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 2. Understanding the dynamic cytoskeleton in neuronal cells has seen a new era with advanced imaging techniques and protein expression/function modulation tools
 3. Detailed protocols provided to contribute to better understanding of the dynamic cytoskeleton in neuronal cells
 
-**References:**
-1. Axelrod, D. (2008). Total internal reflection fluorescence microscopy. Methods Cell Biol., 89(1692-2107)
-2. Baas, P. W., et al. (1988). Polarity orientation of microtubules in hippocampal neurons: Uniformity in the axon and nonuniformity in the dendrite. Proc. Natl. Acad. Sci. U.S.A., 85(3), 8335-8339
-3. Blanpied, T. A., & Ehlers, M. D. (2004). Microanatomy of dendritic spines: Emerging principles of synaptic pathology in psychiatric and neurological disease. Biol. Psychiatry, 55(7), 1121-1127
-4. Brewer, G. J., et al. (1993). Optimized survival of hippocampal neurons in B27-supplemented neurobasal, a new serum-free medium combination. J. Neurosci. Res., 35(3), 567-576
-5. Cheeseman, I. M., & Desai, A. (2008). Molecular architecture of the kinetochore-microtubule interface. Nat. Rev. Mol. Cell Biol., 9(11), 3346-3357
-6. Conde, C., & Caceres, A. (2009). Microtubule assembly, organization and dynamics in axons and dendrites. Nat. Rev. Neurosci., 10(12), 319-332
-7. Dalby, B., et al. (2004). Advanced transfection with Lipofectamine 2000 reagent: primary neurons, siRNA, and high-throughput applications. Methods, 33(9), 951-960
-8. de Hoop, M. J., et al. (1994). Semliki forest virus as a tool for protein expression in cultured rat hippocampal neurons. Gene Ther., 1(Suppl. 1), S28-S31
-9. Dombeck, D. A., et al. (2003). Uniform polarity microtubule assemblies imaged in native brain tissue by second-harmonic generation microscopy. Proc. Natl. Acad. Sci. U. S.A., 100(8), 7081-7086
-10. Dotti, C. G., et al. (1988). The establishment of polarity by hippocampal neurons in culture. J. Neurosci., 8(4), 1454-1468
-11. Ehlers, M. D. (2003). Activity level controls postsynaptic composition and signaling via the ubiquitin proteasome system. Nat. Neurosci., 6(1), 231-242.
-
 ---
 
 ### Chapter 8: Protein Micropatterns using Deep UVs
@@ -1881,22 +1824,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - PDMS: can be made from scratch or bought in ready-to-use form (Gel Pak)
 - EDC, Sulfo-NHS, MES: purchased from Sigma
 
-**Additional References**:
-- Azioune et al. (2009): simple and rapid process for single cell micro-patterning
-- Blimmel et al. (2007): protein repellent properties of covalently attached PEG coatings
-- Chen et al. (1997): geometric control of cell life and death
-- Csucs et al. (2003): microcontact printing of novel co-polymers in combination with proteins
-- Cuvelier et al. (2003): micropatterned adherent/repellent glass surfaces for studying spreading kinetics of individual red blood cells
-- Doyle et al. (2009): one-dimensional topography underlies three-dimensional fibrillar cell migration
-- Fink et al. (2007): comparative study and improvement of current cell micro-patterning techniques
-- Folch and Toner (2000): microengineering of cellular interactions
-- Ostuni et al. (2009): using self-assembled monolayers to pattern ECM proteins and cells on substrates
-- Pouthas et al. (2008): in migrating cells, the Golgi complex and position of the centrosome depend on geometrical constraints of the substratum
-- Tan et al. (2004): simple approach to micropattern cells on common culture substrates by tuning substrate wettability
-- Thry and Piel (2009): adhesive micropatterns for cells: a microcontact printing protocol
-- Thry et al. (2005): the extracellular matrix guides the orientation of the cell division axis
-- Whitesides et al. (2001): soft lithography in biology and biochemistry.
-
 ---
 
 ### Chapter 9: New and Old Reagents for Fluorescent Protein Tagging of Microtubules in Fission Yeast: Experimental and Critical Evaluation
@@ -1918,10 +1845,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 
 **V. The Hunt for Red Tubulin**
 - Discussion of challenges in labeling microtubules with RFPs due to the presence of two a-tubulin isoforms
-
-**VI. Successful Fluorescent Imaging of Fission Yeast Microtubules and Associated Proteins**
-- Acknowledgments
-- References
 
 ---
 
@@ -2311,18 +2234,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 **Controls:**
 - Calibrate ablation efficiency to avoid artifacts
 
-**References:**
-1. Ashkin (1992) Forces of a single-beam gradient laser trap on a dielectric sphere in the ray optics regime. Biophysical Journal
-2. Ashkin et al. (1987) Optical trapping and manipulation of viruses and bacteria using infrared laser beams. Nature
-3. Berns et al. (1977) The role of the centriolar region in animal cell mitosis: a laser microbeam study. Journal of Cell Biology
-4. Carazo-Salas and Nurse (2006) Self-organization of interphase microtubule arrays in fission yeast. Nature Cell Biology
-5. Chikashige et al. (1994) Telomere-led premeiotic chromosome movement in fission yeast. Science
-6. Colombelli et al. (2005) In vivo selective cytoskeleton dynamics quantification in interphase cells induced by pulsed ultraviolet laser nanosurgery. Traffic
-7. Daga et al. (2006) Asymmetric microtubule pushing forces in nuclear centering. Current Biology
-8. Heisterkamp et al. (2005) Pulse energy dependence of subcellular dissection by femtosecond laser pulses. Optical Express
-9. Khodjakov et al. (2004) Laser microsurgery in fission yeast: role of the mitotic spindle midzone in anaphase B. Current Biology
-10. Ashkin and Dziedzic (1987) Optical trapping and manipulation of single cells using infrared laser beams. Nature.
-
 ---
 
 ### Chapter 11: Microfluidic Temperature Control Device for Studying Microtubule Dynamics in Fission Yeast
@@ -2381,12 +2292,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
    - Peltier modules, syringe pump, and microscope
 4. Cell Injection:
    - Micropipettes or other cell injection methods
-
-**Acknowledgments**:
-- List of authors and their affiliations
-
-**References**:
-- Provided at the end of the text for further reading.
 
 ---
 
@@ -2552,19 +2457,6 @@ The provided text discusses the semi-manual analysis of continuously labeled mic
 - 24-gauge needle
 - Microline tubing 0.5 mm ID * 1.5 mm OD, Harvard Apparatus
 - Microfluidic device/Stainless steel tubing coupler, 23-gauge, 8 mm
-
-**III. Acknowledgments:**
-- G.V-C.: ARC postdoctoral fellowship
-- J.C.: FCT and ED Complexite du Vivant predoctoral fellowship
-- This work supported by grants from NIH, ACS, HFSP, FRM, ANR, LaLigue, and MarieCurie
-
-**IV. References:**
-1. Belanger, M.C., Marois, Y. (2001) Hemocompatibility, biocompatibility, inflammatory and in vivo studies of primary reference materials low-density polyethylene and polydimethylsiloxane: a review. J. Biomed. Mater. Res. 58, 467477.
-2. Charati, S.G., Stern, S.A. (1998) Diffusion of Gases in Silicone Polymers: Molecular Dynamics Simulations. Macromolecules 31, 55295535.
-3. Duffy, D.C., McDonald, J.C., Schueller, O.J.A., and Whitesides, G.M. (1998). Rapid prototyping microfluidics systems in poly(dimethylsiloxane). Anal. Chem . 70, 4974-4984.
-4. McDonald, J.C., and Whitesides, G.M. (2002) Poly(dimethylsiloxane) as a material for fabricating microfluidic devices. Acc. Chem. Res. 35, 491-499.
-5. Unger, M.A., Chou, H.P., Thorsen, T., Scherer, A., and Quake, S.R. (2000) Monolithic microfabricated valves and pumps by multilayer soft lithography. Science 288, 1131-1136.
-6. Velve-Casquillas, G., Le Berre, M., Piel, M., Tran, P.T. (2010) Microfluidic tools for cell biological research. Nano Today 5, 847.
 
 ---
 
@@ -2732,25 +2624,6 @@ C. Mitochondrial compartments and protein localization
    f. Resuspend the pellet in Laemmli buffer and separate different protein fractions by SDS-polyacrylamide gel electrophoresis on a 12% polyacrylamide gel.
 3. **Western Blot Analysis**: Perform western blot analysis with antibodies against subunit b of the membrane-associated F1 portion of the F1F0 ATPase, Tom70, and the protein or tagged fusion protein under study.
 4. **Protein Localization**: Proteins localized inside mitochondria (e.g., F1-ATPase) are not digested by proteinase K in the absence of sonication, while proteins localized on the outer membrane (e.g., Tom70) are digested even without sonication. If the mitochondrial membrane is disrupted during isolation, the F1-ATPase will also disappear in fraction 2 treated with proteinase K in the absence of sonication. Note that matrix soluble proteins remain in the supernatant after centrifugation and will not be detected without proteinase K treatment.
-
----
-
-#### Microtubule and Mitochondria Studies in Fission Yeast Acknowledgements and References
-
-**Acknowledgments:**
-- Gratitude to Drs. Johanna Heidmann and Claude Antony for unpublished tomographic images of microtubules and mitochondria in fission yeast
-- Critical feedback from Drs. Gennaro Durso, Flavia Fontanesi, and Antoni Barrientos at the University of Miami
-- Financial support from National Science Foundation (NSF) grant 0745129 and Sylvester Comprehensive Cancer Center at the University of Miami Miller School of Medicine
-
-**References:**
-- Asakawa et al. (2006): Effects of V260I mutation in fission yeast alpha-tubulin Atb2 on microtubule dynamics and EB1-Mal3 localization, activating the Bub1 branch of spindle checkpoint
-- Bhler et al. (1998): Efficient and versatile PCR-based gene targeting in Schizosaccharomyces pombe using heterologous modules
-- Baumeister et al. (1999): Electron tomography of molecules and cells: methodology and applications
-- Boldogh and Pon (2007): Mitochondria on the move: dynamics, distribution, and regulation
-- Brazer et al. (2000): A fission yeast kinesin affects Golgi membrane recycling by regulating microtubular dynamics through CLIP170-like tip1p
-- Chiron et al. (2008): Regulation of mitochondrial distribution in Schizosaccharomyces pombe by CLASP
-- Chiron et al. (2007): Studying mitochondria in an attractive model: Schizosaccharomyces pombe, Methods Mol Biol 372, 91105
-- Deshpande et al. (2009): Screening a genome-wide deletion library in S. Pombe identifies novel genes and pathways involved in genome stability maintenance
 
 ---
 
@@ -3240,12 +3113,6 @@ C) **Immunoelectron Microscopy of Testes:**
 **VII. Summary:**
 - Discussing current procedure for identifying bona fide mitotic phenotypes after RNAi in Drosophila S2 cells
 - Importance of proper controls and objective imaging/analysis
-
-**Acknowledgments:**
-- None provided in the text
-
-**References:**
-- N/A (Text does not include references)
 
 ---
 
