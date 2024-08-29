@@ -1,2491 +1,2398 @@
 # ULTIMATE COMPUTING: Biomolecular Consciousness and NanoTechnology -- Stuart R Hameroff 
 
-This text discusses the concept of "Ultimate Computing," which represents the convergence of biological and technological information processing systems. Here's a summary of the key points:
-
-- **Evolution of Computing**:
-  - Biology has a billion-year head start in developing human consciousness.
-  - Technology is rapidly catching up to biological methods of information processing.
-- **Nanoscale Processing**:
-  - Both biological systems and emerging technologies operate at the nanoscale.
-  - Nanoscale excitations can generate collective modes for information processing.
-- **Convergence of Biology and Technology**:
-  - Potential for merging biomolecules and nanotech devices for direct communication.
-  - Artificial intelligence systems are being developed based on brain/mind organization.
-- **Collective Intelligence and Parallelism**:
-  - Emphasis on parallel processing and interconnected networks, inspired by brain structure.
-  - Discussion of neural nets, connectionism, and energy minimization in problem-solving.
-- **Cooperativity and Coherence**:
-  - Exploration of collective effects in neural networks and cytoskeletal structures.
-  - Importance of long-range cooperativity and coherence in biological systems.
-- **Molecular Computing**:
-  - Potential advantages of molecular computers over traditional electronic systems.
-  - Challenges in implementing and interfacing nanoscale computing devices.
-- **Dynamic Pattern Representation**:
-  - Various mechanisms for representing information, including reaction-diffusion systems, holograms, macrons, and cellular automata.
-- **Cellular Automata and Macrons**:
-  - Discussion of complex behaviors arising from simple rules in cellular automata.
-  - Exploration of macrons as stable modes of vibration or shape distortion in various media.
-
-The text emphasizes the potential for future computing systems to draw inspiration from biological processes, particularly at the nanoscale, to achieve more sophisticated and efficient information processing capabilities.
-
+The possibility of direct interfacing between biological and technological information devices could result in a merger of mind and machine - Ultimate Computing. This book, a thorough consideration of this idea, involves a number of disciplines, including biochemistry, cognitive science, computer science, engineering, mathematics, microbiology, molecular biology, pharmacology, philosophy, physics, physiology, and psychology. - [Ultimate Computing (Amazon)](https://www.amazon.com/Ultimate-Computing-Biomolecular-Consciousness-NanoTechnology/dp/0444568662/?&tag=cognitivetech-20)
 
 ## Contents
-- [Toward Ultimate Computing](#toward-ultimate-computing)
-- [Mind/Tech: Merger in the Nanoscale](#mindtech-merger-in-the-nanoscale)
-- [Evolution of Technology](#evolution-of-technology)
-- [Collective Intelligence](#collective-intelligence)
-- [Parallelism](#parallelism)
-- [Connectionism](#connectionism)
-- [Cooperativity and Coherence](#cooperativity-and-coherence)
-- [Molecular Computing](#molecular-computing)
-- [Dynamic Pattern Representation](#dynamic-pattern-representation)
-- [Reaction Diffusion Systems](#reaction-diffusion-systems)
-- [Holograms - Macrons](#holograms---macrons)
-- [Cellular Automata](#cellular-automata)
-- [Brain/Mind/Computer](#brainmindcomputer)
-- [Metaphors of Consciousness](#metaphors-of-consciousness)
-- [Historical PerspectivesConsciousness as ...](#historical-perspectivesconsciousness-as-)
-- [Consciousness as Particle/Wave Physics](#consciousness-as-particlewave-physics)
-- [Consciousness as a Property of Protoplasm](#consciousness-as-a-property-of-protoplasm)
-- [Consciousness as Learning](#consciousness-as-learning)
-- [Consciousness as a Metaphysical Imposition](#consciousness-as-a-metaphysical-imposition)
-- [The Helpless Spectator Theory](#the-helpless-spectator-theory)
-- [Emergent Evolution](#emergent-evolution)
-- [Behaviorism](#behaviorism)
-- [Consciousness as Dynamic Activities of the Brain](#consciousness-as-dynamic-activities-of-the-brain)
-- [Neural Net Connectionism](#neural-net-connectionism)
-- [Holography - Cytoskeletal Basis of Consciousness](#holography---cytoskeletal-basis-of-consciousness)
-- [Origin and Evolution of Life](#origin-and-evolution-of-life)
-- [Soup vs Mud, Chicken vs Egg](#soup-vs-mud-chicken-vs-egg)
-- [Prokaryote to EukaryoteSymbiotic Jump](#prokaryote-to-eukaryotesymbiotic-jump)
-- [CentriolesEvolutions Hijackers - Biotech EvolutionThe Next Symbiosis](#centriolesevolutions-hijackers---biotech-evolutionthe-next-symbiosis)
-- [From Brain to Cytoskeleton](#from-brain-to-cytoskeleton)
-- [Nervous System Evolution](#nervous-system-evolution)
-- [Nervous System Organization](#nervous-system-organization)
-- [Architecture](#architecture)
-- [Neuronal Signaling](#neuronal-signaling)
-- [Interneuronal Synapses](#interneuronal-synapses)
-- [Representation of Information](#representation-of-information)
-- [IntegrationSherringtons Reflex Centers](#integrationsherringtons-reflex-centers)
-- [Pulse Logic](#pulse-logic)
-- [Connectionism and Neural Networks](#connectionism-and-neural-networks)
-- [Distributedness](#distributedness)
-- [Synaptic Mechanisms of Learning and Memory - Axoplasmic Transport](#synaptic-mechanisms-of-learning-and-memory---axoplasmic-transport)
-- [Parallelism, Collective Cooperativity, and the Grain of the Engram](#parallelism-collective-cooperativity-and-the-grain-of-the-engram)
-- [Toward Molecular Consciousness](#toward-molecular-consciousness)
-- [Cytoskeleton/Cytocomputer](#cytoskeletoncytocomputer)
-- [The Nature of Cytoplasm](#the-nature-of-cytoplasm)
-- [Microtubules](#microtubules)
-- [Microtubule Structure and Function](#microtubule-structure-and-function)
-- [Microtubule Assembly and the Generation of Form - Microtubule Organizing Centers (MTOC) and Centrioles](#microtubule-assembly-and-the-generation-of-form---microtubule-organizing-centers-mtoc-and-centrioles)
-- [Microtubule Associated Proteins (MAPs)](#microtubule-associated-proteins-maps)
-- [Intermediate Filaments - The Cytoplasmic Ground Substance](#intermediate-filaments---the-cytoplasmic-ground-substance)
-- [The Microtrabecular Lattice (MTL)](#the-microtrabecular-lattice-mtl)
-- [The Cytomatrix](#the-cytomatrix)
-- [Cytoplasmic Solid State - Cytoskeletal Motility](#cytoplasmic-solid-state---cytoskeletal-motility)
-- [Cytoplasmic Probing](#cytoplasmic-probing)
-- [Bending Sidearms](#bending-sidearms)
-- [Ciliary and Collective Movement - Geodesic Tensegrity Gels](#ciliary-and-collective-movement---geodesic-tensegrity-gels)
-- [The Cytoskeleton and Development](#the-cytoskeleton-and-development)
-- [The Cytoskeleton and Medicine](#the-cytoskeleton-and-medicine)
-- [Intelligence in the Cytoskeleton](#intelligence-in-the-cytoskeleton)
-- [Protein Conformational Dynamics](#protein-conformational-dynamics)
-- [Protein Structure](#protein-structure)
-- [Protein Conformation](#protein-conformation)
-- [Proteins and Energy](#proteins-and-energy)
-- [Protein CooperativityHistorical View](#protein-cooperativityhistorical-view)
-- [Living Water and Hydrophobic Interactions](#living-water-and-hydrophobic-interactions)
-- [Electret, Piezo, and Pyroelectric Effects](#electret-piezo-and-pyroelectric-effects)
-- [Solitons/Davydov](#solitonsdavydov)
-- [Coherent Excitations /Frohlich - Massless Bosons, Cytoskeletal Self-Focusing](#coherent-excitations-frohlich---massless-bosons-cytoskeletal-self-focusing)
-- [Anesthesia: Another Side of Consciousness](#anesthesia-another-side-of-consciousness)
-- [Levels of Anesthesia/Consciousness](#levels-of-anesthesiaconsciousness)
-- [Memory - Mechanisms of Anesthesia](#memory---mechanisms-of-anesthesia)
-- [Models of Cytoskeletal Computing](#models-of-cytoskeletal-computing)
-- [Energy and Information in Microtubules](#energy-and-information-in-microtubules)
-- [Cytoskeletal Information Processing](#cytoskeletal-information-processing)
-- [MT Sensory Transduction/Atema](#mt-sensory-transductionatema)
-- [MT Mechano-lonic Transducers/Moran and Varela](#mt-mechano-lonic-transducersmoran-and-varela)
-- [Cytomolecular Computing/Conrad and Liberman](#cytomolecular-computingconrad-and-liberman)
-- [MT Signal Processing/DeBrabander](#mt-signal-processingdebrabander)
-- [Cytoskeletal String Processors/Barnett - Microtubule Gradions/Roth, Pihlaja, Shigenaka](#cytoskeletal-string-processorsbarnett---microtubule-gradionsroth-pihlaja-shigenaka)
-- [Gyroscopic Centrioles/Bornens](#gyroscopic-centriolesbornens)
-- [Centriole-MT Signaling/Albrecht-Buehler](#centriole-mt-signalingalbrecht-buehler)
-- [Dynamic Tensegrity/Heidemann and Jarosch - Dynamic MT Probing/Kirschner and Mitchison](#dynamic-tensegrityheidemann-and-jarosch---dynamic-mt-probingkirschner-and-mitchison)
-- [Sphere Packing Screw Symmetry/Koruga](#sphere-packing-screw-symmetrykoruga)
-- [Cytoskeletal Self-Focusing/Del Giudice](#cytoskeletal-self-focusingdel-giudice)
-- [MT Automata, Holography/Hameroff, Watt, Smith](#mt-automata-holographyhameroff-watt-smith)
-- [The Cytoskeletal Connection - Viruses/Ambiguous Life Forms](#the-cytoskeletal-connection---virusesambiguous-life-forms)
-- [What Is the Essence of Living Matter? - Virus (Mis)Behavior](#what-is-the-essence-of-living-matter---virus-misbehavior)
-- [Virus Structure and Collective Oscillations - Nature and Origin of Viruses](#virus-structure-and-collective-oscillations---nature-and-origin-of-viruses)
-- [Domesticated Viruses](#domesticated-viruses)
-- [NanoTechnology](#nanotechnology)
-- [Early NanoTechnologists](#early-nanotechnologists)
-- [Scanning Tunneling Microscopes (STMs) - STM/Feynman Machines (FMs)](#scanning-tunneling-microscopes-stms---stmfeynman-machines-fms)
-- [Micro/Nano STM Contest](#micronano-stm-contest)
-- [STM/FMs and Molecular Computing](#stmfms-and-molecular-computing)
-- [STM/FMs and Biomedical Applications - Replicating Automata](#stmfms-and-biomedical-applications---replicating-automata)
-- [The Future of Consciousness](#the-future-of-consciousness)
+- [1 Toward Ultimate Computing](#1-toward-ultimate-computing)
+- [2 Brain Mind Computer](#2-brain-mind-computer)
+- [3 Origin and Evolution of Life](#3-origin-and-evolution-of-life)
+- [4 From Brain to Cytoskeleton](#4-from-brain-to-cytoskeleton)
+- [5 Cytoskeleton Cytocomputer](#5-cytoskeleton-cytocomputer)
+- [6 Protein Conformational Dynamics](#6-protein-conformational-dynamics)
+- [7 Anesthesia Another Side of Consciousness](#7-anesthesia-another-side-of-consciousness)
+- [8 Models of Cytoskeletal Computing](#8-models-of-cytoskeletal-computing)
+- [9 VirusesAmbiguous Life Forms](#9-virusesambiguous-life-forms)
+- [10 NanoTechnology](#10-nanotechnology)
+- [11 The Future of Consciousness](#11-the-future-of-consciousness)
 
 ## Summary
-### Toward Ultimate Computing
+### 1 Toward Ultimate Computing
 
-**Biology and Technology Convergence**
-- Evolution of information processing systems in both biology and technology towards Ultimate Computing
-- Biology's head start: human consciousness, nanoscale subunits, nanosecond time scale
-- Technology catching up rapidly with nanoscale devices
+**Mind/Tech Merger in the Nanoscale**
+- Biology and technology are evolving towards more efficient methods of information processing
+- Ultimate Computing: the common destination for the evolution of information processing systems in both biology and technology
+- Nanoscale (10^-9, 1nm = billionth of a meter, 1ns = billionth of a second) is where living intelligence may have evolved
+- **Nanoscale excitations** can generate communicative "collective modes" within protein assemblies and provide a substrate for biological information processing
+- Nanoscale devices like molecular computers, Feynman machines, and von Neumann replicators are becoming feasible through technologies like scanning tunneling microscopy
+- A nanoscale marriage of biomolecules and nanotech devices could have profound benefits for biomedicine and culture
 
-**Nanoscale: Living Intelligence and Technology**
-- Size of biological proteins and assemblies in the nanometer range
-- Nanoscale excitations generate collective modes for biological information processing
-- Potential substrate for living intelligence evolution
+**Consciousness and Computer Technology**
+- Merging consciousness and computer technology is a prevalent dream
+- Artificial intelligence based on brain/mind organization is a tentative step in this direction
+- Proposed use of self-assembling protein arrays as switching circuits or "biochips"
+- The Japanese effort to integrate biology and technology, aiming for an "artificial brain" by understanding biological homeostasis
 
-**Technological Advancements in Nanoscale**
-- Feasible nanoscale devices: molecular computers, Feynman machines, von Neumann replicators
-- Technologies enabling direct communication and information transfer between biomolecules and nanotech devices
+**Evolution of Technology**
+- Technological emulation of life since the 13th century has been reviewed by author Claris Nelson (1985)
+- Early calculators like Pascal's and Leibniz's used binary numbers and sequential mathematical steps
+- Boolean algebra, developed by George Boole in the early 1800s, is essential for designing computer circuits
+- Charles Babbage and Ada Lovelace designed an "analytical engine" using punched cards in the mid-1800s
 
-**Figure 1.1: Sizing the Nanoworld**
-A) Carbon atom (0.3 nm)
-B) Lanine amino acid (0.5 nm)
-C) Tubulin dimer protein (8 nm long)
-D) Microtube (25 nm outside diameter)
-E) Axon nerve cell containing 10,000 microtubules and smaller filaments
-F) Nerve cell grown on a Motorola 68000 computer chip wire (15,000 nm wide)
-G) Small nematode worm (less than 1000 cells, 300 neurons)
+#### Evolution of Computers from Serial Processing to Cellular Automata.
 
-### Mind/Tech: Merger in the Nanoscale
+**John Vincent Atanasoff and Early Computing**
+- First electronic computer built in 1939 by John Vincent Atanasoff, a theoretical physicist at Iowa State University
+- Alan Turing and colleagues in Bletchley, England designed a computer to perform all mathematical calculations in the late 1930s
+  - Used to decipher German "Enigma" code during World War II
+- John von Neumann further advanced computer design by separating machine from problems
+  - Prior computers needed rewiring for each new task
 
-**Toward Ultimate Computing: Merger in the Nanoscale**
+**Early Computers: ENIAC and UNIVAC**
+- University of Pennsylvania developed the first electronic computer, Electronic Numerical Integrator and Calculator (ENIAC) in the 1940s
+  * Weighed 30 tons, took up 3,000 cubic feet of space, contained 18,000 vacuum tubes
+  - Could calculate nuclear physics problems in two hours that would take 100 engineers a year to complete
+- Remington Rand marketed UNIVAC, which dealt with words and numbers stored by their binary equivalent in the same decade
 
-**Biology and Technology's Evolution**:
-- Biology has evolved human consciousness over a billion years
-- Technology is rapidly catching up to biological methods of information processing
-- **Ultimate Computing**: Common destination for evolving information processing systems in both biology and technology
+**Computer Generations and Advancements**
+- Four generations of computers have evolved due to increased demand and advances in design, chip size, materials and other factors
+  * Von Neumann and Turing hoped computers could duplicate human thought
+  - Current trend: parallel systems based on brain architecture and neural net models
 
-**Nanoscale Processing**:
-- Nano = 10^-9, nanometer (nm) and nanosecond (ns) are billionths of a meter and second respectively
-- Subunits within biological protein assemblies (e.g., cytoskeletal polymers, organelles, membrane proteins, virus coats) are nanoscale
-- Nanoscale excitations can generate collective modes within protein assemblies and provide a substrate for information processing
+**Cellular Automata and Universality**
+- Von Neumann and Stanislav Ulam developed mathematics of computing in multiple dimensions
+  * Cellular automata with discrete time intervals ("generations") led to evolving patterns and self-organization sensitive to initial conditions
+- Von Neumann's "universal computer automaton" could solve any problem given sufficient area and time
+- Computer technologists considering molecular scale automata based on cellular automata principles
 
-**Convergence of Biology and Technology**:
-- **Nanoscale Marriage**: Merging biomolecules and nanotech devices for direct communication and information transfer could have profound benefits
+**Limitations of Serial Processing and Parallel Connectedness**
+- Current trend: parallel connectedness, emulating the brain
+  * Computers can perform rapid serial mathematical processing but struggle with qualitative functions like pattern recognition and judgment
+- Humans can resolve conflicts among differing drives or input, although failure may cause problems
+- In science fiction, computers have suffered similar disturbances (e.g., Hal 9000 in 2001: Space Odyssey)
 
-**Figure 1.1: Sizing the Nanoworld**
+**Brain/Mind Functions and Consciousness**
+- Brain/mind can perform cognitive functions like pattern recognition and making assumptions through subcognitive processes
+- Collective effect of simpler processes is consciousness.
 
-### Evolution of Technology
+#### Collective Phenomena in Neurons and Cytoskeleton Networks
 
-**Ultimate Computing and Consciousness**
+**Collective Intelligence**
+- Collective phenomena are more than the sum of their parts (Hopfield, 1982)
+- Examples: sound waves from colliding molecules, superconductivity, magnetism
+- Brain neuron synaptic transmissions are slow but can solve problems in a few hundred milliseconds
+- Collective effects of parallelism and rich interconnectedness account for this computational richness (AI researchers)
+- Neurons are sophisticated information processing systems with up to hundreds of thousands of connections
+- Nematode worms exhibit intelligent behavior despite having fewer than 100,000 neurons
+- The cytoskeleton within cells may take advantage of the same attributes used to describe neural networks (parallelism, connectionism, coherent cooperativity)
 
-**Size Comparison:**
-- Nematode: ~450,000 nm long
-- Human thumbnail: 5,000,000 nm (1/4 size)
+**Collective Phenomena**
+- Occur when a large number of individual units come together and exhibit new behaviors
+- Examples: sound waves from colliding molecules, superconductivity, magnetism, beehives, ant colonies, football teams, governments
+- Emergence of different qualitative properties below critical temperatures in certain metals
 
-**Artificial Intelligence**:
-- Based on brain/mind organization
-- Self assembling protein arrays as switching circuits or biochips
-- Japanese Sixth Generation Computer integrates biology and technology
+**Brain Neurons and Collective Effects**
+- Slow neuron synaptic transmissions (several milliseconds per computation)
+- Intelligent behavior can be solved within a few hundred milliseconds or 100 serial steps
+- AI researchers attribute this computational richness to collective effects of parallelism and interconnectedness
+- Neurons are sophisticated information processing systems with up to hundreds of thousands of connections
+- Each neuron integrates input/output, modulates synaptic connection strength
 
-**Missing Ingredient:**
-- Understanding the mechanism of consciousness
+**Cytoskeleton as a Collective Phenomenon**
+- Overlooked by AI researchers as a potential contributor to collective effects
+- Cytoskeleton is a parallel connected network within cells that can utilize its own collective phenomena to organize and process information
+- Properties of networks, such as parallelism, connectionism, and coherent cooperativity, allow for collective effects among both neurons and cytoskeletal subunits.
 
-**Information Processing System**:
-- Nanoscale activities of cytoskeleton and related structures
-- Explain biological organization, information processing, and consciousness
-- Potential target for future evolution of technology
+#### Parallel Computing: A Comparison Between Brain and Computer Architecture
 
-**Evolution of Technology Emulation**:
-- 13th century: Albertus Magnus created a mechanical servant
-- Science fiction writers predicted computers and robots
-- 1879: Edward Page Mitchell's "The Ablest Man in the World" featured a mechanical brain
+**Parallelism in Computer Architecture**
 
-### Collective Intelligence
+**Sequential vs Parallel Processing**:
+- Sequential processing: Computing steps are done consecutively, which is time-consuming and can lead to chaos with a false bit of information.
+- Brain's highly parallel nerve tracks provide an alternative to sequential processing.
 
-**Ultimate Computing and Cellular Automata**
+**Parallel Processing**:
+- Information enters multiple computer pathways, which process the data simultaneously.
+- Separate processors or groups of processors can address different aspects of a problem asynchronously.
+- Parallel processing requires reconciliation of multiple outputs due to individual processors' biases and functions.
 
-**Universal Computer Automata**:
-- Described by John von Neumann as a system that could solve any problem given sufficient area and time
-- Today's computer technologists are considering implementing molecular scale automata
+**Examples of Parallel Processing**:
+- Reeke and Edelman (1984) described a parallel pair of recognition automata using complementary features.
+- Present day computers are evolving toward parallelism, such as the "Connection Machine" with 64,000 microprocessors.
 
-**Multidimensional Automata and Discreteness of Time and Matter**:
-- Edward Fredkin of MIT considered multidimensional automata and the discreteness of time and matter
-- Argues the universe is a cellular automaton whose cells are atomic and subatomic particles
-- Sees the universe as made of information, with cellular automata being generalized primitive computers
-- Cellular automata in conformational states could process biological information and be the substrate of consciousness
+**Multidimensional Network Parallelism: Hypercubes**:
+- Processor networks whose interconnection topology is seen as an n-dimensional cube.
+- Parallelism in n-dimensions leads to hypercubes, which can maximize computing potential and provide collective effects.
 
-**Parallel Connectedness and Artificial Intelligence (AI)**:
-- Current trend in computer design is parallel connectedness, emulating the brain
-- Electronic computers serially process quickly but struggle with qualitative functions like pattern recognition and judgment
-- Jerome Feldman cites the example of interpreting "John threw a ball for charity" as having inherent ambiguities that require a highly parallel system to resolve
-- Human brains can perform cognitive functions by subcognitive processes like recognizing patterns, making assumptions, and performing imaginative leaps
+**Computing Power Comparison: Brain vs. Computer**:
+- Moravec's calculations: Brain has 40 billion neurons changing states hundreds of times per second, leading to about 10^12 bits per second.
+- Including the cytoskeleton increases the brain's potential capacity for information processing.
 
-**Collective Intelligence**:
-- A collective phenomenon is more than the sum of its parts, and has been explained by Cal Tech biophysicist John Hopfield's neural net models
-- Putting many molecules in a box just increases collisions, but putting a billion billion molecules creates new phenomena like sound waves
+**Open Systems in Computing and Neuroscience**:
+- Classical computers operate recursively on repetitive functions, while the brain is a continuous system.
+- Carl Hewitt described open systems in computing that can provide continuous input/output and adapt to new situations.
+- Brain neurons are interconnected by synaptic connections, which could serve as "arbiters" in parallel processing.
 
-### Parallelism
+#### Neural Networks and Cytoskeleton: Parallel Information Processing in Brain and Computers
 
-**Properties of Networks for Collective Effects**
+**Connectionism and Parallel Systems in Information Processing**
 
-**Parallelism**:
-- Previous computer architectures were based on serial, sequential processing
-- Serial processing is time consuming and can lead to chaotic output from a single error
-- Brain's parallel nerve tracks are an alternative to serial processing
-- Parallel computing involves multiple processors addressing different aspects of a problem asynchronously
-- Requires reconciliation of multiple outputs through lateral connections
-- Output is a consensus of the input and its processing
+**Connectionism:**
+- Part of collective hierarchy in information processing
+- Rely on lateral connections and networks for complexity
+- Develop cognitive functions through parallel connected networks (neural nets)
+  - Minimizing energy functions to find optimal solutions
+  - Concept of "shaking" neural net simulations to discover lowest points
+- Comparable to individuals sorting information without comprehending essence
 
-**Connectionism**:
-- Inspired by the interconnectedness of neurons and cytoskeletal structures in the brain
-- Modern computers have evolved to parallel processing, with 64,000 microprocessors (Connection Machine)
-- Further evolution is multidimensional network parallelism (hypercubes)
+**Neural Nets:**
+- Characterized by Cal Tech's John Hopfield and others
+- Solutions understood through minimizing energy functions
+- Isolated errors or incomplete data can be tolerated
 
-**Coherent Cooperativity**:
-- Processors in a network may be biased differently or perform different functions
-- Parallel and laterally connected tracks of nerve fibers inspired the appreciation of parallelism
+**Multilevel Networks:**
+- Emergence of concept to avoid getting stuck in tiny depressions between mountains
+  - One level "shakes" or tunes lower level
+  - Relationship between hierarchical layers of parallel systems within the brain
 
-**Cytoskeletal Networks**:
-- Highly parallel and interconnected, with millions to billions of subunits per nerve cell
-- Smaller than microprocessors in computers
+**Relationship Between Brain and Artificial Intelligence:**
+- Comparisons reviewed by A. M. Decallatay (1986)
+- Brain learns by opening gates to build new connections between elements simultaneously activated
+  - Dendritic spines play role of "all or none" switch at neural level
+- Synaptic plasticity, cornerstone for brain learning and memory
+  - Cytoskeleton responsible for all cytoplasmic rearrangements including formation and regulation of dendritic spines and synapses.
 
-**Computing Power Comparison**:
-- Microcomputer: 10^6 bits per second
-- Human brain: 4 x 10^11 bits per second (assuming 40 billion neurons changing states hundreds of times per second)
+#### Coherence and Long-Range Organizations in Biomolecular Structures
 
-### Connectionism
-
-**Connectionism and Ultimate Computing**
-
-**Parallel Systems**:
-- Collective hierarchy of parallel systems, with cytoskeleton as ground floor
-- Parallel systems rely on lateral connections and networks for sophisticated information processing
-
-**Neural Nets**:
-- Computer simulations of parallel connected networks (neural nets) develop cognitive-like functions at sufficient complexity
-- Philosopher John Searle's argument: computers can do complex tasks without understanding essence, like sorting Chinese characters without understanding meaning
-- Neural net models and connectionist network theory have emerged with multilevel networks to find optimal solutions
-
-**Neural Net Energy Functions**:
-- Characterized mathematically by John Hopfield (1982) and others
-- Solutions to a problem can be understood in terms of minimizing an associated energy function
-- Isolated errors or incomplete data can be tolerated within limits
-
-**Minimizing Energy Functions**:
-- Information (metaphorically) flows like rain, forming streams and rivers until stable states occur
-- Multilevel networks allow neural nets to find optimal solutions, like finding the lowest point on a landscape
-
-**Avoiding Depressions**:
-- The trick is to avoid getting stuck in a tiny depression between two mountains
-- Shaking the box after dropping a marble usually leads to finding the lowest point
-
-### Cooperativity and Coherence
-
-**Advancements in Brain Research: Neural Circuitry, Dynamic Structural Activities, Cytoskeleton, and Collective Effects**
-
-**Neural Circuitry and Synapses**:
-- Idea of strengthening specific synapses within neural circuits generated by Donald Hebb (1949)
-- Cytoskeleton responsible for cytoplasmic rearrangements including dendritic spine formation and regulation
-- Spines are branchings of dendrites, which themselves are branchings of neurons
-- Prime candidates for synaptic plasticity, the cornerstone for brain learning and memory models
-
-**Cooperativity and Coherence**:
-- Collective effects manifest as: diffuse reverberation, sustained oscillation, phase transitions, and deterministic chaos in parallel networks (Choi and Huberman, 1984)
-- Can exert long-range cohesion and executive level organization within parallel arrays
+**Collective Effects and Coherence**
+- Collective effects manifest as: diffuse reverberation, sustained oscillation, phase transitions, deterministic chaos (Choi and Huberman, 1984)
+- Can exert long-range cooperation and an executive level of organization within parallel arrays
 - Collective phase transitions in brain parallel arrays could be a fabric of consciousness
-- **Neuronal Synapse**: Brain's fundamental subunit, but synaptic activities are orchestrated by the cytoskeleton
-- Layers of cytoskeletal organization evident within neurons, and their participation in cognitive functions is unavoidable
-- Highly branched cytoskeleton may be another dimension of brain organization, related to neuronal networks as a fractal
-- Natural processes manifest fractals through long range correlation in the pattern
-- Densely parallel interconnected networks of cytoskeletal structures resemble larger scale neural networks and can be viewed as fractal subdimensions
+- **Neuronal Synapse**: fundamental subunit of the brain, result of dynamic processes orchestrated by cytoskeleton
+- Cytoskeletal organization evident within neurons, participation in cognitive functions unavoidable
+- Highly branched cytoskeleton may be another dimension of brain organization, related to neuronal networks as a "fractal" subdimension
+- **Fractal relationships**: long range cooperativity (Figures 1.7 and 1.8)
+- Densely parallel interconnected networks of cytoskeletal structures resemble larger scale neural networks
 
-**Long Range Cooperativity and Collective Mechanisms**:
-- Favored by the property of coherence, where peak energy excitations within an area occur in phase or simultaneously (like a laser)
-- Coherence may arise from:
-  - Top-down imparting of goals and intentions from the chief executive level (DeCallatay, 1986)
-  - Underlying rhythm or beat to which all elements are tuned (rhythmic coupling among neurons)
-  - Fundamental coherence at the protein assembly level
+**Coherence**
+- Coherence means peak energy excitations occur "in phase," or simultaneously, as in a laser
+- **DeCallatay's proposal**: coherence in the brain and AI imparted from the top of a hierarchy downward (like a CEO setting goals)
+- **Rhythmic coupling among neurons**: important for regional brain wave entrainment leading to functional regions of mental representation
+- **Proteins and their components**: oscillate among specific conformational states, ranging from femtoseconds to minutes
+- **Fröhlich's cooperativity model**: biochemical energy supplied to biomolecular assemblies can result in coherent elastic vibrations in the sub-nanosecond time range
+- **Davydov's soliton model**: almost lossless energy transfer in biomolecular chains or lattices as wave-like propagations of coupled conformational and electronic disturbances
 
-### Molecular Computing
+#### Molecular Computing: Exploring Protein-Based Non-Silicon Alternatives for Beyond Silicon Computation
 
-**Concepts and Approaches in Computing: Biological Inspiration for Ultimate Computing**
+**Molecular Computing**
 
-**Coherency Model and Long Range Cooperativity:**
-- **Frhlich's coherency model**: Focuses on time-independent effects, leading to order (stable states) in systems
-- **Davydov's model**: Looks at time-dependent effects that propagate order through the system
-- Solitons: Wave-like propagations of coupled conformational and electronic disturbances in biomolecular chains or lattices
-- Complementary approaches to explain long range cooperativity in biology (Tuszynski, Paul, Chatterjee, and Sreenivasan, 1984)
-
-**Molecular Computing:**
-- Nanoscale computing to emulate brain structure and approach cognitive capabilities of the human brain
+**Background:**
+- Approach to emulate brain structure at nanoscale for cognitive capabilities
 - Advantages of molecular computers:
-  1. Limitations in current planar computer design and three-dimensional space usage
-  2. Miniaturization limitations with silicon and gallium arsenide technologies
-  3. Biomolecular devices may offer possibilities for self-repair or self-regeneration
-  4. Certain types of analog, patterned computation are suitable for molecular computers
-- Strategies for implementing nanoscale computing: switching in material arrays of polyacetylenes, Langmuir-Blodgett films, electro-optical molecules, proteins and other materials
-- Interfacing between nanoscale devices and macroscale technologies is an obstacle with several possible solutions (engineering upward, optical communication, molecular wires, dont interface; build systems that are totally nanoscale)
-- Technologies which may fulfill the latter possibility include ion beam nanolithography, molecular spectroscopy, quantum well devices, and scanning tunneling microscopy (STM)
+  * Smaller size than conventional computers
+  * Three dimensional space usage
+  * Self-repair or self-replication
+  * Suited for certain types of analog computation
 
-**Information Flow in Conventional Computers:**
-- Electronic current flow is the medium of information flow in conventional computers
-- Solitons may be a more efficient mode of molecular computing at the nanoscale.
+**History:**
+- Molecular computing movement catalyzed by Forrest L. Carter at Naval Research Laboratory
+- Strategies aimed at implementing nanoscale computing through switching in various materials like polyacetylenes, Langmuir-Blodgett films, electro-optical molecules, proteins, etc.
+- Interfacing between nanoscale devices and macroscale technologies is an obstacle with possible solutions:
+  * Engineering upward (self-assembling components)
+  * Optical communication
+  * Molecular wires
+  * Don’t interface; build fully nanoscale systems
+  - Technologies like ion beam nanolithography, molecular spectroscopy, quantum well devices, and scanning tunneling microscopy (STM) may be used for interfacing
 
-### Dynamic Pattern Representation
+**Information Flow:**
+- Current computers rely on electronic current flow, but electron transfer may be too energetically expensive at the molecular nanoscale
+- Molecular computing relies on propagation of nonlinear coupling waves called "solitons"
+- Solitons can propagate through switching circuits made of branched polyacetylene chains or periodic arrays using electron tunneling, soliton "valving," and photo-activated conformational changes in lattice materials
 
-**Toward Ultimate Computing**
+**Protein Based Computing:**
+- Proteins integrate multiple input modes to perform a functional output
+- Conformational state of each protein depends on various factors like temperature, pH, ionic concentrations, voltage, dipole moment, electroacoustical vibration, phosphorylation or hydrolysis state, conformational state of bound neighbor proteins, etc.
+- Proteins can be seen as rudimentary computers converting complex analog input to output states or conformations
+- Extremal computer uses physical resources as effectively as possible for computation and suggests molecular computing with individual switches composed of molecules
 
-**Gates, Wires, and Switches**:
-- Gates, wires, and switches may be worth trying to build
-- Redundancy and parallelism may be necessary
+**Fundamental Limits on Computation:**
+- No fundamental quantum mechanical limitations on computation in principle (Benioff, Landauer, Feynman)
+- No fundamental thermodynamic limitations on computation per se (Landauer, Bennett)
+- Practical physical limitations to further miniaturization of digital switching circuits might not be reached for decades
+- Molecular electronics may contribute to digital computer design with molecular conformational changes, solitons, charge flow and other approaches; redundancy and parallelism may be necessary
+- Biochemical systems inspire technological imitations for the purpose of computer design, with microtubules offering the most possibilities (Yates)
 
-**Biochemical Systems Inspiring Technological Imitations for Computer Design**:
-- Many biological systems (DNA, antibodies, receptors, enzymes) were reviewed
-- A major conclusion was that: "None of these materials is as rich in chemoelectric physical phenomena as are (cytoskeletal) microscopic biological objects.  Microtubules offer the most possibilities for inspiring chemically based computation."
+#### Dynamic Chemical Patterns as Biological Information Representation in Reaction-Diffusion Systems
 
-**Dynamic Pattern Representation**:
-- Processing of patterns or symbols is conducive to optimal computing
-- Patterns can be dynamically represented by various mechanisms:
-  - **Reaction-diffusion systems**
-  - Holograms
-  - Macrons
-  - Cellular automata
+**Dynamic Pattern Representation**
+- Processing patterns or symbols is conducive to optimal computing
+- Patterns can be dynamically represented by various mechanisms useful in AI and biological systems: reaction-diffusion systems, holograms, macrons, and cellular automata
 
-**Reaction-Diffusion Systems**:
-- Reaction diffusion systems are evolving patterns which result from reactions and product diffusion within a dynamic medium
-- Biological reaction diffusion systems within the submembrane cytoplasm have been suggested as a mechanism of biological information representation
-- **Conrad and Liberman (1982)**: Reaction diffusion patterns of the energy rich nucleotide, cyclic AMP, regulated by the membrane are the texture of cytoplasmic information
-- Propagation and interaction of chemical, nonlinear waves lead to pattern formation in a number of chemical and biological media
-- Similar phenomena have also been reported in retinal and cortical nerve nets and in heart muscle
-
-### Reaction Diffusion Systems
-
-**Ultimate Computing: Gates, Wires, and Switches**
-- Attempts to build gates, wires, and switches for computing
-- Redundancy and parallelism may be necessary
-- Biochemical systems as inspiration for technological imitations in computer design?
-  - Conclusion: **None of these materials is as rich in chemoelectric physical phenomena** as cytoskeletal microscopic biological objects.
-  - Microtubules offer the most possibilities for inspiring chemically based computation. (Yates, 1984)
-- Dynamic Pattern Representation in Processing:
-  - **Patterns can be dynamically represented** by a number of mechanisms useful in AI and biological systems.
-  - Reaction diffusion systems, holograms, macrons, and cellular automata.
-
-**Dynamic Pattern Representation: Reaction Diffusion Systems**
+**Reaction Diffusion Systems**
 - Evolving patterns resulting from reactions and product diffusion within a medium
-- Biological reaction diffusion systems in submembrane cytoplasm suggested as information representation mechanism by Conrad and Liberman (1982)
-  - Texture of cytoplasmic information is regulated by membrane
-  - Propagation and interaction of chemical, nonlinear waves lead to pattern formation
-- Examples: Belousov-Zhabotinsky reaction, amoeba cells responding to cyclic AMP pulses. (Winfree and Strogatz, 1984)
-  - Characteristic patterns also reported in retinal and cortical nerve nets and heart muscle.
-- Smaller scale reaction diffusion patterns are faster.
+- Biological reaction diffusion systems suggested as a mechanism for information representation (Conrad & Liberman, 1982)
+- Propagation and interaction of chemical waves lead to pattern formation in various media
+- Examples: Belousov-Zhabotinsky reaction and amoeba cells responding to pulses of cyclic AMP
+- Similar phenomena reported in retinal, cortical nerve nets, heart muscle
+- Reaction diffusion patterns occur on smaller scales at faster rates.
 
-### Holograms - Macrons
+**Characteristics of Belousov-Zhabotinsky Reaction:**
+- Spiral chemical reaction waves propagate at uniform speed and interact to produce complex patterns
+- Waves radiate from spiral centers, rotating in about one minute
+- Several chemical reactions with suitable diffusion rates and visible color changes show these characteristic patterns.
 
-**Ultimate Computing: Toward Holographic Computation and Macrons**
+**3D Behavior of Reaction Diffusion Systems:**
+- Winfree and Strogatz (1984) studied the 3 dimensional behavior of reaction diffusion systems
+- Reaction diffusion waves commonly appear as involute spirals or scrolls radiating from tiny rotating activity patterns called "organizing centers"
+- The origin of the waves is defined as a phase singularity whose immediate neighborhood is a rotating pattern of chemical activities, the pivot of the rotating spiral wave from which it radiates.
+- The ostensibly flat spirals are actually cross sections of three dimensional waves shaped like scrolls that emerge from a filament of singularity in 3 dimensions.
 
-**Three-Dimensional Computer Simulations of Reaction-Diffusion Systems:**
-- Filamentous organizing centers emit scroll ring patterns (Figure 1.10)
-- Cytoplasmic microtubules and centrioles as potential organizing centers
-- Dynamic activities release diffusing waves of calcium ions for sol-gel transformations
-- Coding by microtubule associated proteins (MAPs) results in specific reaction-diffusion patterns
+#### Exploration of Holographic and Macron Patterns in Biological Systems for Information Storage and Consciousness
 
-**Holograms:**
-- Brain stores memory in a distributed manner, resistant to local damage
-- Interference pattern theory for memory, learning, and cognitive functions
-- Holography: recording and reconstructing wavefronts of interference patterns
-  - Invented by Denis Gabor (1948), Nobel Prize winner
-  - Technically significant with the arrival of lasers in the 1950s
-  - Stores entire image file distributed across hologram, retaining focus or clarity on reillumination
-- Holography as a potential distributed memory system and inspiration for brain models
+**Ultimate Computing and Holographic Memory**
 
-**Macrons:**
+**Three-Dimensional Computer Simulations**:
+- Reaction-diffusion systems with organizing centers like microtubules and centrioles can behave like singularities
+- Dynamic cytoskeleton activities release calcium waves, altering surrounding cytoplasm by sol-gel transformations
+- Coding by MAPs and other factors results in reaction-diffusion patterns specific to the dynamic state of organizing centers
+
+**Holograms**:
+- Brain stores memory in a "distributed" manner resistant to local damage
+- Holography: method of recording and reconstructing wavefronts associated with interference patterns
+- Holograms store information like brain functions, are "fractal", and can function as distributed memories
+- Requirements for maintaining phase relations between patterns remain a question regarding holographic models of brain function
+
+**Macrons**:
 - Morphogenesis: evolution of form from chaos
-- Mathematical descriptions of dynamic biological form compared to various philosophical literature (Ralph Abraham)
-- Macrons: collective vibrational patterns in nature (Abraham)
-  - Physical, chemical, and electrical categories
-  - Subdivided based on material state of the macron medium
-- Example: Solid macron: vibrational pattern observed when a flat metal plate is transversely vibrated by external forces.
+- Physical, chemical, and electrical macrons observed in nature
+- Examples include Chladni nodal lines on vibrating plates, Benard cells in isotropic liquids, and smoke rings
+- Abraham proposes thoughts are "macrons of the brain bioplasma", with spatial patterns in EEG or within nerve cells
 
-### Cellular Automata
+#### Cellular Automata: Simple Rules Leading to Complex Patterns in Computation
 
-**Cellular Automata**
-- Complex behavior in cellular automata arises from collective activities of simple subunits
-- Original cellular automaton: large number of identical cells organized uniformly
-    - Cells are indivisible, finite-state subunits (cells in biology have complex actions)
-    - Each cell communicates only with its neighbors
-    - Neighborhood size and shape are the same for all cells
-    - There's a universal clock that ticks at each generation
-    - Transition rules determine how a cell changes based on its current state and neighbor states
-- Simple neighborhood rules can lead to complex, dynamic patterns in cellular automata
-- Similar concept to lattice models like a two-dimensional Ising generator
+**Cellular Automata and Their Complex Behavior:**
+* **Concept**: A type of system made up of a large number of identical cells organized in a uniform pattern, with each cell having a finite number of states.
+* **Features**:
+	+ Each cell is in one state at a given time.
+	+ Cells are organized according to a fixed geometry.
+	+ Each cell communicates only with neighbors, and the number of neighbors is constant for all cells.
+	+ There's a universal clock that dictates state changes based on present states of both the cell and its neighbors.
+* **Comparison with Biological Cells**: While biological cells are complex entities, the term "cellular" in this context refers to an indivisible subunit with finite states, similar to atoms or biology's own cells.
+* **Behavior**: Simple neighborhood rules can lead to complex and dynamic patterns over time.
+* **Computational Capabilities**: Cellular automata can perform useful computations, even simulating behaviors found in microtubules (Figure 1.12).
+* **Universally Computing and Constructing Automata**:
+	+ A universally computing cellular automaton can solve any problem given an initial configuration.
+	+ A universally constructing automaton can create patterns to solve problems without requiring access to every cell, making it useful for biological computation (Figure 1.12).
+* **Historical Significance**: Studied by Von Neumann as a potential computing machine; several universally constructing automata have been devised in simulation.
+* **Relation to Lattice Models**: Similar to lattice models like Ising generators, which evolve to stable patterns with opposing and similar spin states aligned horizontally and diagonally (Figure 1.11).
 
-**Macrons**
-- Stable modes of vibration or shape distortion in various media (plate, rubber ball, liquid)
-- Depend on intrinsic controls (shape, compressibility, viscosity) and extrinsic controls (frequency, amplitude)
-- Examples: Chladni nodal lines, Benard cells, smoke rings, opalescence, aurora borealis
-- Thoughts may be considered macrons in the brain (patterns at dendritic surfaces or within nerve cells)
-- Repetitive reinforcement of specific macrons can create structural learning mechanism.
+#### Exploring Cellular Automata: Simulation and Potential in Physics, Computer Science, and Biology
 
-### Brain/Mind/Computer
+**Game of Life:**
+- Invented by John Conway in 1968, played on a grid of square cells with two states: dead or alive
+- Rules for cell survival and reproduction based on number of living neighbors
+- Behaviors include movement and oscillatory patterns like blinkers, beacons, gliders, and beehives
+- Dewdney showed that a computer could exist within the game of Life in 1985
+- Carter Bays extended the game to three dimensions with interesting behaviors dependent on initial patterns
 
-**Brain/Mind/Computer**
+**Cellular Automata:**
+- Systems of simple components capable of complex collective effects, simulating partial differential equations and deterministic chaos
+- Four general behaviors: disappear, evolve to a fixed finite size, grow indefinitely at a fixed speed, or grow and contract irregularly
+- Self similar patterns characterized by fractal dimension
+- Sensitive to initial conditions with marked changes under perturbations
+- Could represent the universe as a cellular automaton according to Edward Fredkin
+- Cellular automata may be involved in biological information processing and future computing.
 
-**2.1 Metaphors of Consciousness**
-- Information processing systems are evolving in both biological life forms and computer technologies
-- Human consciousness, residing in the brain, is currently the most highly evolved system
-- Relationships between consciousness and structural brain activities are obscure, often referred to as brain/mind duality
-- Historical metaphors of mind have been shaped by predominant cultural themes, particularly information technologies
-- Plato's Socrates described consciousness as a "block of wax" for recording impressions
-- Greeks perceived consciousness as a free entity, contrasting with slaves who did the work
-- Later, Augustine described consciousness as a vast space with spacious chambers and innumerable stores
-- Geological discoveries revealed the earth's record written in layers, leading to emphasis on unconscious mind
-- In early 20th century, consciousness was viewed as a compound structure that could be analyzed chemically
-- With steam engines, subconscious was perceived as a "boiler" of straining energy
-- Computer technology is the most recent brain/mind metaphor and has approached or surpassed aspects of human brain function
-- Computers can simulate dynamical systems, including the brain, providing a metaphorical medium
-- Efforts to build independent logic machines have led AI researchers towards massively parallel systems with high degrees of lateral interconnection
-- Brain's parallel nature as a neural network has been modeled by connectionist school in AI research.
-
-### Metaphors of Consciousness
+### 2 Brain Mind Computer
 
 **Brain/Mind/Computer**
 
-**2.1 Metaphors of Consciousness**:
-- Information processing systems are evolving in both biological life forms and computer technologies
-- Human consciousness, located in the human brain, is currently the most evolved information processing system
-- Relationship between consciousness and structural brain activities is often referred to as the "brain/mind duality"
-- To explain this duality, humans have historically perceived their minds in the context of predominant cultural themes, particularly information technologies
+**Metaphors of Consciousness**:
+- Systems for information processing are evolving in both biological life forms and computer technologies
+- Human consciousness resides in the human brain, with scientific relationships between consciousness and structural brain activities obscure
+- Historical metaphors of the mind:
+  - Plato's Socrates described consciousness as a "block of wax" to remember impressions
+  - Greeks perceived consciousness as a free entity, compared to slaves who did the work
+  - Later, consciousness was viewed as layers in the earth's crust recording an individual's past
+  - Consciousness became viewed as a compound structure that could be analyzed in a laboratory
+  - As steam engines became commonplace, the subconscious was perceived as a boiler of straining energy
+- The computer is the most recent brain/mind metaphor, with computers approaching and surpassing some aspects of human brain function
 
-**Brain/Mind Metaphors**:
-- **Plato's Socrates**: Imagined the mind as a "block of wax", where we can "imprint" perceptions and ideas
-- **Greeks**: Consciousness was perceived as a free, independent entity (as opposed to slaves who did the work)
-- **Augustine of Carthage**: Described consciousness as "spacious chambers" filled with memories and imagination
-- **Geological Discoveries**: Revealed that the Earth's crust contained a record of past events written in layers, similar to an unconscious mind
-- **19th Century Psychologists**: Believed consciousness was only a small part of the mind, and focused on analyzing sensations and feelings
-- **Early 20th Century Metaphors**: Saw the subconscious as a "boiler" of repressed energy, needing to be released
-- **Computer Technology**: Computer technology has approached and surpassed some aspects of human brain function, providing a metaphorical medium for simulating dynamical systems
-- **Artificial Intelligence (AI) Researchers**: Examined the workings of the brain and mind to construct machines capable of independent logic and decision making
-- **Parallel Computing Systems**: AI researchers have been led towards massively parallel computers with high degrees of lateral interconnection, reflecting the brain's parallel aggregation of neurons
+**Artificial Intelligence (AI) Research**:
+- AI researchers have examined the workings of the brain and mind to construct computing machines capable of independent logic and decision making
+- They have been led away from classical "serial" computers towards massively parallel systems with high degrees of lateral interconnection
+- Neural network models are based on simple assumptions regarding interneuronal synapses as switches between neurons
 
-### Historical PerspectivesConsciousness as ...
+**The Cytoskeleton**:
+- The cytoskeleton is a dynamic, highly interconnected protein polymer network in the intracellular cytoplasm
+- It appears to be ideally suited for information processing and is involved in virtually all cell functions
+- Appreciation of the "cytoskeletal dimension" may be the key to understanding the relationship between brain/mind/computer
 
-**Brain/Mind/Computer Relationship:**
-- Information substrate lies within biological cells
-- Brain as organized assembly of billions of computers with emergent properties related to consciousness
-- Hierarchy of brain organization may have a "secret basement" or new dimension
-
-**Cytoskeleton and Consciousness:**
-- Complex dynamic network in intracellular cytoplasm
-- Ideally suited for information processing, involved in all cell functions
-- Key to understanding brain/mind/computer triangle
-
-**Historical Perspectives on Consciousness:**
-- Various theories and metaphors of mind have evolved through the 20th century
-- Reviews include consciousness as property of matter, protoplasm, learning, metaphysical imposition, helpless spectator, emergent property of evolution, behavior, activity within reticular activating system (RAS), and extensions relevant to computer technology and cytoskeletal dimension.
-
-**Particle/Wave Physics and Consciousness:**
-- Great discoveries in particle physics dissolved solidity of matter into mathematical relationships
-- Thoughts, feelings, introspection, mind-environment interactions related to brain as waves to electrons
-- Essence of life and consciousness perceived as coordinated electron movement within semiconductive proteins or related to fundamental particle activities
-- Questions: How, where, and at what level of organization?
-
-### Consciousness as Particle/Wave Physics
-
-**Brain/Mind/Computer Triangle**
-- Basic irreducible substrate of information resides in biological cells
-- Brain viewed as an organized assembly of billions of computers with emergent properties related to consciousness
-- Hierarchy of brain organization has a "secret basement" - new dimension: cytoskeleton
-
-**Cytoskeleton**
-- Complex dynamic network within intracellular cytoplasm
-- Parallel, highly interconnected solid state network of protein polymers
-- Ideally suited for information processing and involved in all cell functions
+#### Consciousness: History and Physics Connections - Understanding Mind through Quantum Theory and Molecular Biology.
 
 **Historical Perspectives on Consciousness**
-- Many disciplines have attempted to understand consciousness
-- Each discipline's perception dependent on its orientation and contact with the "elephant" (mind)
-- Progression of theories and metaphors of mind: matter, protoplasm, learning, metaphysical imposition, helpless spectator, emergent property, behavior, and activity within brain's reticular activating system
+- Many disciplines have attempted to understand consciousness, each with its unique perspective based on orientation and focus
+- **Julian Jaynes' The Origin of Consciousness and the Breakdown of the Bicameral Mind**: Reviews eight solutions to the brain/mind problem developed in 20th century:
+  - **Consciousness as Property of Matter, Protoplasm, or Learning**
+    * Perception that mind is too complicated for human brain
+    * Philosophical argument that mystery of mind serves to maintain scientific humility
+  - **Consciousness as Metaphysical Imposition**
+    * Belief that consciousness is a transcendent reality beyond the physical world
+  - **Consciousness as Helpless Spectator**
+    * Perspective that consciousness observes but does not affect behavior
+  - **Consciousness as Emergent Property of Evolution, Behavior, or Activity Within Brain's Reticular Activating System**
+- **Modifications and Additions Relevant to Computer Technology and Cytoskeletal Dimension**:
+  - Life's basic processes equated with those of atoms and subatomic particles
+  - Information represented as dynamic electron patterns within computers
+  - Questions remain about how, where, and at what level of organization consciousness relates to fundamental particle activities.
 
-**Consciousness as Particle/Wave Physics**
-- 19th century discoveries in particle physics dissolved matter into mathematical relationships in space
-- Thoughts, feelings, introspection, and mind-environment interactions related to brain as waves to electrons
-- Nobel biochemist Albert Szent-Gyorgyi saw essence of life and consciousness in coordinated electron movement within semiconductive proteins
-- Russian physicists Pullman and Pullman compared life and consciousness with mobility of electrons within resonant bond orbitals
-- Scottish biologist A. G. Cairns-Smith theorized that life developed from crystals of clay, allowing for shifting neighbor relationships and processing information
-- Information represented as dynamic electron patterns in computers; questions remain about how, where, and at what level of organization in the brain
-
-### Consciousness as a Property of Protoplasm
+#### Evolution of Consciousness: From Protoplasm to Learning and Beyond
 
 **Consciousness as a Property of Protoplasm**
-- Some 19th century biologists saw consciousness as a fundamental property of all living things
-- Belief that consciousness is related to irritability in smallest one-cell organisms (amoeba, paramecium)
-- Observations led to application of human psychology to such behavior
-- Accepted by Charles Darwin and E.B. Titchner, seen as rudimentary consciousness through evolution
-- Effects of general anesthetic gases on protoplasmic streaming suggest common link between these activities and brain activities related to consciousness
-- Protoplasmic streaming and other primitive organism movements depend on dynamic activities of cytoskeletal structures, including microtubules, actin, sol-gel transitions, and ciliary appendages (Chapter 5)
-- **Jaynes' objections**: humans may be projecting their own mind functions onto protozoan behavior, which is in physical chemistry rather than introspective psychology
-- If amoeba, slime mold, or paramecium are not conscious, when does consciousness emerge?
+- Some 19th century biologists believed consciousness is a fundamental property of all living things, based on the irritability of smallest organisms
+- Observation of amoebas and paramecia led to application of human psychology to their behavior
+- Charles Darwin and E.B. Titchner accepted this view, seeing it as related to man through evolution
+- Circumstantial evidence: inhibitory effects of anesthetic gases on protoplasmic streaming in slime molds and amoeboid/paramecium motility
+- Cytoskeletal link among anesthetic-sensitive processes could be a clue to brain/mind/computer connection
 
 **Consciousness as Learning**
-- Some believed that consciousness began at a specific time after life evolved and was directly related to learning
-- Rationale: if an animal modifies its behavior based on experience, it must be having an experience and therefore must be conscious
-- Equating learning, experience, and consciousness
+- Proponents believed consciousness began after life evolved, directly related to learning
+- Rationale: if animal modifies behavior based on experience, it must be having an experience and thus conscious
+- Learning models in neural net computer simulations may be bolstered by historical glorification of learning
+- Structural correlates of learning involve neuronal cytokeletal reorganization
+- However, learning and consciousness are separate problems; AI systems can learn but not be conscious
 
-### Consciousness as Learning
+**Consciousness as a Metaphysical Imposition**
+- Evolutionary link between civilized man and apes led to metaphysical view: consciousness could not have evolved by natural selection
+- Founded by Alfred R. Wallace, co-discoverer of the theory of natural selection with Charles Darwin
+- Vitalists and spiritualists attempted to apply particle/wave physics to cell biology in search for consciousness
+- Modern bioelectromagnetic field theories related to embryology and consciousness remain undocumented
 
-**Brain/Mind/Computer**
-* **The Consciousness Debate:** Some 19th century biologists believed that consciousness is a fundamental property of all living things, particularly in small one-cell organisms like amoebas and paramecium
-* **Protoplasmic Consciousness**: Belief that protoplasm, the living substance in cells, has properties related to human consciousness; supported by anesthetic effects on cytoskeletal structures
-* **Critics of Protoplasmic Consciousness**: Jaynes argues humans may be projecting their own psychology onto primitive organisms, but introspective psychology is also chemical in nature
-* **The Evolutionary Emergence of Consciousness:** Stanford Professor Karl Pribram's debate with Wilder Penfield about the difference between man and other animals; Pribram saw consciousness as a quantitative change leading to qualitative emergence
-* **Consciousness as Learning**: Proponents believe that consciousness arises specifically related to learning, as animals modify their behavior through experience.
+**The Helpless Spectator Theory**
+- Materialistic view suggesting consciousness is an epiphenomenon, a helpless spectator of biological activities
+- Rejected by William James, who found inconceivable the notion that consciousness should have no role in attending to business
 
-### Consciousness as a Metaphysical Imposition
-
-**Brain/Mind/Computer: Consciousness Debate**
-
-**1. Brain/Learning and Consciousness:**
-- **Associative Memory**: models based on neural net computer simulations may be reinforced by historical emphasis on learning
-- Learning is crucial for biological success
-- Structural correlates of learning in mammalian brain involve synaptic strengthening through neuronal cytoskeleton reorganization
-- Consciousness and learning are separate problems; AI systems can learn but lack consciousness
-- Certain drugs block long term memory storage and retrieval, indicating consciousness is more than just learning
-
-**2.2 Consciousness Debate:**
-**1. Metaphysical Imposition Theory**:
-- Evolutionary link between man and apes led to belief that consciousness cannot evolve naturally
-- Founded by Alfred R. Wallace, co-discoverer of natural selection with Charles Darwin
-- Sought explanation for consciousness through metaphysical force
-- Discredited due to lack of proof; Darwin became known as discoverer of evolution
-- Attempts to apply particle/wave physics to cell biology were also discredited
-- Modern bioelectromagnetic field theories propose nanoscale activities within a cyto skeletal information system as potential explanation for consciousness, but remain undocumented
-- Future nanotechnology may permit detection of these fields if they exist
-
-**2. Helpless Spectator Theory:**
-- Materialistic view suggesting that consciousness is an epiphenomenon to important biological activities
-- Consciousness described as a "helpless spectator" of cosmic events
-- Criticized for blurring the distinction between science, philosophy and religion
-
-### The Helpless Spectator Theory
-
-**Brain/Mind/Computer**
-
-**Associative Memory and Consciousness**:
-- Associative processes viewed as essential element of consciousness
-- Models of associative memory in neural net computer simulations may be strengthened by historical glorification of learning
-- Structural correlates of learning in mammalian brain involve dynamic reorganization of neuronal cytoskeleton to strengthen synapses
-- Learning and consciousness are separate problems, as AI systems can learn but not be conscious
-- Consciousness is more than just learning; information may be perceived but fail to be stored due to drugs or other factors
-
-**Consciousness as a Metaphysical Imposition**:
-- Evolutionary link between civilized man and apes led some to believe consciousness could not have evolved by natural selection
-- Wallace founded the metaphysical imposition theory, which attributed consciousness to a metaphysical force outside the biological system
-- Vitalists and spiritualists attempted to apply particle/wave physics to explain consciousness, but were discredited for lack of proof
-- Modern bioelectromagnetic field theories remain undocumented, but could provide a possible explanation
-- The metaphysical imposition theory remains speculation, but may provoke violent opposition to future development of artificial consciousness
-
-**The Helpless Spectator Theory**:
-- Materialistic view that suggests consciousness is an epiphenomenon to important biological activities
-- Consciousness is like a helpless spectator observing cosmic events, with no control over biological processes
-
-### Emergent Evolution
-
-**Brain/Mind/Computer**
-- The "helpless spectator" theory: conscious automata (Jaynes, 1976)
-  - Contrast with cellular automata, which can process and compute independently
-- William James rejected the helpless spectator theory
-  - Intense consciousness occurs during hesitant action
-  - Least conscious during habitual activities
+#### Emergent Evolution and Behaviorism: New Perspectives on Consciousness
 
 **Emergent Evolution Theory**
-- Reconciled metaphysical imposition view with collective emergent properties
-- Consciousness emerged as a new property in evolution, underivable from its constituent parts (Jaynes, 1976)
-- Properties of complex compounds and living things emerged from simpler ones
-- Consciousness assumed control over the course of events in the brain and causal efficacy in bodily behavior
-- Emergence of consciousness may be viewed as a nonlinear emergence from evolutionary events
-- Liberated biologists and neuroscientists to deal with the mind subjectively, allowing for Freudian theory and psychiatry (beyond concrete physical properties)
-- Significant questions: when did consciousness emerge? Where? In what species? What was it?
-- The brain/mind duality still existed, with the mind dealt with only in broad and nebulous generalities.
+- Consciousness was seen as an emergent property in evolution, not just a result of physical properties
+- Compared consciousness to the emergence of new properties from unspecified forerunners (e.g., wetness from hydrogen and oxygen)
+- Consciousness emerged at a critical stage in evolution, assuming control over brain function and bodily behavior
+- Evolutionary processes may have provided conditions for consciousness' appearance
+- Allowed for the acceptance of concepts like ego, id, and superego without concrete basis
+- Significant questions remained about when, where, and what consciousness is
 
 **Behaviorism**
 - Solved the problem of consciousness by ignoring it
-- Traced roots to epcurians of 18th century and attempts to generalize plant tropisms to animal behavior
-- Explained cognitive processes on reflexes and conditioned responses across various organisms
-- Human behavior could be explained as reflex responses to given situations or needs to satisfy bodily functions.
+- Traced roots to epicureans of the 18th century and plant tropisms in animals and humans
+- Explained cognition as reflexes or conditioned responses across various organisms
+- Human behavior was reducible to reflex responses to situations or needs
+- Behaviorism lent itself to experimentation, increasing credibility for neuroscience research
+- Behaviorist laboratories flourished in universities, dominating the field for a time
+- However, it was more of a method than a theory and ignored consciousness.
 
-### Behaviorism
+#### Neural Net Theory and the Reticular Activating System in Brain Function
 
-**Brain/Mind/Computer Relationship:**
+**The Reticular Activating System (RAS) and Consciousness**
 
-**Helpless Spectator Theory:**
-- Consciousness compared to a bystander, unable to change course of events (Jaynes, 1976)
-- Rejected by William James due to lack of explanation for heightened consciousness during hesitant actions or unconscious habits
+**Background:**
+- Brain researchers turned to understanding consciousness with the advent of technology
+- Rene Descartes proposed pineal gland as site of consciousness, but was refuted by neurophysiologists
+- Search for single site of brain consciousness led many to focus on RAS due to its integration and regulation functions
 
-**Emergent Evolution:**
-- Consciousness emerged as a new property in evolution, not derivable from constituent parts (Jaynes, 1976)
-- Mill and others proposed that emergence of complex compounds led to previously unseen relationships and new phenomena
-- Consciousness assumed control over biological systems through nonlinear emergence from evolutionary events
-- Liberated scientists from needing a concrete basis for concepts like ego, id, superego (Kanfer, 2017)
-- Questions still remained: when did consciousness emerge? In what species? What is it?
+**The Reticular Activating System (RAS)**
+- Organized tangle of tiny interconnecting neurons extending from spinal cord into thalamus and hypothalamus
+- Integrates collaterals from sensory and motor nerves, has direct lines to cortex and brainstem nuclei, sends fibers down the spinal cord
+- Regulates brain activity and wakefulness by sensitizing or desensitizing neurons and centers
+- Sodium thiopental affects RAS for anesthesia induction, and destructive lesions produce permanent sleep/coma; stimulation can wake up sleeping animals
 
-**Behaviorism:**
-- Solved problem of consciousness by ignoring it
-- Traced roots to epicurians and reflex responses in animals and man
-- Explained cognition as conditioned responses for satisfying bodily functions.
+**Problems with Consciousness**
+- High level integration and associative functions occur in cortex, not RAS
+- RAS is an old, relatively unchanged part of the nervous system compared to advanced animals
+- Even if we understood every transmitter and synapse, we couldn't discern consciousness in a specific brain
 
-### Consciousness as Dynamic Activities of the Brain
+**Neural Net Connectionism**
+- Attempts to mimic brain function through artificial intelligence systems based on neural networks
+- Cell assemblies are specialized reverberatory circuits that allow for recognition, learning, and problem solving through lowered thresholds of specific loops
+- Neural net models may help advance robotic and computer systems for artificial intelligence, provide insight into brain function
 
-**Behaviorism in Psychology**
-* Behaviorism: method rather than a theory, dominated neuroscience for a significant period
-* Attracted university positions, grant money
-* Labs flourished in universities worldwide
-* Operant paradigms: rat mazes and conditioned responses
-* Failing: denial or ignoring consciousness
-* Purged psychology to place it in mainstream of academic science
+**Limitations of Early Neural Net Models**
+- Based on hypothetical neurons with huge assumptions about neural function
+- In their most elegant form, recent models incorporate axonal impulses, synaptic delays, dendritic analog functions, and spatial coherence
+- Suggestions for consciousness: "temporally stable cooperative coupling" among sets of neurons forming thoughts and images. Changeux defines it as a global regulatory system dealing with mental objects and computation using those objects. Neural net models and associative memories have significantly advanced understanding of collective neural capabilities.
 
-**Search for Consciousness in the Brain**
-* Descartes proposed pineal gland as site of consciousness due to its uniqueness
-* Logical conclusion: single site or region recognizes and assimilates all information, called "Mind's Eye" or "Grandfather neuron"
-* Many researchers focused on reticular activating system (RAS) as neural substrate of consciousness
+#### Holographic Models of Consciousness and Brain Function
 
-**Reticular Activating System (RAS)**
-* Organized tangle of tiny interconnecting neurons extending from spinal cord to thalamus and hypothalamus
-* Integrates collaterals from sensory and motor nerves, has direct lines to major cortex areas and brainstem nuclei, sends fibers down spinal cord
-* Regulates activity and wakefulness of entire brain by sensitizing or desensitizing neurons and nervous centers
-* Anesthetic drugs like sodium thiopental affect RAS, so do destructive lesions and electrical stimulation.
+**Holography**
 
-### Neural Net Connectionism
+**Properties of Holograms**:
+- Formed from interference patterns generated from two or more coherent wave sources
+- Initially a laboratory curiosity, became important with the advent of lasers as coherent light sources in the early 1960s
+- Recorded hologram appears garbled until reilluminated with one of the original coherent wave sources, then projects three dimensional spatial images
 
-**Neural Net Connectionism and Brain/Mind/Computer Relationship**
-- **Movement Fortified by Computer Scientists**: Efforts to mimic brain through artificial intelligence systems based on neural net models
-- **Key Concept: Cell Assembly (Donald Hebb, 1949)**: Specially organized reverberatory circuits for thought elements, allowing strengthening of frequently used connections
-- **Neural Net Models**: Large number constructed and simulated on computers; intelligence depends on richness of interconnections and nonlinear feedback
-- **Advancements in Neural Net Theories**: Helped advance robotic and computer systems for artificial intelligence, provide insight into brain function
-- **Shortcomings of Early Models**: Based on hypothetical neurons with huge assumptions; more recent models incorporate axonal impulses, synaptic delays, dendritic analog functions, spatial coherence
-- **Neural Net Theories and Consciousness**: Suggest the brain forms prerepresentations of expected sensory input to select reality candidates; Changeux (1985) defines consciousness as a global regulatory system dealing with mental objects using neural net models.
+**Attracting Interest in Consciousness and Mental Imagery**:
+- Holograms have an enormous capacity for information storage
+- Much information is contained in any small portion of a hologram, although with reduced resolution and signal-to-noise ratio
 
-### Holography - Cytoskeletal Basis of Consciousness
+**Dynamic Real-Time Holography**:
+- Developed using photorefractive crystals
 
-**Brain/Mind/Computer**
+**Holographic Brain Theory**:
+- Denis Gabor was skeptical about the existence of waves or tuned resonators in the brain
+- Stanford's Karl Pribram contended that the brain perceives sensory information by analyzing the interference of neural firing frequencies
+- Resulting holographic domain in the brain allows transformations into ordinary domains from any part of the encoded records
+- Holographic models of consciousness have been based on coherent wave interference at the level of neuronal activities, particularly dendritic-dendritic interactions
 
-**Holography**:
-- Holograms can be formed from interference patterns generated from two or more coherent wave sources
-- Initially a laboratory curiosity, holography became important with the advent of lasers as coherent light sources in the early 1960s
-- A hologram recorded in a photographic plate appears to be mere gibberish until reilluminated with one of the original coherent wave sources, at which point it projects three dimensional spatial images
-- Two properties of holograms have attracted interest and comparisons with consciousness and mental imagery:
-  - Holograms have an enormous capacity for information storage
-  - The structure of neurons, with their vast arborizations of dendritic fibers accepting up to 100,000 synaptic inputs per neuron, indicates a very complex system
-- Dendrites may be more than passive transmitters of impulses; they may have action potentials in large dendrites, slow depolarization waves in others, and the possibility of elementary logic operations at branching points
+**Cytoskeleton as a Substrate for Holographic Mechanisms**:
+- The cytoskeleton within neurons (and all cells) may be well suited for holographic mechanisms due to its spatial coherence and potential temporal coupling
+- Intracellular cytoplasm surrounding the cytoskeleton may be the substrate for holographic consciousness
 
-**Cytoskeleton Basis of Consciousness**:
-- Classical approaches to understanding the brain/mind have assumed a hierarchy of organization with interneuronal synapses as the indivisible substrates of information transfer
-- However, neurons are too complex to be simple digital switches or gates and must contain intrinsic information processing systems
-- The **neuron** is often mistakenly described as a simple device that compares a weighted sum of dendritic analog input signals with some threshold level above which an output digital pulse is transmitted along an axon
-- The structure of neurons, with their vast arborizations of dendritic fibers, indicates a very complex system
-- Dendrites may not be passive transmitters; they may have action potentials in large dendrites, slow depolarization waves in others, and the possibility of elementary logic operations at branching points
+**Holographic Consciousness and Psycho-Physical Implications**:
+- Physicist David Bohm suggests our perceptions of reality are conditioned by lenses, while lensless holograms are distributed, lack boundaries, and are "holistic"
+- The reality of the universe may be mathematically similar to a hologram (the "implicate" domain), dealing with frequency domain and fluctuating waveform properties as opposed to Euclidean-Newtonian impressions
+- Experiences reported by mystics, schizophrenics, and hallucinogenic drug experimenters describe loss of spatial and temporal boundaries and a holographic ("fractal") characteristic of the whole being represented in every part
 
-### Origin and Evolution of Life
+#### Exploration of Cytoskeletal Basis for Consciousness and Information Processing in Neurons
 
-**Origin and Evolution of Life**
+**Cytoskeletal Basis of Consciousness**
 
-**Life's Defining Properties**:
-- Living organisms have properties such as:
-  - Growth
-  - Reproduction
-  - Dynamic, purposeful activities
-  - (Higher organisms) Intelligence and consciousness
-- Life forms are based on the same genetic blueprints (DNA, RNA) and building blocks (proteins)
+**Neuron Complexity**:
+- Neurons are complex and cannot be understood as simple digital switches or gates
+- Dendritic branches may act as logical "OR" or "AND" gates, depending on the type of pulse input
+- Presynaptic information can be transmitted through dendrodendritic synapses, called "whispering together"
+- Unknown significance of electrotonic current pathways among dendritic membrane glycoproteins and membrane patches
 
-**Theories of Life's Emergence**:
+**Neural Information Processing Modes**:
+- Synaptic plasticity, axon and dendrite morphology, membrane protein distribution depend on the dynamic cytoskeletal functions of axoplasmic transport and trophism
+- Potential neural information processing modes include: synaptic plasticity, axon and dendrite morphology, membrane protein distribution
 
-**Soup vs Mud**:
-- Discusses the "place of origin" for life
-- The "soup" hypothesis: Primordial soup of organic molecules in the earth's oceans
-  - Proposed by A. I. Oparin and J. B. S. Haldane in the 1920s
-  - Supported by experiments by Stanley L. Miller in the 1950s, detecting organic molecules relevant to living processes
-- The "mud" hypothesis: Early organisms utilized pre-existing information templates in the form of wet clay crystals (Cairns-Smith)
+**Cytoskeleton View of Consciousness**:
+- Complex, highly parallel cytoskeletal protein lattices connect to and regulate all cellular components
+- Cytoskeletal proteins may be related to consciousness in vertebrates as a nonlinear collective effect
+- Earlier schools of understanding consciousness may have been consistent with the cytoskeletal view
+- Neural network theory, parallelism, connectionism, and AI approach can be applied to the cytoskeleton
 
-**Chicken vs Egg**:
-- Discusses the "molecular cause and effect" of life's emergence
-- The "chicken vs egg" dilemma: Which came first, the organic molecules or the organisms?
+**Cytoskeletal Information Processing**:
+- Synaptic strength and neuronal connection depend on intracellular cytoskeletal rearrangements and axoplasmic transport
+- Ingredients for synapses are synthesized in cell bodies and transported to synapses by axoplasmic transport
+- Nanoscalar activities in cytoskeletal lattices may offer a bridge between consciousness and emerging nanotechnology
 
-**Other Candidates for Life's Origin**:
-- Conditions above thermal vents on the ocean floor are believed to be conducive to the formation of organic compounds
-- Organic precursors have been found in intrastellar dust, comets, and meteorites
-- Some believe that primitive cells were transplanted to earth from space
+### 3 Origin and Evolution of Life
 
-### Soup vs Mud, Chicken vs Egg
+**Origins and Evolution of Life**
 
-**Origin and Evolution of Life: Soup vs Mud, Chicken vs Egg**
+**Questions Concerning Life's Origin:**
+- **Soup vs Mud**: Discussion about the place where life originated, with two main theories: primordial soup and clay crystals (mud)
+  * Primordial Soup: A hypothesis suggesting that organic molecules necessary for life emerged in a geochemically produced atmosphere and were brought together by electric sparks simulating lightning.
+    **Key Experiment**: Carried out by Stanley L. Miller, who detected organic molecules like amino acids, precursors of DNA, and ribose sugars from which RNA is formed in a closed environment with a primitive atmosphere.
+  * Criticism: Other research questions the hydrogen-rich atmosphere on which Urey and Miller based their experiment and suggests that organic precursors can be generated in various atmospheres.
+  * Deep Soup: Proposal of thermal vents as the cradle of life due to the presence of strange and exotic life forms, organic compounds, and conditions conducive to the formation of organic molecules.
+- **Clay Crystals (Mud)**: An alternative explanation by A. Graham Cairns-Smith suggesting that early organisms utilized pre-existing information templates in the form of wet clay crystals.
+  * Crystal Defects: Provide large potential capacity for information storage and replication, acting as primordial genetic information and aiding in protein alignment and synthesis.
+  * Catalytic Surfaces and Complex Morphology: Similar to living material due to their ability to store and replicate information.
+  * Challenge: Cairns-Smith's call for experiments with crystals that could evolve, suggesting the possibility of mineral versions of replicating systems as alternatives to DNA and RNA.
 
-**What is Life?**:
-- Living organisms possess properties like growth, reproduction, dynamic purposeful activities, intelligence, and consciousness
-- All known life forms share the same genetic blueprints (DNA, RNA) and building blocks (proteins)
-- Suggests a common ancestry
+**Implications:**
+- Primordial soup or clay crystals: Two main theories on life's origin with different implications for understanding the origins of genetic information in living organisms.
+- Thermal vents, intrastellar dust, comets, meteorites, and space as potential sites where organic precursors to life may have been generated or transported to Earth.
+- The possibility of alternative carriers of genetic information beyond DNA and RNA.
 
-**Life's Molecular Emergence**:
-- Lifes molecular emergence can be viewed in relation to two basic questions:
-  - Place of origin (soup vs mud)
-  - Molecular cause and effect (chicken vs egg)
+#### The Evolution of Life from Chemical Compounds in the Primordial Soup
 
-**Primordial Soup Theory**:
-- Russian biochemist A. I. Oparin (1938) and British biologist J. B. S. Haldane (1947):
-  - Proposed a primordial soup of organic molecules in the earth's oceans, around 4 billion years ago
-- Primordial atmosphere: unoxidized gases like methane, ammonia, and hydrogen
-  - Similar to what exists on Jupiter
-- Key experiment by Stanley L. Miller (early 1950s):
-  - Created a closed environment with such a primitive atmosphere
-  - Detected organic molecules relevant to living processes, including four amino acids and precursors of DNA and ribose sugars
+**Life's Origin: Debate Between Primordial Amino Acids or Nucleic Acids**
 
-**Other Sites for Life's Origin**:
-- Conditions above thermal vents on the ocean floor are believed conducive to organic compound formation
-- Thermal vents: home to strange and exotic life forms like giant tube worms
-- Organic compounds found in intrastellar dust, comets, and meteorites
-- Some believe that primitive cells were transplanted to earth from space
+**Division between Life and Nonlife:**
+- Dr. Cyril Ponnamperuma (University of Maryland): artificial division
+- Life lies on a continuum over evolutionary time and among existing systems
+- Prions, proteinoids, viruses near the middle
+- Narrows conceptual gap between life molecules and technological devices
 
-**Alternative Explanation**:
-- A. Graham Cairns-Smith (1982) of Glasgow University suggests that early organisms utilized pre-existing information templates in the form of wet clay crystals (mud)
+**Questions regarding the Origins of Life:**
+1. **DNA vs Protein (Chicken or Egg?)**: central dogma in molecular biology challenged
+2. **Fox and Dose's View:** interstellar gases to amino acids, polymers, organized microsystems
+3. **Evidence for DNA-like Molecules:** Schwarz and Orgel (Salk Institute) discovered a 15 nucleotide long molecule
+4. **Primary Nucleic Acid Organization**: self-replication and evolution with RNA as template
+5. **Molecular Self-Organization**: Eigen's view: closed loop, important for hypercycles
+6. **Hypercycles:** systems escape prerequisites of origin, change environment to advantage
+7. **RNA Formation and Evolution:** critical level of associative interrelationships among evolving molecules
+8. **Scenario for the Development of Life on Earth:** RNA formation led to double-stranded DNA, prokaryotic bacterial cell with membranes and regulatory voltages.
 
-### Prokaryote to EukaryoteSymbiotic Jump
+**Key Players:** Cyril Ponnamperuma, Fox and Dose, Leslie Orgel, Manfred Eigen, Lynn Margulis, Dorion Sagan.
 
-**Evolution of Life: From Prokaryotes to Eukaryotes**
+#### Symbiosis Theory: Ancestors of Modern Cells Evolved Through Symbiotic Partnerships
 
-**Prokaryote to Eukaryote**
-* Changes in atmosphere and temperature due to prokaryotic bacteria
-* Emergence of photosynthetic bacteria (purple and green) leading to oxygen production
-* Toxic waste crisis: adaptations such as motility systems, detoxification, and oxygen breathing
-* Early aerobic prokaryotes flourished for a few hundred million years
-* Eukaryotic cells emerged about 2 billion years ago
-* Characteristics of eukaryotic cells: organized cell interiors with separate membrane-enclosed compartments (nuclei), chromosomes, mitochondria, and chloroplats
+**Prokaryote to Eukaryote - Symbiotic Jump**
 
-**Origin of Eukaryotes**
-* Sudden appearance in fossil records without apparent intermediate forms
-* Symbiotic association theories proposed by Marishkowski (1905) and Wallen (1922)
-+ Union of primitive monera and more advanced cocci, resulting in stable symbiosis
-+ Nuclear material became the cytoplasm, and monera became the host cell
-* Endosymbiotic theory introduced by Lynn Sagan (Margulis) in 1967
-+ Series of three symbiotic events leading to the first eukaryotes
-- Ingestion of an aerobic heterotroph by an anaerobic heterotroph, resulting in mitochondria
-- Ingestion of a spirochete (motile organism) becoming an intracellular organelle.
+**Prokaryotes' Impact on Earth**:
+- Prokaryotic bacteria produced ammonia, adjusting acidity and increasing temperature
+- Purple and green photosynthetic bacteria began using water to manufacture hydrogen rich compounds, releasing oxygen
+- Oxygen was "toxic waste" for anaerobic prokaryotes
+- Pressured adaptations: motility systems, detoxification, oxygen breathing
 
-**Mysterious Evolutionary Chasm**
-- Fossil records show sudden appearance of eukaryotes without intermediate forms
-- Symbiosis theories propose that eukaryotes resulted from unions between different types of prokaryotes, leading to the development of specialized organelles such as mitochondria and chloroplasts.
+**Eukaryotic Cells' Emergence**:
+- Prokaryotic cells evolved into eukaryotes with organized cell interiors and membrane-enclosed compartments (nuclei)
+- Eukaryotes have mitochondria for chemical energy production (respiration) and chloroplasts for photosynthesis
+- Evolutionary gap between prokaryotes and eukaryotes is a "mysterious dichotomy"
 
-### CentriolesEvolutions Hijackers - Biotech EvolutionThe Next Symbiosis
+**Symbiotic Hypothesis**:
+- Proposed that eukaryotes resulted from symbiotic association of two types of prokaryotes: a primitive monera and a more advanced cocci-type bacteria
+- Ingestion of cocci by monera led to a stable symbiosis, with the more evolved cocci becoming the nuclear material and the monera the cytoplasm
+- Other examples of symbiosis: green plants from colorless nucleated cells and minute cyanophycae (chloroplasts); green algae and fungi (lichen)
 
-**Origin and Evolution of Life**
+**Endosymbiotic Theory**:
+- Proposed by Lynn Sagan in 1967
+- Aerobic heterotroph was engulfed by an anaerobic heterotroph, leading to mitochondria
+- Ingestion of flagellae and their intracellular anchors led to cilia, centrioles, and microtubules
+- Multiple cilia provided cell movement, cytoplasmic organization, and information processing
+- Cytoskeleton structures provided a "computer-like" information processing system
 
-**Centrioles**:
-- Appearance of centrioles and related cytoskeletal structures around 1 billion years ago may have contributed to eukaryote success and the lineage leading to human consciousness
-- Centrioles are composed of two similar cylinders (centrioles), each with a diameter of 0.2 microns (200 nanometers) and radial symmetry
-- Centrioles trigger and guide major cell reorganizations during mitosis, growth, and differentiation
-- Perpendicular replication of centriole centers (MTOCs) initiates mitosis, a mystery compared to longitudinal replication or fission
+**Critique**:
+- Question about the pedigree of basal bodies and centrioles
+- Cytoplasmic information transfer mechanisms may be independent of genetic involvement
+- Dynamic cytoskeletal proteins may manifest biological intelligence
 
-**Biotech Evolution: The Next Symbiosis**:
-- Technological evolution may lead to another acceleration in biological evolution, as eukaryotes have dealt with crises such as toxic oxygen two billion years ago and developed new forms and energies
-- **Samuel Butler**: 19th century scientist/satirist who considered the possibility of machines suppressing humans and assuming supremacy on earth
-- **Platt**: General systems theorist who believes Earth's life may be nearing an important evolutionary turning point, with a collective social nervous system managing millions of problems
-- Possible new technologies may help biology deal with current and future crises
+#### Evolution and Functions of Centrioles as Cellular Organizers
 
-**Microcosmos: 4 Billion Years of Evolution from our Microbial Ancestors**:
-- Current humans are little more than communities of bacteria, nucleated cells, and other modular manifestations
-- New artificial life forms may emerge from symbiotic fusion of biology and technology:
-  - Genetic biotechnology
-  - Computer robotics
-  - Biochips
+**Centrioles: Evolution's Hijackers**
 
-### From Brain to Cytoskeleton
+**Appearance and Significance:**
+- First appeared one billion years ago in eukaryotes
+- Key to success for evolution of human consciousness
+- Trigger major reorganizations during mitosis, growth, and differentiation
+- Composed of two cylindrical structures (centrioles or centrosomes) with nine radial symmetries
+  - Each cylinder consists of microtubule triplets longitudinally fused
+  - Cartwheel filamentous structure (pinwheel) holds ends together
+- Perpendicular replication initiates mitosis, a mystery in cell biology
 
-**From Brain to Cytoskeleton**
+**Location and Function:**
+- Within centrosome or centrosphere near nucleus membrane
+- Trigger microtubule polymerization and organization of cytoplasm (MTOC)
+  - Mitotic spindles separate chromosomes and establish architecture for daughter cells
+- Centriole-like basal bodies induce formation of cilia, allowing complex activities and information processing
 
-**Nervous System Evolution:**
-- Nietzsche's metaphor of leech as a universe in its own right
-- Human brain evolved from earthworms and leeches with ganglion chains
-- Primitive nervous systems consisted of paired, symmetrically paired ganglia
-  - Polarity and orientation defined by cytoskeleton within neurons
-- Head ganglion began to dominate other members through cooperation
-  - Segmented organism to centralized system: encephalization
-- Transition from segmented organism to central nervous system occurred over eons
-  - Fusion of paired chains of ganglia into a tubelike structure
-  - Paired nerve roots connected central nervous system with peripheral organs
-- Encephalization reflects hierarchical organization in parallel, distributed system
+**Evolutionary Significance:**
+- Provided eukaryotes with sophisticated cellular communication system
+  - Comparable to potential impact of computers on societies
+- Structural beauty, unfathomable geometry, intricate behavior, navigational command add to their mystique
 
-**Nervous System Organization:**
-- Brain activities studied by various disciplines for years
-- Essential elements of brain organization discussed in following sections
+**Mysteries Surrounding Centrioles:**
+- Command of orientation in space and ability to convey information to other cytoskeletal structures (gyroscopic function)
+- Suggested role in evolution: intelligent nano-engines who "jumped ship" from a previous species to coopt biology.
 
-### Nervous System Evolution
+**Centrioles vs. Cilia:**
+- Centrioles are uncovered, membrane-free structures within cells
+- Cilia are covered by cell membranes and have central microtubule pairs with contractile interconnections
+  - Propulsion for single-celled organisms
+  - Sensory functions in humans, transducing mechanical sound into nervous system.
 
-**Brain Evolution and Nervous System Organization**
+#### Biotech Evolution: Merging of Technology with Biology for Survival and Evolution
 
-**Nietzsche's Perspective**:
-- Pursue the leech to its last rock bottom, as a scientist
-- Mastery of brain of the leech is one's field
+**Biotech Evolution: The Next Symbiosis**
 
-**Primitive Nervous Systems**:
-- Consisted of chains of organized nerve cell clusters (ganglia)
-- Paired ganglion chains resemble autonomic nervous systems in vertebrates
-- Transition to a centralized nervous system occurred through fusion and growth of ganglia
+**Indications of Technological Evolution and Biological Adaptation:**
+- Rapidly evolving technology may lead to another acceleration in biological evolution
+- Technology has the potential to address crises such as oxygen toxicity, energy sources, new environments, and forms
+- Some observers see technological advancements as a double-edged sword with capacity for good or evil
 
-**Encephalization**:
-- Head end of neural tube increased in size and importance
-- Developed hierarchical organization, with more organized components (e.g., neocortex) being newer on the evolutionary scale
-- Collective hierarchy of parallel information processing systems:
+**Technological Advancements and Biological Evolution:**
+- **Genetic biotechnology**: creation of new species through lab-dovetailed nucleated cells
+- **Computer robotics**: nanotechnology may lead to "cybersymbiosis" and the next evolutionary phase transition
+- **Biochips**: organic compounds replacing silicon in computers for energy exchange and information processing
 
-```
-+ **Functional Organization**
-  - Subcellular elements: cytoskeleton and cytoplasmic ground substance
-  - Ganglia (segmented organism)
-  - Paired nerve roots connecting central nervous system with periphery
-  - Head ganglion
-  - Encephalized brain (modern vertebrates)
-```
+**Vision of Mind/Tech Symbiosis:**
+- Ultra-precise robotic brain surgeons transferring human consciousness to a supercomputer
+- Advantages: immunity to disease, transportation across galaxies, and resistance to harsh environments
+- Max Headroom as an example of technocognitive entities existing solely within electronic circuitry
 
-**Brain Organization**:
-- Brain activities intensively studied by various disciplines
-- Essential elements:
-  * Neuronal orientation and asymmetry determined by cytoskeleton within higher plant and animal cells
-  * Nervous system evolution from segmented organisms to centralized systems (encephalization)
+**Potential Challenges:**
+- Understanding the mechanism of consciousness is currently not available
+- Nanosensors may interact dynamically with cytoskeletal protein lattices leading to next symbiosis.
 
-### Nervous System Organization
+### 4 From Brain to Cytoskeleton  
 
 **Nervous System Evolution and Organization**
 
-**Background:**
-- German philosopher Nietzsche's analogy: human brain to universe of leech
-- Brain evolved from simple nervous systems of earthworms and leeches
+**4.1 Nervous System Evolution:**
+- Early organisms had simple nervous systems, resembling chains of ganglia
+  - Paired chains with an enlarged head ganglion at the front end
+  - Primitive leech's head ganglion began to dominate other members
+    - Headed towards hierarchical organization and centralization (encephalization)
+- Transition from segmented organism to a nervous system like ours occurred through fusion of paired chains into a tubelike structure
+  - Paired nerve roots connected the central nervous system with peripheral organs
 
-**Early Nervous Systems:**
-1. Consisted of chains of organized clumps of nerve cells (ganglia)
-2. Polarity and preferred axis determined by neuronal orientation
-3. Primitive leech's head ganglion dominated other members, performed decisions
-4. Segmented organism to nervous system: fusion of paired chains into a tubelike structure
-5. Paired nerve roots connected central nervous system with peripheral organs
-
-**Transition and Encephalization:**
-1. Head end increased in size and importance (dominance)
-2. Process of hierarchy formation in parallel, distributed system: encephalization
-3. Older components (e.g., neocortex) more highly organized, capable of complex functions
-
-**Nervous System Organization:**
-1. Brain activities studied by various disciplines for centuries
-2. Essential elements described in following sections
-
-### Architecture
-
-**Cytoskeleton as an Information Processing Medium in Brain Neurons**
-
-**Background**:
-- Purpose: justify that the cytoskeleton is an underlying medium of information processing within brain neurons
-- Architecture:
-  - Central Nervous System (CNS): organized in an ascending hierarchy of parallel structures: spinal cord, brain stem, and brain
-  - Peripheral Nervous System: peripheral nerves and the ganglia of the autonomic nervous system
+**4.2 Nervous System Organization:**
+- Central nervous system (CNS) consists of spinal cord, brain stem, and brain
+- Peripheral nervous system includes peripheral nerves and ganglia of autonomic nervous system
   - Human brains contain about a hundred billion neurons
-  - Evolution caused a cephalic shift towards higher centers in man's CNS
-  - Generalized similarities in structure, composition, and functioning of central nervous systems in all vertebrates
-  - Neurons within all nervous systems are organized by their component cytoskeletons
+- Similarities in structure, composition, and functioning of central nervous systems in all vertebrates
+  - Neurons organized by their component cytoskeletons
 
-**Brain/Mind Concepts**:
-- **Consciousness, self, Mind's Eye, attention**
-- **Brain Systems, Homunculi, Centers:** functionally related neurons, anatomical regions, assemblies of networks, reverberation
+**Neuronal Signaling:**
+- Signals consist of electrical potential changes produced by ionic currents
+- Ionic currents carry signals through open membrane protein ion channels
+- Sodium and potassium ions play crucial roles in maintaining polarization
+  - Depolarization results from opening of channels, creating waves used as signals
+- Neurons carry two obvious types of signals: localized gated potentials (analog) and propagating action potentials (digital)
+  - Gated potentials spread only one to two millimeters and are essential for integration at sensory nerve endings, neuronal synaptic junctions, and as slow waves in dendrites.
+- Action potentials occur on an "all or none" basis, allowing effective communication within large nervous systems.
 
-**Neural Synaptic Networks**:
-- Cooperativity due to dense interconnectedness, parallelism, associative memory, learning, synaptic plasticity
-- **Neuron:** multiple synaptic inputs and outputs, dendritic processing, synaptic plasticity, axoplasmic transport
-
-**Cytoskeleton**:
-- **Centrioles, microtubules, filaments:** synaptic morphology, spatiotemporal cellular organization, coherent oscillations
-- **Cytoplasmic Ground Substance (Infoplasm)**: sol-gel states, geodesic actin, tensegrity structures, ordered water, dissipative patterns, holographic interference
-
-**Table 4-1: Collective Hierarchy of Parallel Information Processing Systems**
-- Two types of cells in nervous tissue: neurons and satellite cells
-- In the central nervous system, the satellite cells are called neuroglia; in the periphery, Schwann cells
-- White matter of the central nervous system consists of fiber tracts and their myelinating glial cells
-
-### Neuronal Signaling
-
-**Brain Functional Organization**
-- Brain functional organization: clumps of neural cells and dendrites called nuclei (Figure 4.2)
-
-**Neuronal Signaling**
-- Electrical potential changes produced by ionic currents at nerve cell membranes
-- Ions involved: sodium, potassium, calcium, and chloride
-- Neuron maintains electrical polarization through active pumping of ions
-- Opening of membrane protein channels allows rapid flow of ions, creating depolarization
-- Depolarization results in waves used as signals (localized gated potentials or propagating action potentials)
-
-**Localized Gated Potentials**
-- Older on the evolutionary scale
-- Spread only one to two millimeters, attenuated and distorted by local resistivity
-- Essential for spatial and temporal summation (integration) at sensory nerve endings, neuronal synaptic junctions, and slow waves in dendrites
-
-**Action Potentials (Nerve Impulses)**
-- Membrane depolarization waves along axons due to sequential opening of membrane channels
-- Gaps in myelinization (nodes of Ranvier) contain abundant ion channels for rapid impulse propagation
-- Fixed velocity dependent on axon diameter, degree of myelinization, and distribution of ion channels
-- Typical velocities of about 100 meters per second allow effective communication within large nervous systems
+#### Neuronal Synapses: Electrical and Chemical Signaling at Brain Connections
 
 **Interneuronal Synapses**
+
+**Synapses**:
 - Action potentials and axons terminate at synaptic connections with other neurons or effector cells
-- Final branch portions of axons have thin, swollen terminals called boutons
-- Synapses form between axon terminal and another neuron's dendrite
-- Two modes of synaptic signaling: electrical and chemical
-  - At electrical synapses, currents generated by an impulse spread directly to the next neuron through low resistance channels.
+- Final branch portions of axons have thin, swollen **synaptic terminals** (boutons)
+- Some axons may have multiple boutons, each forming a synapse
+- Synapses form between the axon terminal and another neuron's dendrite
+- Other types of synapses: axon-cell body, axon-axon, and dendrite-dendrite
+- Many dendritic synapses occur on **dendritic "spines"** (knobby dendritic protuberances)
 
-### Interneuronal Synapses
+**Modes of Synaptic Signaling**:
+- **Electrical signaling**: Currents generated by an impulse spread directly to the next neuron through a low resistance pathway
+- **Chemical signaling**: At chemical synapses, the fluid gap between presynaptic and postsynaptic membranes prevents direct spread of current, requiring electrical connection between neurons.
 
-**Neuronal Signaling and Interneuronal Synapses**
+**Electrical Synapses**:
+- Electrical communication occurs through **gap junctions**, with an intercellular space reduced to about 2 nanometers
+- Estimated to be as high as 80% of all synapses in the mammalian brain, but their significance is unknown due to challenges in isolation and characterization.
 
-**Brain Structure**:
-- Gray matter refers to clusters of nerve cells and dendrites, known as nuclei
-- Schematic diagram of brain functional organization (Figure 4.2)
+**Chemical Synapses**:
+- **Neurotransmitter vesicles** (50 nm diameter) contain neurotransmitter molecules
+- Excitatory and inhibitory neurotransmitters identified: acetylcholine, norepinephrine, serotonin, dopamine, GABA, various peptides and amines.
+- **Action potential impulse** triggers the release of neurotransmitter vesicles by calcium-mediated mechanisms involving cytoskeletal proteins.
 
-**Neuronal Signaling**:
-- Signals consist of electrical potential changes due to ionic currents
-- Nerve maintains an electrical polarization by pumping sodium ions out and potassium ions in
-- When channels are opened, rapid flow of sodium and potassium creates depolarization
-- Depending on location and timing, activation can result in waves as signals
-- Neurons carry localized gated potentials (older, analog) and propagating action potentials (newer, digital)
+#### Understanding Brain Information Processing and Integration in Neurons
 
-**Localized Gated Potentials**:
-- Spread only 1-2mm, attenuated by local resistivity
-- Integration of spatial and temporal summation required in sensory nerve endings, neuronal synaptic junctions, and slow waves in dendrites
-- Dendritic potentials allow cerebral neurons to "whisper together"
+**Neuroscience Concepts: Neuron Integration and Information Representation**
 
-**Action Potentials (Nerve Impulses)**:
-- Propagate as membrane depolarization waves along axons
-- Occur due to sequential opening of ion channels, allowing passive diffusion of ions
-- Gaps in myelinization contain abundant ion channels for rapid propagation between nodes
-- Action potentials occur on an all-or-none basis (digital) from integration of analog dendritic input at the cell body
-- Typical action potential velocities of about 100 meters per second allow effective communication in large nervous systems
+**Synaptic Transmission**
+- Spontaneous releases of individual vesicles cause miniature end plate potentials below threshold for depolarization
+- Specific binding of neurotransmitter molecules to receptors changes membrane permeability, producing localized receptor potentials
+- Postsynaptic membrane "integrates" local receptor potentials spatially and temporally to exceed threshold
 
-**Interneuronal Synapses**:
-- Action potentials and axon terminals connect with other neurons or effector cells
-- Final branch portions of axons have thin, swollen synaptic terminals (boutons)
-- Synapses form between axon terminal and dendrite of another neuron, although other types also occur
-- Two modes of synaptic signaling: electrical and chemical
+**Excitatory vs Inhibitory Signals**
+- Excitatory signals increase post synaptic permeability to sodium and potassium, leading to depolarizing action potential
+- Postsynaptic acetylcholine activated channels open for 1-2 ms, allowing net entry of 2x10^4 ions
+- Other synaptic channels pass 10^5 or more ions over tens of milliseconds
+- Inhibitory signals may increase chloride ion permeability, driving membrane potential away from threshold
+- Pre-synaptic inhibition prevents excitation by blocking neurotransmitter release
 
-### Representation of Information
+**Information Processing in the Brain**
+- Central enigma: understanding information representation within nervous systems
+- Assumption of parallel networks of connected units with neurons and synaptic connections as fundamental substrates
+- Neurons perform significant analog processing at dendritic level and cytoskeleton
+- Modification of synaptic transmission threshold, cornerstone of neural net learning models, regulated by cytoskeleton and its connections
 
-**From Brain to Cytoskeleton**
+**Integration: Sherrington's Reflex Centers**
+- Processing dynamic excitatory and inhibitory patterns within masses of neurons (reflex centers) is called integration
+- Integration occurs at all levels of nervous systems and among various types of organisms
+- Neural masses or reflex centers correlate with anatomically identifiable nuclei, containing high density of neuronal cell bodies and synapses
+- Nucleus is purely structural while center is functional; they do not always coincide.
 
-**Neuron Function:**
-- Releases neurotransmitters at junctions with other neurons or muscles
-- Miniature end plate potentials below threshold for depolarization of postsynaptic cell
-- Specific binding of neurotransmitter molecules to receptors changes membrane permeability
-- Integration of local receptor potentials spatially and temporally to exceed threshold, causing signals in post synaptic dendrite, cell body, or axon
+#### Evolution of Neural Information Processing from Pulse Logic to Connectionism
 
-**Excitatory vs. Inhibitory:**
-- Excitation: increases permeability to sodium and potassium (acetylcholine at neuromuscular junction)
-- Inhibition: increase in chloride ion permeability (GABA), prevents release of neurotransmitter pre-synaptically
+**Neural Centers: An Outdated Concept with Evolutionary Significance**
 
-**Synapse Function:**
-- Computation of output from multiple inputs
-- Influence on each other by excitation or inhibition, lateral inhibition sharpens or focuses
+**Neural Centers**:
+- Erroneous impression of anatomically specific function
+- Remains as a vestigial reference to Sherrington's concept of the nervous system
+- Denotes groups of neurons whose destruction leads to loss of specific function or stimulation evokes certain behavioral/physiological function
 
-**Neuron Integration:**
-- Receives many excitatory and inhibitory inputs (convergence)
-- Supplies many others (divergence)
-- Integrates synaptic inputs to determine output
+**Brain Functions**:
+- Not divided among centers like an organization or factory
+- Relation between anatomic regions and brain-wide distribution of information is perplexing and complicated
 
-**Integration Complexity:**
-- Multiple levels of processing: dendritic branch points, spines, active nodes between myelin sheaths, changes in synaptic efficacy
+**Example: Satiety Center**
+- Located in the hypothalamus
+- Stimulation stops eating, destruction leads to excessive eating
+- Feeding behavior regulated by a wider range of neural circuits
 
-**Neuron as a Computer:**
-- Complexity at individual neuron level
-- Cytoskeleton is nervous system within the nervous system
+**Anatomical Representations**:
+- Motor and sensory homunculi
+- Integrate wide sources of distributed input to representations of anatomical sensation and action
+- Evolutionary adaptations for larger, more complex nervous systems
 
-**Brain Information Processing:**
-- Enigma: understanding information representation within nervous systems
-- Benefits to neuroscience, computer science (AI)
-- Underlying assumption: parallel networks of connected units with neurons and synaptic connections as fundamental substrates
+**Sherrington's Contributions**:
+- Concept of integration by reflex centers illuminated neural information processing
+- Recognized information transfer functions at all levels of the nervous system
 
-**Analog Processing:**
-- Neurons perform significant analog processing at dendrite level and cytoskeleton
-- Modification of synaptic transmission threshold regulated by cytoskeleton and cytoplasmic connections.
+**Pulse Logic and Connectionism**
+- Electrical signaling in the nervous system discovered in the late 18th century
+- Development of microelectrodes revealed ubiquitous electrical nerve impulses
+- Electrophysiological techniques enabled study of neural events
+- Action potentials consist of brief, high-voltage pulses that move quickly along nerves
+- McCulloch and Pitts proposed "neurons" based on all-or-none processes and synaptic delays
+- Neural information processing perceived as encoding by dynamic neural firing patterns
+- Graded wave-like events in more primitive nerve nets provide a basis for information transfer
+- Dynamic activity of subunits within cytoskeletal proteins is the basic substrate of information transfer and processing
+- Frequency coding of stimulus intensity limited, meaning attributed to origins and destinations (connectionism)
+- Closed pathways with logical feedback and reverberation evolved pulse logic into connectionism and neural networks
 
-### IntegrationSherringtons Reflex Centers
+#### Neural Network Development and Synaptic Plasticity.
 
-**Neural Centers and Integration**
-
-**Background:**
-- Sherrington's discovery of integration in reflex centers (1930s)
-- Brain faces decision based on diverse information
-- Importance of integration at all levels and types of organisms
-- Concept of neural centers: groups of neurons performing specific functions
-  - Nucleus: compact region of gray matter, contains high density of neuronal cell bodies and synapses
-  - White matter: high density of cable-like axon fibers
-  - Difference between anatomic regions and brain-wide distribution of information
-
-**Sherrington's Research:**
-- Recorded muscle tension through stretch reflex
-- Proposed neural masses or reflex centers
-- Functional while nuclei are structural
-
-**Integration:**
-- Occurs at all levels of nervous systems
-- Takes various types of information into account and assigns priorities
-- Global example: fight or flight decision
-
-**Neural Centers:**
-- Assemblies of neurons performing specific functions
-- Can coincide with nuclei but not always the case
-- Conveys erroneous impression of anatomically specific function
-- Denotes groups of neurons whose destruction leads to loss of specific function and/or stimulation evokes certain behavioral or physiological response.
-
-**Brain Functions:**
-- Not divided among centers in the same way as a large organization or factory
-- Perplexing relation between anatomic regions devoted to specific functions and brain-wide distribution of information.
-
-**Examples of Integration:**
-- Satiety center: located in hypothalamus, regulates feeding behavior by integrating multiple inputs for binary output (eat or don't eat)
-- Body representations like motor and sensory homunculi integrate wide sources of distributed input to anatomical sensation and action.
-
-### Pulse Logic
-
-**Sherrington's Contribution to Neuroscience**
-- Sherrington illuminated information processing by neural structures through **integration by reflex centers**
-- Discovered that information transfer functions occur at all levels of nervous system organization
-- Included functions used in computers such as **summation**, **ramp triggers**, **analog/digital conversion**, and **logic**
-
-**Pulse Logic in Neural Signaling**
-- **Electrical signaling in the nervous system**: discovered by Galvani during 18th century demonstration with a frog
-- **Galvani's findings**: animals generate their own electrical currents, not just responding to applied electricity
-- **Development of microelectrode and electronic equipment** (1940s) revealed **discrete electrical nerve impulses** throughout the central and peripheral nervous systems
-- **Electrophysiological techniques**: used to record activity of individual cells, study neural events in perception of touch
-- **Neural activity signals**: brief electrical pulses about 0.1 volt, last for approximately one millisecond, move at up to 120 meters per second
-- **Synaptic delay** is the significant delay within the nervous system
-- **McCulloch and Pitts' proposal** (1943): neurons can be approximated as all-or-none processes with a threshold number of excited input synapses to excite the neuron's output
-- **Pulse logic**: relatively new compared to graded wave-like events in more primitive nerve nets
-- **Information transfer and processing basis**: not solely based on nerve impulses; McCulloch considered other substrates.
-
-### Connectionism and Neural Networks
-
-**The Emergence of Connectionism and Neural Networks in Information Processing**
+**Connectionism and Neural Networks**
 
 **Background:**
-- McCulloch's quest for a logical unit in nervous impulses (1950s)
-- Adrian's discovery of frequency coding in nerve cells (1947)
-- Limitations of frequency coding as qualitative information
-- Importance of connections: significance determined by origins and destinations of nerve fibers
-- Development of connectionism through neural networks
+- Camillo Golgi's discovery of neuron staining in 1875 by Italian anatomist
+- Santiago Ramon y Cajal's use of Golgi stain for neuroanatomy investigation
+- Demonstration of specific and selective connections among neurons
+- Emphasis on orderliness of neural connections during development
 
-**Early Discoveries:**
-- Camillo Golgi's method for staining neurons (1875)
-- Santiago Ramon y Cajal's investigations into mammalian nervous systems (1890s-1950s)
-  - Resolved question of nerves as separate entities or part of a network
-  - Demonstrated complex connections among neurons are highly selective and specific.
+**Shifting Concepts:**
+- Neural pulse coding is limited, shifting focus to connectionism
+- Consensus that stereotyped signals represent symbols derived from specific connections
+- High degree of precision in forming neuronal connections emphasized
 
-**Development of Connectionism:**
-- McCulloch and Pitts model (1943)
-  * Added terms for dendritic memory and circular neural networks
-  * Pulse logic evolved into connectionism as a medium of neural information representation
-- Predecessors: Morse code comparison, frequency coding limitations.
+**Neuron Development and Synaptic Connections:**
+- Neurons grow towards target cells, ignoring some and selecting others
+- Neurons behave as if aware when receiving appropriate synaptic connection
+- Synaptic loss may result in cell death or dysfunction (denervation)
+- Trophism: structural and functional material conveyed by cytoskeletal proteins
+  - Microtubules, axoplasmic transport allow growth of neuronal structures
+- Synaptic plasticity: changes in neural connections relevant to brain function
 
-**Key Insights:**
-- Information processing at the level of cytoskeletal proteins and their dynamic activity
-- Significance attributed to origins and destinations of nerve fibers (connectionism)
-- Neural representation through nonvisual stimulation or phantom limb phenomenon.
+**Key Developments:**
+- Golgi's discovery of neuron staining (1875) by Italian anatomist Camillo Golgi
+- Santiago Ramon y Cajal's use of Golgi stain for neuroanatomy investigation (classic texts)
+  - Demonstration of specific connections among neurons
+- Consensus shift towards connectionism due to limited neural pulse coding
+- Emphasis on orderliness and precision in forming neural connections during development.
 
-### Distributedness
+#### Learning and Neural Networks: Connectionist and Selectionist Views
 
-**Neural Networks and Connectionism**
+**Association between Learning and Synaptic Function**
 
-**Darwin-Wallace Theory**:
-- Recognition automata operating in dynamic cytoskeletal networks within neurons
-- Lateral communicating networks between Darwin and Wallace resolve conflicting output, forming associative memory
-- Selectionist approach
+**Early Concepts**:
+- Late 19th century writers considered association between learning and ongoing synaptic function
+- Pavlovian and behaviorist influences of conditioned responses popularized the idea
 
-**Neuroanatomical Appreciation of Synaptic Structure**:
-- Connectionist theory credited to neuroanatomy of synaptic structure
-- Hebb extended theory to memory and behavior in humans
+**Pavlov's Proposal**:
+- Conditioned reflexes formed by establishing new connections between cortical neurons receiving a conditioned stimulus (with reward or punishment) and unconditioned stimulus
+- Unconditioned stimulus acquired same power to evoke response as conditioned stimulus
+- Implied that new synaptic connections could not grow in adults, so long term facilitation of pre-existing connections became alternative
 
-**Lashley's Experiments on Memory Representation**:
-- Distributed throughout the brain, not localized to specific areas
-- Ablation experiments showed that memory function is disrupted in proportion to amount of cortex destroyed
-- Lashley proposed that recall can be evoked in many sets of neurons and places in regions related to memory
+**Alternative View**:
+- At birth, excitations could pass between any two points in CNS through a random network of connections
+- As maturation, experience, and learning occurred, synaptic activity sculpted usable patterns by suppressing unwanted interconnections
+- Connectionist brain/mind viewed as either:
+  - "Blank slate" (tabula rasa), where acquired learning and internal organization result from direct environmental imprinting
+  - "Selectionist" network, chosen from a vast potential network
 
-**Lashley's Alternative Theory**:
-- Rejected localized storage of memory traces attached to spatially fixed reflex pathways
-- Suggested that the pattern representing a memory could be evoked anywhere in regions of the brain involved with memory function
-- Explained by Lashley as excitatory patterns in cortex related to spread of interference patterns on surface of a liquid disturbed at several points
+**Selectionist Viewpoint**:
+- Brain/mind spontaneously generates variable patterns of connections during childhood development (transient redundancy) or from prerepresentations in the adult
+- Connections between neurons are eliminated and number of accessible firing patterns reduced as correlate of learning
+- Observed reduction in number of neurons and apparent synapses could be masking increase in complexity of dendritic arborizations, spines, synapses, and cytoskeleton
 
-**Hebb's Comments**:
-- Lashley concluded that a learned discrimination is not based on excitation of any particular nerve cells
-- Suggested the neural change induced by experience and constituting memory may not be a change of
+**Connectionist Models**:
+- Hebb pioneered modeling of learning at the level of large assemblies of interconnected neurons
+- Learning occurred by strengthening specific synaptic connections within a neuronal network
+- Functional groups of neurons formed networks, assemblies, cartels, modules, or crystals based on anatomical brain regions
+- Neural network models aided by the mathematics of statistical mechanics and rejuvenated by work of Hopfield (1982), Grossberg (1978), Kohonen (1984)
 
-### Synaptic Mechanisms of Learning and Memory - Axoplasmic Transport
+**Perceptron Model**:
+- Rosenblatt's perceptron model of the 1950s and 1960s created enthusiasm but failed to reach potential due to limitations in mathematics
 
-**Brain to Cytoskeleton**
+**Hopfield's Neural Nets**:
+- Introduced energy function so information settled into stable energy states like a memory or conscious image
+- Loosely based on neurobiology, adapted for integrated circuits
+- Provided content addressable memory, capacity for generalization, familiarity recognition, categorization, error correction, time sequence retention, and insensitivity to failure of individual components
 
-**4.3.5 Synaptic Mechanisms of Learning and Memory:**
-- Traditional memory classes: short term vs long term
-  - Short term memory (working memory): small capacity, labile, easily disrupted
-    - Used for remembering telephone numbers until dialed
-    - Transition to long term memory through consolidation process
-  - Long term memory (reference memory): large capacity, enduring for a long time
-    - Well-practiced access routes: mnemonics or reference clues
-    - Items not used become increasingly difficult to recall
-- Consolidation: important short term memory mechanism and link between cytoskeleton and neural networks
-- Axoplasmic transport: another link maintaining form and functions of neuronal structures through axon/dendrite
+#### Spin Glass Model of Neural Network Learning: Selection by Energy Landscapes and Hierarchical Information Sorting
 
-**4.3.6 Axoplasmic Transport:**
-- Neurons manufacture materials in cell bodies, moved to nerve terminals by axoplasmic transport
-  - Synaptic membrane proteins, cytoskeletal protein structures, organelles, and enzymes
-- Fastest processes move at 400 millimeters per day (500 nanometers/sec), slowest barely 1 millimeter per day
-- Mechanical parts: microtubules and contractile proteins (dynein or kinesin) using ATP hydrolysis for activity
-- Axoplasmic transport flows in different directions depending on nerve type: anterograde and retrograde.
+**Hopfield Nets and Connectionist Models:**
+* "Tabula Rasa" view of learning: initial state as flat energy landscape becomes contoured through interactions with environment
+* Hopfield nets and similar models categorized under this approach
 
-**Anterograde Axoplasmic Flow:**
-- From cell body to nerve terminal in motor nerves, primary sensory neurons, and dendrites
+**Selectionist Approach to Neural Net Theory (Changeux):**
+* Based on latest advances in statistical mechanics of disordered systems: spin glasses
+* Atoms possess high degree of similar neighbor relations, finite number of magnetic states influenced by neighbors
+* Aggregates of "like spins" result in similar states among neighbors
+* Brain's initial state viewed as complex energy landscape with exuberance of valleys typical of spin glasses
+* Each valley corresponds to a particular set of active neurons and plays role of prerepresentation
+* Input pattern sets initial configuration which converges towards a lowered entry threshold valley
+* Learning process viewed as smoothening, gardening, and evolutionary pruning based on stored information
+* Changeux's spin glass model successfully presents hierarchical static information sorting but has shortcomings: unidirectional, fails to describe dynamic real-time processing.
 
-**Retrograde Axoplasmic Flow:**
-- Toward the cell body, bringing feedback information for regulating production of transmitter enzymes and other materials. It may also return worn or broken down cell constituents to be recycled.
+**Other Selective Connectionist Network Models:**
+* George Reeke and Gerald Edelman of Rockefeller University: described two parallel recognition automata networks that communicate laterally named Darwin and Wallace after co-developers of evolution theory
+* Both networks have distinct personalities; Darwin is analytical, recognizes edges, dimensions etc., while Wallace categorizes objects into preconceived classifications
+* Outputs of individual processors must be reconciled if not identical through lateral communication networks
+* Form an associative memory as they operate on unchanging connectionist network
+* Similar recognition automata may exist in dynamic cytoskeletal networks within neurons.
 
-### Parallelism, Collective Cooperativity, and the Grain of the Engram
+#### Lashley's Search for the Engram: Distributed Memory Storage in Brain
 
-**Parallelism, Collective Cooperativity, and the Grain of the Engram**
+**Distributedness in Neural Networks and Memory Storage:**
+* Neuroanatomical understanding of synaptic structure led to connectionist theory, extending Hebb's theory of neural nets to human memory and behavior
+* Experimental data from Lashley's research on the "engram" in animal brains showed that memory function is distributed throughout the brain, not limited to specific areas
+* Lashley proposed an alternative to localized storage: information patterns can be evoked in many neurons and regions of the brain related to memory
+* Distribution of information in memory explained by spread of interference patterns on cortex surface, similar to liquid disturbed at several points at once
+* Memory is not stored as fixed traces but as a lasting pattern of reverberatory activity without a fixed locus
+* Prevalent interpretation: information is stored in relationships among units and each unit participates in encoding many memories, distributed over large areas
+* Filters can extract individual traces from complex patterns, making distributed memory system an effective storage and retrieval device
+* Memory not independent of one another; previously stored information can evoke original pattern even with input differences
+* Lashley suggested open, parallel, distributed network covering wide regions of the brain instead of Hebb's closed loop of neurons firing in a confined region.
 
-**Comparison between Brain and Modern Computers**:
-- Neuron-to-neuron synapses operate on the order of milliseconds
-- The brain can perform processing feats that are impossible for modern computers
-- Assumption is that the brain accomplishes this through parallel operation of many components
+#### Learning and Memory: Synaptic Changes and Habituation in Neural Networks
 
-**Parallel, Distributed Models of Collective Mind Organization**:
-- Michael Gazzaniga's research with split-brain patients:
-  - Minds consist of large collections of smaller, semiautonomous parts
-  - Organized into relatively independent functioning units that work in parallel
-  - Modules include:
-    - Face and visual image recognition
-    - Language interpretation
-    - Inference engine located in dominant hemisphere to coordinate consciousness
-- **Gazzaniga's notion of free will**:
-  - We are continually interpreting behaviors of independent brain modules as our own
-  - This can be compared to the parallel connectionist concept, which requires a vote or caucus to determine a summary output
-- Gazzaniga's view is that basic cognitive phenomena such as acquiring and holding social beliefs are a product of human brain organization
-- Marvin Minsky's view in **The Society of Mind**:
-  - The mind is a vast network of agents, with information represented by frames and connected knowledge nodes
-  - This represents a more complex grid of agents than Gazzaniga's modules, but similar to neural network theory
+**Synaptic Mechanisms of Learning and Memory**
 
-**Questions Remain**:
-- Where is the grain of consciousness?
-- Is the mind more than an array of squabbling modules?
+**Short-term vs Long-term Memory**:
+- Short-term memory (working memory) is used for storing information temporarily, with a maximum capacity of 5 to 9 items at any one time
+- It is labile and easily disrupted if attention is diverted, automatically erasing within minutes
+- Continual verbal rehearsal can counteract erasure and re-enter the contents as long term memory
+- Long-term memory (reference memory) has a large capacity and difficulty in recalling specific items arises due to lost addresses, not fading memory traces
+- Items stored but not used become increasingly difficult to recall
 
-### Toward Molecular Consciousness
+**Consolidation**:
+- Consolidation is the process of moving information from short-term to long-term memory, requiring a finite 45-second period
+- Some regard consolidation and short-term memory as independent parallel functions
+- Amnesia may occur if brain activity is disrupted, affecting short-term but not long-term memory
 
-**John's Perspective on Consciousness (1980)**
-- Consciousness is a property of "improbable distributions of energy in space and time"
-- Similar to gravity as a property of matter
+**Synaptic Changes for Learning**:
+- Structural changes in synapses are the cornerstone of current concepts of learning and memory
+- Classifications of plastic changes include habituation, long-term potentiation, and heterosynaptic potentiation
 
-**Neuronal Structure Modification and Memory Formation**
-- Wave patterns modify neuronal structure, forming memories for later resonances
-- Rapid changes in chemical state required for simultaneous recognition by neural elements
+**Habituation**:
+- Simplest form of learning where an animal learns to ignore a repeated, non-threatening/uninteresting stimulus
+- Different from other decreased responses like synaptic fatigue or desensitization
+- Involves decreased output of excitatory neurotransmitter at presynaptic axon terminals mediating the withdrawal reflex
+- Known through studies on the gill withdrawal reflex in sea slugs, a marine organism
 
-**Candidates for Neuronal Structures Suitable for Cognitive Content Representation**
-- Large numbers of neural elements require rapid changes in chemical state of widely distributed macromolecules
-- Allosteric proteins, which can transduce regulatory signals to undergo functional conformational changes, are likely candidates
+#### Neuronal Plasticity and Cytoskeleton in Learning and Memory
 
-**Protein Conformation and Function Coupling with EEG Waves**
-- Hyden (1977) proposed proteins change conformation in response to weak, oscillating electric fields
-- Adey (1977): neural protein conformation and function coupled with EEG waves
-  - Hydrated glycoproteins, membrane proteins, and cytoskeleton primed for rapid conformational changes
-  - Transduction of electromagnetic energy into conformational states by widely distributed proteins can cooperatively represent dynamic information
+**Neuronal Plasticity: Three Forms and Cytoskeleton Involvement**
 
-**Molecular Network Adapted to Information Processing**
-- Biological intelligence's "common thread" or "engram" found within the cooperative dynamics of a molecular network
-- Structure and functions of cytoskeleton appear perfectly adapted to information processing.
+**Behavioral Response:**
+- Elegantly related to molecular level events at presynaptic calcium channels and neural proteins
+- Activity of these proteins viewed as "allosteric"
 
-### Cytoskeleton/Cytocomputer
+**Long Term Potentiation (LTP):**
+- Repeated use of a synapse increases transmission efficiency
+- Effect lasts hours to days, corresponding with morphological changes in synaptic membrane proteins regulated by neuronal cytoskeleton
+- Two pathways sharing an interneuron: LTP enhances non-originally excited pathway (associative memory)
 
-**Cytoskeleton/Cytocomputer**
+**Heterosynaptic Potentiation:**
+- Activity on one synapse changes efficiency of another synapse on the same post-synaptic membrane
+- Mechanisms: change in sensitivity of post-synaptic neuron to transmitter or change in amount of transmitter released
+- Evidence suggests increased numbers of receptors in post-synaptic membranes (similar mechanism as LTP)
 
-**Living Organisms**:
-- Collection of organized assemblies called protoplasm
-- Protoplasm consists of:
-  - Membranes
-  - Organelles
-  - Nuclei
-  - Cytoplasm (bulk interior medium)
+**Cytoskeleton Involvement:**
+- Synaptic plasticity and cognitive processes focus on molecular level alterations in synaptic membrane proteins regulated by neuronal cytoskeleton
+- Direct involvement: microtubules, turnover of microtubule subunits (tubulin) increase during learning, memory and experience
+  - Mileusnic et al. (1980): tubulin associated with synaptic membranes in developing brain
+  - Cronly-Dillon et al. (1974): increased incorporation and total quantity of tubulin during early development
+- Dynamic spine plasticity: Crick (1982) proposed dendritic spines change shape, altering synaptic thresholds mechanically
+  - Determined by microtubules, composed mostly of contractile actin (Matus et al., 1982)
+- Short term memory link: dynamic spine plasticity orchestrated by dendritic MT and cytoskeleton
+- Axoplasmic transport maintains and supplies form and functions of dendritic spines and all neuronal synapses.
 
-**Dynamic Rearrangements of Cytoplasm**:
-- Account for changing shape, positioning of organelles, and movement in eukaryotic cells
-- Cytoskeleton, a network of filamentous proteins, is responsible for cytoplasmic organization
+#### Parallel Processing in Brain: Modular Mind Organization
 
-**Historical Context**:
-- Early 19th century: Felix Du Jardin proposed all cells were composed of a material called **sarcode**, with both structural and contractile properties
-- Late 19th century: Dutch microscopist van Leeuwenhoek observed red blood cells deforming and returning to shape, demonstrating the elasticity of cytoplasm
-- Cytoplasmic architecture and contractility could not be explained by purely chemical or physical properties alone
-- Early 20th century: Two competing theories emerged:
-  - **Reticular theory**: Continuous reticular network of delicate fibrils extending through the cell
-  - **Fibrillar theory**: Unbranched, discontinuous fibrils forming the cytoplasmic substratum
+**Axoplasmic Transport in Neurons**
 
-**Evolution of Understanding**:
-- Both theories were initially supported but later deflated by microscope preparation techniques arising between 1870 and 1890
-- Fibrillar and reticular frameworks appeared in many fixed cells, particularly in muscle, nerve, cartilage, and epithelial cells.
+**Proteins and Organelles**: Synaptic membrane proteins, including ion channels and receptors, cytoskeletal protein structures, mitochondria, and enzymes required for transmitter synthesis/metabolism are manufactured in neuron cell bodies due to the presence of biochemical machinery.
 
-### The Nature of Cytoplasm
+**Transport Process**: These materials or precursors are then transported through the axon (or dendrite) using a cytoskeletal mechanism, similar to a conveyer belt or bucket brigade. Time-lapse photography shows mitochondria moving down axons like barges on a river, and vesicles zipping along microtubules.
 
-**Cytoskeleton/Cytocomputer**
-- Living organisms are composed of assemblies of cells containing protoplasm
-- Protoplasm consists of membranes, organelles, nuclei, and cytoplasm (bulk interior medium)
-- Dynamic rearrangements of cytoplasm account for cell shape changes, organelle positions, and movement
-- **Cytoskeleton**: Dynamic network of filamentous proteins responsible for cytoplasmic organization
+**Axoplasmic Transport Mechanisms**: There are several independent axoplasmic transport processes: fast (400 mm/day) and slow (1 mm/day). The mechanism involves microtubules and contractile proteins attached to the microtubule walls, which utilize ATP hydrolysis for orchestrated bucket brigade activity.
 
-**History of Cytoplasm Study**
-- Early observations: Felix Du Jardin (1835), E. Brucke (1861)
-- Observations on cell elasticity and structure led to theories of a fibrous or reticular substratum in cytoplasm
-  - Reticular theory: continuous network of delicate fibrils
-  - Fibrillar theory: unbranched, discontinuous fibrils
-- Microscope preparation techniques between 1870 and 1890 revealed both frameworks in various cells
+**Retrograde Axoplasmic Flow**: Simultaneous transport in the opposite direction (retrograde) brings feedback information to regulate transmitter enzyme production and other materials. This creates dynamic neurons capable of changing shape and function through experience.
 
-### Microtubules
+**Parallelism, Collective Cooperativity, and the Grain of the Engram**: Neuron-to-neuron synapses operate on millisecond timescales, while modern computers take nanoseconds. The brain's parallel processing capabilities enable it to perform tasks impossible for computers.
 
-**Cytoskeleton and Cytocomputer**
-* Seifriz proposed brush heap theory of interlacing fibers in 1960s
-* Cytoplasmic fibers can form either interlacing gels or filamentous bundles
-* Switching between these states accounts for observed cytoplasmic behavior
+#### Exploring the Neurophysiological Basis of Consciousness: Waves, Proteins, and the Cytoskeleton
 
-**Actin Subunits and Gel States**
-* Protein actin subunits polymerize in various forms: interlacing gels, filamentous bundles
-* Cytoplasmic gel states occur due to crosslinking of actin filaments and other proteins
-* Can be converted to more aqueous sol states by calcium ions and other factors
+**Gazzaniga's Argument About the Brain:**
+- Brain is more a social entity than a psychological one (Gazzaniga)
+- Consists of relatively independent modules, each processing information and activating thoughts/actions
 
-**Early Electron Microscopy Limitations**
-* Initial electron microscope did not illuminate substructure of cytoplasm
-* Fibrillar structures seen with light microscopy appeared as tubular filaments in electron micrographs
-* Ironically, fixative used for electron microscopy dissolved filamentous elements
+**Hippocampal Neurons and Cognitive Maps:**
+- O’Keefe and Speakman's experiments: hippocampal neurons represent place in environment
+  - Each cell cluster participates in representation of different patches
+  - Coarse representation provided by 8-10 cells
+  - Increasing resolution with more cells but no alteration of grain size
+  - Representation distributed, not individual nerves/synapses
 
-**Microtubules Discovery and Characterization**
-* Delicate tubular structures found to be present in virtually all cell types (microtubules)
-* Bundles of microtubules correspond to birefringent fibers seen in living cells
-* Recognized as household organelles after initial skepticism
-* Subsequent characterization of actin, intermediate filaments, microtrabecular lattice or ground substance, and cen trioles led to recognition that cells are comprised of dynamic networks of connecting filaments
+**Information Distribution and Memory:**
+- John et al.: information extensively distributed in cats' brains
+  - Ensembles of neural elements mediate integration and processing
+  - Integration of memories depends on unrecognized system properties
 
-**Microtubules Function and Structure**
-* Hollow cylinders about 25 nanometers in diameter
-* Polymerized arrays of protein subunits with lengths ranging from tens of nanometers during early assembly to possibly meters in nerve axons.
-* Essential for various functions in single-cell organisms to complex multicellular organisms, including neurons and Nobel scholars.
+**Collective Aspects of Mental Processes:**
+- Freeman: nervous systems more than sum of parts
+- Interconnections of neurons give rise to collective properties
+- EEG as evidence for collective neural phenomena
+  - Arises from slow, graded potentials produced by dendrites and cell bodies
+  - Large numbers of neurons involved in generating patterns
+- Significance of local collective EEG wave fields debated
+  - Superfluous epiphenomena to informational transmitters or substance of consciousness
 
-### Microtubule Structure and Function
+**EEG, Proteins, and Information Processing:**
+- Adey: neural proteins undergo conformational changes in response to EEG patterns
+  - Hydrated glycoproteins, membrane proteins, cytoskeleton involved
+  - Transduction of electromagnetic energy into protein conformations represents dynamic information
+- Common thread: biological intelligence is based on cooperative dynamics of molecular network (cytoskeleton)
 
-**Cytoskeleton/Cytocomputer**
+### 5 Cytoskeleton Cytocomputer
 
-**Brush Heap Theory**:
-- Seifriz proposed that cytoplasmic fibers could exist in "brush heap" form or form lateral associations by hydrogen bonding into paracrystalline aggregates
-- Switching between these states accounted for observed cytoplasmic behavior in living cells
+**The Cytoskeleton: Organizational Network in Living Cells**
 
-**Actin and Cytoskeletal Proteins**:
-- Subunits of the protein actin can polymerize in various forms, including interlacing gels or filamentous bundles
-- Cytoplasmic gel states occur due to crosslinking of actin filaments and other cytoskeletal proteins
-- These gel states can be converted to more aqueous sol states by calcium ions and other factors
+**Discoveries and Theories:**
+- **1835**: Felix Du Jardin proposed cells were composed of a material called "sarcode" with structural and contractile properties.
+- **1861**: E. Brucke linked mechanical and physiological properties to a fundamental organization in cytoplasm.
+- **Early 20th century**: Observations of red blood cells and cellular rigidity led biologists to believe that cytoplasm is not just a liquid or emulsion.
+- **Reticular theory** proposed a continuous network of delicate fibrils, while the **fibrillar theory** claimed unbranched discontinuous ones. Both theories were supported but later deflated due to microscope preparation techniques.
+- **1899**: Fibrillar and reticular frameworks appeared in fixed cells, particularly in muscle, nerve, cartilage, and epithelial cells.
+- **Butschli's alveolar foam theory** failed to account for fixation observations and vacuolated cytoplasm was uncommon.
 
-**Electron Microscope Discoveries**:
-- Initial electron microscope use did not illuminate the substructure of cytoplasm
-- Portions of cells that were optically empty by light microscopy appeared as fine tubular filaments with the electron microscope
-- These filamentous structures were prominent in the mitotic apparatus and dendrites of neurons
-- Fixative used for electron microscopy, osmium tetroxide, had been dissolving filamentous elements, delaying recognition of the cytoskeleton
+**Birefringent Substances:**
+- Observations of true fibrillar formation in living cells using polarized light microscopy revealed birefringent rods, thought to be proteins or linear aggregates.
+- Seifriz proposed the "brush heap theory" suggesting that cytoplasmic fibers could form interlacing gels or paracrystalline aggregates.
+- Subunits of protein actin can polymerize into interlacing gels or filamentous bundles.
 
-**Microtubules**:
-- With the advent of glutaraldehyde fixation, delicate tubular structures were found to be present in virtually all cell types
-- Bundles of microtubules, corresponding to birefringent fibers seen with light microscopy, became generally accepted as "household organelles" in many cells
-- Characterization of actin, intermediate filaments, and other cytoskeletal structures led to the recognition that cells were comprised of dynamic networks of connecting filaments
+**Microtubules:**
+- Electron microscope revelations initially did not illuminate the substructure of cytoplasm due to fixatives like osmium tetroxide dissolving filamentous elements.
+- With glutaraldehyde fixation, delicate tubular structures were found in virtually all cell types, called microtubules.
+- Microtubules correspond to birefringent fibers seen in living cells and are generally accepted as "household organelles."
+- Subsequent characterization of actin, intermediate filaments, the microtrabecular lattice, and centrioles led to recognition that cells are comprised of dynamic networks of connecting filaments.
 
-**Microtubule Structure and Function**:
-- Microtubules (MT) are hollow cylinders about 25 nanometers in diameter
-- Their lengths may range from tens of nanometers during early assembly to possibly meters in nerve axons
-- They are involved in various important cell functions, including:
-  - When required, microtubules assemble in the appropriate part of the cell with the necessary orientation
-  - As microtubules are no longer needed, they depolymerize
-
-**Comparative Functions of Microtubules**:
-- Essential functions in cells ranging from single-cell amoebas to neurons in earthworms and Nobel scholars are performed by similar cytoskeletal structures
-
-### Microtubule Assembly and the Generation of Form - Microtubule Organizing Centers (MTOC) and Centrioles
+#### Microtubules: Structure and Function in Cell Organization
 
 **Microtubules (MT)**
-- Play vital role in biological growth and development
-- Transduce mechanical force into nervous system through sensory cilia
-- Act as engines driven backwards during mechanoreceptor function
-- Intelligent activities include: conformational changes, guidance, alignment, secretion, synapse formation
-- Two mechanisms of pattern formation: directed assembly from MT Organizing Centers (MTOC) and self assembly of multitubular arrays by means of intertubule linkers
-- Scaffolding, conveyor belts, and computers in living cells
+- Hollow cylinders about 25 nanometers in diameter
+- Walls made of protein subunits called protofilaments
+- Thirteen parallel protofilaments align to form the hollow "tubules"
+- Subunits are "barbell shaped" proteins ("dimers") consisting of two globular proteins, alpha and beta tubulin (Figure 5.4)
+- Alpha and beta tubulin monomers are similar molecules with identical orientation within protofilaments and tubule walls
+- Each monomer consists of about 500 amino acids, weighs around 55 kilodaltons, and has a local polarity or charge orientation
+- MT that grow from cell centers have a "plus end" (beta tubulin) extending outward from the cell center ("centrosome") into the cell periphery
+- The "minus end" (alpha tubulin) remains anchored to a microtubule organizing center (MTOC) within the centrosome
+- Each dimer and MT appears to have an electrical polarity or dipole, with the negative end oriented towards the alpha monomer and cell center, and the positive end towards the beta monomer and cell periphery
+- Dimer neighbors form hexagonal lattices with a "leftward" tilt and several helical patterns may be discerned in the relations among dimers
+- Crystal-like symmetry packing of tubulin in microtubules has been evaluated by Djuro Koruga (1986) at the University of Belgrade in Yugoslavia
+- MT from different life forms show marked similarities, but subtle differences; for example, more primitive worm MT have 9-11 protofilaments compared to 13 in mammalian MT
+- Tubulins from among different species including mammals and plants bind to common antibodies and can coassemble into hybrid MT
+- Diversity of tubulin gene expression has proved far greater than initially imagined, with multiple, different alpha and beta tubulins existing concurrently, with the greatest diversity shown by beta tubulin.
 
-**MT Assembly and Generation of Form**
-- Can assemble into rigid tubular rods when needed, disassemble into subunits
-- Self assemble from subunits into orderly polymers
-- Increase in order during MT assembly related to dispersal (disordering) of structured water
+#### Microtubules and Their Functions in Cellular Structure and Communication
 
-**MT Reorganization and Cytoskeleton Dynamics**
-- Peripheral signals can lead to reorganization deep in the cell via MTOC or direct MT distribution change
-- Cellular array is dynamic, requiring transient stabilization of certain MT configurations
-- Proposed models: relay signal through cytoskeleton to MTOC for change, or affect MT distribution directly
+**Microtubules and Their Functions:**
+- **Different tubulin forms exist:** Rat thyroid microtubules contain 11 distinct tubulin types, while brain microtubules have 17 variations.
+- **Isozymes with specific functions:** Alpha and beta tubulins are families of isozymes; each may have unique roles or MAP binding.
+- **Detyrosination**: Tyrosine removal from beta tubulin exposing an acidic amino acid, glutamate.
+- **Clear zone surrounding MTs**: Anionic fields at the surface may explain clear zones and staining by positively charged dyes.
+- **Hollow core of MTs:** Unknown if interiors are electronegative or positive; could create voltage gradients.
+- **Microtubules as cytoskeleton**: Rigid structures that establish cell form and function through assembly and movement of organelles and materials.
+- **MT functions**: Organizing cytoplasmic transport, growth, reproduction, synaptic plasticity, and nearly all dynamic cytoplasmic activities.
+- **Information processing proposals:** Several theories propose MT-based information processing described in Chapter 8.
+- **Controlling activities of attached proteins**: Participate in controlling activities of attached proteins including those interconnecting MT assemblies like centrioles, cilia, flagella.
+- **Cell shape determination and extension**: Active sliding by motile bridges attached along MT involved in cell shape determination and cytoplasmic projections growth.
+- **Sensory perception and transduction:** Involved in sensory perception of external environments through mechanoreceptors and cilia.
+- **Pattern formation mechanisms**: Temporal and spatial control achieved by directed assembly from MTOCs and self-assembly of multitubular arrays using intertubule linkers.
+
+#### Microtubule Assembly: Creation and Disassembly in Cell Division
+
+**Microtubule Assembly and Generation of Form**
+- MT can assemble into rigid rods when needed, then disassemble into subunits
+- Self-assemble from subunits into orderly polymers
+- Increase in order during assembly related to dispersal of structured water from subunits
+- Variability in stability and function of MT due to tubulin chemistry, secondary proteins, cytoplasmic influences, membrane interactions, etc.
+- Stable MT found in cilia and flagella; labile MT in mitotic spindles
+- Assembly of labile MT facilitated by MTOCs (microtubule organizing centers)
+- Negatively charged ends attach to MTOC, positively charged ends grow distal
+- MT assembly complex, involving critical concentration (Cc) and various cofactors: calcium ion, temperature, microtubule inhibitors/stabilizers, MAPs, presence of MTOC, availability of GTP.
+- Spontaneous assembly depends on physiological conditions and cofactors
+- Energy input from phosphate bond hydrolysis used in cytoskeleton, possibly for generating lattice vibrations or "solitons"
+
+#### Microtubules and their Regulation in Cell Structure and Function
+
+**MT Disassembly and Assembly**
+
+**Effects of MT disassembly drug nocodazole:**
+- PtK2 cells: organized MT depolymerized after treatment (upper right)
+- Cells washed and reorganized MT system (lower left and right)
+
+**MT Assembly Requirements:**
+- Presence of magnesium ion and low concentration of calcium ion
+- Calcium induces conformational changes, can dissolve cytoplasmic gel
+- Excess calcium causes MT disassembly
+- Zinc ions cause tubulin polymerization into flat expansive sheets instead of cylinders
+
+**Tubulin Subunits:**
+- Alpha/beta tubulin arranged in the same direction
+- Beta subunit protrudes at the "plus" end and contains exchangeable GTP binding site
+- Treadmilling: net movement of subunits within MT lattice, corresponds to slow axoplasmic transport
+
+**MT Disassembly:**
+- Terminal dimers bind GDP cause disassembly
+- GTP bound dimers at open ends are stable; exposed GPD tubulin leads to shrinking and depolymerization
+- Free MT polymers exist in two populations: growing fast and shrinking rapidly
+
+**Dynamic Instability of MT:**
+- Growing polymers have protective GTP subunit caps, shrinking polymers lose GTP caps
+- Faster growth rate = larger GTP cap and lower probability of disassembly
+- Exposure of multiple GTP or GDP containing subunits at MT terminals required for stability/instability
+- Utilization of GTP hydrolysis energy significant portion of biological energy consumption
+
+**Observations on Growing and Shrinking MT:**
+- Both ends can exist in growing or shrinking phase and alternate randomly
+- Active end grows faster, alternates more frequently, and fluctuates length greater than inactive end
+- MAPs suppress phase conversion and stabilize microtubules in the growing phase
+- Binding at proximal end to MTOCs stabilizes MT and prevents depolymerization
+
+**MT Stabilization Mechanisms:**
+- Capped or bound to various structures, such as MTOCs
+- Selective retention through stabilizing a particular subset of microtubules for functional roles
+- Dynamic structural rearrangement requires intelligence.
+
+#### Microtubule Organizing Centers & Cell Division Mechanisms
 
 **Microtubule Organizing Centers (MTOC) and Centrioles**
-- Trigger and guide reorganization during growth, development, and cell movement
+
+**Role of MTOC/Centrioles:**
+- Trigger and guide reorganization of cytoplasm during growth, differentiation, and cell movement
 - Determine where, when, and how functions occur
-- Contain centrioles as common structure in all control centers
-- Composed of two similar cylinders with 9 radial symmetries, each constructed of 9 triplets of microtubules
-- Centriole mechanisms of perpendicular replication, orientation, and guidance unknown.
 
-### Microtubule Associated Proteins (MAPs)
+**Components:**
+- Contain centrioles and pericentriolar substance
+- Centrioles: two cylinders with radial symmetry (0.2 microns or 200 nanometers)
+  - Each cylinder has nine triplets of microtubules
+  - Satellites orbit the centrioles
+  - Cartwheel filamentous structure connects all microtubules within each centriole
+- Centrioles beget new ones by replication perpendicular to their surface
 
-**Cytoskeleton/Cytocomputer**
-- MTOC/centrioles:
-  - Involved in orientation, shape, timing of division and growth
-  - Determine what cells do, when and how they do it, and what kind of cells they are
-  - Are MTOC the command centers of the cytoskeleton?
-    - Centrioles rotate with a gyroscopic inertia to establish cell orientation
-    - Communicate with actin filament networks to regulate cellular activities
-    - Proposed to detect signals (e.g., infra-red, ultrasound) propagating linearly through the cytoplasm
-  - May have technological applications in the future
-- **Microtubule Associated Proteins (MAPs)**
-  - Facilitate full range of MT functions
-  - Include electromechanical enzymes, communicative crossbridges to other filaments/organelles, and MAPs that enhance MT assembly
-  - Attachment patterns of MAPs to MT lattice walls have precise geometrical configurations related to their function
-  - Example: Smooth passage of vesicles in axoplasmic transport is facilitated by specific MAPs
+**Function:**
+- During cell division: maturation of mother cell, separation of pairs of centrioles, and establishment of architecture in daughter cells
+- Relatively quiescent during interphase with low turnover rates
+  - Most tubulin polymerized during this period
+- MT system is stable with minimal dynamic instability
 
-### Intermediate Filaments - The Cytoplasmic Ground Substance
+**MT System during Mitosis:**
+- Prophase: cytoskeleton prepares for chromosome separation
+  * New MT nucleate near MTOC and kinetochore plates associated with chromosomes
+  * Minus ends stabilized by pericentriolar material, plus ends grow outward
+  - Free MT remain short due to consumption of tubulin subunits by stabilized MT
+- Stabilized MT slide along each other to pull chromosomes apart
 
-**Cytoskeleton/Cytocomputer**
+**MTOC/Centrioles:**
+- Determine orientation, shape, timing of division, and growth
+- Possible theories about their capabilities:
+  * Rotational oscillation with gyroscopic inertia (Bornens)
+    * Senses cell orientation to neighbors, environment, chemical gradients, gravity
+  * Detect signals propagating linearly throughout the cytoplasm (Albrecht-Buehler)
+    * Potential technological applications
 
-**103: Figure 5.17** (Koruga, 1986)
-- Microtubule information code representation of MAP attachment patterns
-- Part of the Koruga microtubule model
+#### Microtubule-Associated Proteins and Their Functions in Cellular Structure and Movement
 
-**Intermediate Filaments**
-- Major filamentous components of cytoskeleton
-- Represents nebulous and chemically variable subgroup
-- Five classes: built from alpha helix rod domains
-- Appear as unbranched, 812 nm wide filaments under electron microscope
-- Can be dissolved into protofilaments/protofibrils (number varies)
-- May form polygonal meshwork with 52 nm repeat of 8-10 nm wide filaments
-- Involved in structures like microtrabecular lattice or cytomatrix
+**Microtubule Associated Proteins (MAPs)**
+- Various proteins bind to specific tubulin dimers in microtubule lattices, enhancing their functions
+- Classes of MAPs:
+  - Electromechanical enzymes generating force and movement
+  - Communicative crossbridges to other cytoskeletal filaments or organelles
+  - Proteins enhancing MT assembly
+  - Unknown functions in neurons
 
-**Cytoplasmic Ground Substance**
-- Three distinct component systems: MT, IF, actin filaments
-- Actin is most versatile component
-- Creates transient configurations for specific purposes (contractile rings, probing lamellipodia)
-- Ground floor of organization explored through microtrabecular lattice (MTL), cytomatrix, and cytoplasmic solid state
+**Attachment Patterns of MAPs**
+- Precise geometrical configurations related to function
+- Smooth axoplasmic transport requires contractile MAPs spaced between 15 and 25 nanometers apart
+- Other attachment patterns are spirals winding around MT cylinders in super-helices
+- Determined by linear sequencing, crystal symmetry, or lattice steps
 
-**5.4 The Cytoplasmic Ground Substance: Microtrabecular Lattice (MTL)**
-- New techniques in high voltage electron microscopy at University of Colorado Boulder
-- Observation of a three dimensional lattice of slender strands throughout cytoplasm
-- Interlinked filaments suspend various cell systems and larger elements
-- Named microtrabecular lattice (MTL) due to trabecular structure similarity with spongy bone
-- High voltage electron microscopy provides more depth information, critical point drying avoids artifacts
-- Demonstrated in all eukaryotic cells examined
-- Three dimensional meshwork of microtrabeculi (4-10 nm diameter, 10-100 nm long)
-- Divides ground substance into protein rich polymerized phase and water rich fluid phase
-- Crosslinks various cytoplasmic elements (microtubules with smooth endoplasmic reticulum).
+**Rod Shaped Bridges Between MT**
+- Protein "arms" consuming ATP hydrolysis energy to generate force (analogous to myosin bridges)
+  - Kinesin and dynein proteins
+- Dynein arms contract collectively in organized sequences, driving ciliary and flagellar motility
+- Axoplasmic transport uses dynein arms acting like "bucket brigade"
 
-### The Microtrabecular Lattice (MTL)
+**Other MAPs**
+- Integrate microtubules with the rest of the cytoplasm by bridging between parallel MT filaments, organelles, and the "microtrabecular lattice"
+- High molecular weight (MAP 1 and 2) and related 56–62 kilodalton proteins (tau) in brain neurons
+- Increase in number and altered distribution during brain development and learning
+- Phosphorylated by cyclic AMP-dependent protein kinases, regulating intracellular calcium levels
+- Mediate diverse inputs into the cytoskeleton as "synapses" in a parallel network
+- Tau heterogeneity varies during brain development, resulting in different polypeptides in mature cerebral cortex and cerebellum.
 
-**Cytoskeleton/Cytocomputer (105): Actin and Neurofilament Gel**
-- **Actin/Neurofilament gel (microtrabecular lattice)**
-  - Fine texture of cytoplasmic organization
-  - Smaller, more delicate structures branch and interconnect in gel state networks
-  - Comprises the substance of living material
-- **Three distinct cytoskeletal component systems:** MT, IF, actin filaments
-- **Actin** is the most versatile component:
-  - Polymerizes into string-like filaments
-  - Forms dynamic branching nanoscale meshworks or geodesic polyhedrons
-  - Assembly creates transient configurations for specific purposes
-- **Ground Substance (cytoplasmic ground state)**
-  - MT and IF are not the finest texture of cytoplasmic organization
-  - Smaller, more delicate structures exist in gel state networks
+#### Intermediate Filaments in Cytoskeleton Structure and Cell Types
 
-**Exploring the Ground Floor: Overlapping Descriptions**
-- **Microtrabecular Lattice (MTL)**
-  - Observed using high voltage electron microscopy developed by Keith Porter et al. at University of Colorado, Boulder
-  - Three dimensional lattice of slender strands suspended the various cell systems
-  - Filaments interconnect nearly everything in the cell
-  - Named after spongy bone structure
-- **High Voltage Electron Microscopy (HVEM) and Critical Point Drying Method:**
-  - Provide more information about depth for a three dimensional view of cell organization
-  - Demonstrated MTL in all eukaryotic cells examined
-- **MTL Characteristics:**
-  - Three dimensional lattice of microtrabeculi (4-10 nanometers diameter, 10-100 nanometers long)
-  - Divides ground substance into protein rich polymerized phase (MTL) and water rich fluid phase.
+**Cytoskeleton and Intermediate Filaments (IF)**
+* Major filamentous components: MT, actin filaments, IF, microtrabecular lattice (MTL)
+* Focus on intermediate filaments
+* Overview of IF: nebulous subgroup of cytoskeleton, built from alpha helix rod domains
+* Appearance under electron microscope: unbranched, 8–12 nanometer wide filaments
+* Variability in number and size of protofilaments or protofibrils
+* Shapes: parallel coiling, polygonal meshwork, crystal-like arrays
+* Involvement in structures like MTL/cytomatrix
+* Five major classes: keratin ("tonofilaments"), desmin filaments, vimentin filaments, neurofilaments, glial filaments
+* Diverse associations with specific cell types
+* Functions: provide tensile strength to axons (neurofilaments), participate in mechanically integrating cytoplasmic components.
 
-**Microtrabeculi:**
-- Connect various elements in the cytoplasm: microtubules with smooth endoplasmic reticulum.
+**Intermediate Filaments (IF)**
+* Five major classes based on subunit structure
+1. Keratin ("tonofilaments"): epithelial cells
+2. Desmin filaments: smooth, skeletal, cardiac muscle cells
+3. Vimentin filaments: mesenchymal cells
+4. Neurofilaments: neurons (Figure 5.18)
+5. Glial filaments: glial cells
+* Often two or more classes co-exist in a cell
+* Function not fully understood, possibly involved in mechanically integrating cytoplasmic components
+* Poorly understood, mysterious presence in neurons.
 
-### The Cytomatrix
+**Neurofilaments (NF)**
+* Three dimensional structural lattice providing tensile strength to axons
+* Extruded axoplasm rich in NFs
+* Calcium ion exposure leads to degradation and conversion of gel into a sol state
+* Phosphorylated, but function unknown
+* Involved in mechanically integrating cytoplasmic components.
 
-**Cytoskeleton and Cytocomputer:**
-- Controlled by MTL (Microtubule-associated proteins) through specific cytoskeletal linkages
-- Regulates distribution of organelles, such as endoplasmic reticulum in axons, Golgi apparatus placement, and synaptic bouton composition
-- Mediates embryological development or morphogenesis via hormone receptors or tissue factors
-- Transduces chemical or mechanical work for intracellular transport processes like axoplasmic transport and vesicle translocation
-- MTL regulates cytoskeleton and cell at large, serving as dynamic ground substance
+#### Discovery of Microtrabecular Lattice in Cytoplasm.
 
-**MTL:**
-- Labile and transient level of organization in cytoskeleton
-- Microfrontier of living material organization
-- Network within a network of cytoskeletal proteins
-- In Chapter 8: represents standing wave patterns of calcium coupled sol-gel states from dynamic excitations of the cytoskeleton
-- Potential bottom level in an information hierarchy called infoplasm
+**The Cytoplasmic Ground Substance**
 
-**Cytomatrix:**
-- Protein makeup and functional organization of MTL (Microtubule-associated proteins)
-- Peter Satir's research at Albert Einstein University on protein interactions within the cytoskeleton
-- Primary building block: actin protein, versatile with various actin-binding proteins to unleash its capabilities
-- Forms rigid bundles for structural support through interaction with fimbrin and myosin (mechanoenzyme)
-- Connections between the cytomatrix and membrane proteins established by talin, spectrin, vinculin, ankyrin, and fodrin
-- Calmodulin mediates effects of calcium ion fluxes on the cytomatrix
-- Proteins like alpha actinin, troponin, filamin link actin networks, causing a gelatinous consistency in cytoplasm (gel)
-- Continuous gel state below cell membranes; dynamic transitions can occur elsewhere.
+**Microtrabecular Lattice (MTL)**:
+- New techniques in electron microscopy developed by Keith Porter and colleagues at the University of Colorado at Boulder
+- Observation of an irregular three dimensional lattice of slender strands throughout the cytoplasm, interconnecting various cell systems, organelles, and larger cytoskeletal elements
+- The lattice is suggestive of the trabecular structure of spongy bone and was named the microtrabecular lattice (MTL)
+- Provides more information about depth, giving a three dimensional view of cell organization
+- Avoids distorting effects of surface tension by using critical point drying
+- Observed in all eukaryotic cells which have been examined
+- Consists of slender strands called microtrabeculi, with diameters from 4 to 10 nanometers and lengths of 10 to 100 nanometers
+- Divides the ground substance into two phases: a protein rich polymerized phase comprising the MTL, and a water rich fluid phase
+- Connects various elements in the cytoplasm, such as microtubules and smooth endoplasmic reticulum
+- Dynamically active in moving material in a saltatory manner at velocities equivalent to axoplasmic transport
 
-### Cytoplasmic Solid State - Cytoskeletal Motility
+**Microtrabecular Lattice and Cytoskeleton**:
+- Acts like skeletal musculature, as it is an analog of rigid skeletal elements and is involved in moving elements through the cytoplasm
+- Radiates from microtubules and neurofilaments in neurons
+- Involved in both neurotransmitter release and post synaptic receptor mechanisms
+- Crosslinks various elements, including synaptic vesicles, membranes, and other components
+- Can be transformed from axoplasm to synaptic terminal or growth cone cytoplasm
+- Dependent on calcium ion concentration, with high calcium causing the MTL to shorten and deform
+- Calcium may be a coupling agent for dynamic aspects of the MTL
+- Could represent standing waves, dissipative patterns, or holograms in cytoplasm
 
-**Components of Cytomatrix and Their Role in Cell Movement**
+**Functions and Behavior of the Cytoskeleton and MTL in the Nervous System**:
+1. Modulation of membrane events such as receptor activity and neurotransmitter extrusion
+2. Participation in axoplasmic transport, turnover and maintenance of membrane proteins and receptors, and availability of neurotransmitters and enzymes at synapses
+3. Differentiating specific zones of cytoplasm and membrane, controlling the types of receptors or channels at synaptic zones
+4. Mediating embryological development or morphogenesis through linkages with hormone receptors or tissue factors
+5. Transducing chemical or mechanical work for intracellular transport and processes
+6. Regulating the rest of the cytoskeleton and the cell at large
 
-**Cytoskeleton/Cytocomputer**:
-- Actin filaments can undergo contraction and streaming, important for amoeboid locomotion
-- Myosin appears to pull actin filaments against each other
-- Rise in calcium ion causes actin networks to fragment, allowing myosin to pull actin filaments together, resulting in gel contraction and vigorous streaming
+#### Cytomatrix: Protein Network and Water Structures in Cytoplasm
 
-**Cytomatrix Structures**:
-- Give rise to amoeboid and other types of cytoplasmic movement
-- Calcium-mediated sol-gel transition and gel contraction can be important for cell functions like memory in neurons
+**The Cytomatrix and Cytoplasmic Solid State**
 
-**Cytoplasmic Solid State**:
-- Molecules such as proteins and RNA are heterogeneously distributed, passively flow at rates below normal diffusion
-- Actively transported molecules travel at velocities far exceeding diffusion
-- Dynamic activity within the MTL can regulate enzymatic activity
+**Background**
+- Peter Satir's work on protein makeup and functional organization of MTL (cytomatrix) at Albert Einstein University
+- Actin, a versatile protein, is primary building block with actin-binding proteins
 
-**Cytoskeletal Motility**:
-- Cell movement is determined by a "chemical computer" whose nature is not yet understood
-- Various cytoplasmic movements include amoeboid creeping, internal streaming, axoplasmic transport, muscle contraction, ciliary and flagellar bending, and cell shape changes
-- These maneuvers are engineered by a small group of proteins with spectacular collective effects.
+**Components of the Cytomatrix**
+1. **Actin**: ubiquitous protein, forms rigid bundles through interaction with fimbrin or associates with myosin for muscle-like contraction
+2. **Other Proteins**: talin, spectrin, vinculin, ankyrin, and fodrin connect cytomatrix to membrane proteins; calmodulin mediates calcium ion effects; alpha actinin, troponin, filamin create gelatinous consistency
+3. **Actin Regulatory Proteins**: actin capping proteins stabilize polymerized actin and promote a "gel" condition, profilin binds actin subunits prevents polymerization and maintains "sol" conditions
+4. **Calcium Ions**: activates myosin to pull actin filaments against each other for contraction and streaming in cytoplasmic movement
+5. **Actin Fragmenting Proteins**: gelsolin, villin cause liquefaction of gel network to solution ("sol") state
 
-### Cytoplasmic Probing
+**Cytomatrix Structures and Functions**
+- Amoeboid and other types of cytoplasmic movement as well as polyhedral structures
+- Calcium mediated sol-gel transition important in cell functions, perhaps transient representation of short term memory within neurons
 
-**Cytoskeleton/Cytocomputer**
+**Cell Solid State (Cytoskeleton/Cytomatrix/MTL)**
+1. Molecules like proteins and RNA heterogeneously distributed throughout cytoplasm
+2. Slow diffusion explained by cytomatrix barriers and channels initially, but later found to be dynamically bound to solid state
+3. Solid state occupies 16-21% of cell volume with surface area from 69,000 to 91,000 square microns per cell (69 to 91 billion nanometers)
+4. Biomolecules are efficiently arranged in complex biochemical pathways due to physical arrangement and dynamic regulation by solid state structures
+5. Water surrounding solid state structures plays a role: ordered water aligned with polar bonds on protein surfaces, inhibits thermal dissipation, shields calcium ions from random interactions
+6. Additional layers of less ordered water ("vicinal water") limit true "aqueous" water within cells to narrow cellular "sewage channels."
 
-**Function of White Blood Cells**:
-- Lymphocytes and macrophages are white blood cells that combat infection by:
-  - Migrating from the blood stream into an open wound to engulf invading bacteria or foreign material
+#### "Exploring Cellular Movement and Cytoskeleton/Cytocomputer Complexities"
 
-**Complex Cellular Movements**:
-- Developing embryos perform precisely choreographed movements that give rise to different tissues
-- Internal movement, such as the streaming of cytoplasm, secretion of cell product vesicles (neurotransmitters), engulfment of matter, and separation of paired chromosomes in cell division are routine functions whose complexity, organization, and precision generally boggle biologists
-- Well controlled muscle contraction which depends on the conformational bending of myosin head molecules can result in strenuously running a 4-minute mile or delicately painting a Mona Lisa
+**Cytoskeletal Motility**
 
-**Categories of Cytoplasmic Movement and Force Generation**:
-- **Cytoplasmic probing**
-- **Bending sidearms** (e.g., lamellipodia)
-- **Ciliary and collective movements**
-- **Geodesic tensegrity structures**
+**Discovery of Cell Movement**:
+- Discovered by van Leeuwenhoek in the 17th century observing flagella propelling sperm cells
+- Various cytoplasmic movements: "amoeboid" creeping, internal streaming, axoplasmic transport, muscle contraction, ciliary and flagellar bending, and cell shape changes
 
-**Cytoplasmic Probing**:
-- W. H. Lewis, an embryologist at Carnegie Institute, studied the behavior of fibroblasts (active cells that repair wounds)
-- After breaking up adhesive contacts and networks in the extracellular material, Lewis observed lamellipodia, delicate sheet-like extensions of the cytoplasm along the shortest side of the polygonal cell
-- The ruffled lamellae slowly bend back and forth like a dress in a slight breeze
-- Ingram and Abercrombie at University College London studied the membrane-coated ruffled lamellipodium, the main locomotion organ of fibroblasts
-- Lamellipodia form strings and contact the substrate, stretching portions of the rest of the cell among temporary adhesions
-- When a ruffle does not stick and the cell moves in another direction, the ruffle folds back on the upper surface of the cell, collapses onto it, and disappears into the cell
+**Role of Proteins in Cytoplasmic Movements**:
+- These maneuvers are engineered by a relatively small group of proteins
+- Complexity, organization, and precision of these movements boggle biologists
+- Examples: lymphocytes/macrophages migrating to engulf bacteria, embryonic tissue formation, internal movement (e.g., cytoplasm streaming, neurotransmitter secretion), muscle contraction
 
-### Bending Sidearms
+**Categories of Cytoplasmic Movement**:
+- **Cytoplasmic probing**: Cell extensions (lamellipodia and filopodia) probe the substrate to determine direction
+- **Bending sidearms**: Ciliary and collective movements
+- **Geodesic tensegrity structures**: Proteins in the cytoskeleton form a network that allows the cell to maintain its shape
 
-**Cytoskeleton and Cytoplasmic Intelligence**
-- Cell exhibits migration behavior despite removal of neurons
-- **Intelligence in cytoplasm**: cell has a "driver's license"
+**Lamellipodia and Filopodia**:
+- These are dynamic, membrane-coated extensions of the cytoplasm
+- They provide spatial guides for the cell membrane and cytoplasm flow
+- Filopodia can change from a fluid to a rigid state in less than a second by assembling actin filaments
+- They serve a sensory function by detecting substrate surface contacts
 
-**Bending Sidearms (Contractile Proteins)**
-- Important cytoplasmic movements due to bending of contractile proteins attached to cytoskeletal filaments
-- In muscle, thin actin filaments interdigitate with thick myosin filaments
-- Tiny sidearms or crossbridges (myosin heads) attach to myosin thick filaments and cycle like oars to move the filaments relative to each other
-- ATP hydrolysis drives conformational changes in myosin molecules, causing contractility
+#### Cell Migration and Cytoplasmic Intelligence: A Study by Albrecht-Buehler
 
-**Myosin Filament and Myosin Head Rowing**
-- Each myosin filament carries about 500 heads
-- Myosin head rowing is initiated and coordinated by waves of calcium ion released from sarcoplasmic reticulum triggered by membrane electrical activity
-- Precise use of ATP hydrolysis energy to cause contractility and conformational changes remains poorly understood
+**Cytoplasmic Organization and Migration of Cells:**
 
-**MT Related Activities Generating Force, Locomotion, and Movement**
-- Many MT related activities generate force, locomotion, and movement of vesicles and other material
-- Axoplasmic transport is an example of this (Lasek, 1981; Ochs, 1982)
-- Parallel MT within axons are polarized with their fast growing plus-ends distal from the cell body facing the synapse
-- Contractile sidearms occur every 1618 nanometers along MT lengths and generate directional movement of material by undergoing a sequence of conformational changes involving attachment to vesicles, ATP dependent force generation, and detachment from vesicles
+**Defective Growth Regulation in Cancer Cells:**
+- Cytoplasmic organization radially arranged from centrosome (C) near nucleus (N)
+- Golgi elements (G), lysosomes (L), mitochondria (M), and endoplasmic reticulum (ER) aligned along microtubules (MT)
+- Phagocytic and pinocytic vacuoles (P) and secretory vesicles (V) move between centrosome and periphery
+- Intermediate filaments (IF) parallel MT, stress fibers (SF) anchor cell to substrate
 
-**MT Based Dynein Activities vs. Muscle Contractility**
-- DTN based dynein activities are more variable, flexible, and interactive than repetitive nanoscale events in muscle
-- Different material is simultaneously transported in opposite directions (retrograde axoplasmic transport) to provide feedback for protein synthesis or recycling of molecules
+**Intelligent Behavior of Isolated Cytoplasm:**
+- Biologist Guenter Albrecht-Buehler studied isolated cytoplasm
+- Three major types: force generation, transmission of motile forces, and traction generation
+- Control of cell migration: polarity, cell body coordination, logic of migration
+- Evidence of cytoplasmic intelligence through coordination of many cell domains and environment assessment
 
-**Gliding MT Segments as Intracellular Conveyor Belts**
-- Robert Allen and colleagues studied isolated MT fragments that glided along glass cover slips at velocities of 150 to 450 nanometers per second
-- Velocity is independent of fragment length, occurs in a straight path, and is in the direction of retrograde axoplasmic transport
-- Gliding MT segments suggest force generating enzymes are deployed in linear paths along the MT, and stroke causing gliding is parallel to the MT with a spacing interval of about 17 nanometers
-- Reducing available ATP concentration slows gliding speed but does not affect number or behavior of gliding MT
-- Gliding MT almost never interact when crossing paths; if forward progress is blocked, it fishtails slowly from side to side.
+**Cytoplasmic Intelligent Behavior:**
+- Fragments of cytoplasm (microplasts) capable of autonomous movement
+- Small fragments demonstrate filopodia, ruffles, and blebs
+- Intelligence controlled by superior stratum of organization for coherent locomotion
+- Not located in genes as cells with removed nuclei still exhibit migration behavior.
 
-### Ciliary and Collective Movement - Geodesic Tensegrity Gels
+#### Microtubule-Powered Cellular Movement Mechanisms and Conveying Systems
 
-**Cytoskeleton/Cytocomputer: Ciliary and Collective Movement (5.5.3)**
-* Structure of cilia and flagella: parallel microtubules in a cylindrical 9+2 arrangement, similar to centrioles but without central pair; actin wound around central pair
-* Composed of dynein, the contractile protein that utilizes ATP energy for force production
-* Function: move fluid or propel single cells through fluids; used for food collection and locomotion in single cell organisms
-* Cilia continue to propagate normal bending movements when severed from cells with ATP, magnesium or calcium ions present
-* Coordinated unidirectional waves of movement: forward stroke exerts force on surrounding liquid, followed by recovery phase
-* Minimizes viscous drag; requires about 0.1 to 0.2 seconds for a cycle
-* Cycles of adjacent cilia not quite in synchrony, creating wave-like patterns
-* Similar mechanism to muscle contraction and axoplasmic transport
-* Energy supplied by ATP hydrolysis but precise utilization and orchestration are unknown
+**Bending Sidearms and Cytoskeleton Functioning**
 
-**Geodesic Tensegrity Gels (5.5.4)**
-* Actin-myosin contraction also occurs in non-muscle cells
-* ATP provides energy for mechanical work required for slime mold locomotion
-* Actin filaments organized into geodesic domes with icosahedral networks encompassing cell areas after fluorescent antibody treatment
-* Proteins related to contractility and regulation: actin, myosin, alpha actinin, tropomyosin
-* Fluorescent observations reveal strikingly regular actin filament networks resembling geodesic domes.
+**Muscle Contraction:**
+- Contractile proteins attached to rigid cytoskeletal filaments bend during muscle contraction
+- Thin actin filaments interdigitate with thick myosin filaments
+- Myosin heads extend across a gap of about 13 nanometers and row like oars, driving conformational changes in myosin molecules through ATP hydrolysis energy
+- Calcium ion release triggers this process by shifting the position of regulatory protein troponin and allowing actin-myosin ratcheting
+- Myosin head coordination is initiated by calcium ion waves
 
-### The Cytoskeleton and Development
+**Axoplasmic Transport:**
+- MTs polarized with plus ends distal from cell body facilitate force generation for movement and vesicle transport
+- Contractile crossbridges occur every 16–18 nanometers along MT lengths, generating directional material movement by undergoing conformational changes involving attachment to vesicles, ATP-dependent force generation, and detachment from vesicles (only at plus ends near synapses)
+- Similar to myosin head rowing in muscle fibers but more variable and interactive than repetitive nanoscale events
+- Retrograde axoplasmic transport provides feedback for protein synthesis machinery or recycling of molecules
 
-**Cytoskeleton/Cytocomputer Properties:**
-- Semi-rigid microtubules under compressive forces from contractile actin filaments
-- Balance between parallel compressive and tensile forces leads to self-supporting property (tensegrity)
-  * Provides cell support without direct contact between rigid elements
-  * Robert Jarosch proposes contractile actin winds/unwinds microtubules through torque drive for rotational oscillations and tuning/detuning of the system
-  * Dynamic compression/tension important in membrane receptor regulation
-- Cytoskeleton crucial to reproduction, growth, trophism, and differentiation processes.
+**Gliding MT:**
+- Gliding MT segments suggest linear force-generating enzymes along the MT, parallel to its surface with a spacing interval of about 17 nanometers
+- Velocity is independent of fragment length and occurs in straight paths, slowing when ATP concentration decreases but not affecting behavior or number of gliding MTs
+- Gliding MT segments rarely interact when crossing paths and “fishtail” when progress is blocked
 
-**Cytoskeleton and Development:**
-- Performs critical functions: meiosis, sperm motility, mitosis, cell proliferation, migration, changes in cell shape
-- All cells have same genetic capabilities but assume specific roles through trophism and differentiation
-  * Cells can be moved and take on new tissue characteristics when placed in different environments
-- Cytoskeleton crucial for all steps: reproduction, growth, trophism, and differentiation
-- Malfunctioning cytoskeleton may cause nonviable or abnormal offspring (maldistribution of chromosomes)
-  * Variability in tubulin isozymes and MAPs could explain tissue/cell specificity based on differences in molecular composition and activities.
+**Force Generation Enzymes:**
+- Dynein and kinesin are force-generating enzymes for cilia/flagella movement and organelle transport along microtubules, respectively.
 
-**Aristotle's Perspective:**
-- Two theories for development of form: epigenesis (continuous unfolding) and preformation
-  * Favored epigenesis but preformation dominated science until 1759 with the publication of Friedrich Wolff's Theoria Generationis.
+**Backstroke Hypothesis:**
+- Force generating enzymes make an elliptical stroke that imparts force in both directions, carrying vesicles in opposite directions through sufficiently separated pathways without collisions.
 
-### The Cytoskeleton and Medicine
+**MT Communication:**
+- Collective communication among MT lattice subunits (solitons, coherent excitations, lattice vibrations) could explain the orchestration of contractile activities.
 
-**Cytoskeleton and Cytocomputer**
+#### Cilia and Flagella Motion: Bending Microtubules by Contractile Proteins
 
-**Relation to Human Diseases:**
-- Defects linked to microtubules cause specific diseases: immotile cilia syndrome, developmental disability in infants
-- Involved in various diseases, drugs, toxins, and bodys response to disease: malignancy, Alzheimer's disease, viral infections
+**Ciliary and Collective Movement:**
+- Axoplasmic transport occurs through coordinated activities of sidearm proteins (dynein) in a "bucket brigade" system
+- Cilia and flagella have a core of parallel microtubules in a cylindrical "9+2" arrangement
+- Dynein contractile proteins utilize ATP energy to produce force for bending movements
+- Flagella and cilia function without influence from attached cells, continuing movements when severed from cells
+- Cilia move fluid over surfaces or propel single cells through a fluid; simple flagella have similar internal structure but longer and propagate in quasi-sinusoidal waves
+- Mechanism of bending in eukaryotes is similar to muscle contraction and axoplasmic transport
+- Unknown how precise utilization, transfer of conformational states, and temporal orchestration control sidearm appendages
 
-**Understanding MT through Disease:**
-- Gout: painful swelling of joints caused by immune cells migration towards urate crystals
-  * Lymphocytes and macrophages use amoeboid locomotion to reach crystals
-  * Colchicine, a drug that depolymerizes microtubules, relieves pain by preventing cell behavior
-- Involved in normal cell architecture, function, and growth control
+**Geodesic Tensegrity Gels:**
+- Actin-myosin contractility also occurs in non-muscle cells
+- ATP provides energy for slime mold locomotion by converting into mechanical work
+- Actin filaments organized into geodesic networks, reminiscent of icosahedral geodesic domes
+- Alpha actinin localized primarily at vertices of the network; tropomyosin along actin fibers
+- Longer fibers attach to network vertices and extend into filopodia, lamellipodia, membranes
+- Transient dynamic structures serve vital functions during cell cycle, such as mitotic spindle and cleavage furrow contractile ring
+- Simple sliding filament model insufficient for explaining cell cleavage function
+- Tensegrity provides self-supporting property through balance between compressive and tensile forces in cytoplasm
+- Contractile actin may wind and unwind microtubules by a "torque drive," causing rotational oscillations
+- Dynamic compression/tension important for regulating membrane receptors' mobility.
 
-**Malignancy:**
-- Loss of cell reproduction control
-- Aberrant distribution of genetic material can result in nonviable combinations or malignant traits
-  * Many factors account for genetic alterations, precise etiology cannot be pinpointed
-- Malignant cytoskeleton disorganized with oscillating aggregates that aid dislodgement
+#### Cell Differentiation and Embryological Neuron Growth: Epigenesis Theory
 
-**Experimental Perturbations:**
-- Poisons and drugs used to understand the relation between molecular structure and life processes
-- Vinca alkaloids disrupt MT mitotic spindles during polymerization due to rapid cell division in cancer cells.
+**The Cytoskeleton and Development**
 
-### Intelligence in the Cytoskeleton
+**Functions of the Cytoskeleton in Reproduction and Development:**
+- Performs critical functions in meiosis (chromosome division), sperm motility, mitosis, cell proliferation, migration, and changes in cell shape during differentiation.
+- Crucial to all steps in reproduction, growth, trophism, and differentiation.
 
-**Cytoskeleton and Information Processing**
-* Cytoskeletal gel networks have a complete repertoire for information processing
-* Diverse motile events in non-repetitive cells: dynamic, transient, and variable
-* Actin polymerizes differently depending on presence of calcium or magnesium ions
-* Muscle cells vs. non-muscle cells: different control mechanisms for actin polymerization
-* Involvement of microtubules, filaments, and centrioles in cell movement
+**Theories on Embryonic Development:**
+*Aristotle's Views (384–322 BC)*:
+  - Epigenesis: Embryos derive from formless masses through continuous unfolding.
+  - Favorited this theory, but preformation dominated science for centuries.
 
-**Requirements for Cytoplasmic Intelligence**
-* Compartmentalization to prevent chaos
-* Information content: formal structure, not meaning (Shannon, 1948)
-* Coupling of spatial and temporal components
-* Intended signals are unpredictable: text, radio signals, or movie (MacLuhan)
-* Cytoplasm is organized matter: complex activities amidst thermal noise
-* Independence from DNA/genetic control: example - ciliary orientation in paramecium
+*The Preformation Theory vs. Epigenesis*
+- Preformation theory: Individual patterns exist in miniature within the parent and development consists of steady growth.
+- Aristotle favored epigenesis, but it was not widely accepted until 1759 when Friedrich Wolff challenged the preformation theory with evidence that a chick embryo starts as "globules" or cells without functional relation to each other.
 
-**Approximations of Cytoplasmic Intelligence**
-1. The secret lies in the randomness of thermal chaos
-2. A more enlightened approximation will be required to understand cytoplasmic intelligence fully.
-3. An even further advancement is needed for a comprehensive understanding.
+*Aristotle's Epigenesis Theory and Modern Understanding:*
+- Homogeneous spheres divide, yielding more spheres which themselves divide.
+- Cells exhibit differences in structure and function and form a collective coherence.
+- Each cell contains enough information to orchestrate the entire process.
 
-### Protein Conformational Dynamics
+*Totipotential Cells:*
+- During early embryological development, each cell is totipotential: it can take on any tissue role in the body.
+- Modern understanding: Chromosomal DNA in each cell holds all genetic information.
+
+**Neuronal Development and Formation:**
+- Cells appear to take on the role of their environment due to morphological "trophic" influence conveyed by cytoskeletal axoplasmic transport within nerve cells.
+- Neuronal processes know where and when to send their processes and establish connections through growth, pathfinding, and trophic capabilities.
+
+#### Neurite Growth and Cytoskeleton Development in Brain Differentiation
+
+**The Centriole/MTOC Establishes Cell Polarity and Orientation**
+- The centriole/MTOC establishes cell polarization and orientation
+- Presumably "launches" extending processes
+
+**Growth Cones in Neurite Extension**
+- Tips of lengthening neurites are specialized areas called "growth cones"
+- Growth cones:
+  - Participate in decisions about direction, branching, and termination of extension
+  - Can sense changes in local environment
+  - Shift direction, branch, or form synapses in concert with other cytoskeletal elements
+- Activities of growth cones are remarkably similar to movement in amoeba and other simple organisms
+  - Continually probe surroundings by sending out and retracting delicate ruffles (lamellipodia) and finger-like projections (filopodia or microspikes)
+  - Dynamic micro-appendages are comprised of meshworks and parallel arrays of actin filaments
+
+**Role of Microtubules (MT) and Actin Filaments in Axonal Extension**
+- MT and neurofilaments from neurites splay into growth cones, but generally stop short of the actin-rich areas
+- **Addition of cytochalasin B**, an actin filament modifier, blocks neurite outgrowth if added before extension has begun
+  - Treatment of extending axons with cytochalasin B results in cessation of growth cone ruffling activity with little immediate effect on the neurite shaft
+- **Antimicrotubule agents** like colchicine leave growth cone activity unaffected but block neurite extension
+  - Continued exposure results in retraction of the cell process with subsequent formation of one or more growth cones from the cell body
+- These observations, along with ultrastructural evaluations of treated cells, show that **MT are necessary for neurite growth**, while actin filaments are essential to growth cone protrusion, a phenomenon similar to amoeboid motion
+
+**Complex Interplay of Dynamic Activities in Neurite Sprouting and Growth Cone Extension**
+- A complex interplay of dynamic activities of actin and MT is required for neurite sprouting and growth cone extension
+- **Actin assembly generates protruding lamellipodia and filopodia**, which are then anchored to the external substrate by myosin
+- Lamellipodia, sheet-like ruffles, dart out among the finger-like filopodia, particularly near points where decisions about branching are required
+- Growth cone activities related to embryological differentiation are at the very ground floor of intelligence
+
+**Changes in Cytoskeletal Elements During Brain Development**
+- **Tubulin isozymes**:
+  - **Alpha and beta tubulin**: Peaks around 14th day after birth, then declines to adult levels due to reduction in rate of synthesis
+  - **Pattern of alpha and beta tubulin genetic variants (isozymes)**: Marked changes during brain development
+- **MAPs**:
+  - Two tau polypeptides present in first few days of birth, then four major tau polypeptides emerge in adult brain
+  - MAP1 can be resolved into three groups (MAP1A, 1B, 1C), with different patterns in embryonic vs. adult brains
+  - **MAP2**: Restricted to dendrites and cell bodies in adult brain, particularly concentrated in neurofilament-rich axons
+
+**Importance of Temporal Relationships Between Changes in Neuronal MT Proteins and Differentiation**
+- The temporal relationships between changes in neuronal MT proteins and differentiation are essential to the final product: the brain/mind
+
+#### Microtubules and Disease Connections in Cells
+
+**Cytoskeleton and Medicine**
+
+**Defects related to microtubules**:
+- "Immotile cilia syndrome" (Afzelius, 1979): caused by altered dynein and results in an inability to expel secretions from the lungs, leading to recurrent bacterial infections.
+- Developmental disability in infants: caused by abnormal MT function induced by defective MAPs (Purpura, 1982).
+
+**Cytoskeleton's participation in disease**:
+- Participates in the effects of various diseases (malignancy, Alzheimer's disease, viral infections), drugs, toxins and the body’s response to disease.
+- Pathway to understanding MT through the disease "gout" (Purpura, 1982):
+  - Gout is a painful swelling of joints caused by the body's response to accumulation of urate crystals.
+  - Lymphocytes and macrophages leave the bloodstream and migrate towards the urate crystals, which often lodge in a joint of the big toe.
+  - The drug colchicine was found to be helpful in relieving the pain and tenderness by depolymerizing microtubules and preventing the locomotion and engulfment behavior of the lymphocytes and macrophages.
+
+**Cytoskeleton's involvement in malignancy**:
+- Control of cell reproduction is lost, with growth proceeding without regard to the needs of the organism.
+- Cancerous cells exhibit a tendency to break away from their anchorage and set up growth elsewhere in the body.
+- Malignant cytoskeleton is disorganized with formation of oscillating aggregates of contractile material that aids dislodgement of the cell from its anchorage, instability in chromosome number, loss of growth regulation.
+- Proposed as a disease of the cytoskeleton (Puck, 1977).
+
+**Cytoskeleton's involvement in Alzheimer's disease**:
+- Characterized by neurofibrillary tangles that result in various symptoms including a shortage of acetylcholine at synapses.
+- This may be due to a breakdown in the cytoskeletal transport mechanisms which deliver acetylcholine precursors to the synapses.
+- The cognitive dysfunction is related to disruption of the cytoskeleton.
+- Other toxins, including hexanedione and hexacarbons, carbon disulfide, acrylamide, methylmercury, and mineral fiber asbestos, have been ascribed to cytoskeletal effects.
+
+**Cell death due to lack of oxygen, acidity, or other causes**:
+- Irreversible point beyond which cell death is inevitable: pathological elevation of cytoplasmic calcium ion.
+- Elevated calcium causes depolymerization of microtubules and other cytoskeletal components, leading to loss of cytoplasmic organization, enzyme function, and structural integrity.
+- Dimethysulfoxide (DMSO) stabilizes polymerized microtubules and can preserve integrity of cells and tissues against damaging effects.
+
+**Anesthetics and the cytoskeleton**:
+- Anesthetics inhibit "protoplasmic streaming" in slim molds, a function of the cytoskeleton (Claude Bernard, 19th century).
+- Sufficient concentrations of the general anesthetic halothane reversibly depolymerizes MT.
+- Sleep-producing barbiturates, local anesthetics, and major tranquilizers such as thorazine bind to brain MT.
+
+#### Intelligence in Cytoskeleton: Cytoplasm as a Data-Processing System
+
+**Cytoskeletal Gel Networks and Cytoplasmic Intelligence**
+
+**Diverse Modes of Cell Movement**:
+- Motile events in non-repetitive muscle cells are dynamic, transient, and variable
+- Cells contain 2 to 5 different types of actin that can combine up to 10 ways depending on binding proteins and other factors
+- Actins polymerize differently based on calcium or magnesium presence
+- Non-muscle cells have mechanisms to switch between monomeric actin, actin in bundle form, and actin in a geodesic gel meshwork form
+- Cytoplasmic motility involves actin myosin crawling, explosive polymerization, rapid disaggregation, or interconversion of filament bundles into a meshwork
+- Microtubules, filaments, and centrioles are also involved in these aspects of cell movement
+
+**Requirements for Cytoplasmic Intelligence**:
+- **Compartmentalization**: Separates components to prevent chaos
+- **Information Content**: Information is not about the meaning but the formal structure. The cytoplasm is both the medium and the message.
+
+**Cytoplasm as an Information Processing System**:
+- Cytoplasm is neither totally regular nor random, but organized
+- Complex, intricate activities occur in the midst of thermal noise
+- Cytoplasm maintains information through 100 mitotic generations in Paramecium
+
+**Approaches to Account for Cytoplasmic Intelligence**:
+- **Randomness of Thermal Chaos**: Doubtful as cytoskeleton takes on elaborate, nonrandom forms
+- **Supramolecular Topology and Dynamics**: Suggests cooperativity between biochemical events over large intracellular distances
+- **Inherent Intelligence within Cytoplasm**: Implies ability to collect and process data, assess global situations, and communicate with other intelligent objects
+
+**Possible Mechanisms of Cytoplasmic Information Processing**:
+- Parallel arrays of MT and neurofilaments provide a framework for microtrabecular lattice structures
+- Contractility of actin-myosin and other proteins in the cytomusculature/cytomatrix could impart mechanical vibrations and cooperative resonances
+- Geodesic tensegrity nets of MT, actin, and their ordered water may be pulsating at the nanoscale
+- Polymerization patterns of actin and other proteins may be regulated by calcium-induced sol-gel state phase differences or harmonic coupling with other microtrabecular and cytoskeletal structures
+- Coherent nanosecond excitations and propagating solitons have been proposed to occur within the cytoskeleton
+
+**Decoding the Genetic Code vs. Real Time Information Codes**:
+- The "genetic code" decrypted by Nirenberg and colleagues equated DNA base pair patterns with specific amino acid sequences in synthesized proteins
+- Real time information codes in the cytoskeleton may be understood as nanoscale events just beyond current capabilities
+
+### 6 Protein Conformational Dynamics  
 
 **Protein Conformational Dynamics**
 
-**Introduction:**
-- Proteins are essential for living state and function based on structure and conformational states
-- Ion channel proteins: open vs closed conformation, no energy requirement, triggered response to stimuli
-- Enzymes, receptors, cytoskeletal filaments, muscle myosin, hemoglobin undergo important conformational changes in response to various stimuli
-- Conformational patterns of subunits represent information and control biological functions
-
-**Protein Structure:**
-- Multiple hierarchical levels: primary, secondary, tertiary, quaternary
-- Primary structure: sequence of 22 amino acids held together by peptide bonds, carbon atoms bound to nitrogen atoms
-  - Each amino acid contains a carbon-oxygen double bond (amide 1)
-  - Differences in side groups, size ranges from 75 to 200 daltons
-  - Functional proteins range in size: 55 kilodaltons for tubulin monomers to millions for large assemblies or viruses
-- Precise sequence determines protein's functional capabilities and mass
-
-**Amino Acids:**
-- 22 possible amino acids, differ in side groups and molecular weights
-- Primary structure: sequence of incorporated amino acids determine specific properties
-
-### Protein Structure
-
-**Protein Conformational Dynamics**
-
-**Function of Proteins**:
-- Structural and organizational elements in the living state
-- Essential functions linked to their structure and dynamic switching among different conformations
-- Examples:
-    - Ion channel proteins can be open or closed, requiring no energy (utilizes transmembrane voltage gradients)
-    - Enzymes, receptors, cytoskeletal filaments, muscle myosin, hemoglobin undergo conformational changes in response to stimuli
-- Dynamic patterns of conformational states represent information and control functions
+**Proteins**:
+- Structural and organizational elements of "the living state"
+- Essential functions linked to their structure and switching among different conformations
+- Ex: Ion channel proteins have an "open" or "closed" conformation for ion diffusion
+- Doesn't require energy like ATP hydrolysis, utilizes energy stored in transmembrane voltage gradients
 
 **Protein Structure**:
+- Proteins have hierarchical levels of structural organization determining their dynamic and functional capabilities
 - **Primary structure**: Sequence of 22 possible amino acids held together by peptide bonds
-- **Amino acid structure**: Carbon atoms bonded to nitrogen (peptide bond) and side groups; differences in side groups
-- **Secondary structure**: Peptides perform various functions, including acting as neurotransmitters/hormones
-- **Tertiary structure**: Proteins range in size from 55 kilodaltons to several million kilodaltons
-    - Thyroglobulin (630 kilodaltons) and large viruses/pathogens
-- **Quaternary structure**: Protein assemblies comprised of multiple proteins
-- The precise sequence of amino acids is determined by DNA and assembled on ribosomes
+- Amino acids differ in side groups, molecular weights range from 75 to 200 daltons
+- Proteins are comprised of several hundred to millions of amino acids
+- **Secondary structure**: Coiled or folded structures formed by hydrogen and disulfide bonds
+- Commonest is the **right-handed coil**, an **alpha helix**, which has hydrogen bonds between oxygen and hydrogen atoms
+- **Tertiary structure**: Determines protein functions, globular regions defined by hydrophobic forces, charge distribution, disulfide bridges, and secondary structures
+- **Quaternary structure**: Assembly of tertiary domains into larger structures like multisubunit enzymes
 
-### Protein Conformation
+#### Protein Conformation and Dynamics: Allostery and Signal Integration in Biological Processes
 
-**Protein Conformational Dynamics**
+**Protein Conformation and Allosteric Proteins**
 
-**Oligomeric Enzymes**:
-- Single cofactor molecule can activate multiple subunits in an oligomeric enzyme
-- Examples:
-  - Glutamate dehydrogenase (6 subunits)
-  - Aspartate transcarbamylase (12 subunits, including regulatory and catalytic units)
-  - Hemoglobin (alpha and beta subunits)
-- Cooperative interactions between subunits facilitate conformational changes
+**Allosteric Proteins**:
+- Able to shift reversibly between several different stable conformations
+- Have multiple alternative sets of intraprotein bonds and charge distribution
+- Each alternative set requires a change in spatial relationships among polypeptide chains, resulting in motion
+- Only certain distinct conformations are energetically favorable; intermediate conformations are unstable
+- Charge redistribution (dipole oscillation) can also couple to conformational switching
+- Step-like, nonlinear jumping occurs between specific conformations
 
-**Protein Conformation**:
-- Most proteins can shift reversibly between several stable conformations
-- Known as allosteric proteins
-- Alternative sets of intraprotein bonds and charge distribution require spatial changes among polypeptide chains
-- Only certain distinct conformations are energetically favorable, other intermediate states are unstable
-- Charge redistribution (dipole oscillation) can couple to conformational switching
-- Step-like nonlinear jumping between specific conformations occurs, limiting random switching
+**Conformational Dynamics**:
+- Each distinct conformation has a different surface and ability to interact with ligands
+- The presence/absence of ligands can determine the protein's adopted conformation
+- Two distinct ligands may bind to different surfaces, changing affinity for each other
+- Allosteric mechanisms facilitate fine tuning and regulation of biological processes
 
-### Proteins and Energy
+**Allosteric Proteins in Aggregates**:
+- Conformational state of a subunit can influence that of neighboring subunits
+- Produces a "collective" effect similar to amplification or switching in a computer
 
-**Protein Conformational Dynamics and Cognitive Functions**
+**Hemoglobin as an Example**:
+- Iron-containing protein in red blood cells that carries oxygen from lungs to tissues
+- Oxyhemoglobin (bound to oxygen) vs. deoxyhemoglobin (unbound) have different conformations
+- Conformational state is regulated by factors like oxygen availability, temperature, pH, 2,3 DPG, and nearby oxyhemoglobin
 
-**Conformational Transduction**:
-- Proteins integrate a number of factors to result in a new conformation
-- Appropriate stimuli, including neurotransmitters, voltage alterations, hormones, ions like calcium, and enzyme substrates can induce conformational changes within specific proteins
-- Conformational transduction is the sensitive link in the mechanism of an aesthetic gas molecules (Chapter 7)
-- Cognitive functions relating to consciousness depend on protein conformational regulation in some way
+**Conformational States of Hemoglobin**:
+- "Functional" conformation (binding/no binding of oxygen) persists for seconds to minutes
+- Faster conformational "breathing" (nanosecond scale) facilitates diffusion of oxygen
 
-**Dynamic Protein Movements**:
-- Electron transfer processes, such as mitochondrial ATP production, rely on vibrational coupling and fluctuations that alter distances between electron donors and acceptors
-- Relative motions of distinct structural domains within proteins are important for muscle contraction, enzyme activities, antibody functions, and assembly/activities of supra-molecular structures (e.g., viruses, cytoskeletal proteins)
+**Protein Conformational Dynamics**:
+- Vast majority of biological processes occur on a time scale greater than 1 nanosecond
+- Protein conformational changes in the nanosecond range can be coupled to a stimulus
+- Three features control these functional states: hydrophobic interactions, charge redistribution, and hydrogen bonding
 
-**Protein Conformational States**:
-- A typical allosteric protein can adopt two alternative conformations: a low energy form and a high energy form
-- The low energy conformation is favored by about 1000 to 1, while the protein tends to be in this inactive state unless influenced by other factors
-- The protein can be pulled into the active, high energy conformation by binding to a ligand that binds only to the high energy state
-- An input of chemical energy (e.g., transfer and covalent linkage of a phosphate group from biochemical energy sources like ATP or GTP) can be used to push the protein into the high energy conformation
-- Phosphorylation can create a distribution of charged amino acid side chains that are more favorable to one conformation, leaving the nonphosphorylated conformation unavailable
+#### Energy and Conformational Changes in Proteins: ATP Utilization
 
-### Protein CooperativityHistorical View
+**Proteins and Energy**
+- All movements within cells depend on forces generated by proteins
+- Typical allosteric protein can adopt two alternative conformations:
+  - Low energy form, favored 1000:1 over high energy form
+  - High energy form only accessible when bound to a ligand or via input of chemical energy (e.g., phosphorylation)
+- Phosphorylation is a regulatory or programming mechanism for 95% of mammalian cell proteins
+- Thermodynamic laws demand that free energy be depleted, so protein molecules cannot show net movement without added energy source
+- **Phosphorylation**: making one step irreversible, covalent linkage of a phosphate group to an amino acid side chain (serine, threonine or tyrosine) in the protein
+- **ATP/GTP hydrolysis**: another way to drive allosteric changes by providing energy to push the protein into high energy conformation
 
-**Protein Conformational Dynamics**
+**Protein Conformational Dynamics and Energy Utilization**
+- Proteins can use ATP phosphorylation and hydrolysis energy to do other forms of work, such as ion pumping
+  - **Sodium-Potassium ATPase**: pumps three sodium ions out and two potassium ions in through membrane during conformational change driven by ATP mediated phosphorylation
+- Ion gradients created by ATP-driven pumps are harnessed by conformational changes in other membrane proteins, such as ion channels, to depolarize the membrane or transport glucose/amino acids
+- Energy available in proton/hydrogen ion gradients across mitochondrial membranes is used to synthesize most ATP
+- Actin and myosin create contractile force in muscle through cooperative conformational changes induced by ATP hydrolysis
 
-**Phosphorylation and Allosteric Proteins:**
-- Mammalian cells have >1,300 proteins undergo phosphorylation for regulation (Alberts et al., 1983)
-- Proteins cannot move without added energy sources; phosphorylation makes it irreversible
-- ATP hydrolysis releases energy to push proteins into higher energy states
-- Energy from ATP used for various forms of work, such as ion pumping
-  - Sodium-potassium ATPase pumps sodium out and potassium in during conformational change
-  - Ion gradients create potentials for membrane protein activity
-    * Ion channels allow passive diffusion, depolarizing the membrane
-    * Energy used to transport glucose or amino acids into cells
-- ATP energy utilized in synthesizing most animal world ATP
+**Historical View on Protein Cooperativity**
+- Szent-Gyorgyi (1948): suggested proteins behave as semiconductors, with electrons "hopping" between intraprotein regions
+- However, experimental data showed the intraprotein energy band gap was too great to support this concept
+- Utilization of dynamic biological and protein conformational energy remained enigmatic through the 1950s and 1960s
+- A focal point in understanding protein conformational dynamics was the 1973 New York Academy of Sciences meeting, which addressed the mysteries of how to utilize ATP energy for protein events and transfer energy/information in proteins/organelles.
 
-**Actin, Myosin, and Other Proteins:**
-- Create contractile force through cooperative conformational changes induced by ATP hydrolysis
-- In bending cilia: contractile protein bridges span between microtubules, driving mechanical activities with ATP hydrolysis
+#### Discussion of Biological Energy Transfer Mechanisms and Ordered Water in Cells
 
-**Historical Background:**
-- Szent-Gyorgyi (1948) proposed proteins behave as semi conductors and electrons hop between intraprotein regions
-  * Intraprotein energy band gap too great for this concept
-- Mysteries around protein conformational dynamics and energy transfer in the 1950s and 1960s
-- 1973 New York Academy of Sciences meeting addressed ATP utilization for mechanical events and energy/information transfer in proteins/organelles (McClare, 1974)
-  * Crisis in bioenergetics as cooperative processes were unexplained
-  * Controversial idea: electromagnetic resonance energy transferred between periodically arrayed excitation sites.
+**Crisis in Bioenergetics and Resonant Dipole Coupling**
+- Prevalent theme: unexplained cooperative processes in biological systems (McClare, 1974)
+- ATP induced excited states ("excitons") coupled by infrared dipoles in protein biostructures to provide a communicative medium
+- McClare's model of resonant dipole coupling supported by Wei (1974) but met skepticism from Weber (1974)
+  * Energy emission too short for utilization by biomolecules
+  * Transfer of quantum vibrational energy through surrounding medium (water)
+- Consensus: energy needs to be stored for a nanosecond or longer to be useful
 
-**ATP Hydrolysis and Protein Function:**
-- ATP hydrolysis releases energy for various protein functions, including mechanical events and ion pumping.
+**Comparable Models for Energy and Information Transfer**
+- Propagating packages of conformational or acoustic energy: phonons
+  * Defined as propagated lattice vibration in protein lattice
+  * Transmission occurs at the speed of sound, not resonance transfer phenomena
+- Hydrophobic interactions play a role in shielding phonons from aqueous environment (Straub, 1967; Green et al., 1970; Ji, 1974; Volkenstein, 1972)
+- Possible resolutions for shielding problem: ordered water and resonantly coupled medium or hydrophobic interactions
 
-### Living Water and Hydrophobic Interactions
+**Living Water and Hydrophobic Interactions in Biomolecules**
+- Controversial properties of intracellular water
+  * Traditional view: more than 90% is bulk phase
+  * Ordered water advocates assume about half is ordered and the other half is "living" or ordered
+- Importance of ordered water to cellular structure and function (Clegg, 1981)
+  * Intracellular water exists in three phases: bound, vicinal, and bulk.
 
-**Protein Conformational Dynamics**
+#### Water Structure and Biomolecular Interactions in Cells
 
-**Resonant Dipole Coupling**:
-- Induced excited states (excitons) in protein biostructures are coupled by infrared dipoles
-- Provides a communicative medium to enable bioenergetic machines to operate rapidly and efficiently
+**Water Phases and Vicinal Water**
+- "Borders" exist between water phases which partition solute molecules
+- **Bulk water**: extends beyond 3 nanometers from cytoskeletal surfaces
+- Drost-Hansen (1973) described cooperative processes and phase transitions among vicinal water molecules
 
-**Objections to the Model**:
-- Some emitted energy is emitted too quickly (10-12 seconds) to be utilized by biomolecules
-- Difficulty in transferring quantum vibrational energy through the surrounding aqueous medium, as it appears opaque to the transferred energy
+**Vicinal Water and Enzymes**
+- Clegg highlights potential implications for function of "soluble" enzymes
+- Many intracellular enzymes appear to be bound to MTL surface within the vicinal water phase
+- Advantages:
+  - Sequence of enzymes can perform reactions on substrate more efficiently when bound in order
+  - Diffusion of substrate (most time-consuming step) minimized
+- Vicinal water multi-enzyme complexes may be part of a cytoskeletal information processing system
+- Dynamic conformational activities within the cytoskeleton/MTL can selectively excite enzymes to active states
 
-**Alternative Explanations**:
-- Energy needs to be stored for at least a nanosecond to be useful
-- **Phonons**: propagated lattice vibrations or intramolecular conformational movements
-    - Transmission occurs at the speed of sound, not a resonance transfer phenomenon
-    - Protein lattices may contain phonons and shield them from the aqueous environment
-- **Conformons**: quantum of protein conformational energy coupled to discrete protein states
-- **Solitons**: mechanical conformational movements in proteins nonlinearly coupled to electronic bond distortion or charge movement
+**Water and Biomolecules**
+- Even in bulk aqueous solution, water molecules are somewhat ordered by hydrogen bonds
+- Outer surfaces of biomolecules form more stable hydrogen bonding with water, "ordering" the surrounding water
+  - Decrease in entropy (increased order), increase in free energy
+  - Factors which inhibit solubility of biomolecules if not for hydrophobic interactions
+- Hydrophobic groups combine to form a "coalescence" of hydrophobic regions
+  - Liberates ordered water into free water, increasing entropy and decreasing free energy
+  - Specific biological reactions rely on hydrophobic interactions and the effect on bonding energies
 
-**Living Water and Hydrophobic Interactions**:
-- Biomolecules have evolved in aqueous environments, and interactions with water are crucial
-- Properties of intracellular water are controversial:
-    - Traditional view: more than 90% is bulk phase water as in oceans
-    - Challenged by the belief that only a small fraction is in the bulk phase
+**Protein Assembly and Cytoskeletal Elements**
+- Formation of tertiary and quaternary protein structure, including microtubule assembly
+- Promoted by hydrophobic interactions and exclusion of water from hydrophobic regions
+- Crystallization of tobacco mosaic virus: increase in entropy (exclusion of water) at surface promotes assembly
 
-### Electret, Piezo, and Pyroelectric Effects
+#### Van der Waals Forces and Electrets in Biomolecules: Interactions and Properties
 
-**Protein Conformational Dynamics**
-
-**Hydrophobic Forces:**
-- Attractive forces binding hydrophobic groups are called **Van der Waals forces**
-- Described by Dutch chemist Jacobus van der Waals in 1873
-- These forces are vital for the assembly and function of important biomolecules
-- Comprise of dipole-dipole attraction, induction effect, and London dispersion forces
+**The Distinct Nature of Hydrophobic Van der Waals Forces:**
+* Different from covalent and ionic bonds
+* Described by Dutch chemist Jacobus van der Waals in 1873 as attractive forces among gas molecules
+* Essential for the assembly of organic crystals, including protein structures
+* Three types: dipole-dipole attraction, induction effect, London dispersion forces
 
 **Dipole-Dipole Attraction:**
-- Occurs among molecules with permanent dipole moments
-- Favors specific orientations: attractive, low energy arrangements vs. repulsive, high energy orientations
-- Net attraction between two polar molecules if their dipoles are properly configured
-- Depends on the molecules' dipole moments and polarizability
+* Occurs between polar molecules with permanent dipoles
+* Favors specific orientations for low energy arrangements
+* Net attraction results from proper configuration alignment
 
 **Induction Effect:**
-- Permanent dipole in one molecule can polarize electrons in nearby molecule
-- Second molecule's electrons are distorted, leading to attractive interaction with first molecule's dipole
-- Magnitude of induced dipole attraction force depends on the molecules' dipole moments and polarizability
+* Permanent dipole in one molecule polarizes electrons in nearby molecule
+* Depends on the molecules' dipole moments and polarizability
+* Subunits of protein assemblies have high degrees of polarizability
 
 **London Dispersion Forces:**
-- Explain why all molecules, even those without intrinsic dipoles, attract each other
-- Depends on quantum mechanical motion of electrons
-- Instantaneous dipoles can induce dipoles in neighboring polarizable atoms or molecules
-- Strength is proportional to the square of the polarizability and inversely to the sixth power of separation
+* Explains attraction between nonpolar molecules without permanent dipoles
+* Depends on quantum mechanical motion of electrons
+* Instantaneous dipoles can induce dipoles in neighboring polarizable atoms or molecules
+* Significant only when two or more atoms/molecules are very close together
 
-**Electret, Piezo, and Pyroelectric Effects:**
-- Assemblies with permanent electric dipoles are called **electrets**
-- They exhibit properties like piezoelectricity and pyroelectricity which may be useful in biological activities
-- In microtubules, positive ends of tubulin dimer subunits point away from MTOC toward cell periphery, negative ends toward MTOC.
-- Identified in various nonbiological materials like ionic crystals, molecular solids, polymers, glasses, ice, liquid crystals and ceramics.
-- Biological tissues demonstrating electret properties include bone, blood vessel wall materials, keratin, cellulose, collagen, gelatin, artificial polypeptides, DNA, cellulose, and microtubules.
+**Electrets, Piezoelectricity, and Pyroelectricity:**
+* Assemblies with permanent electric dipoles are called electrets
+* Exhibit properties of piezoelectricity and pyroelectricity
+* Dipolar elementary subunits arranged in such a way that positive and negative dipole ends point in opposite directions
+* Found in various nonbiological materials, including biological tissues like bone, blood vessel walls, keratin, cellulose, collagen, gelatin, artificial polypeptides, DNA, cellulose, and microtubules
+* Accounts for specific properties such as anti-blood clotting in biomaterials and the non-stickiness of teflon.
 
-### Solitons/Davydov
+#### Solitons in Biology: Energy Propagation in Protein Molecules via Nonlinear Waves
+
+**Davydov's Soliton Theory in Biology**
+
+**Background:**
+- Spatial transfer of energy occurs in biological systems through protein molecules
+- Example: Myosin heads contract in muscle due to ATP hydrolysis
+- ATP hydrolysis energy not sufficient for molecular electronic state excitation, leading to solitons concept
+
+**Solitons:**
+- Nonlinear aspects of amide 1 stretch vibrations and longitudinal sound waves
+- Prevent vibrational dispersion through potential wells
+- Exist for useful periods only if certain conditions met
+  - Sufficient nonlinear coupling between amide 1 bond vibrations and sound waves
+  - Energetic enough amide 1 vibrations for retroactive interaction to take hold
+
+**Conditions for Soliton Formation:**
+- Anharmonicity, or nonlinearity of intrapeptide excitations' coupling with displacement from equilibrium positions
+- Critical parameter: anharmonicity parameter (χ) greater than 0.3 x 10^-11 newtons for propagation in alpha helix spines
+
+**Computer Simulations:**
+- Eilbeck and Scott's work on soliton-like excitations along alpha helix spines
+- Solitons travel as local impulses with a size of few peptide groups
+
+**Experimental Evidence:**
+- Conflicting results from biomolecular light scattering experiments
+- Unambiguous demonstration of localized state in crystalline acetanilide
+
+**Other Types of Solitons:**
+- Acoustic solitons: local displacements from equilibrium positions moving along molecular chains
+  - Sufficient anharmonicity produces these excitations representing local displacements
+- Topological solitons or lattice solitons
+  - Symmetry "kinks" traveling through ordered mediums
+- Electrosolitons: excess electrons captured by supersound acoustic solitons and conveyed along with them
+
+**Implications:**
+- Solitons could be responsible for molecular level filamentous contractions driving every move we make
+- Propagating solitons in the cytoskeleton may serve as dynamic medium of biological information processing.
+
+#### Exploring Protein Conformational Dynamics and Coherent Excitations in Biology
+
+**Protein Conformational Dynamics and Coherent Excitations**
+
+**Understanding Protein Conformations:**
+- Proteins undergo conformational motions over a wide range of time scales, from femtoseconds to minutes.
+- Significant fluctuations occur in nanoseconds.
+- Example: Rotation of tyrosine ring in bovine pancreatic trypsin inhibitor.
+
+**Coherent Protein Excitations:**
+- Fröhlich's theory explains long range cooperativity between proteins and nucleic acids.
+- Coherence occurs when energy, such as biochemical ATP, is supplied to a system of nonlinearly coupled dipoles within hydrophobic regions of proteins.
+- This results in the collective oscillation of a single vibrational mode at nanosecond periodicity.
+
+**Conformations and Metastable States:**
+- Protein conformations are dominated by interaction with surrounding water and ions.
+- High dipole moments tend to become stabilized as metastable states through internal deformations, external influences like electric fields or ligand binding, or neighbor proteins' effects.
+- These metastable states may last for relatively long periods (milliseconds).
+- Fröhlich characterizes these conformations as "metastable."
+
+**Dielectric Properties and Biological Significance:**
+- High electric fields of 107 volts per meter in biological membranes require extraordinary dielectric properties from lipids, proteins, or cytoskeletal components.
+- Fröhlich suggests that the evolution of this dielectric strength on a molecular scale has significant implications for understanding biological organisms' sensitivity to electromagnetic radiation.
+
+#### Biological Coherent Oscillations and Superconductivity Effects
+
+**Biological Functions and Quantum Mechanics**
+- Eyes sensitive to single photons, certain fish to weak electric fields require use of collective properties of assemblies of biomolecules
+- Coherent vibrations expected in molecular systems
+- Biological vibrations can be excited by electromagnetic radiation matched to frequency and wavelength larger than object dimensions
+
+**Evidence for Biological Effects of Coherent Millimeter Waves**
+- Influences on biological activities above critical threshold (Grundler and Keilman, 1983)
+- Sharp frequency resonances indicate localized absorption in small regions
+- Debye layer absorbs in region of 108 Hz, involved with functional activities of biostructures
+- Green and Triffet's holographic information medium theory (1985): coherent vibrations of ordered water and calcium counter-ions surrounding high dipole moments in membranes and biomolecules
+- Ionic bioplasma: small scale and ordering minimize friction, possibly propagating waves due to lack of frictional processes ("superconductivity")
+
+**Wu and Austin's Conclusions on Oscillating Dipoles**
+- Strong long range attractive forces among dipoles with narrow band of resonance frequencies and large coupling constants (1978)
+- Collective effects in dense microtubule arrays: 1 cubic micron encompasses about 160,000 tubulin subunits.
+
+**Evidence for Long-Range Effects**
+- Observed behavior of red blood cells: discoids of eight microns in diameter (8 thousand nanometers) exhibit long-range effects.
+
+#### Protein Conformational Dynamics and Self-Focusing in Cytoskeletal Filaments
 
 **Protein Conformational Dynamics**
 
-**Electret Effect**:
-- Accounts for specific properties in biomaterials, such as:
-  - Anti-blood clotting
-  - Non-stickiness of teflon
-- Sources of polarization or charge storage in macromolecules are:
-  - Dipoles
-  - Ionic space charges
-  - Ordered surface water
+**Rouleaux Formation**:
+- Red blood cells tend to array themselves in stacks called "Rouleaux formation"
+- Attractive forces begin when red cells are about 4 microns (4,000 nanometers) apart
+- This is a distance several orders of magnitude greater than the range of attractive chemical forces
+- Viewed as consistent with Fröhlich's coherent excitations and long range cooperativity
 
-**Electret Materials**:
-- Piezoelectric (Gubkin and Sovokin, 1960)
-  - Change shape or conformation in response to electrical stimuli
-  - Change electrical state in response to mechanical stimuli
-- Koppenol (1980) showed that the dipole moment orientation of an enzyme changes with its functional activity
-- Pyroelectric, in that any change in temperature alters the electrical and conformational characteristics of the molecule
-
-**Cytoskeletal Structures as Electrets**:
-- Microtubules and other cytoskeletal structures appear to be appropriately designed electret, pyroelectric, piezoelectric devices
-- The electret state within bone has been well studied and can store large amounts of polarization (Mascarenhas, 1974, 1975)
-
-**Solitons/Davydov**:
-- Biological events involve spatial transfer of energy along protein molecules
-- Example: Contractile curling of myosin heads in muscle contraction, fueled by ATP hydrolysis
-- ATP hydrolysis energy is transferred by vibrational excitations of certain atomic groups within proteins (Davydov, 1977)
-- Amide 1 stretch vibration of the peptide group is the most likely basket for this energy
-- Linear analysis suggests that this energy should spread and become disorganized, but nonlinear aspects suggest it can be retroactively coupled to longitudinal soundwaves.
-
-### Coherent Excitations /Frohlich - Massless Bosons, Cytoskeletal Self-Focusing
-
-**Protein Conformational Dynamics**
-
-**Solitons and Protein Contractility**:
-- Evidence for solitons as giant waves in various systems (ocean, laser fibers)
-- Solitons may be responsible for filamentous contractile processes in the cytoskeleton
-- Solitons could be the dynamic medium of biological information processing
-
-**Coherent Excitations and Protein Conformational States**:
-- Proteins have complex conformational states that register and control biological functions
-- Technological limitations hinder understanding of conformational regulation mechanisms
-- Recent techniques (NMR, X-ray, fluorescence, infrared spectroscopy, Raman/Brillouin scattering) reveal protein conformational motions on various time scales
-- Attractive forces between red blood cells in Rouleaux formation suggest coherent excitations and long range cooperativity
-- **Rowlands (1983)**: Coherent excitations could be used for communication in the nervous system, with action potentials interrupting Frhlich vibrations
+**Communication in the Nervous System**:
+- A communication band extending from 10^10 to 10^11 Hz could pack over a million FM radio stations or 150,000 television broadcasts
+- The action potential may be just a crude fast transmitter of urgent messages
+- Fröhlich vibrations might be transmitted along the membrane of the nerve fibers, but are interrupted by action potentials
+- More likely, microtubules in the axon are used
 
 **Massless Bosons and Cytoskeletal Self-Focusing**:
-- Electret states and ordering of water around biomolecules have collective properties (dipoles)
-- Symmetry breaking (Bose condensation) results in long range interactions among system components (dipoles) conveyed by massless particles/waves (Goldstone bosons)
-- Energy required for generating massless bosons is invested in electret states of biomolecules and correlated fluctuations of their surrounding water and ions
-- Celaschi and Mascarenhas (1977): Electrot activation energy of biomolecules equivalent to ATP/GTP hydrolysis and predicted soliton initiation energy
-- Solitons, massless bosons, and Frolich's coherent polarization waves may be synonymous
-- **Del Giudice et al. (1986)**: Electromagnetic energy confined within cytoskeletal filaments through self-focusing, preserving order outside while disrupting it within the filament
+- Biological systems attract the interest of nonbiologists with mathematical tools for "many body problems"
+- Fröhlich viewed living matter as a sea of electric dipoles, taking advantage of quantum field theory
+- Electret states and ordering of water around biomolecules have collective properties
+- In typical nonbiological systems, component dipoles are random and disordered, resulting in overall symmetry
+- In living systems, order is induced by reduction of 3D symmetry to a rotational alignment along filamentous electrets like cytoskeletal structures
+- According to the Milan group's quantum field theory and the "Goldstone theorem", the symmetry breaking ("Bose condensation") results in long range interactions among system components (dipoles) conveyed by massless particulate/waves ("Goldstone bosons")
+- The energy required to generate massless bosons is invested in the electret states of biomolecules and correlated fluctuations of their surrounding water and ions
+- Celaschi and Mascarenhas showed that the activation energy of biomolecules (0.2-0.4 electron volts) is equivalent to the hydrolysis of one ATP or GTP molecule, what Davydov predicted for initiation of solitons
+- Consequently, solitons, massless bosons, and Fröhlich's coherent polarization waves may be synonymous
 
-### Anesthesia: Another Side of Consciousness
+**Self-Focusing of Electromagnetic Energy**:
+- Del Giudice and colleagues proposed the concept of self-focusing of electromagnetic energy within cytoskeletal filaments
+- Electromagnetic energy exceeding a threshold and penetrating into cytoplasm is confined inside filaments whose diameters depend on the original symmetry breaking ("Bose condensation") of ordered dipoles
+- Any electric disturbance produced by thermal fluctuations or other sources is confined inside the filamentous regions, while ordering is preserved outside
+- The diameter of the self-focusing energy filaments depends on the polarization density, or ordering of biological water
+- Del Giudice's group calculated a self-focusing diameter of about 15 nanometers, precisely the inner diameter of microtubules
+- They believe the cytoskeleton is the material consequence of dynamic self-focusing of polarization waves in the cytoplasm
 
-**Anesthesia: Another Side of Consciousness**
+**Holographic Mechanisms**:
+- The observed diameters of self-focused optical beams in simple nonbiological liquids are of the order of microns, with correlation created by propagation of waves rather than as a specific property of the material itself
+- The Milan group concludes that focusing occurs in eukaryotic cell cytoplasm due to the spatial coherence and ordering imparted by cytoskeletal electret behavior
+- This self-focusing could lead to holographic mechanisms, as photorefractive crystals can generate dynamic, real-time holography and MTs could be projecting dynamic cytoplasmic holograms
 
-**History**:
-- Ancient Sumerians, Egyptians, Assyrians, and Greeks used opiate derivatives to ablate consciousness during pain or surgery
-- In the 19th century, inhalation anesthetics like nitrous oxide (laughing gas) and diethyl ether were developed
-- Proper use of anesthesia alleviated suffering for surgical patients and facilitated investigation of consciousness
+**Cooperative Protein Dynamics Models**:
+- Davydov's soliton propagation model originally applied to contractile coupling between actin and myosin
+- The cytoskeleton appears uniquely suited to take advantage of cooperative dynamics related to information processing
 
-**Levels of Anesthesia/Consciousness**:
-- John Snow's 1847 monograph described 5 stages:
-  - Awake state
-  - **Stage of analgesia (pain relief) and amnesia (lack of memory storage)**
-  - **Stage of delirium** (confusion, disoriented thought processes)
-  - Surgical stage with:
-    - Planes: Gradual loss of consciousness, awareness, and responsiveness
-    - Able to perform surgery without patient's movement or pain responses
-  - Stage of respiratory paralysis and cardiovascular collapse (overdose)
-- Arthur Guedel expanded the stages in 1920, adding:
-  - Anesthetic overdose: Lack of tissue oxygen, convulsions, imminent death.
-
-### Levels of Anesthesia/Consciousness
-
-**Anesthesia: Another Side of Consciousness**
-
-**History of Anesthetics**:
-- Protein dynamics and other factors in the human brain result in consciousness
-- Ancient civilizations used opiate derivatives from poppy to ablate consciousness or ease pain/surgical procedures
-- Inhalation anesthetics (e.g., nitrous oxide, diethyl ether) developed in 19th century
-- Proper administration inhibits protein conformational changes and causes reversible cessation of consciousness
-- Improved patient comfort during surgery and investigation into consciousness
-
-**Stages of Anesthesia/Consciousness**:
-- John Snow's five stages: **Awakened, Stupor, Sensible Existence, Sleep, Overdose**
-- Guedel's expanded scheme: **Analgesic stage, Delirious stage, Surgical planes (1-4), Respiratory paralysis, Anesthetic overdose**
-- Physical signs of each stage: muscle tone, respiratory patterns, eye signs
-
-### Memory - Mechanisms of Anesthesia
+### 7 Anesthesia Another Side of Consciousness
 
 **Anesthesia: Another Side of Consciousness**
 
-**Memory (7.1 and 7.2)**
-- Patients may report awareness or recall during anesthesia, but rare
-- Two-stage theory of memory: information first perceived and stored in short-term memory, then consolidated to long-term memory
-- Anesthetics can prevent memory consolidation at various stages
-  - Narcotic painkillers block noxious input
-  - Amnestic tranquilizers hinder long-term memory storage
-  - General anesthetics inhibit cognitive functions
+**Background:**
+- Anesthesia inhibits collective dynamic conformational changes in brain proteins
+- Developed in the 19th century as a method to cease consciousness during surgery
+- Standardized levels identified by John Snow and Arthur Guedel
 
-**Mechanisms of Anesthesia (7.3)**
-- Variety of different molecules have anesthetic activity
-- Some anesthetic-like molecules may cause convulsions
-- Unified mechanism for anesthesia unclear, but clues exist on consciousness
+**Levels of Anesthesia/Consciousness:**
+1. **Stage One:** Alertness, sensibility to pain; slow and regular breathing; intact eyelid reflex
+2. **Stage Two:** Delirium or excitement; irregular and unpredictable breathing; active eye muscles and pupils
+3. **Stage Three:** Muscle relaxation (planes 1-4); slow and periodic breathing; immobile eyes with disappearing eyelid reflex
+4. **Stage Four:** Respiratory arrest and cardiovascular collapse; flaccid muscles, widely dilated pupils
+5. **Anesthetic Overdose:** Lack of tissue oxygen, convulsions, imminent death
+- Anesthesiologists seek methods to judge anesthetic depth beyond clinical signs
+- Electroencephalography (EEG) recording since early 20th century
 
-**Anatomical Localization of Anesthetic Sites (7.3)**
-- Synaptic transmission inhibited by anesthetics at concentrations that barely erase consciousness
-- Reticular activating system, a polysynaptic region involved in wakefulness and attention regulation, initially viewed as a major site for anesthetic action
+**EEG and Anesthetic Depth:**
+1. **Spectral Edge**: Frequency below which most EEG power occurs, decreases as anesthetic depth increases
+2. **Phase Space Plotting**: Choosing a phase lag and plotting EEG amplitude against it to analyze complexity or dimensionality
+3. **Consciousness**: Manifestation of deterministic chaos in the brain/mind
 
-### Models of Cytoskeletal Computing
+**Additional Monitoring:**
+- Cardiovascular, pulmonary, neuromuscular functions, kidney, blood clotting, and other factors closely monitored during anesthesia and surgery
+- Technological advances: nanoscale conformational dynamics of neural proteins via biosensors or implants for more sensitive observation and potentially manipulation of consciousness.
 
-**Models of Cytoskeletal Computing**
+#### Understanding Anesthesia: Memory Consolidation and Awareness
 
-**Cooperative Effects of Dynamic Protein Conformational States**:
-- Cooperative, collective effects of dynamic protein conformational states are a likely substrate for biological intelligence ranging from cytoplasmic probing to human consciousness
-- The activities, functions, and structures of microtubules and other cytoskeletal components appear suited to information processing
+**Anesthesia, Memory, and Consciousness:**
+* Patients may report awareness or recall during anesthesia, but it's rare
+* Two-stage theory of memory: perception and short-term memory storage (awareness) vs long-term memory consolidation
+* Perception and short-term memory: unstable dynamic form
+* Long-term memory: stable physical memory trace
+* Consolidation of short-term to long-term memory takes approximately 45 seconds
+* Factors influencing memory consolidation include impact of information input, emotional significance, and anesthetic drugs.
 
-**Theoretical Models of Rudimentary Cognition**:
-- At least a dozen author groups have published theoretical models of rudimentary cognition within MT and the cytoskeleton
-- The concepts range from passive MT signal transduction, to descriptive patterns among MT subunit states, to dynamic cooperative automaton effects among coherent oscillations of centrioles and the cytoskeleton, to cytoplasmic/cytoskeletal sol-gel field effects utilizing holographic imagery
+**Anesthesia and Memory:**
+* Awareness vs recall: perception and short-term memory vs long-term memory storage
+* Anesthetics can act at various stages: narcotics for pain prevention, tranquilizers for blocking consolidation, general anesthetics for inhibiting all cognitive functions.
+* Memory consolidation occurs in the hippocampal region but awareness is more diffuse.
 
-**Cytoskeletal Information Processing**:
-- Cytoskeletal information processing would require some mechanism of cooperativity, long range order, coherence, and/or energy transfer among cytoskeletal components and their subunits
-- Possible mechanisms for such were discussed in the previous chapter
+**Memory Processes:**
+* Information perceived and stored in short-term memory (awareness)
+* Short-term memory to long-term memory storage: finite period, takes approximately 45 seconds
+* Consolidation depends on initial impact of information input
+* Emotional significance and anesthetic drugs influence memory consolidation.
 
-**Evidence for MT-Mediated Signaling**:
-- Experiments by Vassilev et al. showed electrical coupling between bilayer membranes separated by microtubules, suggesting intermembrane signaling occurred through electrically induced conformational changes of MT components
-- Fluorescence resonance transfer experiments showed nonradiative resonance energy transfer between fluorescent groups attached to different MT subunits or membranes, indicating potential for information transfer through MTs.
+#### Mechanisms of Anesthesia: Protein Conformational Changes by Anesthetic Binding
 
-### Energy and Information in Microtubules
+**Mechanisms of Anesthesia**
 
-**Models of Cytoskeletal Computing**
+**Anesthetic molecules**: A variety of different structures have anesthetic activity. Some similar molecules may cause opposite effects and lead to convulsions.
 
-**157th Chapter: Cooperative Effects of Dynamic Protein Conformational States in Biological Intelligence**
+**Unifying mechanism for anesthesia**: Attempts have been made to unify a single mechanism for anesthesia, representing clues to the mechanism of consciousness.
 
-**Cytoskeleton's Role**:
-- Substrate for biological intelligence ranging from cytoplasmic probing to human consciousness
-- Activities, functions, and structures of microtubules and other cytoskeletal components suitable for information processing
+**Anesthesia mechanism**: Anesthesia results from prevention of protein switching between different conformational states induced by binding of ligand, calcium ion, or voltage change. Anesthetic gas molecules bind by Van der Waals forces within hydrophobic pockets and may trigger a switching mechanism for protein conformation.
 
-**Models of Cytoskeletal Computing**:
-- Range from passive MT signal transduction to descriptive patterns among MT subunit states
-- Dynamic cooperative automaton effects among coherent oscillations of centrioles and the cytoskeleton
-- Cytoplasmic/cytoskeletal sol-gel field effects utilizing holographic imagery
+**Neural functions inhibited by anesthetics**: Propagation of action potentials resulting in nerve conduction, microtubule-dependent axoplasmic transport, and synaptic transmission are inhibited by anesthetics.
 
-**Requirements for Cytoskeletal Information Processing**:
-- Cooperativity, long range order, coherence, and/or energy transfer among cytoskeletal components and their subunits
+**Sites of anesthetic action**: Anatomical localization has focused on regions with many synapses, such as the reticular activating system involved in regulating wakefulness and attention. However, other brain regions are also inhibited by anesthetics at relevant concentrations.
 
-**Direct Evidence of Signals in Microtubules (MT)**:
-- Vassilev et al. (1985): Studied electrical excitability of reconstituted bilayer membranes from brain lipids
-- Suspended membranes as parallel unconnected planes separated by millimeters
-- No electrical coupling between the two membranes when unpolymerized
-- When MT polymerized, MT bridges formed and electrical coupling between membranes was observed
-- Electrical stimulation of one membrane depolarized both due to conformational changes in MT components
-- Addition of colchicine (MT destabilizing drug) prevented coupling, demonstrating intact microtubules were necessary
+**Disagreements about the mechanism of anesthesia**: There is disagreement over whether anesthetics alter dynamic protein functions directly or indirectly via membrane lipids or at lipid-protein interfaces. There is also disagreement on whether a single, unitary mechanism can explain the actions of various anesthetic compounds and the reversal of anesthesia by increased pressure.
 
-**Fluorescence Resonance Transfer in MT and Membranes**:
-- Becker, Oliver, and Berlin (1975): Studied energy transfer among fluorescent groups on different MT subunits or membranes
-- Resonance energy transfer: Fluorescent portion of a molecule transmits energy to an acceptor without actual reabsorption
-- Requires overlap between emission spectrum of donor chromophore and absorption spectrum of acceptor
+**Anesthetic potency and solubility**: Correlations between anesthetic potency and solubility in "lipid-like" solvents are consistent with effects occurring in lipids or hydrophobic pockets within proteins.
 
-### Cytoskeletal Information Processing
+**Protein conformational changes**: Research has demonstrated that anesthetics can cause conformational changes in functional proteins, but at concentrations higher than required for reversible clinical anesthesia. A logical inference is that anesthetics prevent necessary protein conformational changes rather than causing them directly.
+
+#### Protein Conformational Changes and Anesthesia: Electron Mobility Interactions
+
+**Firefly Luciferase and Anesthetic Inhibition:**
+- Focus of research: obscure group of systems, distantly removed from cognitive function
+- Firefly luciferase: protein dimer (about 100 kilodaltons), induces photon emission with luciferin and ATP/oxygen
+- Sensitive to anesthetic gases based on potency
+- Ueda's proposal: anesthetic binding at hydrophobic site in luciferase protein induces inactive conformational state, preventing normal excited state for luminescence
+- Recent studies by Franks and Lieb: corroborated earlier work, no conformational change caused by anesthetics; competitive binding with luciferin at a hydrophobic site
+
+**Anesthesia Mechanism:**
+- Impairment of protein conformational dynamics
+- Collective, cooperative mechanisms important in regulating protein states
+- Anesthetic sensitive neural proteins: membrane bound ion channels, receptors, cytoskeletal proteins, enzymes
+- Stimuli inducing functional conformational change: ligands (neurotransmitters), voltage changes, ionic flux
+- Possible explanations for coupling conformational states to stimuli discussed in Chapter 6
+
+**Role of Electron Mobility:**
+- Evidence from gas chromatography and corona discharge experiments suggests anesthetic gases can alter electron energy through Van der Waals forces
+- Regulation of protein conformational state affected by anesthetic occupancy of hydrophobic pockets due to altered environmental medium for electron mobility
+- Weak, reversible Van der Waals interactions explain the reversibility of anesthesia.
+
+**Relation between Anesthesia and Consciousness:**
+- Inhibition of a subset of protein conformational dynamics related to consciousness
+- Psychoactive drugs such as amphetamines and LSD affect collective effects of protein conformational dynamics, potentially enhancing or altering consciousness through membrane receptors.
+
+### 8 Models of Cytoskeletal Computing
+
+**Cytoskeletal Computing Models: Cytoskeleton as a Substrate for Biological Intelligence**
 
 **Models of Cytoskeletal Computing:**
-1. **Resonance Transfer in Microtubules:**
-   - Becker, Oliver, and Berlin studied resonance transfer between labeled populations of tubulin subunits using fluorescence spectra (1977).
-   - FITC and RITC chromophores used due to their binding properties and overlapping spectra.
-   - No energy transfer observed when MT are depolymerized.
-   - Energy transfer occurs with polymerization or aggregation, among tubulin subunits and membrane components.
-2. **Electric and Magnetic Fields in Microtubules:**
-   - Vassilev et al. studied parallel alignment of MT with applied electric and magnetic fields (1982).
-   - Low intensity fields within cells could be utilized for communication.
-   - Cooperation among MT subunits may lead to intelligent cellular behavior.
-3. **Cytoskeletal Information Processing:**
-   - Several authors suggest that cilia-like structures serve as mechano-receptors (Lowenstein, Osborne, and Warshall, 1964).
-   - Membrane proteins anchored to the cytoskeleton may be part of a communicative medium.
-4. **MT Sensory Transduction/Atema:**
-   - Lowenstein et al. proposed that kinocilium in hair cells serves as motile cilia in reverse for sensory information transduction (1964).
-   - Mechanical deformation from environmental stimuli is converted into chemical energy patterns by mechano-receptors.
-5. **Cytoskeletal Models:**
-   - These models suggest that the intraneuronal cytoskeleton plays a role in nerve membrane excitability and synaptic transmission (Matsumoto and Sakai, 1979; Alvarez and Ramirez, 1979).
-   - Nerve membrane proteins anchored to the cytoskeleton may be part of a larger communicative medium.
+- Range from passive MT signal transduction to dynamic cooperative effects among cytoskeleton components
+- Based on the suitability of microtubules and other cytoskeletal components for information processing
+- Theories range from MT subunit patterns, oscillations of centrioles, sol-gel field effects using holographic imagery
 
-### MT Sensory Transduction/Atema
+**Direct Evidence for Signaling in Microtubules:**
+1. Vassilev et al., 1985: intermembrane signaling through electrically induced conformational changes and MT components
+2. Becker, Oliver, Berlin, 1975: nonradiative resonance energy transfer between fluorescent labels on MT subunits or membranes
+3. Parallel alignment of MT in applied electric and magnetic fields (Vassilev et al., 1982) could generate their own pathways for cytoplasmic movement
+4. Nerve membrane proteins anchored to the cytoskeleton may be part of a communicative medium, utilizing various modes for cooperativity and intelligent behavior
 
-**Study on Cytoskeletal Computing**
+**Models of Cytoskeletal Computing:**
+1. Passive MT signal transduction models: focus on the role of microtubules in transporting signals without active processing
+2. Descriptive patterns among MT subunit states models: investigate how different configurations of tubulin subunits can represent information
+3. Dynamic cooperative automaton effects models: examine cooperative oscillations between centrioles and the cytoskeleton
+4. Cytoplasmic/cytoskeletal sol-gel field models: explore holographic imagery in explaining dynamic organization and information representation within biological systems.
+5. Overlapping and complementary proposals: these theories may not be mutually exclusive, but rather provide different perspectives on cytoskeletal computing.
 
-**Fluorescence Resonance Transfer in Microtubules (MT)**
-- Becker, Oliver, and Berlin studied MT using fluorescent labels: FITC and RITC
-- Emission spectrum of FITC donors overlaps absorption spectrum of RITC acceptors
-- Energy transfer occurs when chromophores are brought close together in a common lattice
-- When MT are depolymerized, no resonance transfer is seen between labeled populations
-- With polymerization or aggregation of MT subunits, fluorescent excitation of FITC leads to emission by rhodamine labeled tubulin
-- Energy transfer occurs not only among tubulin subunits in MT but also with membrane components
+#### Cilia-based Proprioception: Microtubules in Sensory Transduction
 
-**Possible Communicative Implications in Microtubules**
-- Parallel alignment of MT in electric and magnetic fields suggests possible generation of electric or magnetic fields via an electret effect
-- Cooperative communication mechanisms like the Indian rope trick could be utilized for cellular growth, differentiation, and synaptic plasticity
-- MT can generate their own pathways for cytoplasmic movement if they generate similar intensity electric/magnetic fields
+**Cytoskeletal Information Processing: Sensory Transduction and MTs (Microtubules)**
 
-**Cytoskeletal Information Processing in Nerve Membrane Proteins**
-- Intraneuronal cytoskeleton necessary for nerve membrane excitability and synaptic transmission (Matsumoto and Sakai, 1979; Alvarez and Ramirez, 1979)
-- Nerve membrane proteins anchored to the cytoskeleton may be part of a communicative medium using various modes for collective cooperativity and intelligent cellular behavior.
+**8.2.1. MT Sensory Transduction/Atema:**
+- Several authors, including Lowenstein, Osborne, Warshall (1964), Lettvin and Gestaltin (1965), and Jelle Atema (1973), have proposed that receptor cilia containing microtubules are involved in sensory transduction.
+- Mechanical deformation of cilia can be transduced into chemical energy patterns for the cell.
+- Microtubules are active functional units in reception and transduction of sensory information.
+- Conformational changes in MT tubulin subunits may occur under physiological conditions.
+- Oscillations of sperm flagella or mechano-lonic transducers can propagate signals via microtubules.
 
-### MT Mechano-lonic Transducers/Moran and Varela
+**8.2.1.1. Atema's Theory:**
+  * Sensory cilia convey environmental information through conformational changes in microtubules.
+  * Distortion originates near the distal end of the ciliary MT and propagates towards the cell body for further processing via an excitable membrane or cytoskeleton.
+  * Any number of sources, including mechanical deformation, light energy, and chemical bond energy, can trigger a conformational wave in microtubules.
 
-**Models of Cytoskeletal Computing**
+**8.2.2. MT Mechano-lonic Transducers/Moran and Varela:**
+- Biological sensory systems use cilia to transduce mechanical deformation into cognitive information like position in space (proprioception).
+- Campaniform sensilla, containing a parallel bundle of microtubules, are directly involved in proprioceptive determination of system's spatial relation to its environment.
+- MT can behave as passive translation rods or generators of ionic/electrical currents in mechanoreceptor functions.
+- Compression or bending of MT can release bound ions from subunits, resulting in an ion flux capable of generating membrane depolarization and regulating membranes.
+- Each tubulin dimer reversibly binds calcium ions, allowing significant currents to flow during active assembly of parallel MT.
 
-**Cilia and Microtubules:**
-- Proposed role in sensory transduction: Atema (1973) linked microtubules to cilia-like structures in various organisms for conveying environmental information through conformational changes.
-- Propagation of signals: Microtubules act as functional units in reception and transduction of sensory information, with distortion originating near the distal end and propagating proximally towards the cell body or vice versa.
+#### Exploring Cytoskeletal Signal Processing in Molecular Computing
 
-**Atema's Theory:**
-- Conformational changes in MT tubulin subunits: Observed oscillations in sperm flagella not controlled by their membrane but rather microtubules in presence of ATP.
-- Allosteric conformation alterations: Proposed that distortion of tubulin conformations is sufficient to propagate a conformational wave through microtubules, allowing transduction of light energy, chemical bond energy, and mechanical forces.
+**Michael Conrad and E. A. Liberman's Proposed Biomolecular Computing Model (Cytoskeleton and Cyclic Nucleotide System)**
+- Collaboration between computer scientist Michael Conrad and information scientist E. A. Liberman on aspects of biomolecular computing, focusing on the cytoskeleton
+- Primary computing power in brain based on intracellular processes
+- Proposed that cyclic nucleotide system (CNM) sculpts three dimensional dynamic patterns in neurons and other cells through regulation of cytoskeleton and membranes
+  - Energy rich molecules such as cyclic AMP act as links between macroscopic neural activities and molecular scale computing
+- Conrad's notion of molecular automata within cells, suggesting intracellular cytoskeleton regulates cyc lic AMP and other biomessengers based on mechanical stimulation
 
-**MT Information Processing:**
-- Early theories: Atema's was the first to consider conformational effects in tubulin components beyond global behavior of cilia. Subsequent theories considered localized analysis functions, switching, and collective interactions among MT subunits.
+**Marc DeBrabander's Research on Cytoskeleton Signal Processing**
+- Cell biologist studying activities of the cytoskeleton in mitosis and cellular organization at Janssen Pharmaceutica Research Laboratories
+- Evidence that membrane proteins are linked to cortical actin filament system, controlled by microtubules (MT)
+- MT perform as signal transducers beyond their role as skeletal support elements
+- Interactive signaling in the cytoskeleton leads to global cellular rearrangement due to various features: intrinsic polarity of MT, conformational propagation mechanism, directional organelle movement, topography, and transport of ions like calcium along microtubules.
 
-**Mechanosensory Receptors:**
-- Role of microtubules: Involved in transducing mechanical deformation into cognitive information (proprioception) as passive rods or generators of signals in cockroach campaniform sensilla.
-- Neuron role: All neurons are mechanically sensitive, with microtubles directly involved in proprioceptive determination of systems' spatial relation to their environment.
+**MT Signal Processing Evidence and Techniques**
+- Visualization of particle transport along individual MT using Nanovid Microscopy
+- Developed double labeling technique for tubulin subunits: large circles (10 nanometers) identify glutamated tubulin, small particles (5 nanometers) bind to tyrosinated tubulin
+  - Patterns of tyrosinated/glutamated tubulin suggest potential coding mechanism and function in signal processing
+- MT detyrosination patterns determined by real time cytoplasmic factors, suggesting modifiable patterns and capability for signal processing.
 
-### Cytomolecular Computing/Conrad and Liberman
+#### Cytoskeletal String Processors and Gradions in Microtubules for Biological Information Processing
 
-**Models of Cytoskeletal Computing**
+**Barnett's String Processor Model of Microtubule-Neurofilament Memory Storage**
 
-**Mechanochemical Engines/Moran and Varela**:
-- MT behaved as mechanochemical engines driven backward
-- Compression or bending of MT caused release of bound ions from subunits, resulting in ion flux
-- Ionic currents generated membrane depolarization, regulating membranes
-- Each tubulin dimer reversibly binds 16 calcium ions, allowing significant ionic fluxes during active assembly
-- Similar to coordinated release of calcium waves regulating muscle contraction and cilia/flagella bending
+**Key Components:**
+- **Processing Channel (microtubule-MT)**: Laterally connected to a parallel storage unit (neurofilament-NF)
+- Information traverses processing channel from right to left; character strings move in opposite direction on memory channel
+- Replacement of "chips" by its synonym "french fries" is performed as the word moves through storage
 
-**Cytomolecular Computing/Conrad and Liberman**:
-- Cytoplasm of neurons and cells contain dynamic patterns shaped by cyclic AMP and other biomolecules
-- Reaction diffusion patterns of cyclic AMP link macroscopic neural activities to molecular scale computing
-- Intracellular cytoskeleton perceives mechanical stimuli from membrane events and regulates cyclic AMP and other biomessengers
-- Cytoskeletal analog within the cell represents the external world, potentially serving as a medium of cognition
-- Highly parallel signal processing and vibratory behavior of microtubules and other cytoskeletal elements could play a significant role in complex systems like the brain
+**Features:**
+- Versatile and powerful information processing system
+- Can perform global replacements, similar to common word processors
+- Assumes existence of processing channels (MT) and memory channels (neurofilaments) for information representation
+- Parallel array and lateral interconnectedness between MT and neurofilaments enable string processing
 
-**MT Signal Processing/DeBrabander**:
-- Cell biologist Marc DeBrabander studied cytoskeleton activities in mitosis and cellular organization
-- Membrane proteins are linked to the cortical actin filament system
-- Ordered activity of these proteins suggests a role in complex systems like the brain
+**Comparison with Other Models:**
+- Compatible with other models proposing conformational patterns within MT and cytoskeleton
+- Inspired by biological concepts of cooperativity and allosterism in protein lattices (membrane rosettes, microtubules)
 
-### MT Signal Processing/DeBrabander
+**Microtubule "Gradions" Model**
 
-**Michael Conrad and E. A. Liberman's Contribution (Cytomolecular Computing)**
-- Proposed that intracellular processes, particularly the cyclic nucleotide system, are central to brain computing power
-- Believed that dynamic patterns of cyclic AMP regulated by cell membranes and cytoskeleton facilitate real-time information processing
-- Viewed molecular analogs within the cytoskeleton as a representation of the external world, which could potentially serve as a medium for cognition
-- Noted highly parallel signal processing and vibratory behavior of microtubules and other cytoskeletal elements as significant contributors to complex systems like the brain.
+**Background:**
+- Proposed information processing in membrane rosettes and microtubules by Roth, Pihlaja, and Shigenaka
+- Cooperative allosteric effects among adjacent proteins or protein subunits suggest conformational gradients represent information
 
-**Moran and Varela's Observations (MT Ionic Currents)**
-- Suggested that MT behaved as mechanochemical engines, releasing bound ions from subunits upon compression or bending
-- Observed ionic currents capable of generating membrane depolarization and regulating membranes
-- Proposed that active assembly of parallel MT could result in significant ion fluxes, analogous to calcium waves regulating muscle contraction and cilia/flagella bending.
+**Membrane Rosettes:**
+- Ordered rings consisting of seven to twelve membrane embedded proteins in lower organisms
+- Function involves membrane fusion and "suctorian feeding"
+- Conformational changes in complex triggered by stimuli at a single or few subunits cause allosteric changes in all sixteen subunits
 
-### Cytoskeletal String Processors/Barnett - Microtubule Gradions/Roth, Pihlaja, Shigenaka
+**Microtubules:**
+- Highly oriented patterns of tubulin dimers with three different conformational states based on studies of tubulin binding to vinblastine and GTP
+- Precise linkage sites between MT indicate two different conformational states of tubulin dimers
+- Conformational states controlled by "gradionators" including ligand-induced conformation, tubulin isozyme, detyrosination, or MAP binding
 
-**Models of Cytoskeletal Computing**
+**Key Components:**
+- Inter-microtubule bridges: Indicate two different conformational states of the tubulin dimers to which they attach
+- Precise linkage sites reflect a coded pattern, or "gradion" in microtubules.
 
-**Cytoskeletal String Processors/Barnett**:
-- Barnett's string processor model:
-  - **Processing channel (microtubule-MT)**: Laterally connected to a parallel storage unit (neurofilament-NF)
-  - Information traverses the processing channel from right to left
-  - On the storage channel, synonym pairs move from left to right
-  - As the word chip moves by its own self in storage, it is deleted
-  - The chip is replaced by its synonym ("french fries") and the replacement is complete
-- Barnett sought an associative memory that could analyze imprecise analog data, like biological cells
-- **Filamentous cytoskeletal structures** operate like information strings, similar to word processors
+#### Microtubule-Based Information Processing in Cells: Centrioles, Gradions, and Oscillations
 
-**Microtubule Gradients /Roth, Pihlaja, Shigenaka**:
-- Roth and colleagues considered information processing in two types of biomolecular assemblies: membrane rosettes and microtubules
-- They proposed that conformational gradients in protein arrays represent information by patterns of conformational states among near neighbors in the protein lattice
-- **Rosettes** are ordered rings of membrane-embedded proteins involved in membrane fusion
-  - Rosettes can functionally respond to stimuli at a minimum of 5 subunits
-- **Microtubules** were viewed as highly oriented patterns of tubulin dimers
-  - Anticipated three different conformational states of each tubulin dimer, based on studies of tubulin binding to vinblastine and GTP
+**Cytoskeletal Computing: Models and Theories**
+* **Gradion Fields**: Roth and Pihlaja's theory (1977) proposes that microtubules have "gradions," or conformational fields, governed by attachment of inter-MT linkages. This allows for various dimer conformations and patterns, though cooperativity reduces the number of possible gradions to a substantial yet lessened amount.
+* **Gyroscopic Centrioles/Bornes**: Bornens' model (1979) suggests that centrioles rotate rapidly about their longitudinal axis, creating dynamic stability through inertia analogous to a spinning top or gyroscope. Peripheral movements are interconnected by the cytoskeleton with the gyroscopic centrioles as the origin for cellular coordinates.
+* **Centriole Signaling/Albrecht-Buehler**: Albrecht-Buehler considers two models of cytoskeletal information processing: centriole signal detection and propagation of MT impulses. Centrioles, composed of nine MT triplets or doublets, have walls arranged at an angle that advances a blade, leading to rhythmic signals throughout the cytoskeleton.
 
-### Gyroscopic Centrioles/Bornens
+#### Centrioles and Microtubules as Signal Detectors in Cellular Navigation
 
-**Models of Cytoskeletal Computing: Gradion Fields in Microtubules**
+**Centrioles in Cellular Navigation**
+- Centrioles involved in directional orientation, cell architecture, and dynamic cytoplasmic rearrangements
+- Designed to detect linear signals: potentially infrared radiation from biomolecules or ions surrounding cytoskeleton
+- Geometrical features of a nonscanning angular detector
+  - Circular arrangement with marks around circumference for direction identification
+  - Nine-fold symmetry provides small size and sufficient angular resolution
+  - Prevents signals from reaching more than one receptor by using "blades" or shields
+  - Optimal design achieved when blades are bent circumferentially to prevent access to multiple receptors
+  - Concave shape of blinds averts possibility of two adjacent receptors being reached by the same signal
+- Two detectors best placed at right angles for locating longitude and latitude of signal sources
 
-**Gradion Theory:**
-- Developed by Roth and Pihlaja (1977) to explain conformational states in MT lattice
-- Based on intermicrotubule MAP bridges and allosteric effects
-- Assumes five possible conformations per dimer, resulting in 517 gradion patterns
-- Cooperativity reduces the number of possible gradions but keeps it substantial
-- Useful for mental processes and connection coding in neuronal cytoskeleton
-- Applicable to allosteric particles and cooperative communication (Microtubules are best suited)
+**Centrioles as Signal Detectors vs. Gyroscopic Oscillator Model**
+- Albrecht-Buehler's model: centrioles as perfectly designed nonscanning angular detectors using microtubules for resonance communication among protein conformational states within MT assemblies
+- Bornens' model: gyroscopic oscillations of centrioles leading to dynamic cell center function
+- Combination of both models results in a cell center capable of piloting cytoplasmic activities.
 
-**Gradion Model of Information Processing:**
-- Specific theory for protein assemblies, particularly microtubules
-- Explanation of allosterism and cooperativity in cells
+#### Exploring Cytoplasmic Tensegrity, Microtubule Probing, and Sphere Packing Symmetry in Cell Structure
 
-**Bornens' Gyroscopic Centrioles:**
-- Proposed by Michel Bornens (1979) for cellular organization and stability
-- Based on dynamic stability from centriole rotation about its longitudinal axis
-- Results in a gyroscopic effect, similar to a spinning top or gyroscope
-- Origin for cells' spatial coordinates, with cytoplasmic movement relative to MTOC
-- Centrioles rotate like stepwise electric motor with central cartwheel (ATP-dynein stator) and moving rotor (centriolar wall)
-- Possible back-and-forth oscillation for scanning cell environment.
+**Tensegrity Architecture and Cytoplasm Dynamics**
 
-**Challenges to Bornens' Theory:**
-- High rate of rotation required for significant inertia questioned by Albrecht-Buehler (1981)
-  - Centrioles would need to rotate at 2.3 million revolutions per minute
-  - Greater rotational frequencies needed before centriole could maintain stable axial orientation
-- Bornens suggests submicroscopic mechanism for more independence from surrounding material as potential solution.
-
-### Centriole-MT Signaling/Albrecht-Buehler
-
-**Models of Cytoskeletal Computing**
-
-**Rotatory Oscillations in Protein Assemblies**
-- Rotatory oscillations in the range of 107 per second observed by several researchers
-- Consistent with energy absorption findings in protein assemblies like virus coats (Chapter 9)
-
-**Bornes' Vision of Cytoskeletal Organization**
-- Centrosome as center of a dynamic cytoskeleton
-- Microtubules communicate and integrate cellular information
-- Rigid organizers of cell space for signal propagation
-- Intermediate filaments, microtrabecular lattice participate in dynamic network
-- ATP-generated centriolar rotation triggers signals along microtubules through temporary contact with satellite bodies
-- Leads to rhythmic signals with frequency nine times greater than centriole rotation
-
-**Albrecht-Buehler's Models of Cytoskeletal Information Processing**
-- Centrosomes: detect linear signals, including infrared radiation from cellular environment (Chapter 5)
-  * Requirement for shielding and nonlinear coupling met by surrounding water and ions
-- Involved in directional orientation, establishment of cell architecture, dynamic rearrangements of cytoplasm
-
-**Optimally Designed Spatial Signal Detector**
-- Radar scanners: sequential scanning, miss signals during one direction's scan
-- Non-scanning angular detector: listens simultaneously to all directions without moving parts
-  * Circle with regularly spaced marks around its circumference capable of identifying signal direction.
-
-### Dynamic Tensegrity/Heidemann and Jarosch - Dynamic MT Probing/Kirschner and Mitchison
-
-**Tensegrity Models of Cytoskeleton**
-
-**Buckminister Fuller's Tensegrity Architecture**:
-- Proposed an architecture with a macro level tensegrity mast
-- Consists of compression and tension members
+**Buckminister Fuller's Tensegrity Mast**:
+- Rigid structure constructed from tension and compression members
 - Compression members are isolated, held together by tension members
-- Macro level tensegrity mast can be replaced by smaller versions down to atomic level
+- Each solid strut may be replaced by a miniaturized version of the macro tensegrity mast
+- Each miniature solid strut can be replaced by still smaller subminiature tensegrity mast
+- Tensegrity structures have fractal substructure
 
-**Cytoplasm's Tensegrity Structure**:
+**Cytoplasm Dynamics**:
 - Cytoplasm has both compressive and tensile elements
-- Semi-rigid microtubules under compression due to actin filaments
-- MT self-supporting capability comes from tensegrity network
+- Semi-rigid microtubules are under compression, likely due to actin filaments and the microtrabecular lattice
+- MT do not contact each other, suggesting self-supporting cytoplasm may come from tensegrity
 
-**Actin-MT Interactions (Jarosch)**:
-- Contraction of actin filaments winds around and imparts torque to MT
-- Opposite-directed actin filaments can cause oscillations in MT
+**Robert Jarosch's Model of Actin-MT Interactions**:
+- Contraction of actin filaments causes rotational torque on microtubules
+- Actin filaments wound in opposite directions can cause oscillations in MT
+- Suggests a dynamic cytoplasmic tensegrity network with oscillating cytoskeleton
 
 **Dynamic Instability in Microtubule Assembly**:
-- Evidence supports dynamic instability in microtubule assembly
-- MT exist in growing or shrinking phases, dominated by MTOC based MT
-- Signals at cell periphery lead to reorganization deep within the cell
+- Dynamic instability allows for selective stabilization of certain microtubules
+- Can lead to changes in cell polarity and growth direction based on peripheral signals
+- Kirschner and Mitchison propose "dynamic MT probing" where cell chooses functional structure based on environmental factors
 
-**Possible Mechanisms**:
-- Change in MTOC structure and orientation leading to microtubule nucleation
-- Simpler idea: Peripheral signal affects distribution directly.
+**Sphere Packing and Screw Symmetry**:
+- 32 possible symmetry arrangements of packed spheres in a cylindrical crystal
+- Koruga used hexagonal and face-centered cubic packing to explain microtubule organization
+- Microtubule symmetry suggests optimal number of protofilaments for binary error correcting codes
 
-### Sphere Packing Screw Symmetry/Koruga
+#### Microtubules as Quantum Computing Elements in Biological Systems.
 
-**Cytoskeletal Computing and Microtubules:**
-* Cytoskeleton rapidly transforms through stabilization/destabilization of microtubules (MT)
-* Preferential MT stabilization mediated by environmental information at cell periphery
-* Dynamically unstable MT offer possibilities for controlling distribution via selective stabilization
-* Evolutionary advantage: probing and transformation enable functional roles based on environmental factors
+**Cytoskeletal Self-Focusing/Del Giudice (1982, 1985)**
+* Milan scientists applied quantum field theory to study biomolecular dipoles
+* Discovered strong likelihood for propagation of particle-like waves in biomolecules
+* Ordered water surrounding linear biomolecules leads to self-focusing of electromagnetic energy into filamentous beams
+* Inner diameter of microtubules (15 nm) matches confinement and propagation diameter for particle-like waves
+* Implications:
+  * Propagation of electromagnetic energy in biological systems, providing a mechanism for alignment and communication
+  * Cytoskeletal polymers can capture and utilize ambient or biologically generated electromagnetic energy (e.g., infrared)
 
-**Symmetry Arrangements of Packed Spheres:**
-* 32 possible symmetry arrangements in cylindrical crystal
-* Hexagonal packing used to explain virus forms, flagella, microtubules (Erickson, 1973)
-* Koruga's analysis: Oh(6/4) symmetry group for microtubule organization
-+ Fixed conditions: spheres lie on cylinder surface with same long axis values as face-centered cubic packing
-+ Sixfold symmetry and dimer configuration lead to screw symmetry (repeats by translocating in a spiral fashion)
-* Symmetry laws suggest optimal number of protofilaments for binary error correcting codes: 13
-* Approximately 24 monomer subunits or 12 dimers required based on symmetry theory.
+**MT Automata, Holography/Hameroff, Watt, Smith (1974-1986)**
+* Proposed that microtubules act like "dielectric waveguides" for photons
+* Living tissue transmits light more readily than nonliving material
+* Polymerized MTs in cytoplasm may be relatively translucent to optical photons
+* Periodic array of MT subunits can diffract energy with 8 nm periodicity, leading to holographic imaging in cytoplasm
+* Cytoplasmic interference of coherent sources from multiple MT leads to holographic pattern formation
+* Coupling calcium concentrations to cytoplasmic sol-gel states can "hardwire" holographic patterns into microtrabecular lattice
+* Parallel arrays of MT within nerve fibers generate traveling screens for imaging based on action potentials and tubulin conformations
+* Tubulin subunits in the MT lattice wall are transiently occupied by charge/energy/conformation quants, with MAPs serving as "left switches" or "sinks"/ "sources" for conveying pulse trains of charge/conformation among MT.
 
-### Cytoskeletal Self-Focusing/Del Giudice
+#### Microtubule Automata Model for Cytoskeletal Computing.
 
-**Models of Cytoskeletal Computing: Milan Group's Self-Focusing/Del Giudice Model**
+**Fröhlich's Model of Cytoskeletal Computing**
 
-**Cytoskeletal Self-Focusing/Del Giudice**:
-- Description: Application of quantum field theory to describe electret state in biological systems and the likelihood for propagation of particle-like waves in biomolecules.
-- Implications:
-  - Confinement within filamentous regions could favor propagation of electromagnetic energy, providing a mechanism for alignment and communication (Indian rope trick).
-  - Cytoskeletal polymers may be capable of capturing and utilizing ambient or biologically generated electromagnetic energy.
-- Milan Group's calculation:
-  - Diameter for confinement and propagation of particle-like waves in biomolecules is about 15 nanometers, the inner diameter of microtubules.
+**Model Overview**:
+- Based on Fröhlich's model of coherent nanosecond dipole oscillations coupled to conformational states as a clocking mechanism
+- Calculated MT lattice neighbor Van der Waals dipole interactions using an automaton simulation
 
-**MT Automata, Holography/Hameroff, Watt, Smith**:
-- **Self-focusing of electromagnetic energy**: Induced by an electret increase in cytoplasm's refractive index or microtubules acting like dielectric waveguides for photons.
-- Living tissue transmits light more readily than nonliving material, with maximum penetration in temporal regions of the brain.
-- Hameroff proposed that MT subunits leaked or diffracted energy with 8 nanometer periodicity, leading to coherent sources and holographic imaging through cytoplasmic interference.
-- Coupling calcium concentrations to sol-gel states in microtrabecular lattice could hardwire holographic patterns into the MT.
-- Parallel arrays of MT in nerve fibers collectively activate planes of cytoplasm perpendicular to their long axis, enabling traveling action potentials.
+**Dimer States**:
+- Two possible states: related to Fröhlich's concept of dipole oscillation
+  - Toward alpha tubulin end (represented by "a")
+  - Toward beta tubulin end (represented by a dot)
+- Resting state has tubulin dimer dipoles oriented toward the beta tubulin end
 
-### MT Automata, Holography/Hameroff, Watt, Smith
+**Dimer State Determination**:
+- Dimer states at each clock tick depend on the summation of neighbor dipole states at the previous generation
+- Neighbor influences are unequal due to screw symmetry of the MT lattice
+  - Distant neighbors have little influence due to force dropoff with distance
+  - Collective influences from many "like" dimers can lead to long range cooperativity
 
-**Models of Cytoskeletal Computing: Self-Focusing/Del Giudice (1982, 1985)**
+**Simulation Findings**:
+- Computer simulation yielded interesting patterns and behavior of dipole/conformational states
+  - Stable and traveling interactive patterns capable of computing and regulating cytoskeletal activities
+    - Figure 8.13 shows a "kink-like" pattern traveling through an MT lattice
+    - Patterns travel at 8 nanometers per nanosecond (80 meters/second), consistent with propagating action potentials
+- Variability in tubulin dimer isozymes, ligand binding, or MAP attachments can "program" and "read out" information
+  - Propagation of MT conformational patterns could coordinate contractile MA P sidearms in axoplasmic transport
 
-**Description**:
-- Group from University of Milan applied quantum field theory to study electret state in biological systems
-- Strong likelihood for propagation of particle-like waves in biomolecules
-- Ordered cytoplasm leads to self-focusing of electromagnetic energy into filamentous beams, excluded by ordered symmetry
-- Diameter for confinement and propagation of massless bosons (or solitons) in biomolecules is about 15 nanometers
-- Implications: favors propagation of electromagnetic energy; provides mechanism for alignment and communication; possibly captures ambient or biologically generated electromagnetic energy like infrared energy
+**Implications**:
+- MT automata may be the information substrate for biological activities ranging from ciliary bending to human consciousness
+- Coherent resonance and collective effects in distributed cytoskeletal arrays in the brain could lead to emergent properties like superconductivity
 
-**Self-Focusing Mechanism**:
-- Induced increase in the refractive index of cytoplasm
-- Similar concept proposed by Hameroff (1974): microtubules act as dielectric waveguides for electromagnetic photons
-- Living tissue transmits light more readily than nonliving material
-- Stereotactically placed photoreceptors recorded intensities in sheep hypothalamus when surface intensity was low
-- Light penetration to the hypothalamus remained constant for about 30 minutes following sacrifice, suggesting some property of living brain tissue is relatively translucent to optical photons
-- Polymerized MT acting as waveguides may be such a property
+#### Exploring Cytoskeletal Computation and Energy Propagation in Biological Systems.
 
-**MT Subunits and Coherent Energy**:
-- Periodic array of MT subunits leaked or diffracted energy with 8 nanometer periodicity, resulting in a source of coherent energy (or calcium ions) from each MT
-- Cytoplasmic interference of the coherent sources from among multiple MT leads to holographic imaging in cytoplasm
-- Coupling calcium concentrations to cytoplasmic sol-gel states could hardwire holographic patterns into the microtrabecular lattice
-- In parallel arrays of MT within nerve fibers, graded potentials or traveling action potentials collectively activate planes of cytoplasm perpendicular to the long axis of the MT and nerve fibers.
-
-### The Cytoskeletal Connection - Viruses/Ambiguous Life Forms
-
-**Cellular Automaton Model of Information Processing in Microtubules**
-- Figure 8.13 illustrates a cellular automaton model of information processing in microtubules
-- A kink-like pattern moves from left to right
-
-**Cytoskeletal Connection**
-- **Microtubules, centrioles, and the cytoskeleton** evolved to take command of biology
-- They are at the right size scale and moving in the right time scale, allowing them to utilize various forms of energy
-- **MT polarity, periodic structure, and helical lattice array of conformationally programmable subunits** qualify them as ultimate computers and nanoengines
-- They may capture and self focus electromagnetic radiation, induce coherency, and propagate energy quanta with minimal loss
+**Microtubules, Centrioles, and Cytoskeleton**
+- Evolved to take command of biology due to right size scale and time scale
+- "Ultimate computers" and nanoengines: generate purposeful force and movement
+- Can capture and self-focus electromagnetic radiation, induce coherency, propagate energy quanta with minimal loss
 - Propagation may manifest as coherent polarization waves, massless bosons, or solitons
-- Charge density waves or proton transfer at MT surface layers of ordered water, and positively charged counter-ions such as calcium are other possible modes for information and energy transfer
+- Charge density waves or proton transfer at MT surface layers of ordered water, and positively charged counter-ions like calcium are possible modes for information and energy transfer
 
-**Viruses/Ambiguous Life Forms**
+**Dynamic Patterns in Microtubules (MT)**
+- "Kink-like" pattern continues left to right through MT automaton
+- Dynamic patterns can represent and compute information, serve as binding sites for transported molecules, designate MAP and inter-MT bridge attachment sites, or generate coherent waves of calcium coupled sol-gel states
+- Electron surpluses in MT occur due to abundance of acidic amino acids
+- Each MT subunit can integrate and absorb/sense input (acoustical energy, optical photons, chemical ATP, altered potential changes, fluxes of calcium and other ions), respond with conformational changes accordingly
+- Coherent oscillations in tubulin subunit states among regional forests of microtubules provide a communicative medium for any out-of-phase subunits
 
-**What is the Essence of Living Matter?**
-- Oparin (1938) proposed living matter be defined by: metabolism, self-reproduction, and mutability
-- However, these criteria can be met by non-biological entities like von Neumann's self-reproducing automata or robots
-- Primitive systems which blur the distinction between animate and inanimate include viruses, prions (protein crystals), and proteinoids
-- Independent cytoskeletal elements also have characteristics of being alive
+**Other Possible Modes of Information Management in MT**
+- Gaps between tubulin subunits may act like pores, creating voltage gradients across the 4 nanometer MT walls
+- Electronegative MT interior core could support Del Giudice's suggestion of cytoskeletal superconductivity
+- Self-focused energy perpendicular to long axis of MT could account for mysterious effects like perpendicular birth of daughter centrioles and inter-MT MAP bridges
+- Coherent waves of ion fluxes radiated from MT due to propagating waves can form the basis of coherent wave interference in a three dimensional hologram
+- Holographic cytoplasm may be an "infoplasmic" canvas for dynamic biological information, especially in the brain
 
-**Virus (Mis)Behavior**
-- Viruses form spontaneously as their simple subunits assemble into complex three dimensional structures
-- This assembly process flows against the second law of thermodynamics, which dictates that order proceeds to disorder
-- Data from the tobacco mosaic virus shows hydrophobic interactions which exclude water from unassembled subunits offset the increase in order (negative entropy) of the assembled virus.
+**Cytoskeletal Computing Models**
+- Propagation of action potentials or dendritic depolarization waves can induce sequences of alterations of MT subunit states due to influx of calcium, alteration of electrical fields, or direct mechanical effects
+- Signals may cooperatively reverberate through the cytoskeleton by waves of calcium release and uptake, mechanical/electrosolitons propagating through the cytoskeletal lattice, and lateral propagation through sidearms and other components
+- Transient fluxes of calcium resulting from conformational waves propagating down cytoskeletal lattices in parallel with action potentials or dendritic current waves can result in traveling frames of dynamic imagery
+- Collective effects may occur at each level and at successively more macroscopic levels, leading to consciousness
 
-### What Is the Essence of Living Matter? - Virus (Mis)Behavior
+**Microtubules, Centrioles, and Cytoskeleton's Role in Evolutionary History**
+- Solved problems, organized cells and organs, and acted as intelligence circuits.
 
-**Viruses/Ambiguous Life Forms**
+### 9 VirusesAmbiguous Life Forms 
 
-**What is Living Matter? (Oparin, 1938)**
-- Defined by: metabolism, self-reproduction, and mutability
-- Non-biological entities like von Neumann's self-reproducing automata or robots meet these criteria
-- Primitive systems that blur animate/inanimate distinction: viruses, prions, proteinoids, independent cytoskeletal elements
+**Essence of Living Matter**
+- **Oparin (1938)**: Defined living matter with properties: metabolism, self-reproduction, and mutability
+- **Eigen (1971)**: Non-biological entities like automata or robots can meet these criteria
+- Primitive systems blurring animate/inanimate distinction include viruses, prions, proteinoids
+- **R. D. Allen et al. (1985)**: Cytoskeletal elements ambulate and exhibit "life-like" behavior
 
-**Viruses as Living Entities?**
-- Simple structure and activities prompt questions about their life status
-- Spontaneously form as subunits assemble into complex three-dimensional structures
-  - Assembly process goes against second law of thermodynamics (order to disorder)
-  - Tobacco mosaic virus: hydrophobic interactions offset increase in order/negative entropy of assembled virus
+**Viruses and Ambiguous Life Forms**
+- **Questions regarding living status of viruses**
+  - Simple structure, spontaneous assembly defy thermodynamic laws
+  - Hydrophobic interactions drive increased order in assembled virus (negative entropy)
+- **Behavior of Viruses within Host Cells**
+  - Enter cells and hijack genetic machinery for multiplication
+    * Harmless residency for long periods or commandeering with damaging consequences
+  - Human diseases include common colds, influenza, hepatitis, polio, smallpox, rabies, yellow fever, cancer, AIDS
+- **Methods of Escape**
+  - Cause host cell death and disintegration
+  - Budding or reverse endocytosis (similar to neurotransmitter extrusion)
+- **Retroviruses**
+  - Contain RNA without DNA, bring reverse transcriptase enzyme for genetic manipulation
+  * Human retroviruses include HTLV-III/HIV causing AIDS.
 
-**Viruses vs. Nonliving Entities**
-- If future technologies lead to nanoscale replicating automata, distinction between living and nonliving entities will be further clouded.
-
-### Virus Structure and Collective Oscillations - Nature and Origin of Viruses
+#### Viral Protein Structures and Collective Oscillations: A Study of their Function and Origins in Life Forms
 
 **Virus Structure and Collective Oscillations**
 
-**Components of Virus Structure:**
-- Genetic material: DNA or RNA
-- Protein coat
+**Components of Virus**:
+- Genetic material (DNA or RNA)
+- Protein coat that surrounds genetic material
 - Membrane
 
-**Examples:**
-1. Tobacco mosaic virus: cylindrical lattice, microtubule structure
-2. Adenovirus: icosahedron protein coat
-3. Influenza virus: spherical protein coat with glycoproteins and lipid membranes
-4. Bacteriophage: lunar lander-like nanoscale structure with an icosahedral head
+**Examples**:
+- Tobacco mosaic virus: cylindrical lattice protein coat
+- Adenovirus: icosahedron-shaped protein coat
+- Influenza virus: spherical protein coats with glycoproteins and lipid membranes
+- Bacteriophages: nanoscale lunar lander structure with an icosahedral head and cylindrical tail
 
-**Collective Conformational Events:**
-- Viral protein coats undergo collective conformational events
-- Require coordinated communication and active response, possibly rudimentary intelligence
+**Protein Coat Conformational Changes**:
+- Collective oscillations of the protein shells may facilitate virus injection into host cells
+- Ultrasonic absorption measurements suggest collective oscillations of the protein assembly
 
-**Ultrasonic Absorption:**
-- Protein assemblies absorb greater ultrasonic energy than individual subunits
-- Suggests collective oscillation of the protein assembly
+**Viruses as Living Organisms**:
+- Whether viruses are alive depends on the definition of life
+- By most criteria, they are not considered alive
+- But some inanimate materials exhibit life-like characteristics (e.g., crystals)
 
-**Functions of Virus Coats:**
-- Perform functions analogous to organized cytoplasm
-- Interact with host membranes and cell walls for entry
+**Origin of Viruses**:
+- Three main theories: 
+  1. Viruses existed before eukaryotes
+  2. Viruses evolved from parasites that invaded cells and de-evolved
+  3. Viruses are descended from cellular genetic material (the "escaped gene" hypothesis)
 
-**Speculations on Collective Oscillations:**
-- Could serve communicative functions in all eukaryotic cells
-- Clue to the essence of living matter.
+**Domesticated Viruses**:
+- Viruses can be harnessed for beneficial purposes:
+  - Vaccines to amplify the immune system
+  - Treating drug-resistant bacterial infections with bacteriophages
+  - Mass producing natural proteins using genetically engineered viruses
 
-**Nature and Origin of Viruses:**
-- Deciding whether viruses are alive depends on a definition of life
-- Scott (1985): Life is a spectrum, not an absolute binary distinction.
+### 10 NanoTechnology 
 
-### Domesticated Viruses
+**Nanotechnology: The Future of Functional Communication and Biomolecules**
 
-**Viruses and Ambiguous Life Forms**
+**Advancements in Nanoscale Fabrication:**
+- Dramatic progress required for atomic level computer components (0.1–0.3 nanometers)
+- Enables construction of valuable nanorobots, sensors, machines, and technologies
+- Ultimate computing may be a single facet of various applications
 
-**Characteristics of Living Things vs Viruses:**
-- Locomotion: No
-- Nutrition: No
-- Growth: Yes (assembly of more ordered structures)
-- Respiration: No
-- Excretion: No
-- Sensitivity: None
-- Reproduction: Yes
+**Early Nanotechnologists:**
+- Richard Feynman (1961): Proposed "There's Plenty of Room at the Bottom" strategy for constructing nanomachines and nanotools
+  - Mechanically assembling molecules atom by atom
+  - Maneuvering at submicron to nanometer scale
+- Other scientists delved into nanotechnology: Von Hippel (1962), Ettinger (1964), Ellis (1965)
+  - Repairing human tissue for life extension through molecular designing and engineering
+  - Nanorobots to fight diseases, unclog blood vessels, and modify neurons
 
-**Defining Life:**
-- Not based on ability to defy second law of thermodynamics
-- Viruses do not fit neatly into the definition of living or nonliving
+**Existing Nanotechnologies:**
+- Biological FMs: only existing, computer controlled or teleoperated FMs may implement nanotech applications in the future
+- Advantages of nanotechnology: new materials, pathways, faster and more powerful computers with large memories, improved scientific instrumentation, microscopic mobile robots, automated manufacturing systems
 
-**Origin of Viruses:**
-1. Primordial soup theory: viruses are ancient, primitive life forms
-2. Parasitic de-evolution: viruses evolved from cellular parasites
-3. Escaped gene hypothesis: viruses originated from cellular genetic material
+**Challenges to Implementation:**
+- Absence of available Feynman machines
+- Potential solutions proposed by Conrad Schneiker (1986): STMs and augmented machine tool technology
 
-**Domesticated Viruses:**
-- Edward Jenner's safe and effective anti-viral vaccines (1800s)
-- Bacteriophages used to treat drug-resistant bacterial infections
-- Potential advantages: highly specific, minimal side effects, inexpensive production
-- Challenges: bacteria could develop resistances to bacteriophages as they do drugs
+**Existing Developments in Nanotechnology:**
+- Dramatic developments in microsensor technology and microelectronics render worries about nanosensor surveillance superfluous
+- Schneiker discounts extreme "end of the world" concerns raised by Drexler (1981, 1986) regarding nanoreplicators due to Feynman machine approach and other factors.
 
-**Genetic Engineering Applications:**
-- Mass producing natural proteins using viruses
-  - Epstein-Barr virus used for immune cell transformation and antibody production
-- Transferring foreign genes into bacterial cells via viral infection
-- Creating live vaccines by combining genes from influenza, hepatitis B organisms, etc.
+**Potential Benefits:**
+- Vastly faster, more powerful computers with large memories
+- Ultrastrong composite materials
+- Greatly improved scientific instrumentation
+- Microscopic mobile robots
+- Automated flexible manufacturing systems
 
-**Exploiting Viruses:**
-- Gene transfer into human cells using modified viruses for protein manufacturing
-- Introducing new genes into human cells through virus infection (research)
+**Conclusion:**
+Nanotechnology is a promising field that may lead to significant advancements in various applications if the challenges of atomic level manipulation are overcome. Early nanotechnologists like Feynman and others laid the groundwork for future developments, which may include vastly improved technologies and materials with potential benefits outweighing any concerns regarding their implementation. Despite obstacles, researchers continue to pursue nanotechnology as a means to unlock new possibilities and push the boundaries of science and technology.
 
-### NanoTechnology
-
-**Nanotechnology and Biomolecules Communication**
-
-**Advancements in Nanotechnology**:
-- Functional communication between biomolecules and technological devices requires significant progress
-- Limit is believed to be computer components precisely structured at the atomic level, around 0.10.3 nanometers
-- Enables construction of valuable nanoscale robots, sensors, and machines
-
-**Early Nanotechnologists**:
-- **Richard Feynman (1961)**: Proposed "Theres Plenty of Room at the Bottom" strategy for constructing structures down to atomic scale
-- Suggested building nanomachines, nanotools, tiny computers, and molecular scale robots with far-reaching applications
-- Noted potential for creating machines that directly manipulate matter on the submicron to nanometer scale (Feynman Machines)
-
-**Other Early Contributors**:
-- **Von Hippel (1962)**: Predicted dramatic material science possibilities with advances in molecular designing and engineering of materials
-- **Ettinger (1964, 1972)**: Proposed repair machinery for modifying and interacting with existing organisms, and development of nanorobotics
-- **Shoulders (1965)**: Reported operation of micromanipulators with 10 nm accuracy under direct observation
-- **Ellis (1962)**: Developed similar but much larger micromanipulators
-
-### Early NanoTechnologists
-
-**NanoTechnology**
-
-**Functional communication between biomolecules and technological devices:**
-- Requires dramatic advances in creating logic devices from matter at atomic level (0.1 nanometers)
-- Enables construction of nanoscale robots, sensors, and machines
-- Ultimate computing is a single facet of a wide range of applications: nanotechnology
-
-**Early NanoTechnologists:**
-- **Richard Feynman (1959):**
-  - Proposed constructing useful structures at atomic scale using smaller machine tools
-  - Suggested building nanomachines, nanotools, tiny computers, molecular robots
-- **Von Hippel (1962):**
-  - Predicted dramatic material science possibilities with advances in molecular designing and engineering of materials
-  - Potential for repairing human tissue for life extension
-- **Ettinger (1964, 1972):**
-  - Proposed nanorobotics: repair machinery, scavenger organisms, guardian organisms
-  - Useful for fighting diseases like AIDS or cancer, clearing blocked blood vessels, straightening neurofibrillary tangles
-- **Shoulders (1965) and Ellis:** Developed micromanipulators with 10 nm accuracy under direct observation.
-
-### Scanning Tunneling Microscopes (STMs) - STM/Feynman Machines (FMs)
+#### Scanning Tunneling Microscope Technology: Ultraprecise Surface Probing and Molecular Dynamics Insight
 
 **Scanning Tunneling Microscopy (STM)**
 
-**Introduction:**
-- Ultraprecise nanometer movement of a sharp, single atom tip over a surface
-- Controlled by piezoceramic X-Y-Z direction arms in response to voltage changes
-- Dynamic observation and manipulation of nanoscale materials and systems
+**Background:**
+- Invented by Gerd Binnig and Heinrich Rohrer in 1981 at IBM Zurich Research Laboratories
+- Nobel Prize for Physics in 1986, shared with electron microscope
+- Based on piezoceramic materials that expand or shrink small distances in response to voltage
+- Ultrasharp conducting tip scanned over a conducting or semiconducting surface
+- Tunneling current depends exponentially on the tip-to-substrate separation (angstroms/nanometers)
+- Servo system uses feedback control and maintains constant tip-to-substrate separation
 
-**STM/Feynman Machines (FMs)**
-- Utilized for atomic and molecular level fabrication and machining
-- Proposed experiments:
-  - Move adatoms or molecular fragments together for chemical bonding
-  - Cleave a chemical bond of a molecule on a substrate
-  - Use an enzyme or synthetic catalyst on the STM tip to repeat (1) and (2)
+**Principal:**
+- Piezoceramic holders scan an ultrasharp conducting tip over a surface
+- Tip is within a few angstroms of the surface, results in tunneling current of electrons (Figures 10.2 & 10.3)
+- Servo system uses voltage across piezoelectric positioning system to keep constant tip-to-substrate separation
+- Topography maps obtained by plotting variations in voltage during scanning
 
-**STM/FM Applications:**
-- Tip shape modifications: scalpel, chisel, cylindrical, etc. for various operations
-- Attached tip structures: enzymes, synthetic catalysts, molecular recognition, etc.
-- Multiple tip configurations: ultraminiature tweezers, jigs, arcs or interface electrodes
-- Tip materials modification: insulating, semiconducting, ferroelectric or ferromagnetic
+**Modes of Operation:**
+1. **Mode I**: Measures topography of metals or semiconductors; slowest mode, servo system follows surface contour (Figure 10.5)
+2. **Modes II and III**: Faster than Mode I as tip maintains constant average height above the surface
+3. **Mode IV**: Joint density of states map, identifies elements comprising specific atoms and monitors molecular dynamics (Smith & Quate, 1986)
+4. **Atomic Force Microscopy (AFM)**: Probes mechanical shape and structural dynamics without tunneling through sample material; measures forces as small as 10–18 newtons (Binnig et al., 1986)
 
-**Achievements:**
-- Placing a single atom on a germanium surface (Becker et al., 1987)
+**Versatility:**
+- Used in air, water, ionic solution, oil, and high vacuum environments
+- Scanning speed can be pushed into real-time imaging domain (Bryant et al., 1986)
+- Ion milling process generates ultrasharp tips with single atom points or nanotool shapes (Dietrich, 1984)
 
-**Further Modifications and Applications:**
-- Tip shape modifications for scanning, scribing, etching, milling, polishing, electrochemical synthesis or machining
-- Attached tip structures: molecular recognition with specific selectivity, pick and place operations, cleaving, nano-environmental sensing
-- Multiple tip configurations: ultraminiature tweezers, jigs, arcs, interface electrodes, generating rapidly rotating electric fields
-- Tip materials modification for electrostatic, electromagnetic, magnetic, kHz-GHz acoustic (longitudinal, transverse, or torsional), optical modulation in mono-or multi-polar configurations.
+**Related Functions:**
+- "Molecular 'tasting and smelling'" using thermocouples sensitive to extremely low heat changes
+- "Touch and feel" in atomic force microscopy by measuring forces with a nanoscale lever (Binnig et al., 1986)
 
-### Micro/Nano STM Contest
+#### Nanotechnology Workstations: Integrating STM Tips and Optical Microscopy for Atomic-Scale Manipulation and Imaging.
 
-**Nanotechnology Advancements**
-- **STM/FMs**: driving system of current STMs due to miniaturization potential
-  - Could power molecular scale mechanisms (e.g., 2 nm diameter cranks) for propulsion and various uses
+**Formation of Near-Field Optical Nano-Apertures**
+- Discovery by Conrad Schneiker (1986)
+- Formed using STM technology to create nano-holes in opaque metal films
+- Enables resolution of features smaller than the wavelength of light
 
-**Applications of STM/FMs**
-- Capabilities were previously non-existent, leading to potential future applications across disciplines
+**Nanovison and Nearfield Microscopy**
+- Resolution depends on diameter of aperture through which reflected light passes
+- Binnig described creating 20nm holes for use in scanning light microscopes
+- Light passed through small apertures results in narrow beam, enabling high resolution imaging
 
-**STM Contest**
-- Inspired by Feynman's proposal (1961): prizes and challenges to accelerate development
-  - Aims for construction of smaller STM components: 1 mm, 100 m, 10 m, 1 m, 10 nm, and 1 nm
-- Imaging capabilities tested on graphite surfaces and tungsten tips
-- Additional challenges: synthesize C60 or C180 molecules and a 10 nm x 10 nm layer of graphite
-- Current prizes offered: $1,000 per category with maximum of one prize paid annually. Winners contact author for submission.
+**Advantages of Optical Stethoscope Concept**
+- Allows nondestructive investigation of samples in native environments (Lewis et al., 1984)
+- Provides both kinetic information and high spatial resolution (Betzig et al., 1986)
 
-**Molecular Computing Devices**
-- STM/FMs could potentially solve problems in creating molecular computing devices as envisioned by Carter (1983)
-  - Synthesis of prototype devices: mechanical chemistry and electrical interfaces
-  - Making reliable, individual electrical connections for testing purposes.
+**Potential Applications of Nanoaperture Technology**
+- Follow temporal evolution of macromolecular assemblies in living cells
+- Enable research on genes, viruses, proteins, cytoskeletal assemblies
+- Manipulate and communicate with biological structures
 
-### STM/FMs and Molecular Computing
+**STM and Other Technologies for Nanoscale Research**
+- Schneiker proposed an integrated nanotechnology workstation
+  - Combines multiple STM tips, optical microscopy, nanoapertures, fiber optic waveguides
+  - Enables synergism between technologies (Figure 10.7 and 10.9)
+- STMs can act as a cursor for high-powered light microscope
+  - Performs high speed scanning while peripheral STMs manipulate atoms/molecules
 
-**NanoTechnology:**
-* Nano-scale mechanical cranks (2 nm diameter) can be used for propulsion of nanoscale robots
-* Capabilities of STM/FMs have been heretofore nonexistent, potential applications abound in the near future
+**STM Capabilities and Achievements**
+- Imaged single atoms, probed atomic forces, manipulated atoms (Figure 10.8)
+- Won Nobel Prize in 1986 for pioneering work on scanning probe microscopy.
 
-**STM Contest:**
-* Feynman's proposal for molecular and atomic scale machines included prizes and competition to get kids interested
-* Prizes:
-  * Reduce information on a book to 1/25,000 smaller linear scale using electron microscope
-  * Construct an electric motor the size of a speck of dust (presented by Feynman)
-* Stanford graduate student Tom Newman reduced a page from A Tale of Two Cities to 5.9 x 5.9 micrometers using electron beam lithography
+#### Atomic-Level Fabrication with STM Machines
 
-**STM Contest Challenges:**
-* Construct, operate, and publicly demonstrate STMs (including mechanical positioning and scanning systems) of the following sizes:
-  1 mm, 100 m, 10 m, 1 m, 10 nm, 10 nm
-* Imaging tests: image a (10 nm) highly ordered pyrolytic graphite surface and the entire conical surface of another atomically sharp tungsten STM tip
-* Additional challenges: mechanically synthesize 10 molecules of spherical C 60 or C 180 using an STM/FM and demonstrate successful synthesis, mechanically synthesize a 10 nm x 10 nm layer of graphite and demonstrate successful synthesis
-* Prizes: $1000 per category with maximum of one prize paid out per year
+**STMs/Feynman Machines (FMs)**
 
-**STM/FMs and Molecular Computing:**
-* Ability to use multi-tip STM/FMs for mechanical chemistry and electrical interfaces might solve problems in developing molecular computing devices
-  * Synthesis of prototype devices
-  * Making individual, reliable, electrical connections to them for testing.
+**STM/FM Proposed Experiments**:
+- Use an STM tip to move adatoms or molecular fragments together to induce chemical bonding
+- Use an STM tip to cleave a chemical bond of a molecule adsorbed on a substrate
+- Use enzymes or synthetic catalysts attached to an STM tip for repeat experiments (1) and (2)
 
-### STM/FMs and Biomedical Applications - Replicating Automata
+**STM/FM Modifications and Applications**:
+- **Tip Shape Modifications**: scalpel, chisel, cylindrical, and other configurations for scanning, scribing, etching, milling, polishing operations or electrical interfaces, electrochemical synthesis or machining, nano-environmental sensing
+- **Attached Tip Structures**: enzymes, synthetic catalysts, shape selective crown ethers, transducer molecules for molecular recognition with specific selectivity (electrostatic or electromagnetic assisted), pick and place operations
+- **Multiple Tip Configurations**: parallel or radial configurations for use as ultraminiature tweezers, jigs, arcs, interface electrodes, generating rapidly rotating electric fields
+- **Tip Materials Modification**: insulating, semiconducting, ferroelectric or ferromagnetic for electrostatic, electromagnetic, magnetic, kHz-GHz acoustic (longitudinal, transverse, torsional), and optical modulation in mono-or multi-polar configurations
 
-**NanoTechnology and Biomedical Applications:**
-* STM/FMs (Scanning Tunneling Microscopes/Force Microscopes) have immense potential for nondestructive interactions with biological materials, assuming technical obstacles are addressed
-* Problems include biomolecules being nonconductors, potential damage from electron tunneling, and difficulty imaging in air without optical microscopy assistance
-* Alternative approach: Utilize AFM (Atomic Force Microscope) mode for biological materials, using a lever arrangement to monitor movement without direct tunneling through the material
-* Potential applications of STM/FMs include outer space exploration, household furniture, nanoscale Hibbs machines, and medical uses
-* Implementation of real-world, useful replicative automata faces numerous obstacles such as material requirements, reliability issues, and assembly complexity
-* Schneiker proposes simplifying the development of replicative automata by minimizing materials/parts needed, scale-dependent factors, part tolerance and wear, and assembly complexity to increase reliability
-* Superconductivity may facilitate STM technology, Josephson junctions, magnetic field sensors, and superconducting replicators due to scaling benefits, design simplicity, low power needs, high component density, and availability of lossless current, magnets, and motors.
-* Collective intelligence in para lel replicating automata studied by Christopher Langton at Los Alamos National Laboratories through models of cellular automata and self-replicators to extract the molecular logic of living systems.
+**Augmentations of STM/FMs**:
+- Sensors and transducers such as the atomic force microscope (Binnig, Quate, and Gerber, 1986)
+- Fiber optic interferometers or comparable techniques for real-time calibration of absolute and relative tip positioning
+- Techniques for making tips with uniform tip-to-base conical profiles
 
-### The Future of Consciousness
+**Potential Uses of STM/FMs**:
+- Nanoscale manufacturing and machining, potentially replacing the need for lubrication due to force/area scaling and rapid heat dissipation
+- Building up molecular devices through a series of joining and trimming operations
+- Executing complex mechanical motions for driving nanomechanisms (e.g., turning a 2 nm diameter crank at thousands of revolutions per minute)
+- Applications in various disciplines as this versatile technology becomes more widely known.
 
-**The Future of Consciousness: Nanotechnology and Mind/Tech Merger**
+#### Feynman Challenges: Miniature STMs for Molecular Engineering and Quantum Computing
 
-**Nanotechnology:**
-- May enable the dream of merging Mind and Technology
-- Debates about nature of consciousness could move to large scale experiments
+**Feynman's Proposal for Nanoscale Machines**
+- Feynman proposed prizes and competitions to advance molecular and atomic scale technologies (1961)
+  - Offered $1000 for:
+    a) Reducing book information to 1/25,000 the original size
+    b) Building an electric motor no larger than 1/64 inch cube
+- McLellan won the prize for building a microscopic electric motor (November 1960)
+- Newman later reduced a page of A Tale of Two Cities to 5.9 x 5.9 micrometers using electron beam lithography in 1985
 
-**Realization of Vision:**
-- Replicative nanodevices interacting with cytoskeletal networks in living cells
-  * Counter disease processes
-  * Exchange information encoded in collective dynamic patterns
+**STMs and Nano Computing Applications**
+- STMs (Scanning Tunneling Microscopes) can be used for mechanical chemistry and electrical interfaces in molecular computing devices
+- Arrays of nanoscale electrodes or STM tips may be useful for parallel processing and mass storage
+  - Optimal utilization of piezo-ceramic materials for scanning nanoscale arrays
+- STMs could be used for precise positioning systems, such as minimal scale wirebonding systems
+- Inspection and interfacing with superlattice quantum well devices or "quantum dot" devices
+- Suggested applications: quasic energy levels or spin effects in computing components
+  - Efficiently interfacing these devices to the outside world presents challenges in clocking, input/output, and other areas.
 
-**Possible Scenario:**
-1. Small window in specific brain region (hippocampal temporal lobe) for accessing and manipulating consciousness content
-2. Techniques to perceive and transmit mind content: laser interferometry, electroacoustical probes, replicative nanoprobes
+**STM Derived Applications and Optical Electronics Technology**
+- STM tip-induced sputtering may be used for etching or milling ultrafine conductors
+- Schneiker suggests optical electronics technology might be useful in controlling, powering, and communicating with nanoscale devices
+  - Intense localized high frequency electric fields from laser radiation can control and power arrays of STM/FMs
+  - Same idea could be used to control, power, and communicate with swarms of mobile nanorobots.
 
-**Technological Devices:**
-1. Customized array of nanoscale automata using superconducting materials or genetically engineered arrays of tubulin subunits assembled into parallel tensegrity arrays of microtubules and other cytoskeletal structures
-2. Isolation and reconstitution of genes responsible for brain cytoskeletal proteins to reunite heredity and experience in an artificial consciousness environment
-3. Precise monitoring and control of cytoskeletal consciousness environments, a new branch of anesthesiology
-4. Potential limitations: polymerization size dependent on biochemical maintenance, hormonal and pharmacological conditions, gravitational collapse
-5. Possible remedies: hybridizing the cytoskeletal array by metal deposition, symbiosis with synthetic nanoreplicators, or placement in zero gravity environment
+#### Exploring STM/FMs Applications in Biomedicine: From Imaging to Nanorobots
 
-**Future Applications:**
-- Consciousness vaults constructed in orbiting space stations or satellites for storing consciousness
-  * People with terminal illnesses may choose to deposit their mind there
-- Entertainment, earth communication, and biochemical mood and maintenance supplied by robotics, leading to symbiosis-robotic space voyagers.
+**NanoTechnology and Biomedical Applications of STM/FMs**
 
-**Note:** This text is speculative science fiction and not necessarily an indicator of future reality. However, it provides interesting ideas for the potential future development of consciousness technology.
+**Advantages of Nondestructive Interactions with Biological Materials**:
+- Potential for immense biomedical applications
+- Overcoming technical obstacles:
+  - Problem 1: Biomolecules, cells, and tissues are not conductors. Electron tunneling may be damaging.
+    - IBM Zurich researchers have succeeded in imaging biomaterials in air (protein coated DNA, virus structures) using a tunneling mechanism from tip to surface followed by "low resistance electron transport to the conducting substrate"
+    - Simultaneous optical microscopy may help facilitate non-damaging tunneling currents by permitting appropriate wavelength choices
+  - Problem 2: Atomic Force Microscope (AFM) mode with a lever arrangement on an STM can be used for biological materials
+    - Lever movement is monitored by the STM, enabling mapping and observing mechanical dynamics without direct tunneling through biomaterials
 
+**Proposed Solutions**:
+- Nano scale thermocouple and pipette STM tips may be useful for biological materials
+- Researchers at UCSB have demonstrated STM imaging at ionic liquid-solid interfaces, avoiding significant leakage of current to the aqueous environment by insulating probes close to the tip
+
+**Potential Applications**:
+- Repetitive imaging and structural mapping of living material
+- Nondestructive study of dynamical structural changes (protein receptors) in AFM mode
+- Detection and analysis of propagating phonons or solitons using multiple STM configurations
+- Spectroscopic analysis, including DNA base pair reading and cytoskeletal lattice communication
+- Real time imaging of living structures
+- Nanoscale manipulation and modification of biomaterials and organelles, assisting genetic engineering and medical research
+- Creation or modulation of complex biological molecules (enzymes, antibodies) using STM/FMs
+
+**Grander Biomedical Applications**:
+- Developing "guardian" and "scavenger" organisms in the blood to clean out harmful invaders
+- Creating programmable cell repair machines using genetic information
+- Nanorobots for monitoring physiological functions, nanofabrication, and intracellular house calls
+
+#### Self-Replicating Automata: Potential of Superconductivity in Nanotech and Artificial Life.
+
+**Self-Replicating Automata: A Historical Perspective**
+
+**Background:**
+- Ideas of automatic machines and robots have existed for centuries
+- Mathematical proof of self-replicating automata in a physical sense by John von Neumann (mid 20th century)
+- Possibility of spontaneous assembly, disassembly, multiplication, or reconfiguration using neighbor logic
+
+**Applications:**
+- Outer space exploration
+- Household furniture
+- Nanoscale "Hibb's machines" or nanodoctors
+
+**Challenges:**
+- NASA study group identified assumptions and problems in von Neumann's proof
+- Minimizing material types, part tolerance, wear, assembly complexity (Schneiker)
+- Increasing reliability through error detection, repair, regeneration
+
+**Microreplicators and Nanotechnology:**
+- Simple microreplicators with STM/FMs could mass produce nanotechnology products
+- Superconductive materials and lossless current, magnets, motors may facilitate implementation of useful replicative micro-automata
+- Increase in superconducting transition temperatures in certain materials
+
+**Collective Intelligence:**
+- Christopher Langton's study on cellular automata and self-replicators at Los Alamos National Laboratories
+- Extracting molecular logic of living systems through modeling these systems.
+
+**Impact of Technology:**
+- Capability to create new life forms in silico and in vitro will present significant technical, theoretical, and ethical challenges for humanity.
+
+### 11 The Future of Consciousness
+
+**The Future of Consciousness**
+
+**Nanotechnology**:
+- May enable the "Mind/Tech merger" to materialize
+- Debates about the nature of consciousness will move from philosophy to large scale experiments
+- Realization of visions of consciousness interfacing with or existing within computers and robots
+
+**Symbiotic Association**:
+- Replicative nanodevices and cytoskeletal networks in living cells could counter disease processes
+- Lead to information exchange based on the collective dynamic patterns of cytoskeletal subunit states
+
+**Potential Scenario**:
+- Accessing and manipulating consciousness through a small window in a specific brain region (e.g., hippocampal temporal lobe)
+- Techniques like laser interferometry, electroacoustical probes, or replicative nanoprobes could be developed
+
+**Potential Devices**:
+- Customized array of nanoscale automata using superconducting materials
+- Genetically engineered array of tubulin subunits assembled into parallel tensegrity arrays of microtubules and other cytoskeletal structures
+
+**Heredity and Experience**:
+- Current and near future genetic engineering capabilities can enable isolation and reconstitution of genes responsible for an individual's brain cytoskeletal proteins
+- Reuniting the "two evident sources of mind content" in an artificial consciousness environment
+
+**Polymerization Limitations**:
+- Cytoskeletal arrays are highly unstable and dependent on biochemical, hormonal, and pharmacological maintenance
+- Precise monitoring and control of cytoskeletal consciousness environments may become a new branch of anesthesiology
+- Polymerization is limited in size (and potential intellect) due to gravitational collapse
+
+**Potential Solutions**:
+- Hybridizing the cytoskeletal array by metal deposition, symbiosis with synthetic nanoreplicators, or placement in a zero gravity environment
+
+**Consciousness Vaults**:
+- People with terminal illnesses may choose to deposit their consciousness in "consciousness vaults" in orbiting space stations or satellites
+- Future consciousness vaults could lead to new sociopolitical issues and the creation of "entertainment, earth communication, and biochemical mood and maintenance supplied by robotics"
