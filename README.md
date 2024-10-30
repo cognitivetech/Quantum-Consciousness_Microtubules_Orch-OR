@@ -7,7 +7,6 @@
   > a highly controversial theory postulating that consciousness originates at the quantum level inside neurons (rather than being a product of neural connections). The mechanism is held to be a quantum process called objective reduction that is orchestrated by cellular structures called microtubules. It is proposed that the theory may answer the hard problem of consciousness and provide a mechanism for free will.[1] The hypothesis was first put forward in the early 1990s by Nobel laureate for physics Roger Penrose, and anaesthesiologist Stuart Hameroff. The hypothesis combines approaches from molecular biology, neuroscience, pharmacology, philosophy, quantum information theory, and quantum gravity.
 
 ## Contents
-- [Contents](#contents)
 - [Summaries](#summaries)
   - [🌌 Consciousness and Quantum Theory](#-consciousness-and-quantum-theory)
   - [🧠 Mind and Cognition](#-mind-and-cognition)
@@ -29,7 +28,6 @@
   - [Reference Collections](#reference-collections)
   - [Historical Context](#historical-context)
   - [Related Quantum Consciousness Theories](#related-quantum-consciousness-theories)
-  - [External Resources](#external-resources-1)
 
 ## Summaries
 ### 🌌 Consciousness and Quantum Theory
